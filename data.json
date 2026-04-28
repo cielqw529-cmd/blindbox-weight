@@ -1,6 +1,99 @@
 {
   "series": [
     {
+      "id": "nyota-where-moments-meet",
+      "name": "Nyota|小V小瞬间系列",
+      "nameEn": "Nyota|Where Moments Meet Series Figures",
+      "brand": "泡泡玛特",
+      "releaseDate": "2026-04-28",
+      "note": "隐藏款全套最重168.1g（其他均为150g左右及以下），上下晃不动，中间有明显凸起（封面眼睛部位）",
+      "noteEn": "Secret is the heaviest at 168.1g (others are around 150g or below). Cannot shake up/down. Clear bulge in the middle (eye area on cover).",
+      "figures": [
+        {
+          "name": "春游去",
+          "nameEn": "Spring Outing(Secret)",
+          "weight": 168.1,
+          "feel": "隐藏款！全套最重168.1g，上下晃不动，中间有明显凸起（封面眼睛部位）",
+          "feelEn": "Secret! Heaviest at 168.1g. Cannot shake up/down. Clear bulge in the middle (eye area on cover).",
+          "spuId": "9910800727461077735",
+          "image": "https://treasure.islandsassets.com/spu/9910800727461077735/9910800727461077735.png",
+          "is_hot": true
+        },
+        {
+          "name": "你好Lumi",
+          "nameEn": "Hi Lumi",
+          "weight": 166.41,
+          "feel": "上下摇主体完全摇不动，但卡片撞盒的咔哒声明显。前后摇主体一丢丢空间打盒，有明显挂环的咔哒声。左右摇感觉到有配件挂环擦盒咔哒声打盒，主体擦盒轻轻微打盒。前后捏中上部能明显捏到娃，左右捏不到，上下捏不到",
+          "feelEn": "Shake up/down: main body completely immobile, but clear clicking sound from card hitting box. Shake front/back: tiny space, clear clicking from keyring. Shake left/right: accessory keyring scratches box with clicking, main body lightly touches. Pinch front/back upper-middle: can clearly feel the doll. Cannot feel left/right or up/down.",
+          "spuId": "9910792964307858873",
+          "image": "https://treasure.islandsassets.com/spu/9910792964307858873/9910792964307858873.png"
+        },
+        {
+          "name": "下午三点",
+          "nameEn": "3PM",
+          "weight": 164.84,
+          "feel": "上下摇主体完全摇不动，但干燥剂包擦盒打盒明显。前后摇主体完全摇不动，干燥剂包打盒明显颗粒声咔哒声。左右摇主体完全摇不动，干燥剂包撞盒有莎莎声。左右捏有明显袋子声，前后捏中上部能明显捏到娃。上下捏有轻微袋子声",
+          "feelEn": "Shake up/down: main body completely immobile, but desiccant pack clearly scratches/hits box. Shake front/back: main body immobile, desiccant pack hits with granule and clicking sound. Shake left/right: main body immobile, desiccant makes rustling sound. Pinch left/right: clear bag sound. Pinch front/back upper-middle: can clearly feel doll. Pinch up/down: slight bag sound.",
+          "spuId": "9910793264955669928",
+          "image": "https://treasure.islandsassets.com/spu/9910793264955669928/9910793264955669928.png"
+        },
+        {
+          "name": "晚安喵",
+          "nameEn": "Goodnight Kitty",
+          "weight": 158.61,
+          "feel": "上下摇整体有袋子声，配件挂环撞盒明显咔哒声。前后摇整体轻轻微打盒，空间不是很大。左右摇主体几乎摇不动，但配件挂环撞盒咔哒声明显。左右捏有袋子声，前后捏中上部能捏到娃。上下捏不到",
+          "feelEn": "Shake up/down: overall bag sound, accessory keyring clearly clicks against box. Shake front/back: overall slight hitting, not much space. Shake left/right: main body barely moves, but keyring clicking is clear. Pinch left/right: bag sound. Pinch front/back upper-middle: can feel doll. Cannot feel up/down.",
+          "spuId": "9910793189794014423",
+          "image": "https://treasure.islandsassets.com/spu/9910793189794014423/9910793189794014423.png"
+        },
+        {
+          "name": "摘星星",
+          "nameEn": "Star Catcher",
+          "weight": 157.0,
+          "feel": "上下摇主体摇不动，但配件挂环撞盒明显咔哒声，但有擦盒的声音。前后摇主体摇不动，只有配件挂环撞盒明显。左右摇整体轻微打盒，有轻微咣当声。前后捏中上部能捏到娃，左右捏有袋子声，上下捏不到",
+          "feelEn": "Shake up/down: main body immobile, but keyring clicking and scratching sounds clear. Shake front/back: main body immobile, only keyring hitting. Shake left/right: overall slight hitting with light banging. Pinch front/back upper-middle: can feel doll. Pinch left/right: bag sound. Cannot feel up/down.",
+          "spuId": "9910793136106597718",
+          "image": "https://treasure.islandsassets.com/spu/9910793136106597718/9910793136106597718.png"
+        },
+        {
+          "name": "跳格子",
+          "nameEn": "Hopscotch",
+          "weight": 155.75,
+          "feel": "上下摇主体完全摇不动，只有干燥剂包的颗粒声，和配件撞盒的咔哒声。前后摇配件挂盒撞盒咔哒声，主体摇不动。左右摇主体摇不动，配件撞盒咔哒声明显。左右捏袋子声明显，前后捏中上部能捏到娃。上下捏不到",
+          "feelEn": "Shake up/down: main body completely immobile, only desiccant granule sound and accessory clicking. Shake front/back: accessory clicks against box, main body immobile. Shake left/right: main body immobile, accessory clicking clear. Pinch left/right: clear bag sound. Pinch front/back upper-middle: can feel doll. Cannot feel up/down.",
+          "spuId": "9910792878408482205",
+          "image": "https://treasure.islandsassets.com/spu/9910792878408482205/9910792878408482205.png"
+        },
+        {
+          "name": "画画吧",
+          "nameEn": "Let's Draw",
+          "weight": 153.58,
+          "feel": "上下摇主体几乎摇不动，但配件挂环撞盒咔哒声明显。前后摇主体轻微打盒有咣当声。左右摇主体几乎摇不动，但干燥剂包轻微打盒。左右捏有袋子声，前后捏中上部能捏到娃，上下捏不到",
+          "feelEn": "Shake up/down: main body barely moves, but keyring clicking clear. Shake front/back: main body lightly hits with banging sound. Shake left/right: main body barely moves, desiccant lightly hits. Pinch left/right: bag sound. Pinch front/back upper-middle: can feel doll. Cannot feel up/down.",
+          "spuId": "9910793361592797701",
+          "image": "https://treasure.islandsassets.com/spu/9910793361592797701/9910793361592797701.png"
+        },
+        {
+          "name": "晒太阳",
+          "nameEn": "Sunny Nap",
+          "weight": 153.68,
+          "feel": "上下捏主体一丢丢空间擦盒打盒，配件撞盒明显咔哒声。前后摇主体一丝丝空间，配件和干燥剂包打盒明显。左右摇主体完全摇不动，配件挂环撞盒明显咔哒声。前后捏中上部能捏到娃，左右捏有明显袋子声。上下捏不到",
+          "feelEn": "Shake up/down: main body has tiny space, scratches and hits box, accessory clicking clear. Shake front/back: main body has tiny space, accessory and desiccant hit clearly. Shake left/right: main body completely immobile, keyring clicking clear. Pinch front/back upper-middle: can feel doll. Pinch left/right: clear bag sound. Cannot feel up/down.",
+          "spuId": "9910793426016692274",
+          "image": "https://treasure.islandsassets.com/spu/9910793426016692274/9910793426016692274.png"
+        },
+        {
+          "name": "丰收啦",
+          "nameEn": "Happy Harvest",
+          "weight": 151.73,
+          "feel": "上下摇主体擦盒打盒，空间不是很大，有配件挂环撞盒的咔哒声。前后摇主体一丝丝空间，几乎摇不动，配件挂环和干燥剂包打盒咔哒声。左右摇主体几乎摇不动，干燥剂包擦盒打盒。前后捏中上部明显能捏到娃的脸，左右捏有轻微袋子声，上下捏不到",
+          "feelEn": "Shake up/down: main body scratches/hits box, not much space, keyring clicking. Shake front/back: main body has tiny space, barely moves, keyring and desiccant clicking. Shake left/right: main body barely moves, desiccant scratches/hits. Pinch front/back upper-middle: can clearly feel doll's face. Pinch left/right: slight bag sound. Cannot feel up/down.",
+          "spuId": "9910793060944967756",
+          "image": "https://treasure.islandsassets.com/spu/9910793060944967756/9910793060944967756.png"
+        }
+      ]
+    },
+    {
       "id": "skullpanda-petals-four-acts",
       "name": "SKULLPANDA|花瓣四幕系列",
       "nameEn": "SKULLPANDA|Petals in Four Acts Series Figures",
