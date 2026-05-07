@@ -1,6 +1,93 @@
 {
   "series": [
     {
+      "id": "aespa-fluffy-club",
+      "name": "aespa|联名绒绒萌友系列毛绒公仔挂件",
+      "nameEn": "aespa|Fluffy Club Series Vinyl Plush Doll Pendant",
+      "brand": "泡泡玛特",
+      "releaseDate": "2026-05-07",
+      "note": "隐藏手感技巧：卡有塑料膜，和3.0本我/眼泪工厂隐藏初生手感同理。普款卡没塑料膜会打手，隐藏卡不打手。普通卡打盒声音响亮，隐藏卡碰盒声音沉闷。要耐心摇，卡很容易卡住。吉赛尔Jelly隐藏款142-144g是全套最重！",
+      "noteEn": "Hidden tip: Card has plastic film (like 3.0 Ego/Tear Factory hidden). Regular cards hit hand, hidden cards don't. Regular cards make loud box sound, hidden cards make muffled sound. Shake patiently, cards get stuck easily. Jelly Giselle at 142-144g is the heaviest!",
+      "figures": [
+        {
+          "name": "Jelly GELBULNYANGI (吉赛尔隐藏款)",
+          "nameEn": "Jelly GELBULNYANGI (Giselle Secret)",
+          "weight": 143,
+          "feel": "隐藏款重量TOP1！断层式偏重，上手瞬间就能和其他款区分开。摇盒时纹丝不动，捏盒能感觉到大面积的饱满感，绒面厚实，甚至能轻微摸到内部造型的轮廓，没有任何空响。只要台面上有明显偏重、摇不动的，直接冲，基本不会翻车！",
+          "feelEn": "Heaviest hidden! Distinctly heavy, instantly distinguishable. Box doesn't move when shaken, pinching reveals full plush feeling, can even feel internal shape outline. No hollow sounds. Pick the obviously heavy ones that don't shake - can't go wrong!",
+          "spuId": "991081582427143709",
+          "image": "https://treasure.islandsassets.com/treasure/images/fTayyhLS4gh.png",
+          "is_hot": true
+        },
+        {
+          "name": "Jelly KARANGI (柳智敏隐藏款)",
+          "nameEn": "Jelly KARANGI (Karina Secret)",
+          "weight": 141.5,
+          "feel": "柚宝隐藏款重量稳居第二！上手沉甸甸的，拿在手里能明显感觉到比宁宁款更压手，典型的【重量选手】。摇盒时完全晃不动，六面都很满，捏盒没有多余空间，干燥剂声音极弱，几乎听不见。台面上挑最重的几盒，排除吉赛尔款，剩下的大概率是柳智敏隐藏",
+          "feelEn": "Second heaviest hidden! Noticeably heavy, heavier than Ningning. Can't shake at all, all six sides full, no extra space when pinching. Very weak desiccant sound. Pick heaviest boxes after excluding Giselle.",
+          "spuId": "991081591017080680",
+          "image": "https://treasure.islandsassets.com/treasure/images/fTayykXqqss.png",
+          "is_hot": true
+        },
+        {
+          "name": "Jelly RWE (宁艺卓隐藏款)",
+          "nameEn": "Jelly RWE (Ningning Secret)",
+          "weight": 139.5,
+          "feel": "本命宁宁粉必看！重量中等偏上，上手有明显沉感但不压手。摇盒时六面基本晃不动，只有轻微的干燥剂摩擦声，没有配件撞击的脆响。捏盒能感觉到侧面有轻微鼓胀感，不是那种空落落的手感，台面上挑中等偏重、手感饱满的，大概率是它",
+          "feelEn": "Ningning fans must see! Medium-heavy weight, noticeable but not overwhelming. Six sides barely move, only slight desiccant friction sound, no accessory clicking. Pinching reveals slight bulge on sides. Pick medium-heavy with full feel.",
+          "spuId": "991081567394759934",
+          "image": "https://treasure.islandsassets.com/treasure/images/fTayy1vyuFL.png",
+          "is_hot": true
+        },
+        {
+          "name": "Jelly MUNGTAENGI (金冬天隐藏款)",
+          "nameEn": "Jelly MUNGTAENGI (Winter Secret)",
+          "weight": 134.5,
+          "feel": "冬冬这款是四位里最轻的隐藏款，重量和部分常规款接近，重点看手感差异！上手偏轻但很扎实，摇盒时上下有1cm左右的小空间，前后左右几乎锁死，没有明显打盒点。捏盒能摸到轻微的对顶（大概在图鉴面中部），绒面触感更细腻，和常规款的松散感完全不同，别和轻款常规款搞混",
+          "feelEn": "Lightest hidden of the four, close to some regular weights - focus on feel! Light but solid, 1cm space top/bottom when shaking, locked front/back/left/right. Pinching reveals slight resistance at card middle. Plush feels finer than regular. Don't confuse with light regulars!",
+          "spuId": "991081573837207926",
+          "image": "https://treasure.islandsassets.com/treasure/images/fTayykXqqsE.png",
+          "is_hot": true
+        },
+        {
+          "name": "Fluffy KARANGI",
+          "nameEn": "Fluffy KARANGI",
+          "weight": 140,
+          "feel": "上下卡片打盒，左右中打盒，前后基本无空间",
+          "feelEn": "Card hits box top/bottom, hits middle left/right, almost no space front/back",
+          "spuId": "991082066684696767",
+          "image": "https://treasure.islandsassets.com/treasure/images/fTayJbZ3xum.png"
+        },
+        {
+          "name": "Fluffy RWE",
+          "nameEn": "Fluffy RWE",
+          "weight": 138.9,
+          "feel": "上下轻微干燥剂声，左右中上轻微打盒，前后中上轻微打盒",
+          "feelEn": "Slight desiccant sound top/bottom, slight hitting upper-middle left/right and front/back",
+          "spuId": "991082046283587849",
+          "image": "https://treasure.islandsassets.com/treasure/images/fTayJn0o0KQ.png"
+        },
+        {
+          "name": "Fluffy MUNGTAENGI",
+          "nameEn": "Fluffy MUNGTAENGI",
+          "weight": 138,
+          "feel": "上下打盒声音hin响，左右中打盒，前后中上轻微打盒",
+          "feelEn": "Loud hitting sound top/bottom, hits middle left/right, slight hitting upper-middle front/back",
+          "spuId": "991082053799790749",
+          "image": "https://treasure.islandsassets.com/treasure/images/fTayJV22TOJ.png"
+        },
+        {
+          "name": "Fluffy GELBULNYANGI",
+          "nameEn": "Fluffy GELBULNYANGI",
+          "weight": 137.9,
+          "feel": "上下卡片轻微打盒，左右中上打盒声音hin响，前后中上轻微打盒",
+          "feelEn": "Card slightly hits box top/bottom, loud hitting upper-middle left/right, slight hitting upper-middle front/back",
+          "spuId": "991082058094760045",
+          "image": "https://treasure.islandsassets.com/treasure/images/fTayJgy3Iv7.png"
+        }
+      ]
+    },
+    {
       "id": "polar-monster-village",
       "name": "POLAR|怪物村系列",
       "nameEn": "POLAR|Monster Village Series Figures",
