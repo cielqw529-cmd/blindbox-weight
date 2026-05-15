@@ -1869,7 +1869,7 @@
 
                     cardHtml += '<div class="figure-info"><div class="figure-name">' + highlightText(displayName, query);
                     if (f.is_obvious) cardHtml += '<span class="tag tag-obvious">' + i18n[currentLang].obviousTag + '</span>';
-                    if (f.is_hidden) cardHtml += '<span class="tag tag-hidden">' + i18n[currentLang].hiddenTag + '</span>';
+                    if (f.is_hot) cardHtml += '<span class="tag tag-hidden">' + i18n[currentLang].hiddenTag + '</span>';
                     if (hasLink) cardHtml += '<span class="tag tag-link" onclick="window.open(\'' + linkUrl + '\', \'_blank\'); event.stopPropagation();">' + i18n[currentLang].buyTag + '</span>';
                     // 中文版显示英文名作为副标题
                     if (currentLang === 'zh' && f.nameEn) cardHtml += '<span class="figure-name-en">' + f.nameEn + '</span>';
