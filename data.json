@@ -1,6 +1,148 @@
 {
   "series": [
     {
+      "id": "crybaby-cry-me-an-ocean",
+      "name": "Crybaby|泪流成海系列",
+      "nameEn": "Crybaby|Cry Me an Ocean Series Figures",
+      "brand": "泡泡玛特",
+      "releaseDate": "2026-05-10",
+      "note": "隐藏款有磁吸配件放侧边！重的约176g是小隐藏贴贴鲨鱼，轻的约136g是大隐藏软软海獭（系列最轻）。呼呼鲸182.1g是普款最重，可互换外壳可玩性高",
+      "noteEn": "Secrets have magnetic accessories on the side! Heavy ~176g is small secret Whale Shark, light ~136g is super secret Sea Otter (lightest in series). Narwhal 182.1g is heaviest regular, shells are interchangeable!",
+      "figures": [
+        {
+          "name": "呼呼鲸",
+          "nameEn": "The Narwhal",
+          "weight": 182.1,
+          "feel": "重磅沉盒，前后左右微微撑盒不顶手，上下空隙大、砸盒感清晰，可以互换外壳，可玩性很高！",
+          "feelEn": "Heavy box, slight bulge all around but not poking. Large gap top/bottom with clear hitting feel. Shells are interchangeable, very playable!",
+          "spuId": "996278799945485582",
+          "image": "https://treasure.islandsassets.com/treasure/images/fTHbcdbkvgy.png",
+          "is_hot": true
+        },
+        {
+          "name": "贴贴鲨鱼(小隐藏)",
+          "nameEn": "The Whale Shark(Secret)",
+          "weight": 176,
+          "feel": "明盒！上下微微晃动，前后中上部有微顶！磁吸配件放侧边，系列只有隐藏有磁吸配件",
+          "feelEn": "Visible box! Slight shake top/bottom, slight bulge at upper-middle front/back. Magnetic accessory on side - only secrets have magnetic accessories!",
+          "spuId": "996281312501321072",
+          "image": "https://treasure.islandsassets.com/treasure/images/fTHbsbJBzZI.png",
+          "is_hot": true,
+          "is_obvious": true
+        },
+        {
+          "name": "吞吞海象",
+          "nameEn": "The Walrus",
+          "weight": 174.9,
+          "feel": "满盒紧实，三面都很饱满、上下也晃不动，多处微微撑盒不突兀（干燥剂约10g）",
+          "feelEn": "Full and tight box, all three sides full, no shake top/bottom. Multiple slight bulges but not obvious. (Desiccant ~10g)",
+          "spuId": "996278819272818033",
+          "image": "https://treasure.islandsassets.com/treasure/images/fTHbYS2GUO8.png"
+        },
+        {
+          "name": "拖拖鲸",
+          "nameEn": "The Whale",
+          "weight": 172.7,
+          "feel": "前后左右全方位爆顶，上下砸盒感很强",
+          "feelEn": "Bulging all around front/back/left/right, strong hitting feel top/bottom",
+          "spuId": "996278810682881896",
+          "image": "https://treasure.islandsassets.com/treasure/images/fTHbm8wPwPS.png"
+        },
+        {
+          "name": "闪闪鱼",
+          "nameEn": "The Anglerfish",
+          "weight": 171.3,
+          "feel": "三面砸盒手感，左右两侧有明显撑盒感",
+          "feelEn": "Three-sided hitting feel, obvious bulge on left/right sides",
+          "spuId": "996278850411338810",
+          "image": "https://treasure.islandsassets.com/treasure/images/fTHbGR350Jn.png"
+        },
+        {
+          "name": "趴趴鱼",
+          "nameEn": "The Blob Fish",
+          "weight": 170.6,
+          "feel": "超满盒，前后中部偏右爆顶突出，上下娃体砸盒明显，鱼壳体量偏大",
+          "feelEn": "Super full box, right-center front/back bulging prominently. Clear hitting top/bottom, fish shell is larger",
+          "spuId": "996278859001274551",
+          "image": "https://treasure.islandsassets.com/treasure/images/fTHbGcTKXFo.png"
+        },
+        {
+          "name": "飘飘龟",
+          "nameEn": "The Sea Turtle",
+          "weight": 169.3,
+          "feel": "盒身偏满，仅有轻微晃动，干燥剂砸盒明显，微微撑盒无尖锐顶盒点",
+          "feelEn": "Box fairly full, only slight shake. Desiccant hitting obvious, slight bulge with no sharp points",
+          "spuId": "996278825715293184",
+          "image": "https://treasure.islandsassets.com/treasure/images/fTHbLPWiS8I.png"
+        },
+        {
+          "name": "游游章鱼",
+          "nameEn": "The Octopus",
+          "weight": 168.9,
+          "feel": "三面砸盒手感明显，整体无凸起顶点",
+          "feelEn": "Three-sided hitting feel obvious, no protruding points overall",
+          "spuId": "996278778470644708",
+          "image": "https://treasure.islandsassets.com/treasure/images/fTHb7at9uRU.png"
+        },
+        {
+          "name": "哭哭水母",
+          "nameEn": "The Jellyfish",
+          "weight": 168.4,
+          "feel": "内里略空旷，三面都有轻微小砸盒",
+          "feelEn": "Interior slightly spacious, slight hitting on all three sides",
+          "spuId": "996278785986817462",
+          "image": "https://treasure.islandsassets.com/treasure/images/fTHbPCRLW7H.png"
+        },
+        {
+          "name": "咬咬鲨",
+          "nameEn": "The Shark",
+          "weight": 165.2,
+          "feel": "左右中部对顶、前后下部对顶，上下位置砸盒感明显",
+          "feelEn": "Bulge at middle left/right and lower front/back, obvious hitting feel top/bottom",
+          "spuId": "996278842895164915",
+          "image": "https://treasure.islandsassets.com/treasure/images/fTHbzhSQby9.png"
+        },
+        {
+          "name": "摇摇鱼",
+          "nameEn": "The Manta Ray",
+          "weight": 161.8,
+          "feel": "盒体不算特别满但完全晃不动，左右图鉴左下角有顶点，前后中部微微撑盒，顶点不算突出",
+          "feelEn": "Box not super full but completely immobile. Point at lower-left of card left/right, slight bulge at middle front/back, point not prominent",
+          "spuId": "996278796724247584",
+          "image": "https://treasure.islandsassets.com/treasure/images/fTHbctkx6Zu.png"
+        },
+        {
+          "name": "刺刺河豚",
+          "nameEn": "The Pufferfish",
+          "weight": 158.4,
+          "feel": "整体偏空不满盒，三面都有明显砸盒感",
+          "feelEn": "Overall empty and not full, obvious hitting feel on all three sides",
+          "spuId": "996278834305229100",
+          "image": "https://treasure.islandsassets.com/treasure/images/fTHbzgkUfyc.png"
+        },
+        {
+          "name": "藏藏海兔",
+          "nameEn": "The Sea Bunny",
+          "weight": 151.7,
+          "feel": "整体偏满，盒身前后正中间对顶，左右中偏左有明显尖顶感，上下仅有半公分小空隙",
+          "feelEn": "Overall full, bulge at exact center front/back, obvious sharp point at left-center left/right, only 0.5cm gap top/bottom",
+          "spuId": "996278768806946359",
+          "image": "https://treasure.islandsassets.com/treasure/images/fTHb7RuKqwx.png"
+        },
+        {
+          "name": "软软海獭(大隐藏)",
+          "nameEn": "The Sea Otter(Super Secret)",
+          "weight": 136,
+          "feel": "大明盒！系列最轻，上下有空间，四面整体较满，有磁吸配件放侧边！",
+          "feelEn": "Visible box! Lightest in series, space top/bottom, all four sides fairly full. Magnetic accessory on side!",
+          "spuId": "996281281362836723",
+          "image": "https://treasure.islandsassets.com/treasure/images/fTHbHh0js8L.png",
+          "is_hot": true,
+          "is_obvious": true
+        }
+      ]
+    },
+    {
       "id": "aespa-fluffy-club",
       "name": "aespa|联名绒绒萌友系列毛绒公仔挂件",
       "nameEn": "aespa|Fluffy Club Series Vinyl Plush Doll Pendant",
