@@ -688,7 +688,7 @@
           "weight": 162.6,
           "feel": "全系列最重的一只，上下轻微晃动底部碰盒，上下轻按有阻碍感，前后微微摇动，左右偏满，轻按有明显回弹感，内置塑料壳保护，整体大明盒",
           "spuId": "985886900013263143",
-          "is_hidden": true,
+          "is_hot": true,
           "image": "https://treasure.islandsassets.com/treasure/images/fyqPv6B4jIM.png",
           "feelEn": "The heaviest in the series. Slight up-down shaking with bottom box-hitting, resistance when pressed up-down, slight front-back movement, left-right fairly full with obvious rebound when pressed. Built-in plastic shell protection, overall a big obvious box."
         },
@@ -842,7 +842,7 @@
           "weight": 103.5,
           "feel": "左右空间不大右边有微微碰盒感，前后的话在星星人冰淇淋字母那里碰盒",
           "spuId": "985882554580106421",
-          "is_hidden": true,
+          "is_hot": true,
           "image": "https://treasure.islandsassets.com/treasure/images/fyq2bPAuGaH.png",
           "feelEn": "Not much space left and right, with slight box-touching on the right side. Front and back hits at the ice cream letters of Twinkle Twinkle."
         },
@@ -1139,7 +1139,7 @@
           "weight": 167,
           "feel": "特别重，特别满，完完全全的明盒，左右两边直接对顶到凸出来，109%明盒，无声",
           "is_obvious": true,
-          "is_hidden": true,
+          "is_hot": true,
           "feelEn": "Very heavy, very full, completely exposed box, the left and right sides are directly facing each other until they protrude, 109% exposed box, silent",
           "spuId": "980630264843649994",
           "image": "https://treasure.qiandaocdn.com/treasure/images/fyLJGy4RDgv.png"
@@ -1149,7 +1149,7 @@
           "weight": 171,
           "feel": "娃也卡住不动，但是配重币在里面胡乱撞声音很大，侧面也有对顶，直接顶出来满满的",
           "is_obvious": true,
-          "is_hidden": true,
+          "is_hot": true,
           "spuId": "980625376097129109",
           "image": "https://treasure.qiandaocdn.com/treasure/images/fyLFoXPqi13.png",
           "feelEn": "The baby is also stuck, but the sound of the counterweight coins banging randomly inside is very loud. There are also counter-tops on the sides, and it comes out full of weights."
@@ -1974,7 +1974,7 @@
           "spuId": "949524266997542314",
           "nameEn": "PUCKY Fortune Feast(Small Secret)",
           "image": "https://treasure.islandsassets.com/treasure/images/frrRRiETYjC.jpg",
-          "is_hidden": true
+          "is_hot": true
         },
         {
           "name": "小野 马上福到",
@@ -2308,7 +2308,7 @@
           "image": "https://treasure.qiandaocdn.com/treasure/images/fvEGW13UOtz.png",
           "nameEn": "Hidden in the Cream",
           "feelEn": "It is very honest and therefore very heavy, but there is space on all six sides and there is obvious sound when the box is slightly pressed.",
-          "is_hidden": true
+          "is_hot": true
         },
         {
           "name": "翻到那一页",
@@ -3022,7 +3022,7 @@
           "name": "隐藏款-招财猫",
           "weight": 226,
           "feel": "隐藏款，明盒，最重的一只",
-          "is_hidden": true,
+          "is_hot": true,
           "is_obvious": true,
           "feelEn": "Hidden model, exposed box, the heaviest one",
           "spuId": "770297568805520573",
@@ -4987,7 +4987,7 @@
           "name": "小隐藏-孤独",
           "weight": 100,
           "feel": "整只娃完全被圆通型的泡沫覆盖包裹住六面完全不动丝毫没有晃动感并且四周会觉得特别的空很空很空",
-          "is_hidden": true,
+          "is_hot": true,
           "is_obvious": true,
           "feelEn": "The whole baby is completely covered and wrapped by round-shaped foam. It does not move at all six sides and has no sense of shaking at all. The surrounding area will feel very empty and empty.",
           "spuId": "849696051152565324",
@@ -5973,7 +5973,7 @@
           "spuId": "819641944484401266",
           "nameEn": "Sparkling Love(Secret)",
           "image": "https://treasure.qiandaocdn.com/treasure/images/ffIpIDHVZoB.png",
-          "is_hidden": true
+          "is_hot": true
         },
         {
           "name": "恶魔之吻",
@@ -6514,7 +6514,7 @@
           "name": "隐藏款-凝凝",
           "weight": 81.5,
           "feel": "唯一一个有配件的款式，六面都满但是有明显的配件撞击的声音尤其是上下摇晃，有概率是明盒",
-          "is_hidden": true,
+          "is_hot": true,
           "feelEn": "The only model with accessories. All six sides are covered, but there is an obvious sound of the accessories hitting it, especially the up and down shaking. There is a possibility that it is an open box.",
           "spuId": "804051430095743971",
           "nameEn": "Ning Ning（Secret）",
@@ -6586,7 +6586,7 @@
           "image": "https://treasure.islandsassets.com/treasure/images/njZzCNUkp6.png",
           "nameEn": "Hidden Love",
           "feelEn": "There is a large space up and down. There is one point where boxes are smashed and hit in the upper part. There are small but crunchy sounds all around and they are concentrated in the upper range.",
-          "is_hidden": true
+          "is_hot": true
         },
         {
           "name": "少年诗",
@@ -7049,7 +7049,7 @@
           "name": "隐藏款-自由守护者-虎鲸兽",
           "weight": 194.5,
           "feel": "除塑料环打盒声外，左右略有一丝丝空间",
-          "is_hidden": true,
+          "is_hot": true,
           "feelEn": "Except for the sound of the plastic ring hitting the box, there is a little bit of space on the left and right",
           "spuId": "789600418849159081",
           "nameEn": "Killer Whale Monster(Hidden)",
@@ -7204,7 +7204,7 @@
           "feel": "上下特别打盒空间大，四周几乎都无空间且摇不动，仅前后略有一点松动感",
           "feelEn": "The box space is particularly large at the top and bottom. There is almost no space around and it cannot be shaken. There is only a slight sense of looseness in the front and rear.",
           "image": "https://treasure.islandsassets.com/treasure/images/VUPdODT15A.png",
-          "is_hidden": true
+          "is_hot": true
         },
         {
           "name": "国王",
@@ -7377,7 +7377,7 @@
           "name": "隐藏款-入侵小熊面包",
           "weight": 107,
           "feel": "干燥剂很大一包竖放，娃娃手感漆特别好盘，上下空间巨大且干燥剂声音特别明显很响，左右轻微打盒前后只有下部分打盒上部分空间很满，隐藏款很明盒",
-          "is_hidden": true,
+          "is_hot": true,
           "is_obvious": true,
           "feelEn": "The desiccant is a large package and is placed vertically. The paint feels very good on dolls. The upper and lower spaces are huge and the sound of the desiccant is very obvious and loud. Only the lower part of the box is packed slightly before and after the box is packed. The upper part of the box is full. The hidden box is very clear.",
           "spuId": "783282874144027680",
@@ -8106,7 +8106,7 @@
           "name": "小隐藏-舞蹈接力",
           "weight": 113.5,
           "feel": "明盒，六面都满但是上下左右前后全都是有松动的感觉但没有空间打盒，能感受到内部有小体积的东西在晃动，因为隐藏款是分开放置的小物所以这种感觉只有隐藏款才有",
-          "is_hidden": true,
+          "is_hot": true,
           "is_obvious": true,
           "feelEn": "The open box is full on all six sides, but it feels loose on the top, bottom, left, and back, but there is no space to open the box. You can feel that there are small things shaking inside. Because the hidden model is a small object placed separately, this feeling is only available with the hidden model.",
           "spuId": "767689881559259671",
@@ -8645,7 +8645,7 @@
           "feel": "隐藏款，重量107g-115g都有偏重，四周基本上没有声音没有空隙因为熊头特别的大所以会把四周撑住，打盒的点是耳朵处",
           "feelEn": "Hidden model, the weight is 107g-115g. It is heavy. There is basically no sound and no gaps around it. Because the bear’s head is very big, it will support the surroundings. The point of packing is at the ears.",
           "image": "https://treasure.islandsassets.com/treasure/images/ItT2EnsEJN.png",
-          "is_hidden": true
+          "is_hot": true
         },
         {
           "name": "晴天娃娃",
@@ -9517,7 +9517,7 @@
           "feel": "很重的一只沉沉的，六面只有干燥剂的声音，很明显的重量集中在下部分",
           "feelEn": "A very heavy one. There is only the sound of desiccant on the six sides. It is obvious that the weight is concentrated on the lower part.",
           "image": "https://treasure.islandsassets.com/treasure/images/tesJ2aILux.png",
-          "is_hidden": true
+          "is_hot": true
         },
         {
           "name": "沉默的动作",
@@ -10017,7 +10017,7 @@
           "name": "无人区域",
           "weight": "126.4g",
           "feel": "四面侧面塞满一点空间没有 上下略一点点空间 很沉的砸盒感",
-          "is_hidden": true,
+          "is_hot": true,
           "spuId": "713185401174700040",
           "image": "https://treasure.qiandaocdn.com/treasure/images/fiBSGIxMvbf.png",
           "nameEn": "Cactus",
@@ -10101,7 +10101,7 @@
           "name": "粉色梦境烛台",
           "weight": "120.5g",
           "feel": "特别重 特别砸盒 六面都有空间 前后上下特别砸",
-          "is_hidden": true,
+          "is_hot": true,
           "spuId": "710546508843574968",
           "image": "https://treasure.qiandaocdn.com/treasure/images/Rhw41x4sJt.png",
           "nameEn": "Pink Dream Candle",
@@ -10230,7 +10230,7 @@
           "name": "哄睡兔宝",
           "weight": "101.5g",
           "feel": "上下特别砸盒 四周也特别打盒 声音大且脆 重量集中在下部分",
-          "is_hidden": true,
+          "is_hot": true,
           "spuId": "705346278405473553",
           "image": "https://treasure.qiandaocdn.com/treasure/images/RvhNQ0x1QJ.png",
           "nameEn": "Sleeping Bunny",
@@ -10444,7 +10444,7 @@
           "name": "挚恋火山",
           "weight": "128g",
           "feel": "上下空间大 四周无空间 下部直接顶出来",
-          "is_hidden": true,
+          "is_hot": true,
           "spuId": "699791150525038979",
           "image": "https://treasure.qiandaocdn.com/treasure/images/qYU8TXoUM5.png",
           "nameEn": "Lava of Love",
@@ -10472,7 +10472,7 @@
           "name": "惊喜款-丛林的戏谑",
           "weight": "111g",
           "feel": "上下无空间 前后左右在中间打盒",
-          "is_hidden": true,
+          "is_hot": true,
           "feelEn": "There is no space above and below. Boxes are placed in the middle on the front, rear, left, and right.",
           "spuId": "699792662353632999",
           "nameEn": "Foxy Jungle(Special)",
@@ -10892,7 +10892,7 @@
           "image": "https://treasure.islandsassets.com/treasure/images/KgKoQDidyWDUaOyYzj20UifePJVinnnY.png",
           "nameEn": "Secret Wednesday",
           "feelEn": "It is full on all sides and empty on the top and bottom. There are two diagonal places on all sides that are full but there is no vertex.",
-          "is_hidden": true
+          "is_hot": true
         },
         {
           "name": "追赶星期一",
@@ -11017,7 +11017,7 @@
           "name": "瞬间隐形",
           "weight": "96g",
           "feel": "四周摇不动 左右顶盒 特别满 特别重 直接对顶",
-          "is_hidden": true,
+          "is_hot": true,
           "spuId": "681968470765742797",
           "image": "https://treasure.qiandaocdn.com/treasure/images/uPgnufyjMaij3siuuXRhJan0xhPyinj3.png",
           "nameEn": "Invisibility",
@@ -11898,7 +11898,7 @@
           "name": "雪顶饼干屋",
           "weight": "136g",
           "feel": "四面毫无空间 特别特别满 侧面中上部轻摸感觉到明显对顶",
-          "is_hidden": true,
+          "is_hot": true,
           "spuId": "658584040286323123",
           "image": "https://treasure.qiandaocdn.com/treasure/images/tynQCntAfArnImntuF9U2bl1d4utlNah.png",
           "nameEn": "Frosty Gingerbread House",
@@ -12545,7 +12545,7 @@
           "feel": "上下无空间 左右松动感但不砸盒 上部有一个比较平的小面是底座",
           "feelEn": "There is no space above and below. It feels loose on the left and right but does not break the box. There is a relatively flat small surface on the upper part which is the base.",
           "image": "https://treasure.islandsassets.com/treasure/images/uN6uauQepuatakhLhuJndWLEkkC3B3Mh.png",
-          "is_hidden": true
+          "is_hot": true
         },
         {
           "name": "MOLLY和独角兽（原色版）",
@@ -12761,7 +12761,7 @@
           "feel": "依旧同上 但是图鉴labubu头这非常顶 直接一个按不动 编号307886414",
           "feelEn": "Still the same as above, but the labubu head of the illustration is very tall and cannot be pressed directly. No. 307886414",
           "image": "https://treasure.islandsassets.com/treasure/images/9832a05440187ad283ac2aea21362dcb.png",
-          "is_hidden": true
+          "is_hot": true
         },
         {
           "name": "VITA",
@@ -12880,7 +12880,7 @@
           "feel": "上下有很明显干燥剂的声音 六面全部摇不动 不打盒 很特别的手感 编号302616518",
           "feelEn": "There is a clear sound of desiccant going up and down. It cannot be shaken on all six sides. It does not open the box. It has a very special feel. No. 302616518",
           "image": "https://treasure.islandsassets.com/treasure/images/743c51df45d7083e4bc32397467730c5.png",
-          "is_hidden": true
+          "is_hot": true
         },
         {
           "name": "牛仔",
@@ -15109,7 +15109,7 @@
           "feel": "满 摇不动任何空间 但是感觉很空 捏不到任何东西 很特殊的手感 编号后四位89427",
           "feelEn": "Full, can't shake any space, but feels very empty, can't hold anything, very special feel, last four digits of the serial number: 89427",
           "image": "https://treasure.islandsassets.com/treasure/images/bcc5541bcb94e0738969a27155b9cdd2.png",
-          "is_hidden": true
+          "is_hot": true
         },
         {
           "name": "樱有尽有",
@@ -15256,7 +15256,7 @@
           "name": "应援Ya",
           "weight": "99.3g",
           "feel": "对角线斜放 上下较空 四满 四面空间小 上下有空间 无配件 无配重币 一包干燥剂 全程没有声音 上下砸盒 对角线处的四个面捏得到 不太明显",
-          "is_hidden": true,
+          "is_hot": true,
           "feelEn": "Place it diagonally and there is space at the top and bottom. Four full spaces. Small space on the four sides. There is space at the top and bottom. No accessories. No counterweight coins. One pack of desiccant. There is no sound during the whole process. Smashing the box up and down can pinch the four diagonal sides. It is not obvious.",
           "spuId": "525822065681430583",
           "image": "https://treasure.qiandaocdn.com/treasure/images/dfa43ddf8c3b7c60beb928a299bb10ec.png",
@@ -15481,7 +15481,7 @@
           "feel": "隐藏款，最重的一只，上方有三角形打盒处，两只球球卡对角线左右晃头会撞击在小三角处，顶部比较满但不顶，编号243751454",
           "feelEn": "The hidden model, the heaviest one, has a triangular box at the top. The two ball cards will hit the small triangle when you shake your head diagonally. The top is full but not top. No. 243751454",
           "image": "https://treasure.islandsassets.com/treasure/images/e41d62c5cf21057383bb946670b2cb49.png",
-          "is_hidden": true
+          "is_hot": true
         },
         {
           "name": "遇见它",
@@ -16208,7 +16208,7 @@
           "feel": "隐藏上下顶 四面空但是摇不动 很容易区分的手感 编号28422451",
           "feelEn": "Hidden upper and lower tops, empty on all sides but cannot be shaken, easy to distinguish hand feel No. 28422451",
           "image": "https://treasure.islandsassets.com/treasure/images/ffb1b414204368942defcdb8c20005f4.png",
-          "is_hidden": true
+          "is_hot": true
         },
         {
           "name": "薄荷糖",
@@ -16869,7 +16869,7 @@
           "feel": "左右摇的动有空间 上下空 但是侧面产地处一个点打盒 图鉴上方三分之二处中心感受的到撞击点 无配件没有其他声音",
           "feelEn": "There is space when shaking left and right, and space up and down. However, there is a click box on the side of the production area, and the impact point can be felt in the center of the upper two-thirds of the illustration. There are no accessories and no other sounds.",
           "image": "https://treasure.islandsassets.com/treasure/images/f9cdf36818eb30de8da9fda28da7e32c.png",
-          "is_hidden": true
+          "is_hot": true
         },
         {
           "name": "海角瞭望",
@@ -16927,7 +16927,7 @@
           "feel": "上下不满 四周特别特别顶 有塑料壳包裹住 可以说是有手就有",
           "feelEn": "The upper and lower parts are not satisfied. The surrounding area is very special. It is wrapped in a plastic shell. It can be said that it is available with hands.",
           "image": "https://treasure.islandsassets.com/treasure/images/783f99c19ac8191025d418df394aaef7.png",
-          "is_hidden": true
+          "is_hot": true
         },
         {
           "name": "哥梅兹",
@@ -17124,7 +17124,7 @@
           "name": "隐藏款-巨人石像",
           "weight": "90.1g",
           "feel": "最轻 捏不到东西 满 但是不顶 摇不动 整盒103g",
-          "is_hidden": true,
+          "is_hot": true,
           "feelEn": "The lightest, unable to hold anything, full, but not able to lift, unable to shake, whole box 103g",
           "spuId": "417009593223379470",
           "nameEn": "Moai（Secret）",
@@ -17241,7 +17241,7 @@
           "feel": "上下左右摇不动 下半部分被撑的很满 是头发撑住了 有一个点很顶",
           "feelEn": "It can't be swayed up, down, left or right. The lower part is very full. It's supported by the hair. There is one point that's very high.",
           "image": "https://treasure.islandsassets.com/treasure/images/fU135khBj2L.jpg",
-          "is_hidden": true
+          "is_hot": true
         },
         {
           "name": "执法者",
@@ -17345,7 +17345,7 @@
           "feel": "最轻最空",
           "feelEn": "The lightest and emptiest",
           "image": "https://treasure.islandsassets.com/treasure/images/561a84fe0f30e8b0a744ff5ff42b1863.png",
-          "is_hidden": true
+          "is_hot": true
         },
         {
           "name": "小伙伴",
@@ -17400,7 +17400,7 @@
           "feel": "上下空 左右满",
           "feelEn": "Empty up and down, full left and right",
           "image": "https://treasure.islandsassets.com/treasure/images/3f2582e9a3a295e52cfc9a611d2e5cbd.png",
-          "is_hidden": true
+          "is_hot": true
         }
       ],
       "noteEn": "Hidden model number 0100/8905/8906 (personal test is accurate) super hidden model number 3445 (not tested)",
@@ -17470,7 +17470,7 @@
           "feel": "重量和孙悟空类似 四周有空间 上下打盒 封面处上方满 下方干燥剂声音+打盒声音",
           "feelEn": "The weight is similar to that of Sun Wukong. There is space around it. The box is packed up and down. The upper part of the cover is full. The sound of desiccant + boxing sound is from the bottom.",
           "image": "https://treasure.islandsassets.com/treasure/images/105b9c8052649c80fc86748a53ce62a9.jpg",
-          "is_hidden": true
+          "is_hot": true
         },
         {
           "name": "红孩儿",
@@ -17894,7 +17894,7 @@
           "name": "隐藏款-追番达人",
           "weight": "103.5g",
           "feel": "便重 满 因为有大沙发 小伙伴 零食桶 迷你dimoo 所以配件很多 装在袋子感觉很满 左右上下没空间 左右轻捏感觉两个面对顶",
-          "is_hidden": true,
+          "is_hot": true,
           "feelEn": "The bag is heavy and full because it has a big sofa, a friend, a snack bucket, and a mini dimoo, so there are many accessories. It feels very full when put in the bag. There is no space left and right. If you pinch it left and right, it feels like the two are facing each other.",
           "spuId": "385844086457849859",
           "nameEn": "Binge-watcher(Secret)",
@@ -18028,7 +18028,7 @@
           "feel": "很满 摇不动 很满 但在对面下部可以摸到对顶（茶杯很宽大）很容易的手感",
           "feelEn": "Very full. Can't shake. Very full. But you can touch the top on the lower part of the opposite side (the tea cup is very wide). It's easy to touch.",
           "image": "https://treasure.islandsassets.com/treasure/images/49323d6107cccfcd96fe0fb00dadaa41.png",
-          "is_hidden": true
+          "is_hot": true
         },
         {
           "name": "彩虹羊驼",
@@ -18239,7 +18239,7 @@
           "feel": "上下很打盒 前后顶 最重",
           "feelEn": "The top and bottom are very boxy, and the front and rear tops are the heaviest.",
           "image": "https://treasure.islandsassets.com/treasure/images/c7e7ca40d3ffdd19bead4942c103c67e.png",
-          "is_hidden": true
+          "is_hot": true
         }
       ],
       "ip": "DIMOO",
@@ -18343,7 +18343,7 @@
           "feel": "脑壳部分特别小空间 配件也有声音",
           "feelEn": "The skull part is very small and the accessories also have sound.",
           "image": "https://treasure.islandsassets.com/treasure/images/7e07a79b142fae609f3b48fc2a69d57b.png",
-          "is_hidden": true
+          "is_hot": true
         },
         {
           "name": "义气少年",
@@ -18362,7 +18362,7 @@
           "feel": "四面摇不动 上下略满 只有配重币的声音 偏重 就是它无疑了",
           "feelEn": "It doesn't move on all sides. It's a little full on top and bottom. There's only the sound of the weighted coins. It's on the heavy side. It's undoubtedly it.",
           "image": "https://treasure.islandsassets.com/treasure/images/4a1a64010de03d67c065af2bccb3cf66.png",
-          "is_hidden": true
+          "is_hot": true
         }
       ],
       "ip": "FARMER BOB",
@@ -18493,7 +18493,7 @@
           "feel": "轻轻轻 但是它的底座是横着的 所以你可以在各个边角找找是否有一条硬线在顶 实测在台面上手感明显 尤其是硬线在侧面和低面 可以感受到有个硬线的错落感",
           "feelEn": "Gently, but its base is horizontal, so you can look at each corner to see if there is a hard line on the top. The actual measurement feels obvious on the table, especially the hard line on the side and low surface. You can feel the staggered feeling of a hard line.",
           "image": "https://treasure.islandsassets.com/treasure/images/867abd9cd37b240e24152f61c7fa78fc.png",
-          "is_hidden": true
+          "is_hot": true
         }
       ],
       "noteEn": "Unweighted Coins Hidden and Christmas Tree Open Boxes",
@@ -18569,7 +18569,7 @@
           "feel": "左右摇晃耳朵两边打盒 对称的感觉 不顶 但有满的 圆润的感觉",
           "feelEn": "Swing the ears from left to right and box them on both sides to create a symmetrical feeling, not top but full and rounded.",
           "image": "https://treasure.islandsassets.com/treasure/images/34772761420690f3aca5ccb94a81bb68.png",
-          "is_hidden": true
+          "is_hot": true
         },
         {
           "name": "柠檬气泡水",
@@ -18642,7 +18642,7 @@
           "name": "大隐藏-超级7号特别款",
           "weight": "126g",
           "feel": "120g区间的真的不多 重量很均匀 不会侧重哪一面重 很中间的样子 如果是120-130g 很有可能是隐藏款",
-          "is_hidden": true,
+          "is_hot": true,
           "feelEn": "There are really not many in the 120g range. The weight is very even. It doesn’t focus on which side. It looks very middle. If it is 120-130g, it is probably a hidden model.",
           "spuId": "370253153309954666",
           "nameEn": "SUPER 7 SPECIAL EDITION",
@@ -18804,7 +18804,7 @@
           "feel": "上下午空间满 四面空打盒",
           "feelEn": "Full space in the morning and afternoon, empty boxes on all sides",
           "image": "https://treasure.islandsassets.com/treasure/images/40242ccc4dc57a5a99bd8e0003ef2a9b.png",
-          "is_hidden": true
+          "is_hot": true
         },
         {
           "name": "失忆",
@@ -18930,7 +18930,7 @@
           "name": "弑星者",
           "weight": "94g",
           "feel": "又重又满 无顶 几乎都无空间",
-          "is_hidden": true,
+          "is_hot": true,
           "feelEn": "Heavy, full, no roof, almost no space",
           "spuId": "365059975208476030",
           "nameEn": "LABUBU STARKILLER",
@@ -19062,7 +19062,7 @@
           "name": "隐藏款-摇滚之王",
           "weight": "111.3g",
           "feel": "最重最重最重最重 选最重的 准没错 左右上下空 有砸盒感 有一个小点特别顶",
-          "is_hidden": true,
+          "is_hot": true,
           "feelEn": "The heaviest, the heaviest, the heaviest, the heaviest. Choose the heaviest one. That’s right. It’s empty on the left, right, top and bottom. It feels like a box has been smashed. There is a small dot that stands out in particular.",
           "spuId": "362835152084227754",
           "image": "https://treasure.qiandaocdn.com/treasure/images/346b14623d8bfddd82f14f107534f82d.png"
@@ -19132,7 +19132,7 @@
           "name": "隐藏款",
           "weight": "84.8g",
           "feel": "全套最重 六面很满 配重币是大薄片 没有任何声音 娃娃是倒置在对角线 所以裙摆满 斗篷的角是凸起的 就会有顶盒的点出现 找到两个顶的点",
-          "is_hidden": true,
+          "is_hot": true,
           "is_obvious": true,
           "feelEn": "The whole set is the heaviest, six sides are full, the weight coin is a large thin piece, there is no sound, the doll is upside down on the diagonal, so the skirt is full, the corners of the cloak are raised, and there will be points of the top box. Find the two top points.",
           "spuId": "358380695472799863",
@@ -19231,7 +19231,7 @@
           "image": "https://treasure.qiandaocdn.com/treasure/images/cef363f1786c30a403b0ce8a7f7cf146.png",
           "nameEn": "Secret Time",
           "feelEn": "It can't move on all six sides, but it's very light.",
-          "is_hidden": true
+          "is_hot": true
         },
         {
           "name": "给你的信",
@@ -19241,7 +19241,7 @@
           "image": "https://treasure.qiandaocdn.com/treasure/images/9723c1ab765d2e4a1bd9eacc224fa3d4.png",
           "nameEn": "Secret Letter",
           "feelEn": "Only the weighted coins are bumping around and shaking up and down.",
-          "is_hidden": true
+          "is_hot": true
         },
         {
           "name": "超负荷拥抱",
@@ -19296,7 +19296,7 @@
           "image": "https://treasure.qiandaocdn.com/treasure/images/dbb78a8d2ddda9330c73fc5257c1cc9f.png",
           "nameEn": "Secret Keeper",
           "feelEn": "Pinch the lower third to the top. There is plenty of space at the top and bottom, but the box will not be smashed.",
-          "is_hidden": true
+          "is_hot": true
         },
         {
           "name": "好奇花匠",
