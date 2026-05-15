@@ -159,7 +159,8 @@
           "feelEn": "Heaviest hidden! Distinctly heavy, instantly distinguishable. Box doesn't move when shaken, pinching reveals full plush feeling, can even feel internal shape outline. No hollow sounds. Pick the obviously heavy ones that don't shake - can't go wrong!",
           "spuId": "991081582427143709",
           "image": "https://treasure.islandsassets.com/treasure/images/fTayyhLS4gh.png",
-          "is_hot": true
+          "is_hot": true,
+          "is_obvious": true
         },
         {
           "name": "Jelly KARANGI (柳智敏隐藏款)",
@@ -375,7 +376,8 @@
           "feelEn": "Secret! Heaviest at 168.1g. Cannot shake up/down. Clear bulge in the middle (eye area on cover).",
           "spuId": "991080072746107735",
           "image": "https://treasure.islandsassets.com/treasure/images/fTa8O5yeiXc.png",
-          "is_hot": true
+          "is_hot": true,
+          "is_obvious": true
         },
         {
           "name": "你好Lumi",
