@@ -1,6 +1,81 @@
 {
   "series": [
     {
+      "id": "crybaby-cry-me-an-ocean-plush",
+      "name": "Crybaby|泪流成海系列搪胶毛绒挂件",
+      "nameEn": "Crybaby|Cry Me An Ocean Series - VinylPlush Pendant Blind Box",
+      "brand": "泡泡玛特",
+      "releaseDate": "2026-05-16",
+      "note": "毛绒挂件版本，隐藏款-软软海獭暂无手感数据",
+      "noteEn": "Plush pendant version. Secret Sea Otter has no feel data yet.",
+      "figures": [
+        {
+          "name": "刺刺河豚",
+          "nameEn": "The Pufferfish",
+          "weight": 99.6,
+          "feel": "上下：1指空间，底部打盒。左右：空间不算大，图鉴面摇摇鱼和对立面隐藏图鉴来回碰盒。前后：空间和左右差不多，反面中文部分中间打盒",
+          "feelEn": "Top/bottom: 1 finger space, bottom hits. Left/right: not much space, card side Manta Ray and opposite hidden card hit back and forth. Front/back: similar to left/right, middle of Chinese text on back hits.",
+          "spuId": "996282304638749645",
+          "image": "https://treasure.islandsassets.com/treasure/images/fTHETXrTvOC.png"
+        },
+        {
+          "name": "摇摇鱼",
+          "nameEn": "The Manta Ray",
+          "weight": 94.1,
+          "feel": "上下：2指以上空间，上下打盒。左右：摇不动，卡片来回打盒。前后：摇不动，倒摇背面条形码上方打盒（应该是干燥剂）。PS：此盒为对角线摆放",
+          "feelEn": "Top/bottom: 2+ finger space, hits top/bottom. Left/right: immobile, card hits back and forth. Front/back: immobile, upside down shake hits above barcode on back (probably desiccant). PS: This box is placed diagonally.",
+          "spuId": "996282316449935396",
+          "image": "https://treasure.islandsassets.com/treasure/images/fTHEyZbTejR.png"
+        },
+        {
+          "name": "飘飘龟",
+          "nameEn": "The Sea Turtle",
+          "weight": 92.9,
+          "feel": "上下：几乎摇不动，卡片乱窜。左右：轻微晃动，图鉴面飘飘龟脸部打盒。前后：空间比左右大，封面字母O下方打盒",
+          "feelEn": "Top/bottom: almost immobile, card rattles around. Left/right: slight shake, card side Sea Turtle face hits. Front/back: more space than left/right, below letter O on cover hits.",
+          "spuId": "996282308933717774",
+          "image": "https://treasure.islandsassets.com/treasure/images/fTHEj9IhiVg.png"
+        },
+        {
+          "name": "咬咬鲨",
+          "nameEn": "The Shark",
+          "weight": 91.9,
+          "feel": "上下：2指以上空间，底部打盒。左右：几乎摇不动，卡片来回打盒。前后：轻微晃动，封面哭娃右眼上方点状打盒",
+          "feelEn": "Top/bottom: 2+ finger space, bottom hits. Left/right: almost immobile, card hits back and forth. Front/back: slight shake, dot-like hit above Crybaby's right eye on cover.",
+          "spuId": "996282296048814335",
+          "image": "https://treasure.islandsassets.com/treasure/images/fTHET9Oy2P1.png"
+        },
+        {
+          "name": "藏藏海兔",
+          "nameEn": "The Sea Bunny",
+          "weight": 91.7,
+          "feel": "上下：1指空间，底部打盒。左右：几乎摇不动，卡片乱窜。前后：轻微晃动，封面河豚眼泪处点状打盒",
+          "feelEn": "Top/bottom: 1 finger space, bottom hits. Left/right: almost immobile, card rattles around. Front/back: slight shake, dot-like hit at pufferfish tear on cover.",
+          "spuId": "996282288532675817",
+          "image": "https://treasure.islandsassets.com/treasure/images/fTHEy4Rj88C.png"
+        },
+        {
+          "name": "闪闪鱼",
+          "nameEn": "The Anglerfish",
+          "weight": 90.1,
+          "feel": "上下：0.5指空间。左右：空间比较大，图鉴面海兔和龟之间打盒。前后：轻微晃动，封面河豚头顶和反面同位置轻微打盒",
+          "feelEn": "Top/bottom: 0.5 finger space. Left/right: relatively large space, hits between Sea Bunny and Turtle on card side. Front/back: slight shake, slight hit at pufferfish top on cover and same spot on back.",
+          "spuId": "996282281016458857",
+          "image": "https://treasure.islandsassets.com/treasure/images/fTHEjJHq5Hb.png"
+        },
+        {
+          "name": "隐藏款-软软海獭",
+          "nameEn": "The Sea Otter (Secret)",
+          "weight": 0,
+          "feel": "隐藏款，暂无手感数据",
+          "feelEn": "Secret, no feel data yet.",
+          "spuId": "996283433141422325",
+          "image": "https://treasure.islandsassets.com/treasure/images/fTHEFtyQWP5.png",
+          "is_hot": true
+        }
+      ]
+    },
+    {
       "id": "popmart-15th-anniversary",
       "name": "庆祝这一刻POPMART十五周年系列",
       "nameEn": "Celebrating the Moment POP MART 15th Anniversary Series",
