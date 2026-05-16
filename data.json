@@ -7,7 +7,7 @@
       "brand": "泡泡玛特",
       "releaseDate": "2026-05-14",
       "note": "毛绒挂件版本。大隐藏软软海獭145g是全系列最重！两包干燥剂+厚卡，上手轻软",
-      "noteEn": "Plush pendant version. Super Secret Sea Otter at 145g is heaviest! Two desiccant packs + thick card, feels light and soft.",
+      "noteEn": "Plush pendant version. Super Secret Sea Otter at 145g is heaviest! Two silica gel packs + thick card, feels super light and soft. One of only two with magnetic parts!",
       "figures": [
         {
           "name": "刺刺河豚",
@@ -68,7 +68,7 @@
           "nameEn": "The Sea Otter (Secret)",
           "weight": 145,
           "feel": "大隐藏！两包干燥剂+厚卡。上手就轻感觉软软的，捏起来像星星人二代的隐藏礼物盒的感觉",
-          "feelEn": "Super Secret! Two desiccant packs + thick card. Feels light and soft in hand, pinching feels like the gift box secret from Dimoo World 2.",
+          "feelEn": "Super Secret! Two silica gel packs + thick card inside. Feels super light in hand, with that soft squeeze feeling - kinda like the hidden gift box from Skullpanda The Warmth Series. Also one of the only two with magnetic parts!",
           "spuId": "996283433141422325",
           "image": "https://treasure.islandsassets.com/treasure/images/fTHEFtyQWP5.png",
           "is_hot": true
@@ -688,6 +688,7 @@
       "name": "SKULLPANDA|花瓣四幕系列",
       "nameEn": "SKULLPANDA|Petals in Four Acts Series Figures",
       "brand": "泡泡玛特",
+      "releaseDate": "2026-04-23",
       "figures": [
         {
           "name": "时间里的花匠",
@@ -813,9 +814,10 @@
     },
     {
       "id": "pucky-dreamy-wishes",
-      "name": "PUCKY|梦幻祈愿系列",
-      "nameEn": "PUCKY|Dreamy Wishes Series Figures",
+      "name": "PUCKY|梦境心愿系列",
+      "nameEn": "PUCKY|Dream Wish Series Figures",
       "brand": "PUCKY",
+      "releaseDate": "2026-04-16",
       "note": "全系列全部单款均可亮灯",
       "noteEn": "All figures in the series can light up",
       "figures": [
@@ -1035,10 +1037,11 @@
     },
     {
       "id": "xinxingren-moon-gelato",
-      "name": "星星人|Moon Gelato系列",
-      "nameEn": "Twinkle Twinkle|Moon Gelato Series Figures",
+      "name": "星星人|欢迎来到月球表面系列",
+      "nameEn": "Twinkle Twinkle|Welcome to the Moon Surface Series Figures",
       "brand": "寻找独角兽",
       "ip": "星星人",
+      "releaseDate": "2026-04-16",
       "figures": [
         {
           "name": "肉桂威士忌Gelato",
@@ -1093,6 +1096,7 @@
       "id": "dimoo-secret-theater",
       "name": "DIMOO|秘密话剧社系列",
       "brand": "泡泡玛特",
+      "releaseDate": "2026-04-09",
       "source_url": "https://www.xiaohongshu.com/explore/69d7161f000000001a0273c9",
       "note": "重量差异蛮大，头部毛发不同手感也有差异",
       "figures": [
@@ -1161,6 +1165,7 @@
       "id": "hirono-greenhouse",
       "name": "Hirono小野|温室芒草系列",
       "brand": "泡泡玛特",
+      "releaseDate": "2026-04-02",
       "source_url": "https://www.xiaohongshu.com/explore/69c5f134000000001a0245af",
       "note": "明盒很多",
       "figures": [
@@ -1282,6 +1287,7 @@
       "id": "farmer-bob-farm",
       "name": "FARMER BOB|在农场中系列",
       "brand": "寻找独角兽",
+      "releaseDate": "2026-03-30",
       "source_url": "https://www.xiaohongshu.com/explore/69c503e8000000001a02bb8f",
       "note": "有很多明盒",
       "figures": [
@@ -1395,6 +1401,7 @@
       "id": "molly-20th",
       "name": "MOLLY|沿途的风景二十周年系列",
       "brand": "泡泡玛特",
+      "releaseDate": "2026-04-02",
       "source_url": "https://www.xiaohongshu.com/explore/69bbedc60000000021039454",
       "figures": [
         {
@@ -1487,6 +1494,7 @@
       "id": "dimoo-spring-moment",
       "name": "DIMOO|瞬间的奇遇系列",
       "brand": "泡泡玛特",
+      "releaseDate": "2026-03-19",
       "source_url": "https://www.xiaohongshu.com/explore/69b2d2920000000015033ac2",
       "note": "明盒多",
       "figures": [
@@ -1612,6 +1620,7 @@
       "name": "LABUBU THE MONSTERS|三丽鸥家族搪胶毛绒挂件系列",
       "nameEn": "LABUBU THE MONSTERS|Sanrio Hello Kitty and Friends Series Figures",
       "brand": "泡泡玛特",
+      "releaseDate": "2026-03-12",
       "note": "普款凯蒂猫和隐藏款凯蒂猫均为整系列里最轻最灵动的！干燥剂10g大包的为隐藏款！干燥剂3g或5g的是普款凯蒂猫！薄卡为普款凯蒂猫！厚卡为隐藏款凯蒂猫！",
       "noteEn": "Regular Hello Kitty and Secret Hello Kitty are the lightest in the series! 10g desiccant = Secret! 3g or 5g desiccant = Regular Hello Kitty! Thin card = Regular! Thick card = Secret!",
       "figures": [
@@ -1687,6 +1696,7 @@
       "id": "sweetbean-light",
       "name": "小甜豆|追光记忆系列",
       "brand": "泡泡玛特",
+      "releaseDate": "2026-03-12",
       "source_url": "https://www.xiaohongshu.com/explore/69aa9b90000000001d02653c",
       "note": "有一些明盒，但也有一些都是满满的不好分辨",
       "figures": [
@@ -1808,8 +1818,10 @@
     },
     {
       "id": "merodi-afterschool",
-      "name": "Merodi|放学后系列",
+      "name": "Merodi|第一章-放学后的Merodi系列",
+      "nameEn": "Merodi|Chapter 1 - Merodi After School Series Figures",
       "brand": "泡泡玛特",
+      "releaseDate": "2026-02-26",
       "source_url": "https://www.xiaohongshu.com/explore/699808ee000000001d02527f",
       "figures": [
         {
@@ -1931,6 +1943,7 @@
       "id": "zsiga-sunlight",
       "name": "Zsiga|在日光下系列",
       "brand": "泡泡玛特",
+      "releaseDate": "2026-02-12",
       "source_url": "https://www.xiaohongshu.com/explore/6984bb38000000002102a874",
       "figures": [
         {
@@ -2054,6 +2067,7 @@
       "id": "skullpanda-mlp",
       "name": "SKULLPANDA|小马宝莉系列",
       "brand": "泡泡玛特",
+      "releaseDate": "2026-02-05",
       "source_url": "https://www.xiaohongshu.com/explore/698406c90000000022030ef3",
       "note": "难度很高，重量手感上只有细微的差别，没有明盒",
       "figures": [
@@ -2121,6 +2135,7 @@
       "id": "gold-horse",
       "name": "POP MART|点金奔腾系列",
       "brand": "泡泡玛特",
+      "releaseDate": "2026-01-08",
       "source_url": "https://www.xiaohongshu.com/explore/69576f2a000000002202161b",
       "note": "有一些很好分辨，但是中间重量的很多，所以还是有些难度",
       "figures": [
@@ -2244,6 +2259,7 @@
       "id": "horse-plush",
       "name": "POP MART|马力全开毛绒挂件系列",
       "brand": "泡泡玛特",
+      "releaseDate": "2026-01-08",
       "source_url": "https://www.xiaohongshu.com/explore/69607158000000002103ff7f",
       "note": "手感几乎分辨不出来，还是靠重量吧",
       "figures": [
@@ -2319,6 +2335,7 @@
       "id": "crybaby-moon",
       "name": "Crybaby|出走的月亮系列",
       "brand": "泡泡玛特",
+      "releaseDate": "2025-12-11",
       "source_url": "https://www.xiaohongshu.com/explore/69378957000000000d03ae5a",
       "figures": [
         {
@@ -2438,6 +2455,7 @@
       "id": "1001moons-elephant",
       "name": "1001 MOONS|寻找大象滑梯系列",
       "brand": "泡泡玛特",
+      "releaseDate": "2025-11-27",
       "source_url": "https://www.xiaohongshu.com/explore/692030b8000000000d00e04e",
       "figures": [
         {
@@ -2558,6 +2576,7 @@
       "id": "zsiga-winter-gift",
       "name": "Zsiga|收礼物的冬天系列",
       "brand": "泡泡玛特",
+      "releaseDate": "2025-11-13",
       "source_url": "https://www.xiaohongshu.com/explore/6912a62200000000030376db",
       "figures": [
         {
@@ -2677,6 +2696,7 @@
       "id": "sanrio-bubble",
       "name": "三丽鸥|三丽鸥家族甜梦泡泡屋系列",
       "brand": "泡泡玛特",
+      "releaseDate": "2025-11-13",
       "source_url": "https://www.xiaohongshu.com/explore/691298d800000000030199b5",
       "note": "这套没有手感只有重量，他们都是一样的手感",
       "figures": [
@@ -2761,6 +2781,7 @@
       "id": "skullpanda-table",
       "name": "SKULLPANDA|餐桌系列",
       "brand": "泡泡玛特",
+      "releaseDate": "2025-10-30",
       "source_url": "https://www.xiaohongshu.com/explore/68fb46d9000000000301e347",
       "figures": [
         {
@@ -2883,8 +2904,10 @@
     },
     {
       "id": "pucky-sanrio-family",
-      "name": "PUCKY|三丽鸥家族联名系列",
+      "name": "PUCKY|三丽鸥家族系列",
+      "nameEn": "PUCKY|Sanrio Family Series Figures",
       "brand": "PUCKY",
+      "releaseDate": "2022-11-18",
       "source_url": "https://www.xiaohongshu.com/explore/634ecd830000000007023e74",
       "note": "编号请看原型图案里的后四位",
       "figures": [
