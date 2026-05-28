@@ -1,6 +1,108 @@
 {
   "series": [
     {
+      "id": "enchanted-realm-tales",
+      "name": "秘境物语系列",
+      "nameEn": "Enchanted Realm Tales Series MINI Action Figure",
+      "brand": "泡泡玛特",
+      "releaseDate": "2026-05-28",
+      "note": "萝卜守卫147.3g是普款最重。隐藏款时间树屋140.2g上手又沉又满，四面鼓鼓基本摇不动",
+      "noteEn": "Carrot Guardian at 147.3g is heaviest regular. Secret Time Treehouse at 140.2g feels very heavy and packed solid, barely moves when shaken.",
+      "figures": [
+        {
+          "name": "萝卜守卫",
+          "nameEn": "Carrot Guardian",
+          "weight": 147.3,
+          "feel": "上下摇整体轻微打盒，但有明显咣当声。前后摇轻微打盒，底部打盒明显咣当感，还有袋子声。左右摇整体轻微打盒，中下部打盒明显。6面捏有很轻微的袋子声",
+          "feelEn": "Vertical shake has light box tapping with a pretty noticeable clunk. Front/back shake gives light tapping, especially stronger near the bottom, along with bag sounds. Left/right shake has light overall tapping, with more obvious movement around the lower-middle area. Very faint bag sounds when squeezing all six sides.",
+          "spuId": "1001471575393861166",
+          "image": "https://treasure.islandsassets.com/treasure/images/fTbKRoQ93lI.png"
+        },
+        {
+          "name": "幻想发明家",
+          "nameEn": "Whimsical Inventor",
+          "weight": 144.31,
+          "feel": "上下摇主体轻微打盒，有咣当声，有配件袋子声。前后摇主体几乎摇不动，但是干燥剂包打盒的咔哒声明显。左右摇主体摇不动，干燥剂包打盒的咔哒声很明显。6面捏都有轻微袋子声",
+          "feelEn": "Vertical shake gives light box tapping with a noticeable clunk plus accessory bag sounds. Front/back shake: figure barely moves, but the silica packet clicking against the box is very obvious. Left/right shake: almost no movement, with strong silica packet clicking. Slight bag sounds can be felt when squeezing all six sides.",
+          "spuId": "1001471637670891848",
+          "image": "https://treasure.islandsassets.com/treasure/images/fTbKtmPGrZH.png"
+        },
+        {
+          "name": "隐藏款-时间树屋",
+          "nameEn": "Time Treehouse (Secret)",
+          "weight": 140.2,
+          "feel": "上手又沉又满，上下没什么空间，四面鼓鼓囊囊的，基本摇不动，中部轻按有阻碍感。重点就是找又沉又满感觉鼓鼓的",
+          "feelEn": "Feels very heavy and packed solid in hand. Almost no empty space top-to-bottom, with a stuffed/full feeling on all sides. Barely moves when shaken. Pressing lightly around the middle has noticeable resistance. Main clue: look for the one that feels heavy, dense, and puffed full.",
+          "spuId": "1001471886778984651",
+          "image": "https://treasure.islandsassets.com/treasure/images/fTbKVa8wxLm.png",
+          "is_hot": true
+        },
+        {
+          "name": "秘境向导",
+          "nameEn": "Wonderland Guide",
+          "weight": 136.83,
+          "feel": "上下摇主体摇不动，但干燥剂包打盒咔哒声明显。前后摇主体几乎摇不动，干燥剂包撞盒颗粒声明显。左右摇主体几乎摇不动，但干燥剂包打盒明显颗粒声。前后左右捏袋子声很明显，上下捏轻微袋子声",
+          "feelEn": "Vertical shake: figure itself barely moves, but the silica packet clicking is very obvious. Front/back shake: almost no movement, with distinct silica grain collision sounds. Left/right shake is similar — barely moves, but strong silica packet rattling. Bag sounds are very obvious when squeezing front/back/left/right, with only slight sounds from top/bottom.",
+          "spuId": "1001471592573735026",
+          "image": "https://treasure.islandsassets.com/treasure/images/fTbKtvYGqAU.png"
+        },
+        {
+          "name": "情绪小怪兽",
+          "nameEn": "Mood Monster",
+          "weight": 136.47,
+          "feel": "上下摇主体四周擦盒打盒，有明显的袋子声。前后摇主体轻轻微打盒，一丝丝空间。左右摇主体轻微打盒，有袋子刮盒的声音。前后左右捏袋子声明显，上下捏不到",
+          "feelEn": "Vertical shake causes the figure to rub and tap against the box with obvious bag sounds. Front/back shake has very light tapping and just a tiny amount of movement space. Left/right shake also gives light tapping with plastic bag scraping sounds. Bag noise is obvious when squeezing all four sides; nothing noticeable from top/bottom.",
+          "spuId": "1001471609753607829",
+          "image": "https://treasure.islandsassets.com/treasure/images/fTbKR1R9yXj.png"
+        },
+        {
+          "name": "云朵捕梦手",
+          "nameEn": "Cloud Dream Catcher",
+          "weight": 127.44,
+          "feel": "上下摇整体打盒明显，有咣当感。前后摇整体打盒更明显，咣当声明显。左右摇整体打盒空间不是很大，有明显袋子声。前后上下捏不到，左右捏有轻微袋子声",
+          "feelEn": "Vertical shake has obvious overall box movement with a noticeable clunk. Front/back shake is even louder and more obvious. Left/right shake has moderate movement space with clear bag sounds. No noticeable squeeze feedback from front/back/top/bottom, but slight bag sounds from the sides.",
+          "spuId": "1001471624785986944",
+          "image": "https://treasure.islandsassets.com/treasure/images/fTbKDyNc62H.png"
+        },
+        {
+          "name": "魔法占卜师",
+          "nameEn": "Magical Seer",
+          "weight": 127.01,
+          "feel": "上下摇主体轻微打盒，但配件打盒的咔哒声明显，还有哗啦声。前后摇主体打盒明显咣当声。左右摇主体打盒明显咣当声，还有配件的咔哒声。6面捏不到",
+          "feelEn": "Vertical shake has light figure tapping, but accessory clicking sounds are very obvious, along with a loose rattling sound. Front/back shake produces noticeable clunking from the figure. Left/right shake has obvious clunking plus accessory clicks. No squeeze feedback on any side.",
+          "spuId": "1001471619417288293",
+          "image": "https://treasure.islandsassets.com/treasure/images/fTbKISCiFhR.png"
+        },
+        {
+          "name": "花花信使",
+          "nameEn": "Floral Messenger",
+          "weight": 124.23,
+          "feel": "上下摇整体打盒空间不大，有很轻微的干燥剂颗粒声和轻微的咣当感。前后摇主体几乎摇不动，一丝丝空间，但有干燥剂包的颗粒声。左右摇主体几乎摇不动，但卡片撞盒的咔哒声明显。前后左右捏都有袋子声，上下捏不到",
+          "feelEn": "Vertical shake has only a small amount of box space with a very faint silica packet grain sound and slight knocking. Front/back shake: figure barely moves, tiny bit of space, plus soft silica packet rattling. Left/right shake: almost no figure movement, but the card hitting the box makes a clear clicking sound. Bag crinkle can be felt from front/back/left/right squeezing, but not from top/bottom.",
+          "spuId": "1001471583983798151",
+          "image": "https://treasure.islandsassets.com/treasure/images/fTbKMWJUJY8.png"
+        },
+        {
+          "name": "星星守夜人",
+          "nameEn": "Starry Night Keeper",
+          "weight": 122.91,
+          "feel": "上下摇整体轻轻微打盒，一丝丝空间。前后摇主体很轻轻微的一丝丝晃动，有明显袋子声。左右摇主体打盒一丢丢空间，但有卡片撞盒的咔哒声。6面捏都有很轻微的袋子声",
+          "feelEn": "Vertical shake gives very light overall tapping with just a tiny bit of movement space. Front/back shake has an extremely slight wobble with obvious bag sounds. Left/right shake has a tiny amount of tapping space plus clear card clicking sounds. Very faint bag sounds can be felt when squeezing all six sides.",
+          "spuId": "1001471633375922962",
+          "image": "https://treasure.islandsassets.com/treasure/images/fTbKgkLlKaw.png"
+        },
+        {
+          "name": "精灵王子",
+          "nameEn": "Elf Prince",
+          "weight": 117.32,
+          "feel": "上下摇主体打盒咣当感空间不大，但是配件打盒的咔哒声很明显。前后摇主体打盒咣当感，有袋子刮盒的声音。左右摇整体打盒哗啦声，中上部打盒明显。前后捏有轻微袋子声，上下左右捏不到",
+          "feelEn": "Vertical shake has some clunking but not much free space overall; accessory clicking is very obvious. Front/back shake produces figure clunks with bag scraping sounds. Left/right shake has a loose rattling sound, especially around the upper-middle area. Slight bag sounds when squeezing front/back; nothing noticeable from top/bottom/left/right.",
+          "spuId": "1001471601163671562",
+          "image": "https://treasure.islandsassets.com/treasure/images/fTbKqz7BBSd.png"
+        }
+      ]
+    },
+    {
       "id": "dear-birds-plush-pendant",
       "name": "DEAR BIRDS系列毛绒挂件",
       "nameEn": "Dear Birds Series Plush Pendant Blind Box",
