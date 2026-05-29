@@ -1,6 +1,108 @@
 {
   "series": [
     {
+      "id": "winds-intention",
+      "name": "风的来意系列",
+      "nameEn": "Wind's Intention Series Figures",
+      "brand": "泡泡玛特",
+      "releaseDate": "2026-05-28",
+      "note": "小小摇曳127.74g是普款最重。隐藏款风中的铃兰113.5g满重几乎无晃动，配件多无明显对顶",
+      "noteEn": "Little Flicker at 127.74g is heaviest regular. Secret Lily of the Valley at 113.5g feels heavy and dense, almost no movement, multiple accessories, no obvious pressure points.",
+      "figures": [
+        {
+          "name": "小小摇曳",
+          "nameEn": "Little Flicker",
+          "weight": 127.74,
+          "feel": "上下摇主体打盒空间不大，但有配件的晃动声。前后摇整体打盒空间不大，有咣当声。左右摇整体打盒空间不大，有咔哒声。前后捏中下部能隐约捏到主体，但不顶盒。左右捏有轻微袋子声，上下捏不到",
+          "feelEn": "Vertical shake: limited movement space, but accessory movement can be heard clearly. Front/back shake: small movement space with noticeable clunking. Left/right shake: limited movement space with clear clicking sounds. When squeezing front/back, the lower-middle part of the figure can faintly be felt, though it does not press against the box. Slight bag sounds from the sides; none from top/bottom.",
+          "spuId": "1001468753600322015",
+          "image": "https://treasure.islandsassets.com/treasure/images/fTbKry9WfPo.png"
+        },
+        {
+          "name": "坠落山茶",
+          "nameEn": "Falling Camellia",
+          "weight": 122.91,
+          "feel": "上下摇主体轻微打盒有咣当感，有卡片的咔哒声。前后摇主体几乎摇不动，但卡片撞盒的咔哒声明显。左右摇主体打盒咣当感，有莎莎声。6面捏有很轻微的袋子声",
+          "feelEn": "Vertical shake: light figure tapping with a clunking feel and clear card-clicking sounds. Front/back shake: figure barely moves, but the card clicking against the box is very obvious. Left/right shake: figure tapping with a clunking feel and soft rustling sounds. Very faint bag sounds can be detected when squeezing all six sides.",
+          "spuId": "1001468737494220801",
+          "image": "https://treasure.islandsassets.com/treasure/images/fTbKr9vdpLp.png"
+        },
+        {
+          "name": "隐藏款-风中的铃兰",
+          "nameEn": "Sway in the Wind (Secret)",
+          "weight": 113.5,
+          "feel": "满重，几乎无晃动，配件多，无明显对顶。重点就是找又沉又满感觉密实的",
+          "feelEn": "Feels noticeably heavy and well-packed in hand. Almost no movement when shaken from any direction. Contains multiple accessories, contributing to the dense overall feel. No obvious pressure points. Key clue: Look for a box that feels heavy, dense, and nearly motionless.",
+          "spuId": "1001468911440401138",
+          "image": "https://treasure.islandsassets.com/treasure/images/fTbKTed0R7u.png",
+          "is_hot": true
+        },
+        {
+          "name": "秋风的羽翼",
+          "nameEn": "Wings of Autumn",
+          "weight": 107.71,
+          "feel": "上下摇主体打盒咣当感，但空间不是很大。左右摇整体打盒空间不是很大，有咣当声。前后摇整体轻轻微打盒空间不是很大，有哗啦声和咣当感。前后左右捏有轻微袋子声，上下捏不到",
+          "feelEn": "Vertical shake: figure taps the box with a noticeable clunk, though movement space is limited. Left/right shake: similar limited movement space with clunking sounds. Front/back shake: light tapping with moderate space, accompanied by rattling and clunking sounds. Slight bag sounds when squeezing front/back/left/right; none from top/bottom.",
+          "spuId": "1001468779370136729",
+          "image": "https://treasure.islandsassets.com/treasure/images/fTbK8KiIM60.png"
+        },
+        {
+          "name": "炊烟渐远",
+          "nameEn": "As the Smoke Recedes",
+          "weight": 96.44,
+          "feel": "上下摇几乎摇不动，很满很轻。前后摇几乎摇不动，很满手感轻，但有干燥剂颗粒的轻轻晃动感。左右摇主体完全摇不动，只有干燥剂擦盒轻微晃动感。6面捏有很轻微的袋子声",
+          "feelEn": "Vertical shake: almost no movement. Feels very full but surprisingly light in hand. Front/back shake: nearly immobile, maintaining a full feeling with only faint silica grain movement. Left/right shake: figure does not move at all; only slight silica packet rubbing can be heard. Very faint bag sounds can be felt when squeezing all six sides.",
+          "spuId": "1001468699913278710",
+          "image": "https://treasure.islandsassets.com/treasure/images/fTbKUwC2nxz.png"
+        },
+        {
+          "name": "月亮的光影",
+          "nameEn": "Refractions of Moonlight",
+          "weight": 95.19,
+          "feel": "上下摇完全摇不动。前后摇完全摇不动，只有干燥剂包轻微的擦盒。左右摇主体完全摇不动，但卡片轻微擦盒咔哒声。6面捏都有轻微袋子声",
+          "feelEn": "Vertical shake: completely immobile. Front/back shake: completely immobile, with only slight silica packet rubbing sounds. Left/right shake: figure does not move at all, but the card produces faint clicking sounds. Very light bag sounds can be felt when squeezing all six sides.",
+          "spuId": "1001468728904284357",
+          "image": "https://treasure.islandsassets.com/treasure/images/fTbK5qwsVkG.png"
+        },
+        {
+          "name": "风的前调",
+          "nameEn": "Scent of the Wind",
+          "weight": 94.72,
+          "feel": "上下摇主体轻轻微打盒有卡片撞盒的咔哒声。前后摇主体打盒，比较轻。左右摇主体打盒，有干燥剂包的撞盒声。前后左右捏有轻微袋子声，上下捏不到",
+          "feelEn": "Vertical shake: the figure lightly taps the box, with a noticeable card-clicking sound. Front/back shake: light figure tapping. Left/right shake: figure taps the box, accompanied by silica packet collision sounds. Slight bag crinkle can be felt from front/back/left/right squeezing, but not from top/bottom.",
+          "spuId": "1001468761116545316",
+          "image": "https://treasure.islandsassets.com/treasure/images/fTbK6kywSMO.png"
+        },
+        {
+          "name": "夏日回音",
+          "nameEn": "Echoes of Summer",
+          "weight": 94.14,
+          "feel": "上下摇主体打盒，有干燥剂包的莎莎声。前后摇几乎摇不动，一丝丝空间，有干燥剂的颗粒声。左右摇主体轻轻微打盒，有一点袋子声，干燥剂的颗粒声。前后捏有明显袋子声，左右上下捏不到",
+          "feelEn": "Vertical shake: figure taps the box, accompanied by silica packet rustling. Front/back shake: almost no movement, only a tiny bit of space with silica grain rattling. Left/right shake: very light figure tapping, slight bag sounds, and silica packet rattling. Strong bag sounds when squeezing front/back; nothing noticeable from left/right/top/bottom.",
+          "spuId": "1001468789033858746",
+          "image": "https://treasure.islandsassets.com/treasure/images/fTbKvI5FxaW.png"
+        },
+        {
+          "name": "飞跃山海",
+          "nameEn": "Across Mountains and Seas",
+          "weight": 92.57,
+          "feel": "上下摇整体一丢丢空间打盒，空间很小。前后摇整体一丢丢空间打盒，空间小。左右摇整体一丝空间打盒，但也有很轻微的咣当感。前后左右捏明显能捏到袋子，上下捏有很轻微的袋子声",
+          "feelEn": "Vertical shake: very small amount of movement space with light box tapping. Front/back shake: similarly small movement space and tapping. Left/right shake: tiny amount of movement with a very faint clunk. Bag can be clearly felt when squeezing front/back/left/right; slight bag sounds from top/bottom.",
+          "spuId": "1001468711724411929",
+          "image": "https://treasure.islandsassets.com/treasure/images/fTbKBWWWYD8.png"
+        },
+        {
+          "name": "雨滴舞会",
+          "nameEn": "Dancing in the Rain",
+          "weight": 90.86,
+          "feel": "上下摇主体很轻微的打盒，但有配件打盒咣当声明显且擦盒打盒在盒的一侧。前后摇主体轻轻微打盒，没特别声音，但配件轻微打盒有轻微咣当声。左右摇整体撞盒咣当感，咔哒声。前后捏轻微袋子声，上下左右捏不到",
+          "feelEn": "Vertical shake: figure barely taps the box, but the accessory creates a very noticeable clunk and rubs against one side of the box. Front/back shake: very light figure tapping with little sound, while the accessory creates faint clunking. Left/right shake: obvious overall clunking and clicking sounds. Slight bag sounds when squeezing front/back; none from top/bottom/left/right.",
+          "spuId": "1001468768632713137",
+          "image": "https://treasure.islandsassets.com/treasure/images/fTbK6neeGzf.png"
+        }
+      ]
+    },
+    {
       "id": "enchanted-realm-tales",
       "name": "秘境物语系列",
       "nameEn": "Enchanted Realm Tales Series MINI Action Figure",
