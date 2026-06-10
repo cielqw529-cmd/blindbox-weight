@@ -6,8 +6,8 @@
       "nameEn": "Rainy Reveries Series Figures",
       "brand": "泡泡玛特",
       "releaseDate": "2026-06-04",
-      "note": "窝在沙发里161.73g是普款最重，各方向几乎无晃动。等春天113.93g最轻，各方向空间大。隐藏款流转的时间暂无数据",
-      "noteEn": "Sofa so Good at 161.73g is heaviest regular, almost no movement. Until Spring Comes at 113.93g is lightest with large movement space. Secret Flow of Time data pending.",
+      "note": "窝在沙发里161.73g是普款最重。隐藏款流转的时间148.2g有2包干燥剂，前后很满摇不动，左右上部打盒",
+      "noteEn": "Sofa so Good at 161.73g is heaviest regular. Secret Flow of Time at 148.2g has 2 silica packs, very full front/back, upper area hits left/right.",
       "figures": [
         {
           "name": "窝在沙发里",
@@ -120,9 +120,9 @@
         {
           "name": "隐藏款——流转的时间",
           "nameEn": "The Flow of Time (Secret)",
-          "weight": 0,
-          "feel": "暂无数据，待补充",
-          "feelEn": "Data pending - not included in original guide.",
+          "weight": 148.2,
+          "feel": "上下：干燥剂声明显（2包）。前后：很满摇不动，干燥剂声。左右：上部打盒感",
+          "feelEn": "Vertical shake: obvious silica packet sound (2 packs). Front/back: feels very full, immobile, with silica packet sounds. Left/right: upper area hits the box.",
           "spuId": "1006665657586083629",
           "image": "https://treasure.islandsassets.com/treasure/images/fjcu7hksiUn.jpg",
           "is_hot": true
