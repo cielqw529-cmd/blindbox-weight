@@ -577,162 +577,6 @@
       ]
     },
     {
-      "id": "popmart-15th-anniversary",
-      "name": "庆祝这一刻POPMART十五周年系列",
-      "nameEn": "Celebrating the Moment POP MART 15th Anniversary Series",
-      "brand": "泡泡玛特",
-      "releaseDate": "2026-05-16",
-      "note": "隐藏款-派对甜心约111g，中等重量，非明盒！倒数时刻-labubu是唯一磁吸款（有塑料壳）",
-      "noteEn": "Secret Party Sweetie ~111g, medium weight, not obvious! Countdown-labubu is the only magnetic one (has plastic shell).",
-      "figures": [
-        {
-          "name": "闪闪登场-毕奇",
-          "nameEn": "Dazzing Debut",
-          "weight": 149.1,
-          "feel": "上下：2指空间，底部砸盒。左右：空间小，注意面中下打盒。前后：空间大，拉布布小房子对称打盒（打盒点对顶）",
-          "feelEn": "Top/bottom: 2 finger space, bottom hits box. Left/right: small space, middle-bottom hits. Front/back: large space, LABUBU house symmetrically hits (hitting points aligned).",
-          "spuId": "920942669465689377",
-          "image": "https://treasure.islandsassets.com/treasure/images/fvjlmm55Syj.jpg"
-        },
-        {
-          "name": "童心未泯-Dimoo",
-          "nameEn": "Circles of Joy",
-          "weight": 148.4,
-          "feel": "有珍珠棉。上下：轻微晃动。左右：摇不动，有配件打图鉴面KUBO。前后：摇不动。PS：横着摇，配件超明显！",
-          "feelEn": "Has pearl cotton. Top/bottom: slight shake. Left/right: immobile, accessory hits card side KUBO. Front/back: immobile. PS: Shake horizontally, accessory super obvious!",
-          "spuId": "920942523436784318",
-          "image": "https://treasure.islandsassets.com/treasure/images/fvjl9VjfEbl.jpg"
-        },
-        {
-          "name": "尽情地吹吧!嘟嘟-宝拉",
-          "nameEn": "Joyful Honks",
-          "weight": 143.3,
-          "feel": "大干燥剂19g，有珍珠棉。上下：摇不动。左右：摇不动。前后：摇不动，盒子中部明显对顶",
-          "feelEn": "Large desiccant 19g, has pearl cotton. Top/bottom: immobile. Left/right: immobile. Front/back: immobile, obvious resistance in middle of box.",
-          "spuId": "920942862739239232",
-          "image": "https://treasure.islandsassets.com/treasure/images/fvjlYz5OH7Z.jpg"
-        },
-        {
-          "name": "赴约-Zsiga",
-          "nameEn": "Meet Me There!",
-          "weight": 138.2,
-          "feel": "大干燥剂20g。上下：摇不动。左右：空间大，图鉴面打盒。前后：空间大，封面打盒，背面最上方打盒",
-          "feelEn": "Large desiccant 20g. Top/bottom: immobile. Left/right: large space, card side hits. Front/back: large space, cover hits, top of back hits.",
-          "spuId": "920942630810979796",
-          "image": "https://treasure.islandsassets.com/treasure/images/fvjlKrRmJpC.jpg"
-        },
-        {
-          "name": "许愿礼物-haci",
-          "nameEn": "Gift of Wisher",
-          "weight": 119.1,
-          "feel": "上下：轻微晃动，底部配件打盒。左右：摇不动，图鉴面（KUBO）和对面位置配件打盒。前后：几乎摇不动，封面和背面有对顶，也有打盒感",
-          "feelEn": "Top/bottom: slight shake, bottom accessory hits. Left/right: immobile, card side (KUBO) and opposite accessory hits. Front/back: almost immobile, cover and back have resistance and hitting feel.",
-          "spuId": "920942618999797696",
-          "image": "https://treasure.islandsassets.com/treasure/images/fvjlKNAUuOD.jpg"
-        },
-        {
-          "name": "分享甜蜜-小甜豆",
-          "nameEn": "Yours to Share",
-          "weight": 118.8,
-          "feel": "上下：2指以上，非常Q弹。左右：空间大，图鉴面毕奇和对立面对称砸盒。前后：空间大，封面labubu明显打盒",
-          "feelEn": "Top/bottom: 2+ fingers, very bouncy. Left/right: large space, card side Pucky and opposite symmetrically hit. Front/back: large space, cover LABUBU obviously hits.",
-          "spuId": "920942689866801176",
-          "image": "https://treasure.islandsassets.com/treasure/images/fvjlmjdGmpK.jpg"
-        },
-        {
-          "name": "帷幕之下-sp",
-          "nameEn": "Sparks in Bloom",
-          "weight": 117.3,
-          "feel": "上下：摇不动。左右：摇不动。前后：摇不动，封面蝴蝶结与背面对顶",
-          "feelEn": "Top/bottom: immobile. Left/right: immobile. Front/back: immobile, cover bow and back have resistance.",
-          "spuId": "920942454717300083",
-          "image": "https://treasure.islandsassets.com/treasure/images/fvjlxiy3b6K.jpg"
-        },
-        {
-          "name": "时光的回响-kubo",
-          "nameEn": "Echoes of Time",
-          "weight": 116.0,
-          "feel": "上下：1指空间，底部打盒。左右：摇不动。前后：空间不算大，背面上半部分大面积打盒。PS：脑袋里有砖块，概率可以听到",
-          "feelEn": "Top/bottom: 1 finger space, bottom hits. Left/right: immobile. Front/back: not much space, upper back hits large area. PS: Has blocks in head, might hear it.",
-          "spuId": "920942818715768387",
-          "image": "https://treasure.islandsassets.com/treasure/images/fvjlYAZO67P.jpg"
-        },
-        {
-          "name": "星光之邀-PJ",
-          "nameEn": "Glimmering Invation",
-          "weight": 114.1,
-          "feel": "上下：1指空间，底部打盒 很Q弹。左右：空间小，图鉴面（闪闪登场）上方打盒。前后：空间大，SP头部打盒，背面左上方（产地）打盒",
-          "feelEn": "Top/bottom: 1 finger space, bottom hits, very bouncy. Left/right: small space, card side (Dazzing Debut) upper hits. Front/back: large space, SP head hits, back upper-left (origin) hits.",
-          "spuId": "920942723152801577",
-          "image": "https://treasure.islandsassets.com/treasure/images/fvjlQYO6u9J.jpg"
-        },
-        {
-          "name": "气氛担当-Molly",
-          "nameEn": "Little Cutie",
-          "weight": 114,
-          "feel": "上下：1.5指空间，底部打盒。左右：空间小，注意面下方打盒。前后：空间大，封面两个小星星人打盒",
-          "feelEn": "Top/bottom: 1.5 finger space, bottom hits. Left/right: small space, lower card side hits. Front/back: large space, two little stars on cover hit.",
-          "spuId": "920942437537428617",
-          "image": "https://treasure.islandsassets.com/treasure/images/fvjlxSklplv.jpg"
-        },
-        {
-          "name": "仙女教母-chaka",
-          "nameEn": "Fairy Godmother",
-          "weight": 112.1,
-          "feel": "上下：摇不动，卡干燥剂乱窜。左右：轻微晃动，图鉴面haci名字打盒。前后：轻微晃动，封面字母ent概率打盒（是配件，倒摇更明显）",
-          "feelEn": "Top/bottom: immobile, desiccant rattles. Left/right: slight shake, card side haci name hits. Front/back: slight shake, cover letters 'ent' might hit (accessory, more obvious upside down).",
-          "spuId": "920942791872220262",
-          "image": "https://treasure.islandsassets.com/treasure/images/fvjlQdsvlM1.jpg"
-        },
-        {
-          "name": "隐藏款-派对甜心",
-          "nameEn": "Party Sweetie(Secret)",
-          "weight": 111,
-          "feel": "中等重量！上下微微晃动，前后在中部微微碰盒，左右也是中部微微碰盒，小配件发条侧边有碰盒，重心集中在底部，无顶！非明盒！",
-          "feelEn": "Medium weight! Slight shake top/bottom, middle hits front/back and left/right. Small wind-up accessory on side hits. Weight centered at bottom, no resistance! Not obvious box!",
-          "spuId": "920946111881975541",
-          "image": "https://treasure.islandsassets.com/treasure/images/fvjlY5bxfz5.jpg",
-          "is_hot": true
-        },
-        {
-          "name": "吹起号角-星星人",
-          "nameEn": "Call for Celebration",
-          "weight": 108,
-          "feel": "上下：轻微晃动，底部碰盒。左右：轻微晃动。前后：摇不动",
-          "feelEn": "Top/bottom: slight shake, bottom hits. Left/right: slight shake. Front/back: immobile.",
-          "spuId": "920942601819925601",
-          "image": "https://treasure.islandsassets.com/treasure/images/fvjl9fVUic7.jpg"
-        },
-        {
-          "name": "点亮此刻-哭娃",
-          "nameEn": "Light Up This Moment",
-          "weight": 107.2,
-          "feel": "上下：1指空间，底部打盒。左右：轻微晃动。前后：空间小，封面哭娃头顶打盒（倒过来同一点打盒）",
-          "feelEn": "Top/bottom: 1 finger space, bottom hits. Left/right: slight shake. Front/back: small space, Crybaby's head on cover hits (same spot when upside down).",
-          "spuId": "920942494445796762",
-          "image": "https://treasure.islandsassets.com/treasure/images/fvjlOHiZhvZ.jpg"
-        },
-        {
-          "name": "倒数时刻-labubu",
-          "nameEn": "Countdown",
-          "weight": 106.4,
-          "feel": "唯一磁吸，有塑料壳。上下：0.5指空间，底部打盒。左右：轻微晃动。前后：空间大，封面打盒，背面打盒",
-          "feelEn": "Only magnetic one, has plastic shell. Top/bottom: 0.5 finger space, bottom hits. Left/right: slight shake. Front/back: large space, cover and back hit.",
-          "spuId": "920942420357556487",
-          "image": "https://treasure.islandsassets.com/treasure/images/fvjlxVzsgA1.jpg"
-        },
-        {
-          "name": "321发射！-小野",
-          "nameEn": "3,2,1 Boom!",
-          "weight": 104.4,
-          "feel": "上下：摇不动，鼓鼓的。左右：摇不动。前后：摇不动，封面下方与背面同位置对顶",
-          "feelEn": "Top/bottom: immobile, feels full. Left/right: immobile. Front/back: immobile, lower cover and same spot on back have resistance.",
-          "spuId": "920942568533960785",
-          "image": "https://treasure.islandsassets.com/treasure/images/fvjl9NgPf0K.jpg"
-        }
-      ]
-    },
-    {
       "id": "crybaby-cry-me-an-ocean",
       "name": "Crybaby|泪流成海系列",
       "nameEn": "Crybaby|Cry Me an Ocean Series Figures",
@@ -1140,7 +984,7 @@
         {
           "name": "摘星星",
           "nameEn": "Star Catcher",
-          "weight": 157.0,
+          "weight": 157,
           "feel": "上下摇主体摇不动，但配件挂环撞盒明显咔哒声，但有擦盒的声音。前后摇主体摇不动，只有配件挂环撞盒明显。左右摇整体轻微打盒，有轻微咣当声。前后捏中上部能捏到娃，左右捏有袋子声，上下捏不到",
           "feelEn": "Shake up/down: main body immobile, but keyring clicking and scratching sounds clear. Shake front/back: main body immobile, only keyring hitting. Shake left/right: overall slight hitting with light banging. Pinch front/back upper-middle: can feel doll. Pinch left/right: bag sound. Cannot feel up/down.",
           "spuId": "991079313610659718",
@@ -1310,15 +1154,14 @@
           "image": "https://treasure.islandsassets.com/treasure/images/fTfdhmmYUWO.png"
         }
       ],
-      "ip": "SKULLPANDA",
-      "releaseDate": "2026-04-23"
+      "ip": "SKULLPANDA"
     },
     {
       "id": "pucky-dreamy-wishes",
       "name": "PUCKY|梦境心愿系列",
       "nameEn": "PUCKY|Dream Wish Series Figures",
       "brand": "PUCKY",
-      "releaseDate": "2026-04-16",
+      "releaseDate": "2026-04-23",
       "note": "全系列全部单款均可亮灯",
       "noteEn": "All figures in the series can light up",
       "figures": [
@@ -1405,8 +1248,7 @@
           "image": "https://treasure.islandsassets.com/treasure/images/fTfXMgUGfiq.png"
         }
       ],
-      "ip": "PUCKY",
-      "releaseDate": "2026-04-23"
+      "ip": "PUCKY"
     },
     {
       "id": "pucky-dream-wish",
@@ -1590,8 +1432,7 @@
           "spuId": "985881805108332387",
           "image": "https://treasure.islandsassets.com/treasure/images/fyqcom88DnR.png"
         }
-      ],
-      "releaseDate": "2026-04-16"
+      ]
     },
     {
       "id": "dimoo-secret-theater",
@@ -1659,8 +1500,7 @@
       ],
       "ip": "DIMOO",
       "nameEn": "DIMOO|The Secret Theatre Club Series Figures",
-      "noteEn": "The weight difference is quite big, and the feel of the hair on the head is also different.",
-      "releaseDate": "2026-04-09"
+      "noteEn": "The weight difference is quite big, and the feel of the hair on the head is also different."
     },
     {
       "id": "hirono-greenhouse",
@@ -1781,8 +1621,7 @@
       ],
       "ip": "HIRONO",
       "nameEn": "Hirono|Tamed Wildgrass Series Figures",
-      "noteEn": "There are many bright boxes",
-      "releaseDate": "2026-04-02"
+      "noteEn": "There are many bright boxes"
     },
     {
       "id": "farmer-bob-farm",
@@ -1895,14 +1734,13 @@
       ],
       "ip": "FARMER BOB",
       "noteEn": "There are many bright boxes",
-      "nameEn": "FARMER BOB|On the Farm Series Figures",
-      "releaseDate": "2026-03-30"
+      "nameEn": "FARMER BOB|On the Farm Series Figures"
     },
     {
       "id": "molly-20th",
       "name": "MOLLY|沿途的风景二十周年系列",
       "brand": "泡泡玛特",
-      "releaseDate": "2026-04-02",
+      "releaseDate": "2026-03-20",
       "source_url": "https://www.xiaohongshu.com/explore/69bbedc60000000021039454",
       "figures": [
         {
@@ -1988,8 +1826,7 @@
         }
       ],
       "ip": "MOLLY",
-      "nameEn": "MOLLY|SCENERY ALONG THE WAY",
-      "releaseDate": "2026-03-20"
+      "nameEn": "MOLLY|SCENERY ALONG THE WAY"
     },
     {
       "id": "dimoo-spring-moment",
@@ -2113,8 +1950,7 @@
       ],
       "ip": "DIMOO",
       "nameEn": "DIMOO|Moments in Bloom Series Figures",
-      "noteEn": "Many bright boxes",
-      "releaseDate": "2026-03-19"
+      "noteEn": "Many bright boxes"
     },
     {
       "id": "labubu-sanrio-plush",
@@ -2190,8 +2026,7 @@
           "image": "https://treasure.islandsassets.com/treasure/images/f8MfGP0a2SK.jpg"
         }
       ],
-      "ip": "LABUBU",
-      "releaseDate": "2026-03-12"
+      "ip": "LABUBU"
     },
     {
       "id": "sweetbean-light",
@@ -2314,13 +2149,12 @@
       ],
       "ip": "小甜豆",
       "noteEn": "There are some clear boxes, but there are also some boxes that are full and difficult to distinguish.",
-      "nameEn": "Sweet Bean|Days of Sparkles Series Figures",
-      "releaseDate": "2026-03-12"
+      "nameEn": "Sweet Bean|Days of Sparkles Series Figures"
     },
     {
       "id": "merodi-afterschool",
       "name": "Merodi|第一章-放学后的Merodi系列",
-      "nameEn": "Merodi|Chapter 1 - Merodi After School Series Figures",
+      "nameEn": "Merodi|Chapter 1 – Merodi After School Series Figures",
       "brand": "泡泡玛特",
       "releaseDate": "2026-02-26",
       "source_url": "https://www.xiaohongshu.com/explore/699808ee000000001d02527f",
@@ -2436,15 +2270,13 @@
           "nameEn": "Five More Minutes",
           "image": "https://treasure.qiandaocdn.com/treasure/images/f8h1vtBjagu.png"
         }
-      ],
-      "nameEn": "Merodi|Chapter 1 – Merodi After School Series Figures",
-      "releaseDate": "2026-02-26"
+      ]
     },
     {
       "id": "zsiga-sunlight",
       "name": "Zsiga|在日光下系列",
       "brand": "泡泡玛特",
-      "releaseDate": "2026-02-12",
+      "releaseDate": "2026-02-08",
       "source_url": "https://www.xiaohongshu.com/explore/6984bb38000000002102a874",
       "figures": [
         {
@@ -2561,8 +2393,7 @@
         }
       ],
       "ip": "ZSIGA",
-      "nameEn": "Zsiga|Under the Sun Series Figures",
-      "releaseDate": "2026-02-08"
+      "nameEn": "Zsiga|Under the Sun Series Figures"
     },
     {
       "id": "skullpanda-mlp",
@@ -2629,8 +2460,7 @@
       ],
       "ip": "SKULLPANDA",
       "noteEn": "The difficulty is very high, there is only a slight difference in weight and feel, and there is no clear box.",
-      "nameEn": "SKULLPANDA|My Little Pony Series Figures",
-      "releaseDate": "2026-02-05"
+      "nameEn": "SKULLPANDA|My Little Pony Series Figures"
     },
     {
       "id": "gold-horse",
@@ -2753,8 +2583,7 @@
         }
       ],
       "nameEn": "POP MART|The Golden Gallop Series Figures",
-      "noteEn": "Some are easy to distinguish, but there are many heavy ones in the middle, so it is still a bit difficult.",
-      "releaseDate": "2026-01-08"
+      "noteEn": "Some are easy to distinguish, but there are many heavy ones in the middle, so it is still a bit difficult."
     },
     {
       "id": "horse-plush",
@@ -2829,8 +2658,7 @@
         }
       ],
       "nameEn": "POP MART|Full Speed Ahead Plush Pendant Series Figures",
-      "noteEn": "It's almost indistinguishable in the hand, so I guess it depends on the weight.",
-      "releaseDate": "2026-01-08"
+      "noteEn": "It's almost indistinguishable in the hand, so I guess it depends on the weight."
     },
     {
       "id": "crybaby-moon",
@@ -2949,8 +2777,7 @@
         }
       ],
       "ip": "CRYBABY",
-      "nameEn": "Crybaby|Crying to the Moon Series Figures",
-      "releaseDate": "2025-12-11"
+      "nameEn": "Crybaby|Crying to the Moon Series Figures"
     },
     {
       "id": "1001moons-elephant",
@@ -3070,8 +2897,7 @@
           "feelEn": "When you shake it around, you can feel the bottom shaking heavily. The overall shaking sound is very small, but there are obvious and subtle spaces shaking."
         }
       ],
-      "nameEn": "1001 MOONS|Where's the Elephant Slide Series Figures",
-      "releaseDate": "2025-11-27"
+      "nameEn": "1001 MOONS|Where's the Elephant Slide Series Figures"
     },
     {
       "id": "zsiga-winter-gift",
@@ -3190,8 +3016,7 @@
         }
       ],
       "ip": "ZSIGA",
-      "nameEn": "Zsiga|The Winter of Gifts Series Figures",
-      "releaseDate": "2025-11-13"
+      "nameEn": "Zsiga|The Winter of Gifts Series Figures"
     },
     {
       "id": "sanrio-bubble",
@@ -3275,8 +3100,7 @@
         }
       ],
       "noteEn": "This set has no feel, only weight. They all have the same feel.",
-      "nameEn": "Sanrio|Sanrio Characters Sweet Dream Bubble House Series Figures",
-      "releaseDate": "2025-11-13"
+      "nameEn": "Sanrio|Sanrio Characters Sweet Dream Bubble House Series Figures"
     },
     {
       "id": "skullpanda-table",
@@ -3400,15 +3224,14 @@
         }
       ],
       "ip": "SKULLPANDA",
-      "nameEn": "SKULLPANDA|The Feast Begins Series Figures",
-      "releaseDate": "2025-10-30"
+      "nameEn": "SKULLPANDA|The Feast Begins Series Figures"
     },
     {
       "id": "pucky-sanrio-family",
       "name": "PUCKY|三丽鸥家族系列",
-      "nameEn": "PUCKY|Sanrio Family Series Figures",
+      "nameEn": "PUCKY|Sanrio Characters Series Figures",
       "brand": "PUCKY",
-      "releaseDate": "2022-11-18",
+      "releaseDate": "2025-10-25",
       "source_url": "https://www.xiaohongshu.com/explore/634ecd830000000007023e74",
       "note": "编号请看原型图案里的后四位",
       "figures": [
@@ -3522,14 +3345,169 @@
         }
       ],
       "ip": "PUCKY",
-      "noteEn": "Please see the last four digits in the prototype pattern for the number.",
-      "nameEn": "PUCKY|Sanrio Characters Series Figures",
-      "releaseDate": "2025-10-25"
+      "noteEn": "Please see the last four digits in the prototype pattern for the number."
+    },
+    {
+      "id": "popmart-15th-anniversary",
+      "name": "庆祝这一刻POPMART十五周年系列",
+      "nameEn": "Celebrating the Moment POP MART 15th Anniversary Series",
+      "brand": "泡泡玛特",
+      "releaseDate": "2025-10-23",
+      "note": "隐藏款-派对甜心约111g，中等重量，非明盒！倒数时刻-labubu是唯一磁吸款（有塑料壳）",
+      "noteEn": "Secret Party Sweetie ~111g, medium weight, not obvious! Countdown-labubu is the only magnetic one (has plastic shell).",
+      "figures": [
+        {
+          "name": "闪闪登场-毕奇",
+          "nameEn": "Dazzing Debut",
+          "weight": 149.1,
+          "feel": "上下：2指空间，底部砸盒。左右：空间小，注意面中下打盒。前后：空间大，拉布布小房子对称打盒（打盒点对顶）",
+          "feelEn": "Top/bottom: 2 finger space, bottom hits box. Left/right: small space, middle-bottom hits. Front/back: large space, LABUBU house symmetrically hits (hitting points aligned).",
+          "spuId": "920942669465689377",
+          "image": "https://treasure.islandsassets.com/treasure/images/fvjlmm55Syj.jpg"
+        },
+        {
+          "name": "童心未泯-Dimoo",
+          "nameEn": "Circles of Joy",
+          "weight": 148.4,
+          "feel": "有珍珠棉。上下：轻微晃动。左右：摇不动，有配件打图鉴面KUBO。前后：摇不动。PS：横着摇，配件超明显！",
+          "feelEn": "Has pearl cotton. Top/bottom: slight shake. Left/right: immobile, accessory hits card side KUBO. Front/back: immobile. PS: Shake horizontally, accessory super obvious!",
+          "spuId": "920942523436784318",
+          "image": "https://treasure.islandsassets.com/treasure/images/fvjl9VjfEbl.jpg"
+        },
+        {
+          "name": "尽情地吹吧!嘟嘟-宝拉",
+          "nameEn": "Joyful Honks",
+          "weight": 143.3,
+          "feel": "大干燥剂19g，有珍珠棉。上下：摇不动。左右：摇不动。前后：摇不动，盒子中部明显对顶",
+          "feelEn": "Large desiccant 19g, has pearl cotton. Top/bottom: immobile. Left/right: immobile. Front/back: immobile, obvious resistance in middle of box.",
+          "spuId": "920942862739239232",
+          "image": "https://treasure.islandsassets.com/treasure/images/fvjlYz5OH7Z.jpg"
+        },
+        {
+          "name": "赴约-Zsiga",
+          "nameEn": "Meet Me There!",
+          "weight": 138.2,
+          "feel": "大干燥剂20g。上下：摇不动。左右：空间大，图鉴面打盒。前后：空间大，封面打盒，背面最上方打盒",
+          "feelEn": "Large desiccant 20g. Top/bottom: immobile. Left/right: large space, card side hits. Front/back: large space, cover hits, top of back hits.",
+          "spuId": "920942630810979796",
+          "image": "https://treasure.islandsassets.com/treasure/images/fvjlKrRmJpC.jpg"
+        },
+        {
+          "name": "许愿礼物-haci",
+          "nameEn": "Gift of Wisher",
+          "weight": 119.1,
+          "feel": "上下：轻微晃动，底部配件打盒。左右：摇不动，图鉴面（KUBO）和对面位置配件打盒。前后：几乎摇不动，封面和背面有对顶，也有打盒感",
+          "feelEn": "Top/bottom: slight shake, bottom accessory hits. Left/right: immobile, card side (KUBO) and opposite accessory hits. Front/back: almost immobile, cover and back have resistance and hitting feel.",
+          "spuId": "920942618999797696",
+          "image": "https://treasure.islandsassets.com/treasure/images/fvjlKNAUuOD.jpg"
+        },
+        {
+          "name": "分享甜蜜-小甜豆",
+          "nameEn": "Yours to Share",
+          "weight": 118.8,
+          "feel": "上下：2指以上，非常Q弹。左右：空间大，图鉴面毕奇和对立面对称砸盒。前后：空间大，封面labubu明显打盒",
+          "feelEn": "Top/bottom: 2+ fingers, very bouncy. Left/right: large space, card side Pucky and opposite symmetrically hit. Front/back: large space, cover LABUBU obviously hits.",
+          "spuId": "920942689866801176",
+          "image": "https://treasure.islandsassets.com/treasure/images/fvjlmjdGmpK.jpg"
+        },
+        {
+          "name": "帷幕之下-sp",
+          "nameEn": "Sparks in Bloom",
+          "weight": 117.3,
+          "feel": "上下：摇不动。左右：摇不动。前后：摇不动，封面蝴蝶结与背面对顶",
+          "feelEn": "Top/bottom: immobile. Left/right: immobile. Front/back: immobile, cover bow and back have resistance.",
+          "spuId": "920942454717300083",
+          "image": "https://treasure.islandsassets.com/treasure/images/fvjlxiy3b6K.jpg"
+        },
+        {
+          "name": "时光的回响-kubo",
+          "nameEn": "Echoes of Time",
+          "weight": 116,
+          "feel": "上下：1指空间，底部打盒。左右：摇不动。前后：空间不算大，背面上半部分大面积打盒。PS：脑袋里有砖块，概率可以听到",
+          "feelEn": "Top/bottom: 1 finger space, bottom hits. Left/right: immobile. Front/back: not much space, upper back hits large area. PS: Has blocks in head, might hear it.",
+          "spuId": "920942818715768387",
+          "image": "https://treasure.islandsassets.com/treasure/images/fvjlYAZO67P.jpg"
+        },
+        {
+          "name": "星光之邀-PJ",
+          "nameEn": "Glimmering Invation",
+          "weight": 114.1,
+          "feel": "上下：1指空间，底部打盒 很Q弹。左右：空间小，图鉴面（闪闪登场）上方打盒。前后：空间大，SP头部打盒，背面左上方（产地）打盒",
+          "feelEn": "Top/bottom: 1 finger space, bottom hits, very bouncy. Left/right: small space, card side (Dazzing Debut) upper hits. Front/back: large space, SP head hits, back upper-left (origin) hits.",
+          "spuId": "920942723152801577",
+          "image": "https://treasure.islandsassets.com/treasure/images/fvjlQYO6u9J.jpg"
+        },
+        {
+          "name": "气氛担当-Molly",
+          "nameEn": "Little Cutie",
+          "weight": 114,
+          "feel": "上下：1.5指空间，底部打盒。左右：空间小，注意面下方打盒。前后：空间大，封面两个小星星人打盒",
+          "feelEn": "Top/bottom: 1.5 finger space, bottom hits. Left/right: small space, lower card side hits. Front/back: large space, two little stars on cover hit.",
+          "spuId": "920942437537428617",
+          "image": "https://treasure.islandsassets.com/treasure/images/fvjlxSklplv.jpg"
+        },
+        {
+          "name": "仙女教母-chaka",
+          "nameEn": "Fairy Godmother",
+          "weight": 112.1,
+          "feel": "上下：摇不动，卡干燥剂乱窜。左右：轻微晃动，图鉴面haci名字打盒。前后：轻微晃动，封面字母ent概率打盒（是配件，倒摇更明显）",
+          "feelEn": "Top/bottom: immobile, desiccant rattles. Left/right: slight shake, card side haci name hits. Front/back: slight shake, cover letters 'ent' might hit (accessory, more obvious upside down).",
+          "spuId": "920942791872220262",
+          "image": "https://treasure.islandsassets.com/treasure/images/fvjlQdsvlM1.jpg"
+        },
+        {
+          "name": "隐藏款-派对甜心",
+          "nameEn": "Party Sweetie(Secret)",
+          "weight": 111,
+          "feel": "中等重量！上下微微晃动，前后在中部微微碰盒，左右也是中部微微碰盒，小配件发条侧边有碰盒，重心集中在底部，无顶！非明盒！",
+          "feelEn": "Medium weight! Slight shake top/bottom, middle hits front/back and left/right. Small wind-up accessory on side hits. Weight centered at bottom, no resistance! Not obvious box!",
+          "spuId": "920946111881975541",
+          "image": "https://treasure.islandsassets.com/treasure/images/fvjlY5bxfz5.jpg",
+          "is_hot": true
+        },
+        {
+          "name": "吹起号角-星星人",
+          "nameEn": "Call for Celebration",
+          "weight": 108,
+          "feel": "上下：轻微晃动，底部碰盒。左右：轻微晃动。前后：摇不动",
+          "feelEn": "Top/bottom: slight shake, bottom hits. Left/right: slight shake. Front/back: immobile.",
+          "spuId": "920942601819925601",
+          "image": "https://treasure.islandsassets.com/treasure/images/fvjl9fVUic7.jpg"
+        },
+        {
+          "name": "点亮此刻-哭娃",
+          "nameEn": "Light Up This Moment",
+          "weight": 107.2,
+          "feel": "上下：1指空间，底部打盒。左右：轻微晃动。前后：空间小，封面哭娃头顶打盒（倒过来同一点打盒）",
+          "feelEn": "Top/bottom: 1 finger space, bottom hits. Left/right: slight shake. Front/back: small space, Crybaby's head on cover hits (same spot when upside down).",
+          "spuId": "920942494445796762",
+          "image": "https://treasure.islandsassets.com/treasure/images/fvjlOHiZhvZ.jpg"
+        },
+        {
+          "name": "倒数时刻-labubu",
+          "nameEn": "Countdown",
+          "weight": 106.4,
+          "feel": "唯一磁吸，有塑料壳。上下：0.5指空间，底部打盒。左右：轻微晃动。前后：空间大，封面打盒，背面打盒",
+          "feelEn": "Only magnetic one, has plastic shell. Top/bottom: 0.5 finger space, bottom hits. Left/right: slight shake. Front/back: large space, cover and back hit.",
+          "spuId": "920942420357556487",
+          "image": "https://treasure.islandsassets.com/treasure/images/fvjlxVzsgA1.jpg"
+        },
+        {
+          "name": "321发射！-小野",
+          "nameEn": "3,2,1 Boom!",
+          "weight": 104.4,
+          "feel": "上下：摇不动，鼓鼓的。左右：摇不动。前后：摇不动，封面下方与背面同位置对顶",
+          "feelEn": "Top/bottom: immobile, feels full. Left/right: immobile. Front/back: immobile, lower cover and same spot on back have resistance.",
+          "spuId": "920942568533960785",
+          "image": "https://treasure.islandsassets.com/treasure/images/fvjl9NgPf0K.jpg"
+        }
+      ]
     },
     {
       "id": "farmerbob-memory",
       "name": "FARMER BOB|回忆剧场系列",
       "brand": "寻找独角兽",
+      "releaseDate": "2025-10-21",
       "source_url": "https://www.xiaohongshu.com/explore/68f0c62a0000000003036f84",
       "figures": [
         {
@@ -3642,13 +3620,13 @@
         }
       ],
       "ip": "FARMER BOB",
-      "nameEn": "FARMER BOB|Memory Theatre Series Figures",
-      "releaseDate": "2025-10-21"
+      "nameEn": "FARMER BOB|Memory Theatre Series Figures"
     },
     {
       "id": "nook-night",
       "name": "NOOK|夜晚是我的小小宇宙系列",
       "brand": "泡泡玛特",
+      "releaseDate": "2025-10-01",
       "source_url": "https://www.xiaohongshu.com/explore/68d3c7aa0000000013016b6e",
       "figures": [
         {
@@ -3725,8 +3703,7 @@
         }
       ],
       "ip": "NOOK",
-      "nameEn": "NOOK|My Little Universe at Night Series Figures",
-      "releaseDate": "2025-10-01"
+      "nameEn": "NOOK|My Little Universe at Night Series Figures"
     },
     {
       "id": "pucky-plush-cats",
