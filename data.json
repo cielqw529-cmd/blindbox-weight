@@ -1,6 +1,135 @@
 {
   "series": [
     {
+      "id": "inosoul-rainy-reveries",
+      "name": "雨天浮想系列",
+      "nameEn": "Rainy Reveries Series Figures",
+      "brand": "泡泡玛特",
+      "releaseDate": "2026-06-04",
+      "note": "窝在沙发里161.73g是普款最重，各方向几乎无晃动。等春天113.93g最轻，各方向空间大。隐藏款流转的时间暂无数据",
+      "noteEn": "Sofa so Good at 161.73g is heaviest regular, almost no movement. Until Spring Comes at 113.93g is lightest with large movement space. Secret Flow of Time data pending.",
+      "figures": [
+        {
+          "name": "窝在沙发里",
+          "nameEn": "Sofa so Good",
+          "weight": 161.73,
+          "feel": "各方向几乎无晃动，很满很密实。前后摇有轻微撑盒感",
+          "feelEn": "Almost no movement from any direction. Feels very full and dense. Slight pressure against the box when shaken front-to-back.",
+          "spuId": "1006665680134620276",
+          "image": "https://treasure.islandsassets.com/treasure/images/fjcu7hksi5f.jpg"
+        },
+        {
+          "name": "那通来电",
+          "nameEn": "I Meow You",
+          "weight": 160.75,
+          "feel": "前后摇中上部打盒。左右摇中上部打盒。上下摇底部沉闷撞击",
+          "feelEn": "Front/back shake: tapping around the upper-middle area. Left/right shake: similar upper-middle tapping. Vertical shake: heavy, dull impacts from the bottom.",
+          "spuId": "1006665622152556658",
+          "image": "https://treasure.islandsassets.com/treasure/images/fjcu7kJbsl0.jpg"
+        },
+        {
+          "name": "一滴眼泪",
+          "nameEn": "A Single Tear",
+          "weight": 129.17,
+          "feel": "前后摇主体左耳打盒。左右摇几乎完全摇不动。上下摇空间大，底部撞击明显",
+          "feelEn": "Front/back shake: the left ear of the figure taps against the box. Left/right shake: almost completely immobile. Vertical shake: large amount of movement space with strong bottom impacts.",
+          "spuId": "1006665636111238266",
+          "image": "https://treasure.islandsassets.com/treasure/images/fjcu7kJbsl7.jpg"
+        },
+        {
+          "name": "彩色的梦",
+          "nameEn": "The Dream We Had",
+          "weight": 127.57,
+          "feel": "前后摇整体打盒。左右摇配件打盒明显。上下摇空间不大，有干燥剂晃动声",
+          "feelEn": "Front/back shake: overall box tapping. Left/right shake: accessory tapping is noticeable. Vertical shake: limited movement space with silica packet movement sounds.",
+          "spuId": "1006665648996146556",
+          "image": "https://treasure.islandsassets.com/treasure/images/fjcu70AbYFp.jpg"
+        },
+        {
+          "name": "边缘漫游",
+          "nameEn": "Roaming on the Edge",
+          "weight": 126.01,
+          "feel": "各方向几乎无晃动，盒内很满很紧实",
+          "feelEn": "Almost no movement from any direction. Feels very full and tightly packed inside the box.",
+          "spuId": "1006665642553649975",
+          "image": "https://treasure.islandsassets.com/treasure/images/fjcu7kJbsl2.jpg"
+        },
+        {
+          "name": "织星星的人",
+          "nameEn": "The Star Weaver",
+          "weight": 123.26,
+          "feel": "前后摇中下部打盒。左右摇中上部打盒。上下摇只有干燥剂晃动声",
+          "feelEn": "Front/back shake: tapping around the lower-middle area. Left/right shake: tapping around the upper-middle area. Vertical shake: only the silica packet can be heard moving.",
+          "spuId": "1006665610341431393",
+          "image": "https://treasure.islandsassets.com/treasure/images/fjcu7kJbslH.jpg"
+        },
+        {
+          "name": "待愈合的伤口",
+          "nameEn": "The Unhealed Wound",
+          "weight": 118.2,
+          "feel": "前后摇中部打盒。左右摇几乎不动，中部有轻微撑盒感。上下摇底部撞击明显",
+          "feelEn": "Front/back shake: tapping around the center. Left/right shake: mostly immobile, with slight pressure against the box in the middle area. Vertical shake: strong bottom impacts.",
+          "spuId": "1006665628595000807",
+          "image": "https://treasure.islandsassets.com/treasure/images/fjcu70AbYFW.jpg"
+        },
+        {
+          "name": "小幸运",
+          "nameEn": "A Little Luck",
+          "weight": 118.01,
+          "feel": "前后左右摇中上部打盒。上下摇底部撞击明显",
+          "feelEn": "Front/back/left/right shake: tapping around the upper-middle area. Vertical shake: strong bottom impacts.",
+          "spuId": "1006665562954748968",
+          "image": "https://assets.islandsassets.com/admin-upload/fUBSq6h1cJq.png"
+        },
+        {
+          "name": "躲进云里",
+          "nameEn": "Hide in the Clouds",
+          "weight": 116.77,
+          "feel": "前后左右摇整体打盒明显。上下摇空间大",
+          "feelEn": "Front/back/left/right shake: noticeable overall box tapping. Vertical shake: large amount of movement space.",
+          "spuId": "1006665671544684308",
+          "image": "https://treasure.islandsassets.com/treasure/images/fjcu7hksiUb.jpg"
+        },
+        {
+          "name": "未寄的信",
+          "nameEn": "The Unsent Letter",
+          "weight": 116.6,
+          "feel": "前后摇中下部打盒。左右摇中部打盒，右侧有撑盒感。上下摇空间不大",
+          "feelEn": "Front/back shake: tapping around the lower-middle area. Left/right shake: center-area tapping with pressure against the right side of the box. Vertical shake: limited movement space.",
+          "spuId": "1006665598530283871",
+          "image": "https://treasure.islandsassets.com/treasure/images/fjcu7kJbslz.jpg"
+        },
+        {
+          "name": "晴雨天与野雏菊",
+          "nameEn": "Serein and Wild Daisies",
+          "weight": 116.16,
+          "feel": "前后摇主体脸部（封面侧）撞击明显。左右摇下部撞击很明显，空间大。上下摇底部撞击明显",
+          "feelEn": "Front/back shake: strong impact around the figure's face (cover-facing side). Left/right shake: very obvious lower-section impacts with large movement space. Vertical shake: strong bottom impacts.",
+          "spuId": "1006665609267651418",
+          "image": "https://treasure.islandsassets.com/treasure/images/fjcu7kJbslS.jpg"
+        },
+        {
+          "name": "等春天",
+          "nameEn": "Until Spring Comes",
+          "weight": 113.93,
+          "feel": "各方向空间都很大，整体打盒明显",
+          "feelEn": "Large movement space in every direction, with obvious overall box tapping.",
+          "spuId": "1006665688724555554",
+          "image": "https://treasure.islandsassets.com/treasure/images/fjcu7SswcOx.jpg"
+        },
+        {
+          "name": "隐藏款——流转的时间",
+          "nameEn": "The Flow of Time (Secret)",
+          "weight": 0,
+          "feel": "暂无数据，待补充",
+          "feelEn": "Data pending - not included in original guide.",
+          "spuId": "1006665657586083629",
+          "image": "https://treasure.islandsassets.com/treasure/images/fjcu7hksiUn.jpg",
+          "is_hot": true
+        }
+      ]
+    },
+    {
       "id": "im-zsiga-plush-pendant",
       "name": "I'm Zsiga系列搪胶毛绒挂件",
       "nameEn": "I'm Zsiga Series-Vinyl Plush Pendant",
