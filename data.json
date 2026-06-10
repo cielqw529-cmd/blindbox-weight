@@ -1,6 +1,81 @@
 {
   "series": [
     {
+      "id": "im-zsiga-plush-pendant",
+      "name": "I'm Zsiga系列搪胶毛绒挂件",
+      "nameEn": "I'm Zsiga Series-Vinyl Plush Pendant",
+      "brand": "泡泡玛特",
+      "releaseDate": "2026-06-04",
+      "note": "隐藏款无畏178.2g是全系列最重！极重几乎无晃动，只有微弱干燥剂擦盒声。害羞162.07g是最轻款",
+      "noteEn": "Secret Fearless at 178.2g is heaviest in series! Extremely heavy, almost no movement, only faint silica packet rubbing. Shy at 162.07g is lightest.",
+      "figures": [
+        {
+          "name": "隐藏款-无畏",
+          "nameEn": "Fearless (Secret)",
+          "weight": 178.2,
+          "feel": "极重，几乎无晃动，只有微弱干燥剂擦盒声。一侧可能有轻微鼓起，摇晃有独特细微摩擦声。重点找又沉又密实的盒子",
+          "feelEn": "Extremely heavy in hand. Almost no movement from any direction, with only the faintest silica packet rubbing sound. One side of the box may have a slight bulge, and shaking it produces a unique, subtle friction sound. Look for the box that feels exceptionally heavy and tightly packed.",
+          "spuId": "1004066575306721559",
+          "image": "https://treasure.islandsassets.com/treasure/images/fjyeWUi8dO4.png",
+          "is_hot": true
+        },
+        {
+          "name": "不羁",
+          "nameEn": "Free-spirited",
+          "weight": 173.5,
+          "feel": "明显重且密实，大部分方向完全锁死几乎无晃动，只有上下有一点空间。无硬物碰撞声，捏起来扎实密实",
+          "feelEn": "Feels noticeably heavy and densely packed. Most directions are completely locked with almost no movement, except for a tiny amount of play vertically. No hard-object collision sounds at all. Feels solid, dense, and substantial when squeezed.",
+          "spuId": "1004066435720300051",
+          "image": "https://treasure.islandsassets.com/treasure/images/fjyeuk0ajJy.png"
+        },
+        {
+          "name": "任性",
+          "nameEn": "Strong-willed",
+          "weight": 167.7,
+          "feel": "前面上部有清晰的敲击声，声音清脆不沉闷。背景噪音很少，是比较容易辨别的款",
+          "feelEn": "A clear tapping sound can be heard from the upper front area when shaken. The sound is crisp rather than dull or muffled. Very little background noise, making it one of the easier figures to identify during blind-box hunting.",
+          "spuId": "1004066419614219704",
+          "image": "https://treasure.islandsassets.com/treasure/images/fjyeCBctgdI.png"
+        },
+        {
+          "name": "真诚",
+          "nameEn": "Sincere",
+          "weight": 167.23,
+          "feel": "整体晃动很小，前后摇只有轻微碰撞感，声音低沉",
+          "feelEn": "Very little movement overall. Only a faint bumping sensation when shaken front-to-back, with a deep, muted sound.",
+          "spuId": "1004066426056613010",
+          "image": "https://treasure.islandsassets.com/treasure/images/fjyeSeqH8fL.png"
+        },
+        {
+          "name": "神秘",
+          "nameEn": "Veiled",
+          "weight": 166,
+          "feel": "手感略软，上下有半指空间。盒面光滑，无明显硬物突出或异物感",
+          "feelEn": "Feels slightly softer in hand. Has about half a finger's worth of vertical movement space. The box surface feels smooth, with no obvious hard protrusions or foreign-object sensation.",
+          "spuId": "1004066408876740731",
+          "image": "https://treasure.islandsassets.com/treasure/images/fjyeh0ZXQaQ.png"
+        },
+        {
+          "name": "直率",
+          "nameEn": "Frank",
+          "weight": 165.3,
+          "feel": "各方向敲击力度一致，干燥剂声音很微弱",
+          "feelEn": "Consistent shake pattern. The tapping force feels evenly distributed in all directions, while the silica packet sound remains very faint.",
+          "spuId": "1004066399213079551",
+          "image": "https://treasure.islandsassets.com/treasure/images/fjyeHoNhgWZ.png"
+        },
+        {
+          "name": "害羞",
+          "nameEn": "Shy",
+          "weight": 162.07,
+          "feel": "明显比其他款轻，上下晃动明显，其他方向相对固定。摇晃无敲盒声，只有干燥剂擦盒的沙沙声",
+          "feelEn": "Noticeably lighter than the others. Has significant vertical movement, while the other directions feel relatively fixed. No box-tapping sound when shaken—only the distinctive rustling sound of the silica packet rubbing against the box walls.",
+          "spuId": "1004066444310236552",
+          "image": "https://treasure.islandsassets.com/treasure/images/fjyeNG5TTBb.png"
+        }
+      ]
+    },
+    {
       "id": "winds-intention",
       "name": "风的来意系列",
       "nameEn": "Wind's Intention Series Figures",
