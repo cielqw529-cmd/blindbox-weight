@@ -1,6 +1,74 @@
 {
   "series": [
     {
+      "id": "mist-walker-vinyl-plush-pendant",
+      "name": "雾中人系列毛绒公仔挂件",
+      "nameEn": "Mist-Walker Vinyl Plush Pendant Series",
+      "brand": "泡泡玛特",
+      "releaseDate": "2026-06-12",
+      "note": "不落之翼173.7g最重。太初159.6g最轻。隐藏款雾晓终章165.2g和失翼徒重量相同，手感需区分",
+      "noteEn": "The Unfallen Wing at 173.7g is heaviest. The Primordial Grace at 159.6g is lightest. Secret figure The Tempered Aegis at 165.2g weighs same as The Wingless Follower - differentiate by feel.",
+      "figures": [
+        {
+          "name": "不落之翼",
+          "nameEn": "The Unfallen Wing",
+          "weight": 173.7,
+          "feel": "系列最重。前后摇空间大撞击明显。左右摇轻微晃动伴有干燥剂声。上下摇主体几乎不动，只有身份卡和干燥剂打盒",
+          "feelEn": "The heaviest figure in the series. Front/back shake has large movement space with strong box impacts. Left/right shake has slight movement accompanied by silica packet sounds. Vertical shake: the figure itself barely moves; only the ID card taps against the box along with silica packet noise.",
+          "image": "https://treasure.islandsassets.com/treasure/images/fjcuRhX16lZ.png"
+        },
+        {
+          "name": "隙光旅人",
+          "nameEn": "The Gap-Glimmer Wanderer",
+          "weight": 169.8,
+          "feel": "前后左右摇空间大，上下摇空间小很多，能听到干燥剂晃动",
+          "feelEn": "Large movement space when shaken front/back or left/right. Vertical movement is much more restricted. Silica packet can be heard moving inside.",
+          "image": "https://treasure.islandsassets.com/treasure/images/fjcuD17PLiP.png"
+        },
+        {
+          "name": "心蚀者",
+          "nameEn": "The Soul Corroder",
+          "weight": 168.9,
+          "feel": "前后摇很满只有微弱干燥剂声。上下摇同样很满只有干燥剂打盒。左右摇空间不大，有干燥剂和身份卡声",
+          "feelEn": "Front/back shake feels very full with only faint silica packet sounds. Vertical shake is similarly packed, with only the silica packet hitting the box. Left/right shake has limited movement space, accompanied by both silica packet and ID card sounds.",
+          "image": "https://treasure.islandsassets.com/treasure/images/fjcCoAjdgSN.png"
+        },
+        {
+          "name": "隐藏款-雾晓终章",
+          "nameEn": "The Tempered Aegis (Secret)",
+          "weight": 165.2,
+          "feel": "前后摇空间大，后中上部撞击明显。左右摇均匀分布轻打盒在中上部。上下摇有明显的上下撞击，主要是干燥剂",
+          "feelEn": "Front/back shake: large movement space with heavy impacts around the upper-middle rear section. Left/right shake: evenly distributed movement with light tapping around the upper-middle area. Vertical shake: noticeable top-and-bottom impacts, mainly caused by the silica packet.",
+          "image": "https://treasure.islandsassets.com/treasure/images/fjcuxwcSY9C.png",
+          "is_hot": true
+        },
+        {
+          "name": "失翼徒",
+          "nameEn": "The Wingless Follower",
+          "weight": 165.2,
+          "feel": "前后摇很满只有轻微干燥剂声。上下摇只有干燥剂撞击。左右摇比心蚀者空间稍大，有干燥剂和身份卡声",
+          "feelEn": "Front/back shake feels full with only light silica packet sounds. Vertical shake produces only silica packet impacts. Left/right shake has slightly more movement space than The Soul Corroder, along with silica packet and ID card noises.",
+          "image": "https://treasure.islandsassets.com/treasure/images/fjcubLZbvIF.png"
+        },
+        {
+          "name": "逆光信使",
+          "nameEn": "The Backlit Messenger",
+          "weight": 161.9,
+          "feel": "六面都有明显晃动。前后和上下晃动均匀，左右摇空间最大。全程有干燥剂声",
+          "feelEn": "All six sides show noticeable movement. Front/back and vertical movement feel evenly distributed, while left/right shake has the largest movement space. Silica packet sounds are present throughout.",
+          "image": "https://treasure.islandsassets.com/treasure/images/fjcuVxmo6gZ.png"
+        },
+        {
+          "name": "太初",
+          "nameEn": "The Primordial Grace",
+          "weight": 159.6,
+          "feel": "系列最轻。上下摇整体轻微打盒有咔哒声。前后摇明显撞盒有咣当感。左右摇整体撞击明显有咣当感。六面捏都捏不到",
+          "feelEn": "The lightest figure in the series. Vertical shake: light overall box tapping with distinct clicking sounds. Front/back shake: obvious box impacts with noticeable clunking. Left/right shake: strong overall impacts with a pronounced clunking feel. No squeeze feedback can be detected from any side.",
+          "image": "https://treasure.islandsassets.com/treasure/images/fjcuI1FUx32.png"
+        }
+      ]
+    },
+    {
       "id": "inosoul-rainy-reveries",
       "name": "inosoul|雨天浮想系列",
       "nameEn": "inosoul|Rainy Reveries Series Figures",
