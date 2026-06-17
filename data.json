@@ -1,6 +1,58 @@
 {
   "series": [
     {
+      "id": "baby-molly-buggy-roam",
+      "name": "Baby Molly|虫虫漫游系列",
+      "nameEn": "Baby Molly|Buggy Roam Series Vinyl Plush Pendant",
+      "brand": "泡泡玛特",
+      "releaseDate": "2026-06-18",
+      "note": "散步瓢虫118.3g最重且全方位锁死。扑闪蝴蝶109.1g最轻最松散。隐藏款兜风蜻蜓110.5g有独特翅膀摩擦声",
+      "noteEn": "Strolling Ladybug at 118.3g is heaviest and completely locked. Fluttering Butterfly at 109.1g is lightest and loosest. Secret Wandering Dragonfly at 110.5g has unique wing-friction sounds.",
+      "figures": [
+        {
+          "name": "散步瓢虫",
+          "nameEn": "Strolling Ladybug",
+          "weight": 118.3,
+          "feel": "常规最重。上下完全无多余晃动空间，捏盒能感受到饱满填充，无任何砸盒动静。前后全程闷盒无打盒、擦盒声响，干燥剂声音几乎完全消失。左右彻底卡死不动，是常规款里最紧实的大明盒，辨识度极高",
+          "feelEn": "Heaviest regular figure. Vertical shake: No extra movement space at all. Feels fully packed when squeezed, with no bottom impacts. Front/back shake: Completely muted. No tapping or rubbing sounds, and even the silica packet is barely noticeable. Left/right shake: Completely locked. The densest and most tightly packed regular figure in the series, making it very easy to identify.",
+          "image": "https://treasure.islandsassets.com/treasure/images/fjCLo4zYFhW.png"
+        },
+        {
+          "name": "搬搬蚂蚁",
+          "nameEn": "Busy-Busy Ant",
+          "weight": 114.7,
+          "feel": "上下只有微量晃动，几乎感受不到底部砸盒，卡片声微弱。前后中下部存在定点轻打盒，力道柔和，不会出现剧烈撞击。左右完全摇不动，内部填充扎实，无多余空隙",
+          "feelEn": "Vertical shake: Very little movement. Almost no bottom impact, with only faint card sounds. Front/back shake: Light fixed-point tapping around the lower-middle area. Soft and controlled, never producing heavy collisions. Left/right shake: Completely immobile. Internal packing feels dense and secure, with no excess space.",
+          "image": "https://treasure.islandsassets.com/treasure/images/fjCzbaf7Ior.png"
+        },
+        {
+          "name": "嗡嗡蜜蜂",
+          "nameEn": "Lively Bee",
+          "weight": 112.6,
+          "feel": "上下仅有小幅晃动空间，底部轻微砸盒，卡片碰撞声柔和，无大力撞击感。前后盒身中部位置持续轻微擦盒，毛绒摩擦声明显，无定点硬打盒。左右基本锁死摇不动，干燥剂声响被毛绒材质弱化，整体紧实不松散",
+          "feelEn": "Vertical shake: Only a small amount of movement space. Slight bottom impact with a soft card-tapping sound, but no heavy collisions. Front/back shake: Continuous light rubbing around the center of the box. Plush friction sounds are noticeable, with no fixed-point impacts. Left/right shake: Almost completely locked in place. Silica packet sounds are softened by the plush material, giving it a compact and tightly packed feel.",
+          "image": "https://treasure.islandsassets.com/treasure/images/fjCLoVbfTBV.png"
+        },
+        {
+          "name": "隐藏款-兜风蜻蜓",
+          "nameEn": "Wandering Dragonfly (Secret)",
+          "weight": 110.5,
+          "feel": "上下晃动幅度适中，空间介于蜜蜂与蝴蝶之间，无厚重砸盒声。前后能听见翅膀配件独特的轻薄摩擦声，区别于常规毛绒摩擦音。左右中部轻微碰盒，整体声响更柔和，饱满度弱于瓢虫、蚂蚁",
+          "feelEn": "Vertical shake: Moderate movement, sitting between Lively Bee and Fluttering Butterfly. No heavy bottom impacts. Front/back shake: Distinctive light wing-accessory friction sounds that differ from the plush rubbing heard in the regular figures. Left/right shake: Light impacts around the center of the box. Overall sound profile is softer, and the packed feeling is less dense than Strolling Ladybug or Busy-Busy Ant.",
+          "image": "https://treasure.islandsassets.com/treasure/images/fjCzncFGbZw.png",
+          "is_hot": true
+        },
+        {
+          "name": "扑闪蝴蝶",
+          "nameEn": "Fluttering Butterfly",
+          "weight": 109.1,
+          "feel": "系列最轻。上下留有半指空隙，晃动幅度偏大，卡片清脆咔哒声十分清晰。前后轻微擦盒，盒身两侧有翅膀带来的细碎摩擦声响。左右小幅晃动，整体手感偏松散，和其余闷盒常规款反差明显",
+          "feelEn": "Lightest figure in the series. Vertical shake: About half a finger's worth of movement space. Noticeably looser movement with a crisp card-clicking sound. Front/back shake: Light rubbing against the box, with subtle wing-friction sounds along the sides. Left/right shake: Slight movement with an overall looser feel, standing out clearly from the tighter-packed regular figures.",
+          "image": "https://treasure.islandsassets.com/treasure/images/fjCzEr1Uyjf.png"
+        }
+      ]
+    },
+    {
       "id": "mist-walker-vinyl-plush-pendant",
       "name": "雾中人系列毛绒公仔挂件",
       "nameEn": "Mist-Walker Vinyl Plush Pendant Series",
