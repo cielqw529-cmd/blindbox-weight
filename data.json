@@ -1,6 +1,122 @@
 {
   "series": [
     {
+      "id": "kubo-love-still",
+      "name": "Kubo|爱的定格系列",
+      "nameEn": "Kubo|Love, Still Series Figures",
+      "brand": "泡泡玛特",
+      "releaseDate": "2026-06-18",
+      "note": "与你有关的梦149.5g最重。四月阵雨95.1g最轻。隐藏款叠愿113.5g有大配件自由晃动特征",
+      "noteEn": "Dreams of You at 149.5g is heaviest. April Showers at 95.1g is lightest. Secret Folded Wishes at 113.5g has distinctive large loose accessory movement.",
+      "figures": [
+        {
+          "name": "与你有关的梦",
+          "nameEn": "Dreams of You",
+          "weight": 149.5,
+          "feel": "整端最重。前后摇轻微晃动前后都是中部轻微打盒，左右摇左右两侧中部打盒重，上下摇底部砸盒。（小配件，小包干燥剂）",
+          "feelEn": "The heaviest figure in the series. Front/back shake reveals slight movement with light impacts around the center. Left/right shake produces strong impacts on both middle sides. Vertical shake creates heavy bottom impacts. (Small accessory, small silica packet)",
+          "image": "https://treasure.islandsassets.com/treasure/images/fjC1bNtUIaA.png"
+        },
+        {
+          "name": "筑梦",
+          "nameEn": "Build Our Home",
+          "weight": 125.8,
+          "feel": "左右摇左侧中部打盒重，前后摇晃的空间大前侧中部打盒重后侧中部偏下打盒轻，上下摇底部砸盒伴有干燥剂身份卡声。（中包干燥剂）",
+          "feelEn": "Left/right shake creates strong impacts around the middle left side. Front/back shake has large movement space, with heavy impacts on the front middle section and lighter impacts near the lower rear section. Vertical shake produces strong bottom impacts accompanied by silica packet and ID card sounds. (Medium silica packet)",
+          "image": "https://treasure.islandsassets.com/treasure/images/fjCkf8dZiXg.png"
+        },
+        {
+          "name": "隐藏款-叠愿",
+          "nameEn": "Folded Wishes (Secret)",
+          "weight": 113.5,
+          "feel": "明显偏重。上下和前后轻微晃动，大配件在内部自由移动。左右晃动受限因为超大配件占据大部分空间。配件移动声是关键辨识点，因为配件未固定。（大配件）",
+          "feelEn": "Feels noticeably heavy. Slight movement vertically and front-to-back, with a large accessory moving freely inside. Left/right movement is limited due to the oversized accessory occupying most of the space. The accessory movement sound is the key identifier, as it is not secured in place. (Large accessory)",
+          "image": "https://treasure.islandsassets.com/treasure/images/fjCkiTQlaYo.png",
+          "is_hot": true
+        },
+        {
+          "name": "携花而来",
+          "nameEn": "Coming with Flowers",
+          "weight": 112.1,
+          "feel": "前后摇轻微晃动伴有干燥剂声，上下摇配件身份卡干燥剂底部砸盒，左右摇散配件打盒。（中包干燥剂，散配件）",
+          "feelEn": "Front/back shake produces slight movement with silica packet sounds. Vertical shake causes the accessory, ID card, and silica packet to hit the bottom of the box. Left/right shake reveals loose accessory impacts. (Medium silica packet, loose accessory)",
+          "image": "https://treasure.islandsassets.com/treasure/images/fjC1g1kBLe5.png"
+        },
+        {
+          "name": "散场前",
+          "nameEn": "Before the Curtain Falls",
+          "weight": 111.7,
+          "feel": "前后摇前侧中部偏上打盒，上下摇空间大底部砸盒重，左右摇左侧上部打盒重干燥剂声大。（大配件，大包干燥剂）",
+          "feelEn": "Front/back shake causes impacts around the upper-middle front section. Vertical shake has large movement space with heavy bottom impacts. Left/right shake creates strong impacts near the upper left side, accompanied by loud silica packet sounds. (Large accessory, large silica packet)",
+          "image": "https://treasure.islandsassets.com/treasure/images/fjC1eNQOtS2.png"
+        },
+        {
+          "name": "夏日之前",
+          "nameEn": "Early Summer",
+          "weight": 105.7,
+          "feel": "前后摇前侧中部及下部打盒重伴有干燥剂声大，左右摇左侧中部打盒重，上下摇两指空间晃动配件底部打盒明显且干燥剂声大。（小配件，大包干燥剂）",
+          "feelEn": "Front/back shake has large impacts around the front middle and lower sections, with strong silica packet sounds. Left/right shake creates heavy impacts around the middle left side. Vertical shake has about two fingers' worth of movement space, with obvious accessory impacts at the bottom and loud silica packet noise. (Small accessory, large silica packet)",
+          "image": "https://treasure.islandsassets.com/treasure/images/fjCkokUZAix.png"
+        },
+        {
+          "name": "爱是盲目的",
+          "nameEn": "Love Is Blind",
+          "weight": 101.8,
+          "feel": "前后摇后侧中部偏上打盒重伴有干燥剂声大，上下摇主体几乎不动且身份卡上下打盒伴有干燥剂声大，左右摇轻微晃动且均匀。（小配件，大包干燥剂）",
+          "feelEn": "Front/back shake creates strong impacts around the upper-middle rear section with prominent silica packet sounds. Vertical shake: the figure barely moves, while the ID card taps against the box along with loud silica packet noise. Left/right shake shows light, evenly distributed movement. (Small accessory, large silica packet)",
+          "image": "https://treasure.islandsassets.com/treasure/images/fjC1gt6vn1U.png"
+        },
+        {
+          "name": "余烬中的告白",
+          "nameEn": "Ashes of a Secret",
+          "weight": 101.1,
+          "feel": "前后按住摇只有干燥剂声且前侧下部偏左按压有对顶，左右摇左侧中部轻轻打盒伴有干燥剂声，上下摇底部配件打盒伴有干燥剂声大。（大包干燥剂，大配件）",
+          "feelEn": "When held firmly during front/back shaking, only silica packet sounds remain. A noticeable pressure point can be felt near the lower-left front section. Left/right shake creates light impacts around the middle left side with silica packet sounds. Vertical shake causes accessory impacts at the bottom with loud silica packet noise. (Large accessory, large silica packet)",
+          "image": "https://treasure.islandsassets.com/treasure/images/fjC1nb2mIM0.png"
+        },
+        {
+          "name": "趁花开时",
+          "nameEn": "Catch the Bloom",
+          "weight": 99.4,
+          "feel": "六个面摇盒内主体几乎要不动很满，只有干燥剂晃动声较大，上下左右摇轻微身份卡打盒。（大配件，中包干燥剂）",
+          "feelEn": "The figure is packed very tightly and barely moves from any direction. The most noticeable clue is the loud silica packet movement. Light ID card tapping can be heard when shaken vertically or side-to-side. (Large accessory, medium silica packet)",
+          "image": "https://treasure.islandsassets.com/treasure/images/fjC1E9YiJSf.png"
+        },
+        {
+          "name": "初恋",
+          "nameEn": "First Love",
+          "weight": 96.1,
+          "feel": "前后摇后侧下部轻轻打盒，左右摇左侧下部打盒重，上下摇空间大底部砸盒伴有身份卡干燥剂声。（小配件，小包干燥剂）",
+          "feelEn": "Front/back shake creates light impacts near the lower rear section. Left/right shake produces stronger impacts near the lower left side. Vertical shake has large movement space, with heavy bottom impacts accompanied by ID card and silica packet sounds. (Small accessory, small silica packet)",
+          "image": "https://treasure.islandsassets.com/treasure/images/fjC1ETcPM6v.png"
+        },
+        {
+          "name": "致你",
+          "nameEn": "To You",
+          "weight": 95.7,
+          "feel": "前后摇后侧上部打盒伴有干燥剂声，左右摇左侧中部偏上打盒伴有干燥剂声，上下摇底部中度砸盒干燥剂声大。（大包干燥剂）",
+          "feelEn": "Front/back shake causes tapping around the upper rear section, accompanied by silica packet sounds. Left/right shake produces impacts around the upper-middle left side. Vertical shake results in moderate bottom impacts with strong silica packet noise. (Large silica packet)",
+          "image": "https://treasure.islandsassets.com/treasure/images/fjC1DxLxhCt.png"
+        },
+        {
+          "name": "说不出口的心动",
+          "nameEn": "Unspoken Heartbeat",
+          "weight": 95.6,
+          "feel": "左右摇左侧下部打盒重，前后摇前侧中部偏左打盒重，上下摇两指空间晃动底部砸盒重伴有干燥剂声。（小包干燥剂，小配件）",
+          "feelEn": "Left/right shake produces strong impacts near the lower left side. Front/back shake creates strong impacts around the front middle-left area. Vertical shake has about two fingers' worth of movement space, with heavy bottom impacts and noticeable silica packet sounds. (Small accessory, small silica packet)",
+          "image": "https://treasure.islandsassets.com/treasure/images/fjC1n23KeHS.png"
+        },
+        {
+          "name": "四月阵雨",
+          "nameEn": "April Showers",
+          "weight": 95.1,
+          "feel": "整端最轻。上下摇满只有身份卡打盒，前后摇满只有干燥剂声，左右摇左右两侧下部轻微打盒。（小包干燥剂，大配件）",
+          "feelEn": "The lightest figure in the series. Vertical shake feels very full, with only the ID card tapping the box. Front/back shake produces only silica packet sounds. Left/right shake reveals slight tapping near the lower sides of the box. (Large accessory, small silica packet)",
+          "image": "https://treasure.islandsassets.com/treasure/images/fjC130LGEY8.png"
+        }
+      ]
+    },
+    {
       "id": "baby-molly-buggy-roam",
       "name": "Baby Molly|虫虫漫游系列",
       "nameEn": "Baby Molly|Buggy Roam Series Vinyl Plush Pendant",
