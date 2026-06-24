@@ -1,6 +1,122 @@
 {
   "series": [
     {
+      "id": "the-monsters-hair-salon",
+      "name": "THE MONSTERS|复古理发店系列",
+      "nameEn": "THE MONSTERS|Hair Salon Series Figures",
+      "brand": "泡泡玛特",
+      "releaseDate": "2026-06-25",
+      "note": "隐藏款闺蜜造型136.8g最重，双人底座完全卡死。麻花辫120.4g最轻最松散。店长132.6g常规最重闷盒",
+      "noteEn": "Secret Twinning Looks at 136.8g is heaviest with completely locked dual base. Braided Pigtails at 120.4g is lightest and loosest. Salon Manager at 132.6g is heaviest regular dead-box.",
+      "figures": [
+        {
+          "name": "隐藏款-闺蜜造型",
+          "nameEn": "Twinning Looks (Secret)",
+          "weight": 136.8,
+          "feel": "全系最重。完全没有晃动空间，坠手感极强；双人底座晃动会发出硬质闷响，全盒卡死不动，是辨识度很高的大明盒",
+          "feelEn": "Heaviest in the series. Absolutely no movement space. Feels significantly heavier than every regular figure. The dual-character base creates a deep, solid thud when moved. The entire box feels completely locked, making it one of the easiest secrets to identify.",
+          "image": "https://treasure.islandsassets.com/treasure/images/fjKchlXIcJ4.png",
+          "is_hot": true
+        },
+        {
+          "name": "店长",
+          "nameEn": "Salon Manager",
+          "weight": 132.6,
+          "feel": "常规偏重。基本没有晃动空间，全程无砸盒动静；整体为闷盒，左右完全卡死，上手下坠厚重感突出",
+          "feelEn": "Heavier regular figure. Virtually no movement space. No impacts or collisions during shaking. Completely locked side-to-side, with a noticeably heavy and dense feel in hand.",
+          "image": "https://treasure.islandsassets.com/treasure/images/fjKc2jT55cp.png"
+        },
+        {
+          "name": "美容师",
+          "nameEn": "Beauty Specialist",
+          "weight": 131.2,
+          "feel": "上下晃动幅度极小，无砸盒手感；仅盒中部轻微碰盒，整盒饱满厚实，没有空洞感",
+          "feelEn": "Extremely limited movement vertically with no impact sensation. Only slight contact around the center of the box. Feels full, thick, and solid with no hollow areas.",
+          "image": "https://treasure.islandsassets.com/treasure/images/fjKccxxYC38.png"
+        },
+        {
+          "name": "理发大师",
+          "nameEn": "Master Hairstylist",
+          "weight": 129.3,
+          "feel": "几乎没有晃动余量，卡片声音微弱；盒内填充紧实僵硬，是标准闷盒手感",
+          "feelEn": "Almost no movement space at all. Only faint card sounds can be heard. Internal packing is dense and rigid, representing the classic fully packed blind-box feel.",
+          "image": "https://treasure.islandsassets.com/treasure/images/fjKclFg6vJ0.png"
+        },
+        {
+          "name": "理发学徒",
+          "nameEn": "Salon Apprentice",
+          "weight": 128.5,
+          "feel": "上下晃动微弱，底部轻擦盒；中下位置定点柔和打盒，左右完全锁死，手感偏闷",
+          "feelEn": "Very little vertical movement with light bottom rubbing. Soft fixed-point tapping around the lower-middle area. Completely locked side-to-side, with a dense and muted feel.",
+          "image": "https://treasure.islandsassets.com/treasure/images/fjKccoNQc0t.png"
+        },
+        {
+          "name": "翘翘头",
+          "nameEn": "Flip Ends",
+          "weight": 127.1,
+          "feel": "上下存在小幅空隙，底部轻碰盒体；盒身中部定点擦盒，左右内部物料饱满扎实",
+          "feelEn": "Small amount of movement space vertically with light bottom contact. A fixed rubbing point can be detected around the center of the box. Side-to-side feels densely packed and solid.",
+          "image": "https://treasure.islandsassets.com/treasure/images/fjKc1NXgC0y.png"
+        },
+        {
+          "name": "波波头",
+          "nameEn": "Outward Bob",
+          "weight": 126.2,
+          "feel": "上下半指空隙，卡片声音清亮通透；前后及中上部均匀擦盒，左右几乎无法晃动，内部填充稳固",
+          "feelEn": "About half a finger's worth of movement space vertically. Card sounds are crisp and clear. Even rubbing can be felt front-to-back and around the upper-middle area. Side-to-side movement is nearly locked, with solid internal packing.",
+          "image": "https://treasure.islandsassets.com/treasure/images/fjKc7AilhQH.png"
+        },
+        {
+          "name": "烫卷发",
+          "nameEn": "Get a Perm",
+          "weight": 125.3,
+          "feel": "上下晃动十分细微，卡片仅有微弱沙沙声；盒身中上部轻微碰盒，整体声音偏闷",
+          "feelEn": "Extremely subtle movement vertically. Only faint card rustling can be heard. Light box contact around the upper-middle area, with an overall muted sound profile.",
+          "image": "https://treasure.islandsassets.com/treasure/images/fjKckTVDAjS.png"
+        },
+        {
+          "name": "齐刘海",
+          "nameEn": "Blunt Bangs",
+          "weight": 124.5,
+          "feel": "上下仅有微量晃动，无明显砸盒；娃娃紧贴盒壁，两侧轻微擦盒，手感均衡稳定",
+          "feelEn": "Only slight vertical movement with no obvious impacts. The figure sits close to the box walls, creating light rubbing on both sides. Balanced and stable overall feel.",
+          "image": "https://treasure.islandsassets.com/treasure/images/fjKcPWfZCfu.png"
+        },
+        {
+          "name": "高马尾",
+          "nameEn": "High Ponytail",
+          "weight": 123.7,
+          "feel": "上下晃动幅度小，底部轻擦盒壁；前后中部有塑料件摩擦声响，左右基本锁死，手感闷且紧实",
+          "feelEn": "Small amount of vertical movement with light rubbing against the bottom wall. Plastic component friction can be heard around the center when shaken front-to-back. Side-to-side movement is almost completely locked, giving it a dense, compact feel.",
+          "image": "https://treasure.islandsassets.com/treasure/images/fjKcG0Nsyxf.png"
+        },
+        {
+          "name": "大波浪",
+          "nameEn": "Loose Waves",
+          "weight": 122.1,
+          "feel": "上下晃动轻微，只有细碎卡片声响；前后无固定打盒点，仅盒子两侧小幅擦盒",
+          "feelEn": "Very little vertical movement, with only faint card sounds. No fixed impact point front-to-back, just light rubbing along both sides of the box.",
+          "image": "https://treasure.islandsassets.com/treasure/images/fjKcL3oVHD7.png"
+        },
+        {
+          "name": "狂野吹发",
+          "nameEn": "Wild Blowout",
+          "weight": 121.6,
+          "feel": "上下留有半指空隙，晃动幅度适中；能清晰听见吹风机配件摩擦声，左右仅会小幅晃动",
+          "feelEn": "About half a finger's worth of vertical movement space with moderate movement. The hair dryer accessory creates a distinctive rubbing sound. Only slight movement side-to-side.",
+          "image": "https://treasure.islandsassets.com/treasure/images/fjKcSl7jKir.png"
+        },
+        {
+          "name": "麻花辫",
+          "nameEn": "Braided Pigtails",
+          "weight": 120.4,
+          "feel": "常规最轻。晃动空间充足，底部砸盒清脆，六面均可均匀擦盒；手感松散，摇晃时干燥剂颗粒声响格外清晰",
+          "feelEn": "Lightest regular figure. Generous movement space inside the box. Crisp bottom impacts when shaken vertically. Light rubbing can be felt from all six sides. Overall feel is loose, with very noticeable silica packet grain sounds.",
+          "image": "https://treasure.islandsassets.com/treasure/images/fjKczAXncxa.png"
+        }
+      ]
+    },
+    {
       "id": "kubo-love-still",
       "name": "Kubo|爱的定格系列",
       "nameEn": "Kubo|Love, Still Series Figures",
