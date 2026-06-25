@@ -1,6 +1,74 @@
 {
   "series": [
     {
+      "id": "the-monsters-hair-salon-plush",
+      "name": "THE MONSTERS|复古理发店系列搪胶毛绒挂件",
+      "nameEn": "THE MONSTERS|Hair Salon Series Vinyl Plush Pendant",
+      "brand": "泡泡玛特",
+      "releaseDate": "2026-06-25",
+      "note": "丝绒午后210.5g最重，六面都很满是大明盒。浅蓝序曲190g最轻。慵懒西岸可感受到金属环撞击。整套手感差异不大，主要靠重量区分",
+      "noteEn": "Velvet Noon at 210.5g is heaviest with fully packed dead-box feel. Blue Prelude at 190g is lightest. Coastal Vibes has distinctive metal keyring tapping. Overall feel is similar across series - differentiate by weight.",
+      "figures": [
+        {
+          "name": "丝绒午后",
+          "nameEn": "Velvet Noon",
+          "weight": 210.5,
+          "feel": "系列最重。头发很长很厚，六面空间都特别特别小，都很满的一只，是大明盒",
+          "feelEn": "Heaviest in the series. One of the heaviest figures, with long, thick hair that fills the box. Extremely limited movement from every direction, making it feel like a fully packed dead box.",
+          "image": "https://treasure.islandsassets.com/treasure/images/fjqkV13fPNG.png"
+        },
+        {
+          "name": "雨过天晴",
+          "nameEn": "After Rain",
+          "weight": 206,
+          "feel": "手感一致。前后空间特别大撞击感明显，上下略有一点空间，左右很满几乎没有空间",
+          "feelEn": "Matches the standard pattern. Large front/back movement with noticeable impacts, minimal vertical movement, and very little side-to-side space.",
+          "image": "https://treasure.islandsassets.com/treasure/images/fjqhiPSN9Jn.png"
+        },
+        {
+          "name": "反叛日记",
+          "nameEn": "Born Rebel",
+          "weight": 204,
+          "feel": "手感一致。前后空间特别大撞击感明显，上下略有一点空间，左右很满几乎没有空间",
+          "feelEn": "Follows the standard shake pattern. Large front/back movement with strong impacts, slight vertical movement, and a tightly packed left/right feel.",
+          "image": "https://treasure.islandsassets.com/treasure/images/fjqhyA4KmeO.png"
+        },
+        {
+          "name": "隐藏款-迷雾白噪音",
+          "nameEn": "Hazy Noisy (Secret)",
+          "weight": 198.59,
+          "feel": "上下摇整体打盒，有干燥剂包的莎莎声。前后摇主体轻微打盒，空间很小，有干燥剂包打盒的声音。左右摇主体轻微打盒，有卡片轻微的咔哒声。六面捏不到，整体会比较满",
+          "feelEn": "Vertical shake: light overall box tapping with noticeable silica packet rustling. Front/back shake: slight figure tapping with very limited movement space and audible silica packet impacts. Left/right shake: light figure tapping with faint card-clicking sounds. No squeeze feedback from any side. Overall feels very full and densely packed.",
+          "image": "https://treasure.islandsassets.com/treasure/images/fjqhjVZix8X.png",
+          "is_hot": true
+        },
+        {
+          "name": "慵懒西岸",
+          "nameEn": "Coastal Vibes",
+          "weight": 192.5,
+          "feel": "手感一致略有不同。前后空间特别大撞击感明显，上下略有一点空间，左右很满几乎没有空间。但能感受到金属环的撞击感",
+          "feelEn": "Nearly identical to the standard shake pattern, but with one key difference: you can clearly feel the metal keyring tapping during movement. Front/back has large movement space, slight vertical play, and almost no side-to-side movement.",
+          "image": "https://treasure.islandsassets.com/treasure/images/fjqhrEQOA0B.png"
+        },
+        {
+          "name": "燕麦温差",
+          "nameEn": "Warm Oat",
+          "weight": 192.5,
+          "feel": "手感一致。前后空间特别大撞击感明显，上下略有一点空间，左右很满几乎没有空间",
+          "feelEn": "Shares the same shake profile as Blue Prelude. Large front/back movement with obvious impacts, slight vertical movement, and an almost completely packed feel from left to right.",
+          "image": "https://treasure.islandsassets.com/treasure/images/fjqhByi8YOe.png"
+        },
+        {
+          "name": "浅蓝序曲",
+          "nameEn": "Blue Prelude",
+          "weight": 190,
+          "feel": "系列最轻。手感一致。前后空间特别大撞击感明显，上下略有一点空间，左右很满几乎没有空间",
+          "feelEn": "Lightest in the series. The overall feel is very similar to most of the series. Front/back shake has a large movement space with noticeable impacts. Vertical shake has a small amount of movement. Left/right feels very full with almost no movement.",
+          "image": "https://treasure.islandsassets.com/treasure/images/fjqh5pbtglO.png"
+        }
+      ]
+    },
+    {
       "id": "the-monsters-hair-salon",
       "name": "THE MONSTERS|复古理发店系列",
       "nameEn": "THE MONSTERS|Hair Salon Series Figures",
