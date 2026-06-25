@@ -1634,23 +1634,58 @@
         }
         let filtersExpanded = false;
 
-        // Load comments from localStorage
+        // Comments API configuration
+        const COMMENTS_API = 'https://blindbox-comments.islandsapp.workers.dev';
+        const commentsCache = {}; // In-memory cache
+
+        // Load comments from API (with cache)
         function getComments(seriesId) {
-            const allComments = JSON.parse(localStorage.getItem('blindbox_comments') || '{}');
-            return allComments[seriesId] || [];
+            return commentsCache[seriesId] || [];
         }
 
-        function saveComment(seriesId, author, content) {
-            const allComments = JSON.parse(localStorage.getItem('blindbox_comments') || '{}');
-            if (!allComments[seriesId]) {
-                allComments[seriesId] = [];
+        async function fetchComments(seriesId) {
+            try {
+                const res = await fetch(`${COMMENTS_API}/comments/${encodeURIComponent(seriesId)}`);
+                const json = await res.json();
+                if (json.success) {
+                    commentsCache[seriesId] = json.data;
+                    return json.data;
+                }
+            } catch (e) {
+                console.error('Failed to fetch comments:', e);
             }
-            allComments[seriesId].push({
-                author: author || '匿名用户',
-                content,
-                time: new Date().toLocaleString('zh-CN')
-            });
-            localStorage.setItem('blindbox_comments', JSON.stringify(allComments));
+            return commentsCache[seriesId] || [];
+        }
+
+        async function saveComment(seriesId, author, content) {
+            try {
+                const res = await fetch(`${COMMENTS_API}/comments/${encodeURIComponent(seriesId)}`, {
+                    method: 'POST',
+                    headers: { 'Content-Type': 'application/json' },
+                    body: JSON.stringify({ author, content })
+                });
+                const json = await res.json();
+                if (json.success) {
+                    // Add to cache
+                    if (!commentsCache[seriesId]) commentsCache[seriesId] = [];
+                    commentsCache[seriesId].unshift(json.data);
+                    render();
+                    return true;
+                } else {
+                    alert(json.error || '发表失败');
+                    return false;
+                }
+            } catch (e) {
+                console.error('Failed to save comment:', e);
+                alert('网络错误，请稍后重试');
+                return false;
+            }
+        }
+
+        // Preload comments for visible series
+        async function preloadComments() {
+            const seriesIds = data.series.slice(0, 20).map(s => s.id);
+            await Promise.all(seriesIds.map(id => fetchComments(id)));
             render();
         }
 
@@ -1679,25 +1714,38 @@
             } else {
                 container.classList.add('show');
                 expandedComments.add(seriesId);
+                // Fetch latest comments when expanded
+                fetchComments(seriesId).then(() => render());
             }
         }
 
-        function submitComment(seriesId, event) {
+        async function submitComment(seriesId, event) {
             event.preventDefault();
             const form = event.target;
             const nameInput = form.querySelector('.comment-name-input');
             const contentInput = form.querySelector('.comment-input');
+            const submitBtn = form.querySelector('.comment-submit');
 
             if (!contentInput.value.trim()) {
                 alert(i18n[currentLang].emptyComment);
                 return;
             }
 
-            saveComment(seriesId, nameInput.value.trim(), contentInput.value.trim());
+            // Disable button during submission
+            submitBtn.disabled = true;
+            submitBtn.textContent = '发送中...';
 
-            // Save the username for future use
-            if (nameInput.value.trim()) {
-                localStorage.setItem('blindbox_username', nameInput.value.trim());
+            const success = await saveComment(seriesId, nameInput.value.trim(), contentInput.value.trim());
+
+            submitBtn.disabled = false;
+            submitBtn.textContent = i18n[currentLang].submitComment;
+
+            if (success) {
+                contentInput.value = '';
+                // Save the username for future use
+                if (nameInput.value.trim()) {
+                    localStorage.setItem('blindbox_username', nameInput.value.trim());
+                }
             }
         }
 
@@ -1968,6 +2016,7 @@
 
         initFilters();
         render();
+        preloadComments(); // Load comments from server
     </script>
 
     <!-- Floating download button -->
