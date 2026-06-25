@@ -1,0 +1,215 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>评论管理 - 盲盒手感数据库</title>
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+            background: #f5f5f5;
+            padding: 20px;
+            max-width: 1200px;
+            margin: 0 auto;
+        }
+        h1 {
+            color: #333;
+            margin-bottom: 20px;
+            display: flex;
+            align-items: center;
+            gap: 10px;
+        }
+        .refresh-btn {
+            background: #4CAF50;
+            color: white;
+            border: none;
+            padding: 8px 16px;
+            border-radius: 6px;
+            cursor: pointer;
+            font-size: 14px;
+        }
+        .refresh-btn:hover { background: #45a049; }
+        .refresh-btn:disabled { background: #ccc; cursor: not-allowed; }
+        .stats {
+            background: white;
+            padding: 15px 20px;
+            border-radius: 10px;
+            margin-bottom: 20px;
+            display: flex;
+            gap: 30px;
+            box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+        }
+        .stat-item {
+            display: flex;
+            flex-direction: column;
+        }
+        .stat-label { color: #666; font-size: 12px; }
+        .stat-value { font-size: 24px; font-weight: bold; color: #333; }
+        .series-card {
+            background: white;
+            border-radius: 10px;
+            margin-bottom: 15px;
+            overflow: hidden;
+            box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+        }
+        .series-header {
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+            padding: 12px 20px;
+            font-weight: 600;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+        .series-header .count {
+            background: rgba(255,255,255,0.2);
+            padding: 4px 10px;
+            border-radius: 12px;
+            font-size: 12px;
+        }
+        .comment-list {
+            padding: 15px 20px;
+        }
+        .comment-item {
+            padding: 12px 0;
+            border-bottom: 1px solid #eee;
+        }
+        .comment-item:last-child { border-bottom: none; }
+        .comment-meta {
+            display: flex;
+            gap: 10px;
+            margin-bottom: 6px;
+            font-size: 12px;
+            color: #666;
+        }
+        .comment-author {
+            font-weight: 600;
+            color: #333;
+        }
+        .comment-content {
+            color: #444;
+            line-height: 1.5;
+        }
+        .empty {
+            text-align: center;
+            color: #999;
+            padding: 40px;
+        }
+        .loading {
+            text-align: center;
+            padding: 40px;
+            color: #666;
+        }
+        .error {
+            background: #ffebee;
+            color: #c62828;
+            padding: 15px 20px;
+            border-radius: 10px;
+            margin-bottom: 20px;
+        }
+    </style>
+</head>
+<body>
+    <h1>
+        📝 评论管理
+        <button class="refresh-btn" onclick="loadComments()">刷新</button>
+    </h1>
+
+    <div class="stats" id="stats">
+        <div class="stat-item">
+            <span class="stat-label">总评论数</span>
+            <span class="stat-value" id="totalComments">-</span>
+        </div>
+        <div class="stat-item">
+            <span class="stat-label">有评论的系列</span>
+            <span class="stat-value" id="totalSeries">-</span>
+        </div>
+    </div>
+
+    <div id="content">
+        <div class="loading">加载中...</div>
+    </div>
+
+    <script>
+        const API = 'https://blindbox-comments.islandsapp.workers.dev';
+
+        async function loadComments() {
+            const btn = document.querySelector('.refresh-btn');
+            btn.disabled = true;
+            btn.textContent = '加载中...';
+
+            const content = document.getElementById('content');
+
+            try {
+                const res = await fetch(`${API}/comments/all`);
+                const json = await res.json();
+
+                if (!json.success) {
+                    throw new Error(json.error || '加载失败');
+                }
+
+                const data = json.data;
+                const seriesIds = Object.keys(data).sort((a, b) => {
+                    // Sort by most recent comment
+                    const aTime = data[a][0]?.timestamp || 0;
+                    const bTime = data[b][0]?.timestamp || 0;
+                    return bTime - aTime;
+                });
+
+                // Calculate stats
+                let totalComments = 0;
+                seriesIds.forEach(id => {
+                    totalComments += data[id].length;
+                });
+
+                document.getElementById('totalComments').textContent = totalComments;
+                document.getElementById('totalSeries').textContent = seriesIds.length;
+
+                if (seriesIds.length === 0) {
+                    content.innerHTML = '<div class="empty">暂无评论</div>';
+                } else {
+                    let html = '';
+                    seriesIds.forEach(seriesId => {
+                        const comments = data[seriesId];
+                        html += `
+                            <div class="series-card">
+                                <div class="series-header">
+                                    <span>${seriesId}</span>
+                                    <span class="count">${comments.length} 条评论</span>
+                                </div>
+                                <div class="comment-list">
+                                    ${comments.map(c => `
+                                        <div class="comment-item">
+                                            <div class="comment-meta">
+                                                <span class="comment-author">${escapeHtml(c.author)}</span>
+                                                <span>${c.time}</span>
+                                            </div>
+                                            <div class="comment-content">${escapeHtml(c.content)}</div>
+                                        </div>
+                                    `).join('')}
+                                </div>
+                            </div>
+                        `;
+                    });
+                    content.innerHTML = html;
+                }
+            } catch (e) {
+                content.innerHTML = `<div class="error">加载失败: ${e.message}</div>`;
+            } finally {
+                btn.disabled = false;
+                btn.textContent = '刷新';
+            }
+        }
+
+        function escapeHtml(text) {
+            const div = document.createElement('div');
+            div.textContent = text;
+            return div.innerHTML;
+        }
+
+        // Load on page load
+        loadComments();
+    </script>
+</body>
+</html>
