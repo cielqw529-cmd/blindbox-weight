@@ -1,6 +1,122 @@
 {
   "series": [
     {
+      "id": "peach-riot-power-chords",
+      "name": "Peach Riot|破序和弦系列手办",
+      "nameEn": "Peach Riot|Power Chords Series Figures",
+      "brand": "泡泡玛特",
+      "releaseDate": "2026-06-25",
+      "note": "Poppy海浪149.7g最重。Gigi战歌和信使都是98.9g最轻。隐藏款黄泉120.69g晃动空间大整体打盒",
+      "noteEn": "Poppy The Sea at 149.7g is heaviest. Gigi The Anthem and The Messenger both at 98.9g are lightest. Secret Gigi The Underworld at 120.69g has large movement space with overall box impacts.",
+      "figures": [
+        {
+          "name": "Poppy-海浪",
+          "nameEn": "Poppy - The Sea",
+          "weight": 149.7,
+          "feel": "整端最重。上下摇上下撞盒伴有身份卡及配件打盒声，前后摇后侧中部打盒重，左右摇右侧中部打盒轻左侧中部打盒重且有轻微塑料壳声。（小包干燥剂，有配件，塑料壳）",
+          "feelEn": "Heaviest regular figure. Vertical shake: strong top-and-bottom impacts with ID card and accessory sounds. Front/back shake: heavy impacts around the rear middle section. Left/right shake: light impacts on the right middle side, stronger impacts on the left middle side, with faint plastic shell sounds. (Small silica packet, accessory, plastic shell)",
+          "image": "https://treasure.islandsassets.com/treasure/images/fjVdg2Z8UJA.jpg"
+        },
+        {
+          "name": "Poppy-心跳",
+          "nameEn": "Poppy - The Beauty",
+          "weight": 130.8,
+          "feel": "前后摇后侧中部偏左上打盒重，上下摇上下撞盒干燥剂底部打盒，左右右侧中部偏右轻轻打盒伴有干燥剂声。（大包干燥剂）",
+          "feelEn": "Front/back shake: strong impacts around the upper-left rear section. Vertical shake: top-and-bottom impacts with silica packet and bottom accessory contact. Left/right shake: light impacts around the middle-right area with silica packet sounds. (Large silica packet)",
+          "image": "https://treasure.islandsassets.com/treasure/images/fjVdgwlA0zf.jpg"
+        },
+        {
+          "name": "Frankie-锻造",
+          "nameEn": "Frankie - The Forger",
+          "weight": 130.4,
+          "feel": "上下空间大上下撞盒重且底部身份卡干燥剂打盒，前后摇前侧中部及下部打盒重后侧下部打盒，左右摇晃动空间大右侧下部打盒重左侧下部打盒偏轻。（大包干燥剂）",
+          "feelEn": "Large vertical movement space with heavy top-and-bottom impacts, plus ID card and silica packet sounds near the bottom. Front/back shake: strong impacts around the front middle and lower sections, with lighter impacts at the lower rear. Left/right shake: large movement space, heavy impacts on the lower-right side and lighter impacts on the lower-left side. (Large silica packet)",
+          "image": "https://treasure.islandsassets.com/treasure/images/fjVdg2Z8UJn.jpg"
+        },
+        {
+          "name": "隐藏款-Gigi黄泉",
+          "nameEn": "Gigi - The Underworld (Secret)",
+          "weight": 120.69,
+          "feel": "前后摇晃上部干燥剂强打盒，左右摇晃整体打盒空间大，上下摇晃只有干燥剂打盒。整体晃动明显，与常规款容易区分",
+          "feelEn": "Front/back shake: strong silica packet impacts near the upper section. Left/right shake: large movement space with overall box impacts. Vertical shake: only the silica packet hits the box. Overall movement is distinctive and easy to separate from the regular figures. (Secret)",
+          "image": "https://treasure.islandsassets.com/treasure/images/fjVdgcRA2rv.jpg",
+          "is_hot": true
+        },
+        {
+          "name": "Frankie-丰收",
+          "nameEn": "Frankie - The Harvest",
+          "weight": 119.7,
+          "feel": "前后摇后侧中部偏上打盒重前侧左下打盒轻有轻微链条声，左右摇左侧中部打盒右侧中部偏上打盒轻，上下摇底部配件和干燥剂砸盒。（小包干燥剂，有配件，塑料壳）",
+          "feelEn": "Front/back shake: strong impacts near the upper-middle rear section, light impacts on the lower-left front, with faint chain sounds. Left/right shake: impacts around the left middle section and lighter impacts on the upper-middle right. Vertical shake: bottom accessory and silica packet create noticeable impacts. (Small silica packet, accessory, plastic shell)",
+          "image": "https://treasure.islandsassets.com/treasure/images/fjVdglSkmVk.jpg"
+        },
+        {
+          "name": "Frankie-智慧",
+          "nameEn": "Frankie - The Strategist",
+          "weight": 108.4,
+          "feel": "左右摇右侧中部偏上打盒，前后摇后侧中部偏上打盒重，上下摇主体上下轻微撞盒且底部配件打盒重。（小包干燥剂，有配件）",
+          "feelEn": "Left/right shake: impacts around the upper-middle right side. Front/back shake: strong impacts near the upper-middle rear section. Vertical shake: light figure movement with strong accessory impacts at the bottom. (Small silica packet, accessory)",
+          "image": "https://treasure.islandsassets.com/treasure/images/fjVdgcRA2r6.jpg"
+        },
+        {
+          "name": "Poppy-守护",
+          "nameEn": "Poppy - The Guardian",
+          "weight": 104.1,
+          "feel": "左右摇左侧中部偏上打盒重，前后摇后侧右上打盒左下配件打盒，上下摇主体几乎不动配件和身份卡上下打盒。（小包干燥剂，有配件）",
+          "feelEn": "Left/right shake: strong impacts around the upper-middle left side. Front/back shake: impacts on the upper-right rear section and lower-left accessory impacts. Vertical shake: figure barely moves, while the accessory and ID card hit the box. (Small silica packet, accessory)",
+          "image": "https://treasure.islandsassets.com/treasure/images/fjVdgcRA2Bb.jpg"
+        },
+        {
+          "name": "Frankie-雷霆",
+          "nameEn": "Frankie - The Thunder",
+          "weight": 102.7,
+          "feel": "左右摇右侧中部偏右上打盒明显，前后摇后侧左上打盒，上下摇底部配件打盒。（小包干燥剂，有配件）",
+          "feelEn": "Left/right shake: obvious impacts around the upper-right area. Front/back shake: impacts near the upper-left rear section. Vertical shake: accessory impacts at the bottom. (Small silica packet, accessory)",
+          "image": "https://treasure.islandsassets.com/treasure/images/fjVdg2Z8UJD.jpg"
+        },
+        {
+          "name": "Poppy-歌颂",
+          "nameEn": "Poppy - The Poet",
+          "weight": 102.4,
+          "feel": "前后摇前侧上部打盒轻后侧中部偏左打盒重，左右摇右侧中部偏下打盒，上下摇主体一指空间晃动底部配件和干燥剂打盒明显。（大包干燥剂，有配件）",
+          "feelEn": "Front/back shake: light impacts near the upper front, stronger impacts around the middle-left rear. Left/right shake: impacts around the lower-middle right side. Vertical shake: about one finger's worth of movement space, with obvious accessory and silica packet impacts at the bottom. (Large silica packet, accessory)",
+          "image": "https://treasure.islandsassets.com/treasure/images/fjVdg2Z8UJV.jpg"
+        },
+        {
+          "name": "Gigi-庆典",
+          "nameEn": "Gigi - The Celebration",
+          "weight": 102.2,
+          "feel": "上下摇空间很大且上下撞盒重，左右摇主体几乎不动身份卡左右打盒，前后摇前侧中部及下部打盒重。（小包干燥剂）",
+          "feelEn": "Large vertical movement space with heavy top-and-bottom impacts. Left/right shake: figure is almost locked, while the ID card taps against the sides. Front/back shake: strong impacts around the front middle and lower sections. (Small silica packet)",
+          "image": "https://treasure.islandsassets.com/treasure/images/fjVdglSkmVz.jpg"
+        },
+        {
+          "name": "Gigi-狩猎",
+          "nameEn": "Gigi - The Hunt",
+          "weight": 99.2,
+          "feel": "前后摇前侧中部偏左打盒重，左右摇左侧中部打盒，上下摇或倒立摇配件晃动明显内部较散。（多配件，小包干燥剂）",
+          "feelEn": "Front/back shake: strong impacts around the front middle-left area. Left/right shake: impacts around the left middle section. Vertical or inverted shake: accessories move freely, giving the figure a noticeably loose internal feel. (Multiple accessories, small silica packet)",
+          "image": "https://treasure.islandsassets.com/treasure/images/fjVdglSkmVS.jpg"
+        },
+        {
+          "name": "Gigi-战歌",
+          "nameEn": "Gigi - The Anthem",
+          "weight": 98.9,
+          "feel": "前后摇后侧上部打盒前侧中部偏左打盒，上下摇主体几乎不动只有干燥剂身份卡打盒声，左右摇晃的空间大内部散主体配件干燥剂身份卡一起左右打盒。（大包干燥剂，有配件）",
+          "feelEn": "Front/back shake: impacts near the upper rear and middle-left front. Vertical shake: figure barely moves; only the silica packet and ID card create impact sounds. Left/right shake: large movement space, with the figure, accessories, silica packet, and ID card all moving together. (Large silica packet, accessory)",
+          "image": "https://treasure.islandsassets.com/treasure/images/fjVdg2Z8UJM.jpg"
+        },
+        {
+          "name": "Gigi-信使",
+          "nameEn": "Gigi - The Messenger",
+          "weight": 98.9,
+          "feel": "左右摇右侧下部配件打盒明显，前后摇晃的空间大后侧上部打盒重，上下摇晃的空间大上下撞盒重。（大包干燥剂，有配件）",
+          "feelEn": "Left/right shake: obvious accessory impacts around the lower-right area. Front/back shake: large movement space with strong impacts near the upper rear. Vertical shake: large movement space with heavy top-and-bottom impacts. (Large silica packet, accessory)",
+          "image": "https://treasure.islandsassets.com/treasure/images/fjVdg2Z8UJ9.jpg"
+        }
+      ]
+    },
+    {
       "id": "the-monsters-hair-salon-plush",
       "name": "THE MONSTERS|复古理发店系列搪胶毛绒挂件",
       "nameEn": "THE MONSTERS|Hair Salon Series Vinyl Plush Pendant",
