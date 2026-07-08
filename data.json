@@ -1,6 +1,74 @@
 {
   "series": [
     {
+      "id": "haci-take-me-home",
+      "name": "HACI|迷路汪汪系列",
+      "nameEn": "HACI|Take Me Home Series - Vinyl Plush Pendant",
+      "brand": "泡泡玛特",
+      "releaseDate": "2026-07-01",
+      "note": "委屈呜呜157.2g最重。放空噗噗130.9g最轻，前后空间大约1.5指。贪吃噜噜左右完全摇不动是大明盒",
+      "noteEn": "Soft Pouting at 157.2g is heaviest. No Thoughts at 130.9g is lightest with ~1.5 fingers front/back space. Chomping Away is completely locked side-to-side, making it a dead box.",
+      "figures": [
+        {
+          "name": "委屈呜呜",
+          "nameEn": "Soft Pouting",
+          "weight": 157.2,
+          "feel": "系列最重。上下摇整体打盒，感觉四周轻微擦盒，有卡片的咔哒声。前后摇整体轻微打盒，感觉擦盒。左右摇主体轻微打盒，有卡片明显的咔哒声",
+          "feelEn": "Heaviest regular figure. Vertical shake: overall box tapping with light rubbing around the sides and clear card clicks. Front/back shake: light overall tapping with subtle rubbing. Left/right shake: gentle figure tapping with distinct card-clicking sounds.",
+          "image": "https://treasure.islandsassets.com/treasure/images/farr54AD7So.png"
+        },
+        {
+          "name": "转圈呼呼",
+          "nameEn": "Spin in Circles",
+          "weight": 149.7,
+          "feel": "上下摇整体轻微打盒，一丢丢空间。前后摇中上部轻微打盒有咣当感。左右摇中上部打盒空间不大。六面捏不到",
+          "feelEn": "Vertical shake: light overall tapping with only a tiny amount of movement space. Front/back shake: light impacts around the upper-middle area with a noticeable clunk. Left/right shake: upper-middle impacts with limited movement space. No squeeze feedback.",
+          "image": "https://treasure.islandsassets.com/treasure/images/farriXgWVuX.png"
+        },
+        {
+          "name": "贪吃噜噜",
+          "nameEn": "Chomping Away",
+          "weight": 149.2,
+          "feel": "上下摇整体打盒，感觉四周擦盒，有干燥剂包的莎莎声。前后摇主体几乎摇不动，有轻微干燥剂包的莎莎声和咔哒声。左右摇主体完全摇不动，但有干燥剂包明显的咔哒声。六面捏不到",
+          "feelEn": "Vertical shake: overall tapping with rubbing around the box and noticeable silica packet rustling. Front/back shake: figure is almost completely locked, with only faint silica packet rustling and clicking. Left/right shake: figure does not move, while the silica packet creates obvious clicking sounds. No squeeze feedback.",
+          "image": "https://treasure.islandsassets.com/treasure/images/farrUyog0SC.png"
+        },
+        {
+          "name": "警告汪汪",
+          "nameEn": "Clingy Whimper",
+          "weight": 136.0,
+          "feel": "上下摇主体打盒有轻微咣当感。前后摇主体轻微打盒空间不是很大，有咔哒声。左右摇主体打盒但空间很小。六面捏不到",
+          "feelEn": "Vertical shake: figure taps the box with a slight clunk. Front/back shake: light tapping with limited movement space and faint clicking sounds. Left/right shake: figure taps the box with very little movement. No squeeze feedback.",
+          "image": "https://treasure.islandsassets.com/treasure/images/farr5M3CRgS.png"
+        },
+        {
+          "name": "傲娇哼哼",
+          "nameEn": "Full of Attitude",
+          "weight": 131.3,
+          "feel": "上下摇主体打盒空间不是很大，有卡片的咔哒声。前后摇中上部打盒轻微咣当感。左右摇中上部打盒明显但空间不是很大。六面捏不到",
+          "feelEn": "Vertical shake: limited movement space with noticeable card-clicking sounds. Front/back shake: light impacts around the upper-middle area with a soft clunk. Left/right shake: clear upper-middle impacts with minimal movement space. No squeeze feedback.",
+          "image": "https://treasure.islandsassets.com/treasure/images/farr6mGunxO.png"
+        },
+        {
+          "name": "放空噗噗",
+          "nameEn": "No Thoughts",
+          "weight": 130.9,
+          "feel": "系列最轻。上下约半指空间，两面都有打盒感。前后在封面中上部小狗鼻子处哐哐打盒感很重约1指半空间。左右微微晃动，在中部碰盒",
+          "feelEn": "Lightest regular figure. Vertical shake: about half a finger's worth of movement space with noticeable impacts from both ends. Front/back shake: strong impacts around the dog's nose area on the front artwork, with roughly one and a half fingers of movement space. Left/right shake: slight movement with light impacts around the center.",
+          "image": "https://treasure.islandsassets.com/treasure/images/farrfHmpYR3.png"
+        },
+        {
+          "name": "隐藏款-摇尾嗷呜",
+          "nameEn": "Wagging Joy (Secret)",
+          "weight": null,
+          "feel": "暂无手感数据",
+          "feelEn": "No detailed shake data available yet.",
+          "image": "https://treasure.islandsassets.com/treasure/images/farrvgd0Ck5.png",
+          "is_hot": true
+        }
+      ]
+    },
+    {
       "id": "peach-riot-power-chords",
       "name": "Peach Riot|破序和弦系列手办",
       "nameEn": "Peach Riot|Power Chords Series Figures",
