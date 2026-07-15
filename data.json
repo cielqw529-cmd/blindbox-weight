@@ -1,6 +1,122 @@
 {
   "series": [
     {
+      "id": "dimoo-pixar-plush",
+      "name": "DIMOO|PIXAR联名系列搪胶毛绒挂件",
+      "nameEn": "DIMOO|PIXAR Series - Vinyl Plush Pendant",
+      "brand": "泡泡玛特",
+      "releaseDate": "2026-07-08",
+      "note": "巴斯光年171.8g最重完全锁死。巴小飞119.0g最轻。隐藏款火箭三眼仔130g六面只有干燥剂声，中下部极满是大明盒",
+      "noteEn": "Buzz Lightyear at 171.8g is heaviest and completely locked. Dash Parr at 119.0g is lightest. Secret Space Crane at 130g only makes silica packet sounds, middle-lower area feels extremely full - easy identify box.",
+      "figures": [
+        {
+          "name": "巴斯光年",
+          "nameEn": "DIMOO As Buzz Lightyear",
+          "weight": 171.8,
+          "feel": "系列最重。上下完全锁死，只有非常轻微的干燥剂颗粒声。前后完全不动，有干燥剂颗粒声。左右完全不动，干燥剂颗粒声明显。捏中下部能感觉到但不顶盒，中下两侧有明显鼓起顶盒感，上下也有顶盒感",
+          "feelEn": "Heaviest in the series. Vertical shake: Completely locked, with only very faint silica packet particle sounds. Front/back shake: Completely immobile, with silica packet particle sounds. Left/right shake: Completely immobile, with obvious silica packet particle sounds. Squeeze test: The lower-middle area can feel the figure but does not press against the box. The lower-middle sides have obvious bulging pressure. Top and bottom also have a pressed-against feeling.",
+          "image": "https://treasure.islandsassets.com/treasure/images/falfejhom2O.png"
+        },
+        {
+          "name": "苏利文",
+          "nameEn": "DIMOO As Sulley",
+          "weight": 169.3,
+          "feel": "上下完全不动，只有干燥剂颗粒声。前后一丢丢空间轻微打盒。左右空间很小轻微打盒有轻微干燥剂声。捏中部能感觉到但不顶盒，各面有轻微袋子声。（双层袋）",
+          "feelEn": "Vertical shake: Completely immobile, only silica packet particle sounds can be heard. Front/back shake: A tiny amount of movement space with slight box tapping. Left/right shake: Very small movement space with slight tapping and faint silica packet sounds. Squeeze test: The middle area can feel the figure inside but does not press against the box. All sides have slight bag sounds. (Double-layer bag)",
+          "image": "https://treasure.islandsassets.com/treasure/images/falfejhom2K.png"
+        },
+        {
+          "name": "草莓熊",
+          "nameEn": "DIMOO As Lotso",
+          "weight": 163.0,
+          "feel": "上下轻微整体打盒，手感偏重，有袋子声。前后中上部有明显咣当感，但空间不大。左右整体很轻微打盒有轻微咣当感。捏中下部能感觉到有明显顶盒，两侧捏有袋子声，上下捏不到但不空",
+          "feelEn": "Vertical shake: Slight overall box tapping, heavy hand feel, with bag sounds. Front/back shake: Clear clunking around the upper-middle area, but movement space is limited. Left/right shake: Very slight overall tapping with a faint clunk. Squeeze test: The lower-middle area can feel the object inside with obvious pressure. Side squeezing produces bag sounds. Top and bottom cannot be squeezed, but the box does not feel empty.",
+          "image": "https://treasure.islandsassets.com/treasure/images/falfeTw2sqx.png"
+        },
+        {
+          "name": "胡迪",
+          "nameEn": "DIMOO As Woody",
+          "weight": 159.0,
+          "feel": "上下主体几乎固定，卡片擦盒有咔哒声。前后中上部轻微打盒有轻微咣当感。左右整体很轻微晃动有莎莎声。前后捏不到，两侧能轻微感觉到但不顶盒，袋子声明显，上下捏不到但不空",
+          "feelEn": "Vertical shake: The figure is almost fixed, but the card rubbing against the box creates clicking sounds. Front/back shake: Slight tapping around the upper-middle area with a soft clunk. Left/right shake: Very slight overall movement with a rustling sound. Squeeze test: Front/back cannot feel the figure. The sides can slightly feel the figure but it does not press against the box. Bag sounds are noticeable. Top and bottom cannot be squeezed, but the box does not feel empty.",
+          "image": "https://treasure.islandsassets.com/treasure/images/falferboAIC.png"
+        },
+        {
+          "name": "三眼仔摇摇乐",
+          "nameEn": "DIMOO As Alien",
+          "weight": 150.7,
+          "feel": "上下几乎不动，只有非常轻微的干燥剂颗粒声。前后完全锁死，有轻微干燥剂颗粒声。左右主体完全固定，但干燥剂擦盒打盒。捏中部有明显硬的感觉，中下两侧有轻微袋子声，上下捏不到",
+          "feelEn": "Vertical shake: Almost no movement, with only very slight silica packet particle sounds. Front/back shake: Completely locked, with faint silica packet particle sounds. Left/right shake: The figure is completely fixed, but the silica packet rubs and taps against the box. Squeeze test: The middle area has a clear hard feeling when pressed. The lower-middle area on both sides has slight bag sounds. Top and bottom cannot be squeezed.",
+          "image": "https://treasure.islandsassets.com/treasure/images/falfejhom2s.png"
+        },
+        {
+          "name": "火腿",
+          "nameEn": "DIMOO As Hamm",
+          "weight": 142.3,
+          "feel": "上下主体很轻微晃动，主要是袋子擦盒声。前后整体轻微晃动有袋子声。左右轻微晃动有莎莎声。六面捏都有轻微袋子声",
+          "feelEn": "Vertical shake: Very slight figure movement, mainly with bag rubbing sounds. Front/back shake: Slight overall movement with bag sounds. Left/right shake: Slight movement with a rustling sound. Squeeze test: All six sides have slight bag sounds.",
+          "image": "https://treasure.islandsassets.com/treasure/images/falfeTw2sqK.png"
+        },
+        {
+          "name": "小熊猫美美",
+          "nameEn": "DIMOO As Red Panda Mei",
+          "weight": 131.2,
+          "feel": "上下主体几乎完全锁死，但卡片打盒有明显咔哒声。前后整体打盒空间不大，有轻微咣当感和擦盒声。左右主体几乎不动，但卡片打盒声明显。前后/上捏有很轻微袋子声，两侧能轻微感觉到但不顶盒。（双层袋）",
+          "feelEn": "Vertical shake: The figure itself is almost completely locked in place, but the card hitting the box creates clear clicking sounds. Front/back shake: Overall box tapping with limited movement space, accompanied by a slight clunking feeling and rubbing sounds. Left/right shake: The figure barely moves, but the card tapping sound is noticeable. Squeeze test: Front and back/top squeezes have very slight bag sounds. The figure can be slightly felt when squeezing the sides, but it does not press against the box. (Double-layer bag)",
+          "image": "https://treasure.islandsassets.com/treasure/images/falfeTw2sqp.png"
+        },
+        {
+          "name": "隐藏款-火箭三眼仔",
+          "nameEn": "DIMOO in Space Crane (Secret)",
+          "weight": 130.0,
+          "feel": "大明盒。六个方向都只有干燥剂声。四面中下部都感觉极满，只有很轻微的几乎感觉不到的顶盒点。顶盒感和其他款明显不同，是很好的辨识特征",
+          "feelEn": "Easy Identify Box. All six directions only produce silica packet sounds. The middle-lower area on all four sides feels extremely full, with only a very slight and barely noticeable pressure point. The pressure feeling is significantly different from other figures, making it a strong identification feature.",
+          "image": "https://treasure.islandsassets.com/treasure/images/falfeyrZrcO.png",
+          "is_hot": true
+        },
+        {
+          "name": "巴小飞",
+          "nameEn": "DIMOO As Dash Parr",
+          "weight": 119.0,
+          "feel": "系列最轻。上下主体有轻微咣当感空间很小，干燥剂打盒声明显。前后中下部有明显咣当感，但空间不大。左右主体几乎固定，但配件和干燥剂咔哒声明显。两侧能轻微感觉到但不顶盒，前后上下捏不到",
+          "feelEn": "Lightest in the series. Vertical shake: The figure has a slight clunking feeling with very limited space, while the silica packet creates obvious tapping sounds. Front/back shake: Clear clunking around the lower-middle area, but movement space is limited. Left/right shake: The figure is almost fixed, but the accessory and silica packet create obvious clicking sounds. Squeeze test: The sides can slightly feel the figure, but it does not press against the box. Front, back, top, and bottom cannot be squeezed.",
+          "image": "https://treasure.islandsassets.com/treasure/images/falfeyrZrcM.png"
+        },
+        {
+          "name": "罗素",
+          "nameEn": "DIMOO As Russell",
+          "weight": null,
+          "feel": "暂无手感数据",
+          "feelEn": "No detailed shake data available yet.",
+          "image": "https://treasure.islandsassets.com/treasure/images/falferboAIz.png"
+        },
+        {
+          "name": "小米",
+          "nameEn": "DIMOO As Remy",
+          "weight": null,
+          "feel": "暂无手感数据",
+          "feelEn": "No detailed shake data available yet.",
+          "image": "https://treasure.islandsassets.com/treasure/images/falfeyrZrcx.png"
+        },
+        {
+          "name": "米格尔",
+          "nameEn": "DIMOO As Miguel Rivera",
+          "weight": null,
+          "feel": "暂无手感数据",
+          "feelEn": "No detailed shake data available yet.",
+          "image": "https://treasure.islandsassets.com/treasure/images/falfeyrZrcD.png"
+        },
+        {
+          "name": "瓦力",
+          "nameEn": "DIMOO As WALL·E",
+          "weight": null,
+          "feel": "暂无手感数据",
+          "feelEn": "No detailed shake data available yet.",
+          "image": "https://treasure.islandsassets.com/treasure/images/falferboAIL.png"
+        }
+      ]
+    },
+    {
       "id": "haci-take-me-home",
       "name": "HACI|迷路汪汪系列",
       "nameEn": "HACI|Take Me Home Series - Vinyl Plush Pendant",
