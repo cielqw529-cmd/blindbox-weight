@@ -6,65 +6,65 @@
       "nameEn": "DIMOO WORLD|PIXAR Series - Vinyl Plush Pendant",
       "brand": "泡泡玛特",
       "releaseDate": "2026-07-01",
-      "note": "隐藏款巴斯光年：正摇前后头发与帽檐处强烈硬物打盒，倒摇左右在隐藏图鉴处硬打盒，前后空间两指多",
-      "noteEn": "Secret Buzz Lightyear: upright front/back shake has strong hard impact at hair-hat brim junction, inverted left/right hits at secret figure guide area, front/back space ~2 fingers.",
+      "note": "胡迪194.8g最重。红熊猫美美150.9g最轻。隐藏款巴斯光年：正摇前后头发与帽檐处强烈硬物打盒，倒摇左右在隐藏图鉴处硬打盒，前后空间两指多",
+      "noteEn": "Woody at 194.8g is heaviest. Red Panda Mei at 150.9g is lightest. Secret Buzz Lightyear: upright front/back shake has strong hard impact at hair-hat brim junction, inverted left/right hits at secret figure guide area, front/back space ~2 fingers.",
       "figures": [
         {
-          "name": "隐藏款-巴斯光年",
-          "nameEn": "Buzz Lightyear (Secret)",
-          "weight": null,
-          "feel": "正摇前后：头发与帽檐的衔接处打盒，面积比较大，很强烈的硬物打盒，一定要足够硬。倒摇前后：PIXAR \"XA\"略下处硬打盒。正摇左右：飞行器并无明显打盒。倒摇左右：在隐藏图鉴处硬打盒。背面中部有吊环碰盒声不明显。上下左右空间一指多，前后两指多",
-          "feelEn": "Upright front/back shake: strong hard impact at the hair-hat brim junction area, large contact surface, must be hard enough. Inverted front/back shake: hard impact slightly below PIXAR 'XA' text. Upright left/right shake: spaceship has no obvious impact. Inverted left/right shake: hard impact at the secret figure guide area. Faint keyring sound from back center. Vertical and side space ~1+ finger, front/back ~2+ fingers.",
-          "image": "https://treasure.islandsassets.com/treasure/images/faloVhRA3hJ.png",
-          "is_hot": true
-        },
-        {
-          "name": "小熊猫美美",
-          "nameEn": "Red Panda Mei",
-          "weight": null,
-          "feel": "暂无手感数据",
-          "feelEn": "No detailed shake data available yet.",
-          "image": "https://treasure.islandsassets.com/treasure/images/faloR9QgGax.png"
-        },
-        {
-          "name": "草莓熊",
-          "nameEn": "Lotso",
-          "weight": null,
-          "feel": "暂无手感数据",
-          "feelEn": "No detailed shake data available yet.",
-          "image": "https://treasure.islandsassets.com/treasure/images/faloMFh4Xnf.png"
-        },
-        {
           "name": "胡迪",
-          "nameEn": "Woody",
-          "weight": null,
-          "feel": "暂无手感数据",
-          "feelEn": "No detailed shake data available yet.",
+          "nameEn": "DIMOO As Woody",
+          "weight": 194.8,
+          "feel": "系列最重。上下摇：约2指空间，有明显底部打盒声。左右摇：空间大，在图鉴胡迪名字附近有明显打盒声，对称位置也有打盒声。前后摇：比左右空间更大，背面中部有强烈打盒声",
+          "feelEn": "Heaviest in the series. Vertical shake: Around 2-finger movement space, with clear bottom box tapping. Left/right shake: Large movement space. Noticeable tapping around Woody's name area on the artwork side, with symmetrical tapping on the opposite side. Front/back shake: Larger space compared with left/right. Strong tapping on the middle area of the back side.",
           "image": "https://treasure.islandsassets.com/treasure/images/faloR8iVi4k.png"
         },
         {
           "name": "苏利文",
-          "nameEn": "Sulley",
-          "weight": null,
-          "feel": "暂无手感数据",
-          "feelEn": "No detailed shake data available yet.",
+          "nameEn": "DIMOO As Sulley",
+          "weight": 194.4,
+          "feel": "上下摇：约2指空间，有底部打盒声。左右摇：空间大，图鉴苏利文名字附近有明显打盒声。前后摇：比左右空间更大，正面图鉴DIMOO帽子顶部区域有强烈打盒声",
+          "feelEn": "Vertical shake: Around 2-finger movement space, with bottom box tapping. Left/right shake: Large movement space. Noticeable tapping around Sulley's name area on the artwork side. Front/back shake: Larger space compared with left/right. Strong tapping around the top area of DIMOO's hat on the front artwork side.",
           "image": "https://treasure.islandsassets.com/treasure/images/faloD4jtGyH.png"
         },
         {
+          "name": "小米",
+          "nameEn": "DIMOO As Remy",
+          "weight": 180.5,
+          "feel": "上下摇：仅轻微晃动。左右摇：空间小，注意图鉴中部区域打盒声。前后摇：仅轻微晃动",
+          "feelEn": "Vertical shake: Slight movement only. Left/right shake: Small movement space, pay attention to tapping around the middle area of the artwork side. Front/back shake: Slight movement only.",
+          "image": "https://treasure.islandsassets.com/treasure/images/faloIdXaUJP.png"
+        },
+        {
           "name": "巴小飞",
-          "nameEn": "Dash Parr",
-          "weight": null,
-          "feel": "暂无手感数据",
-          "feelEn": "No detailed shake data available yet.",
+          "nameEn": "DIMOO As Dash Parr",
+          "weight": 178.2,
+          "feel": "上下摇：约2指空间，上下方向都有打盒声，但声音相对较轻。左右摇：空间大，图鉴苏利文头部顶端区域有强烈打盒声，对称位置也有打盒声。前后摇：空间大，正面图鉴DIMOO头部与帽子衔接处有强烈打盒声，背面同一位置也有打盒声",
+          "feelEn": "Vertical shake: Around 2-finger movement space. Both upward and downward directions create box tapping sounds, but the sound is relatively soft. Left/right shake: Large movement space. Strong tapping at the top of Sulley's head area on the artwork side, with symmetrical tapping at the opposite position. Front/back shake: Large movement space. Strong tapping where DIMOO's head and hat meet on the front artwork side, with tapping at the same position on the back side.",
           "image": "https://treasure.islandsassets.com/treasure/images/falogYpqNf8.png"
         },
         {
-          "name": "小米",
-          "nameEn": "Remy",
+          "name": "草莓熊",
+          "nameEn": "DIMOO As Lotso",
+          "weight": 158.3,
+          "feel": "上下摇：感觉不到晃动。左右摇：空间小，图鉴苏利文头部区域有明显打盒声。前后摇：完全锁死无明显晃动",
+          "feelEn": "Vertical shake: Cannot feel movement. Left/right shake: Small movement space. Noticeable tapping around Sulley's head area on the artwork side. Front/back shake: Completely locked with no obvious movement.",
+          "image": "https://treasure.islandsassets.com/treasure/images/faloMFh4Xnf.png"
+        },
+        {
+          "name": "小熊猫美美",
+          "nameEn": "DIMOO As Red Panda Mei",
+          "weight": 150.9,
+          "feel": "系列最轻。上下摇：约2指空间，两个方向都有打盒声。左右摇：空间大，图鉴苏利文头部区域有明显打盒声。前后摇：空间大，正面图鉴DIMOO帽子区域有强烈打盒声，背面中部区域也有打盒声",
+          "feelEn": "Lightest in the series. Vertical shake: Around 2-finger movement space, with tapping in both directions. Left/right shake: Large movement space. Noticeable tapping around Sulley's head area on the artwork side. Front/back shake: Large movement space. Strong tapping around DIMOO's hat area on the front artwork side, with additional tapping around the middle area of the back side.",
+          "image": "https://treasure.islandsassets.com/treasure/images/faloR9QgGax.png"
+        },
+        {
+          "name": "隐藏款-巴斯光年",
+          "nameEn": "DIMOO As Buzz Lightyear (Secret)",
           "weight": null,
-          "feel": "暂无手感数据",
-          "feelEn": "No detailed shake data available yet.",
-          "image": "https://treasure.islandsassets.com/treasure/images/faloIdXaUJP.png"
+          "feel": "正摇前后：头发与帽檐的衔接处打盒，面积比较大，很强烈的硬物打盒，一定要足够硬。倒摇前后：PIXAR \"XA\"略下处硬打盒。正摇左右：飞行器并无明显打盒。倒摇左右：在隐藏图鉴处硬打盒。背面中部有吊环碰盒声不明显。上下左右空间一指多，前后两指多",
+          "feelEn": "Front/back shake (normal direction): Strong hard tapping sound at the connection area between the hair and hat brim (see P4). The impact area is relatively large and requires a firm hard hit to identify. Front/back shake (upside down): Hard tapping around slightly below the \"XA\" area of the PIXAR logo. Left/right shake (normal direction): No obvious tapping from the spaceship accessory. Left/right shake (upside down): Hard tapping appears around the secret artwork area. Back middle area: The hanging ring may hit the box and create a sound, but it is not obvious. Movement space: Up/down more than 1 finger, Left/right more than 1 finger, Front/back around 2 fingers.",
+          "image": "https://treasure.islandsassets.com/treasure/images/faloVhRA3hJ.png",
+          "is_hot": true
         }
       ]
     },
