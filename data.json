@@ -1,6 +1,74 @@
 {
   "series": [
     {
+      "id": "dimoo-world-pixar-plush",
+      "name": "DIMOO WORLD|PIXAR系列搪胶毛绒挂件",
+      "nameEn": "DIMOO WORLD|PIXAR Series - Vinyl Plush Pendant",
+      "brand": "泡泡玛特",
+      "releaseDate": "2026-07-01",
+      "note": "隐藏款巴斯光年：正摇前后头发与帽檐处强烈硬物打盒，倒摇左右在隐藏图鉴处硬打盒，前后空间两指多",
+      "noteEn": "Secret Buzz Lightyear: upright front/back shake has strong hard impact at hair-hat brim junction, inverted left/right hits at secret figure guide area, front/back space ~2 fingers.",
+      "figures": [
+        {
+          "name": "隐藏款-巴斯光年",
+          "nameEn": "Buzz Lightyear (Secret)",
+          "weight": null,
+          "feel": "正摇前后：头发与帽檐的衔接处打盒，面积比较大，很强烈的硬物打盒，一定要足够硬。倒摇前后：PIXAR \"XA\"略下处硬打盒。正摇左右：飞行器并无明显打盒。倒摇左右：在隐藏图鉴处硬打盒。背面中部有吊环碰盒声不明显。上下左右空间一指多，前后两指多",
+          "feelEn": "Upright front/back shake: strong hard impact at the hair-hat brim junction area, large contact surface, must be hard enough. Inverted front/back shake: hard impact slightly below PIXAR 'XA' text. Upright left/right shake: spaceship has no obvious impact. Inverted left/right shake: hard impact at the secret figure guide area. Faint keyring sound from back center. Vertical and side space ~1+ finger, front/back ~2+ fingers.",
+          "image": "https://treasure.islandsassets.com/treasure/images/faloVhRA3hJ.png",
+          "is_hot": true
+        },
+        {
+          "name": "小熊猫美美",
+          "nameEn": "Red Panda Mei",
+          "weight": null,
+          "feel": "暂无手感数据",
+          "feelEn": "No detailed shake data available yet.",
+          "image": "https://treasure.islandsassets.com/treasure/images/faloR9QgGax.png"
+        },
+        {
+          "name": "草莓熊",
+          "nameEn": "Lotso",
+          "weight": null,
+          "feel": "暂无手感数据",
+          "feelEn": "No detailed shake data available yet.",
+          "image": "https://treasure.islandsassets.com/treasure/images/faloMFh4Xnf.png"
+        },
+        {
+          "name": "胡迪",
+          "nameEn": "Woody",
+          "weight": null,
+          "feel": "暂无手感数据",
+          "feelEn": "No detailed shake data available yet.",
+          "image": "https://treasure.islandsassets.com/treasure/images/faloR8iVi4k.png"
+        },
+        {
+          "name": "苏利文",
+          "nameEn": "Sulley",
+          "weight": null,
+          "feel": "暂无手感数据",
+          "feelEn": "No detailed shake data available yet.",
+          "image": "https://treasure.islandsassets.com/treasure/images/faloD4jtGyH.png"
+        },
+        {
+          "name": "巴小飞",
+          "nameEn": "Dash Parr",
+          "weight": null,
+          "feel": "暂无手感数据",
+          "feelEn": "No detailed shake data available yet.",
+          "image": "https://treasure.islandsassets.com/treasure/images/falogYpqNf8.png"
+        },
+        {
+          "name": "小米",
+          "nameEn": "Remy",
+          "weight": null,
+          "feel": "暂无手感数据",
+          "feelEn": "No detailed shake data available yet.",
+          "image": "https://treasure.islandsassets.com/treasure/images/faloIdXaUJP.png"
+        }
+      ]
+    },
+    {
       "id": "dimoo-pixar-plush",
       "name": "DIMOO|PIXAR联名系列搪胶毛绒挂件",
       "nameEn": "DIMOO|PIXAR Series - Vinyl Plush Pendant",
