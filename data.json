@@ -14,35 +14,45 @@
           "nameEn": "Stay Chill",
           "weight": 97.5,
           "feel": "上下：盒内空间很小，但能听到干燥剂和钥匙环的声音。左右：干燥剂和钥匙环声音明显。前后：背面有轻微但明显的头部碰盒声，有清晰的撞击点",
-          "feelEn": "Up/Down: Very little space inside the box, but you can hear desiccant and key ring sounds. Left/Right: Desiccant and key ring sounds noticeable. Front/Back: A slight but obvious head bumping sound from the back side, with a clear impact point."
+          "feelEn": "Up/Down: Very little space inside the box, but you can hear desiccant and key ring sounds. Left/Right: Desiccant and key ring sounds noticeable. Front/Back: A slight but obvious head bumping sound from the back side, with a clear impact point.",
+          "spuId": "1024848145009346381",
+          "image": "https://treasure.islandsassets.com/treasure/images/faYA0ymyQvm.png"
         },
         {
           "name": "不做大人",
           "nameEn": "No Adulting",
           "weight": 97.5,
           "feel": "六面都有明显空间。空间排名：上下 > 左右 > 前后。上下摇晃撞击感强，有明显的金属环碰撞声",
-          "feelEn": "All six directions have noticeable space. Space ranking: Up/Down > Left/Right > Front/Back. Strong impact feeling when shaking up and down, with obvious metal ring collision sounds."
+          "feelEn": "All six directions have noticeable space. Space ranking: Up/Down > Left/Right > Front/Back. Strong impact feeling when shaking up and down, with obvious metal ring collision sounds.",
+          "spuId": "1024848154673025714",
+          "image": "https://treasure.islandsassets.com/treasure/images/faYA0a5SXSB.png"
         },
         {
           "name": "乱乱糟糟",
           "nameEn": "Soft Chaos",
           "weight": 98,
           "feel": "各方向盒内都有明显晃动。上下摇晃时娃娃本身也会明显移动。左右两侧有轻微撞击声，尤其在腰背部区域。前后：在偏下四分之一处有较明显的撞击点",
-          "feelEn": "Clear box movement in all directions. The doll itself also moves noticeably when shaken vertically. Left/right sides have slight impact sounds, especially near the lower back area. Front/back: a more obvious impact point around the lower quarter area."
+          "feelEn": "Clear box movement in all directions. The doll itself also moves noticeably when shaken vertically. Left/right sides have slight impact sounds, especially near the lower back area. Front/back: a more obvious impact point around the lower quarter area.",
+          "spuId": "1024848175074121238",
+          "image": "https://treasure.islandsassets.com/treasure/images/faYA0a5SXSd.png"
         },
         {
           "name": "暂停打卡",
           "nameEn": "Rest Day",
           "weight": 98,
           "feel": "各方向内部空间都非常大。上下摇晃动作强烈。前后左右在中上部区域都有清脆明显的撞击声",
-          "feelEn": "Very large internal space in all directions. Strong shaking movement vertically. Clear and crisp impact sounds around the upper-middle area from front, back, left and right directions."
+          "feelEn": "Very large internal space in all directions. Strong shaking movement vertically. Clear and crisp impact sounds around the upper-middle area from front, back, left and right directions.",
+          "spuId": "1024848097764764694",
+          "image": "https://treasure.islandsassets.com/treasure/images/faYA0TIqnub.png"
         },
         {
           "name": "丢掉面具",
           "nameEn": "Mask Off",
           "weight": 100,
           "feel": "上下摇晃有明显空间和撞击感。钥匙环声音上下不太强，但左右非常清脆。前后有较柔和的闷撞感",
-          "feelEn": "Noticeable space and impact feeling when shaking up and down. Key ring sound is not very strong vertically, but very crisp when shaking left and right. Front/back have a softer, muffled impact feeling."
+          "feelEn": "Noticeable space and impact feeling when shaking up and down. Key ring sound is not very strong vertically, but very crisp when shaking left and right. Front/back have a softer, muffled impact feeling.",
+          "spuId": "1024848194401507068",
+          "image": "https://treasure.islandsassets.com/treasure/images/faYA0ymyQv0.png"
         },
         {
           "name": "不听不听",
@@ -50,42 +60,54 @@
           "weight": 100,
           "feel": "【特殊辨识法】握住盒子上半部分，转动/摇晃下半部分。这款下半部分非常饱满紧实。正常摇晃时左右感觉完全填满，只有清脆的钥匙环声。前后有些空间，上下空间更大。用此方法几乎100%可辨识",
           "feelEn": "[Special ID method] Hold the upper part of the box and rotate/shake the lower part. The lower part of this figure is very full and tightly packed. When shaken normally, left/right feel completely filled with only a crisp key ring sound. Front/back have some space, and there is more room vertically. Using this method, it is almost 100% identifiable.",
-          "is_obvious": true
+          "is_obvious": true,
+          "spuId": "1024848129976984705",
+          "image": "https://treasure.islandsassets.com/treasure/images/faYA0TIqnC5.png"
         },
         {
           "name": "开个小差",
           "nameEn": "Break Time",
           "weight": 100,
           "feel": "上下空间非常大，娃娃和钥匙环都有强烈晃动。各方向都有清晰的单独撞击点。前面撞击点：发夹左侧区域，非常明显",
-          "feelEn": "Very large space vertically, with strong movement from both the figure and key ring. Clear individual impact points in all directions. Front impact point: left side of the hair clip area, very noticeable."
+          "feelEn": "Very large space vertically, with strong movement from both the figure and key ring. Clear individual impact points in all directions. Front impact point: left side of the hair clip area, very noticeable.",
+          "spuId": "1024848199770205000",
+          "image": "https://treasure.islandsassets.com/treasure/images/faYA04dyz5t.png"
         },
         {
           "name": "不慌不忙",
           "nameEn": "Slow Down",
           "weight": 103,
           "feel": "额头中央区域有非常清脆强烈的撞击点。上下空间大。整体感觉松散，六面都有明显晃动",
-          "feelEn": "Very crisp and strong impact point around the center of the forehead area. Large vertical space. Overall loose feeling with noticeable movement in all six directions."
+          "feelEn": "Very crisp and strong impact point around the center of the forehead area. Large vertical space. Overall loose feeling with noticeable movement in all six directions.",
+          "spuId": "1024848183664057008",
+          "image": "https://treasure.islandsassets.com/treasure/images/faYA0a5SXSo.png"
         },
         {
           "name": "宅一整天",
           "nameEn": "Stay In",
           "weight": 103,
           "feel": "上下摇晃有明显的干燥剂和金属环碰撞声。娃娃本身空间不大，但两侧仍能感到轻微晃动。前后撞击点：后上四分之一区域",
-          "feelEn": "Noticeable desiccant and metal ring collision sounds when shaking vertically. The doll itself has little room, but slight movement can still be felt around the sides. Front/back impact point: upper rear quarter area."
+          "feelEn": "Noticeable desiccant and metal ring collision sounds when shaking vertically. The doll itself has little room, but slight movement can still be felt around the sides. Front/back impact point: upper rear quarter area.",
+          "spuId": "1024848106354700704",
+          "image": "https://treasure.islandsassets.com/treasure/images/faYA04dyz5D.png"
         },
         {
           "name": "别靠近我",
           "nameEn": "Not Now",
           "weight": 103.5,
           "feel": "前后：几乎没有晃动。左右：空间大，有明显的金属碰撞声。上下：也有空间，但声音主要来自金属环而非娃娃",
-          "feelEn": "Front/back: almost no movement. Left/right: large space with obvious metal collision sounds. Up/down: also has space, but the sounds mainly come from the metal ring rather than the doll."
+          "feelEn": "Front/back: almost no movement. Left/right: large space with obvious metal collision sounds. Up/down: also has space, but the sounds mainly come from the metal ring rather than the doll.",
+          "spuId": "1024848113870846060",
+          "image": "https://treasure.islandsassets.com/treasure/images/faYA0TIqnCU.png"
         },
         {
           "name": "再睡十分钟",
           "nameEn": "Hit Snooze",
           "weight": 104,
           "feel": "上下撞击感极强。左右：撞击点在中部区域。前后：娃娃头部会撞击盒子，背面撞击更强",
-          "feelEn": "Extremely strong vertical impact feeling. Left/right: impact point around the middle area. Front/back: the doll's head hits the box, with stronger impact from the back side."
+          "feelEn": "Extremely strong vertical impact feeling. Left/right: impact point around the middle area. Front/back: the doll's head hits the box, with stronger impact from the back side.",
+          "spuId": "1024848167557929133",
+          "image": "https://treasure.islandsassets.com/treasure/images/faYA0ymyQvH.png"
         },
         {
           "name": "隐藏款-我的频道",
@@ -93,14 +115,18 @@
           "weight": 106,
           "feel": "【隐藏款辨识】左右：几乎完全锁死。娃娃手臂紧贴盒壁，无法摇晃。上下：仅有极少量晃动。前后：能感觉到柔软的头顶轻触盒子。整体声音柔和沉闷，没有尖锐或沉重的撞击声",
           "feelEn": "[Secret Pick] Left/right: almost completely locked. The doll's arms are pressed against the box wall, making it impossible to shake. Up/down: only a tiny amount of movement. Front/back: you can feel the soft top of the head lightly touching the box. Overall sound is soft and muffled, without any sharp or heavy impact.",
-          "is_hot": true
+          "is_hot": true,
+          "spuId": "1024848091322272892",
+          "image": "https://treasure.islandsassets.com/treasure/images/faYA04dyz61.png"
         },
         {
           "name": "看不见我",
           "nameEn": "Low Battery",
           "weight": 115,
           "feel": "系列最重。上下空间很小但仍可轻微移动。左右：完全锁死没有多余空间。前后：有轻微晃动，背面更明显",
-          "feelEn": "Heaviest in the series. Very little vertical space but still slightly movable. Left/right: completely locked with no extra space. Front/back: slight movement, stronger from the back side."
+          "feelEn": "Heaviest in the series. Very little vertical space but still slightly movable. Left/right: completely locked with no extra space. Front/back: slight movement, stronger from the back side.",
+          "spuId": "1024848138566920969",
+          "image": "https://treasure.islandsassets.com/treasure/images/faYA04dyz5V.png"
         }
       ]
     },
