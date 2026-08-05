@@ -1,6 +1,136 @@
 {
   "series": [
     {
+      "id": "nyota-chibi-maruko-plush",
+      "name": "Nyota|樱桃小丸子联名系列毛绒挂件",
+      "nameEn": "Nyota|Chibi Maruko Chan Plush Doll Pendant",
+      "brand": "泡泡玛特",
+      "releaseDate": "2026-07",
+      "note": "【必摇款】最重要的朋友(110g)：整盒撑满且有晃动，六面紧实，触摸可感觉纸袋被撑满有明显纸袋声，非常好辨识。隐藏款有风了(111.24g)最重：六面几乎不动，正面捏中间明显顶盒，左右捏无明显顶点但可感觉到娃娃且盒子微鼓",
+      "noteEn": "[Key Pick] My No.1 Friend (110g): Very heavy and very full. The whole box feels stretched and slightly moves when shaken. All six sides are packed tightly; when touching, you can feel the paper bag being fully stretched with a noticeable paper bag sound. Clear identification (easy to distinguish). Secret Here Comes the Wind (111.24g) is heaviest: almost no movement on all six sides, front squeeze clearly presses the middle, left/right squeeze no obvious top pressure but figure can be felt and box feels slightly bulged.",
+      "figures": [
+        {
+          "name": "休息日",
+          "nameEn": "Rest Day",
+          "weight": 75,
+          "feel": "六面都有一点空间，但没有撞击声。干燥剂声音非常明显",
+          "feelEn": "All six sides have a little space, but there is no hitting or knocking sound. The desiccant sound is very noticeable.",
+          "spuId": "1027080195489697805",
+          "image": "https://treasure.islandsassets.com/treasure/images/faMilQvihEe.png"
+        },
+        {
+          "name": "讨厌马拉松",
+          "nameEn": "Marathons Are the Worst",
+          "weight": 75.5,
+          "feel": "虽然很小，但娃娃依然非常紧实。六面都没有晃动",
+          "feelEn": "Although it is small, the figure is still very tightly packed. No movement on all six sides.",
+          "spuId": "1027080110664115422",
+          "image": "https://treasure.islandsassets.com/treasure/images/faMilQvihEC.png"
+        },
+        {
+          "name": "白日做梦",
+          "nameEn": "Daydreaming",
+          "weight": 76,
+          "feel": "六面依然非常饱满。上下有极少量空间，但其他方向娃娃不动",
+          "feelEn": "Still very full on all six sides. There is a tiny amount of space up and down, but the figure does not move in other directions.",
+          "spuId": "1027080163277435193",
+          "image": "https://treasure.islandsassets.com/treasure/images/faMilZgPUkG.png"
+        },
+        {
+          "name": "发财啦",
+          "nameEn": "I'm Rich",
+          "weight": 77.5,
+          "feel": "上下和前后摇晃时可感觉到很小的空间。左右非常紧实没有空间",
+          "feelEn": "Very small space can be felt when shaking up and down and front/back. Left and right are very tight with no space.",
+          "spuId": "1027080155761221518",
+          "image": "https://treasure.islandsassets.com/treasure/images/faMilKLcI7E.png"
+        },
+        {
+          "name": "我真幸运",
+          "nameEn": "Sooo Lucky",
+          "weight": 77.5,
+          "feel": "六面完全饱满。上下摇晃只能听到干燥剂声音",
+          "feelEn": "Completely full on all six sides. Only the desiccant sound can be heard when shaking up and down.",
+          "spuId": "1027080136433922224",
+          "image": "https://treasure.islandsassets.com/treasure/images/faMilQvihEZ.png"
+        },
+        {
+          "name": "长高高",
+          "nameEn": "Grow Taller",
+          "weight": 83,
+          "feel": "娃娃六面完全固定。只能听到干燥剂上下移动的声音",
+          "feelEn": "The figure is completely fixed on all six sides. Only the desiccant bag can be heard moving up and down.",
+          "spuId": "1027080126770213889",
+          "image": "https://treasure.islandsassets.com/treasure/images/faMilZgPUke.png"
+        },
+        {
+          "name": "她可是我妹妹",
+          "nameEn": "That's My Sister",
+          "weight": 83,
+          "feel": "这款配件多且身体较高。即使没有干燥剂也感觉非常饱满。整盒感觉略微撑开。左右中上部有轻微顶压感，但没有明显压点",
+          "feelEn": "This figure has more accessories and a taller body. Even without a desiccant bag, it feels very full. The whole box feels slightly stretched. There is a slight top pressure feeling around the upper middle area on the left and right sides, but no obvious pressure point.",
+          "spuId": "1027080120327757939",
+          "image": "https://treasure.islandsassets.com/treasure/images/faMilmXY3dL.png"
+        },
+        {
+          "name": "我姓樱，叫桃子",
+          "nameEn": "My Name is Maruko",
+          "weight": 84.5,
+          "feel": "整个娃娃感觉微微撑开。干燥剂非常小。六面极度饱满，摇晃时只有轻微干燥剂移动声",
+          "feelEn": "The whole figure feels slightly bulged. The desiccant bag is very small. All six sides are extremely full, with only a slight desiccant movement sound when shaking.",
+          "spuId": "1027080207300834425",
+          "image": "https://treasure.islandsassets.com/treasure/images/faMilKLcI7Q.png"
+        },
+        {
+          "name": "最棒的爷爷",
+          "nameEn": "The Best Grandpa",
+          "weight": 86,
+          "feel": "六面依然完全饱满没有空隙",
+          "feelEn": "Still completely full on all six sides with no empty space.",
+          "spuId": "1027080172941092338",
+          "image": "https://treasure.islandsassets.com/treasure/images/faMilQvihE1.png"
+        },
+        {
+          "name": "好好吃饭",
+          "nameEn": "Eat Well",
+          "weight": 100,
+          "feel": "上下摇晃时有空间和晃动。这款干燥剂非常大。四个侧面方向没有空间",
+          "feelEn": "There is space and movement when shaking up and down. This one has a very large desiccant bag. The four side directions have no space.",
+          "spuId": "1027080181531027710",
+          "image": "https://treasure.islandsassets.com/treasure/images/faMilKLcI7t.png"
+        },
+        {
+          "name": "专心睡觉",
+          "nameEn": "Focus on Sleep",
+          "weight": 109,
+          "feel": "六面非常饱满。只能感觉到轻微松散的干燥剂移动。大干燥剂影响手感",
+          "feelEn": "Very full on all six sides. Only a slight loose desiccant movement can be felt. The large desiccant bag affects the hand feel.",
+          "spuId": "1027080146097564146",
+          "image": "https://treasure.islandsassets.com/treasure/images/faMilKLcI7n.png"
+        },
+        {
+          "name": "最重要的朋友",
+          "nameEn": "My No.1 Friend",
+          "weight": 110,
+          "feel": "【必摇款】非常重且非常饱满。整盒撑满且摇晃时有轻微晃动。六面紧实；触摸可感觉纸袋被撑满，有明显纸袋声。非常好辨识",
+          "feelEn": "[Key Pick] Very heavy and very full. The whole box feels stretched and slightly moves when shaken. All six sides are packed tightly; when touching, you can feel the paper bag being fully stretched with a noticeable paper bag sound. Clear identification (easy to distinguish).",
+          "is_obvious": true,
+          "spuId": "1027080186899762502",
+          "image": "https://treasure.islandsassets.com/treasure/images/faMilQvihEs.png"
+        },
+        {
+          "name": "隐藏款-有风了",
+          "nameEn": "Here Comes the Wind (Secret)",
+          "weight": 111.24,
+          "feel": "系列最重。上下：娃娃几乎不动，只能听到轻微干燥剂颗粒声。前后：娃娃完全不动，有轻微干燥剂颗粒声。左右：娃娃完全不动，有干燥剂颗粒声。正面捏：中间明显顶盒。左右捏：无明显顶压，但可感觉到娃娃且盒子微鼓。上下捏：感觉不到娃娃",
+          "feelEn": "Heaviest in the series. Up/Down: The figure almost does not move, only a slight desiccant particle sound. Front/Back: The figure does not move at all, with a slight desiccant particle sound. Left/Right: The figure does not move at all, with a desiccant particle sound. Front squeeze: The middle part clearly presses against the box. Left/Right squeeze: No obvious top pressure, but the figure can be felt and the box feels slightly bulged. Top/Bottom squeeze: Cannot feel the figure.",
+          "is_hot": true,
+          "spuId": "1027080102074179962",
+          "image": "https://treasure.islandsassets.com/treasure/images/faMilZgPUkh.png"
+        }
+      ]
+    },
+    {
       "id": "off-mode-plush",
       "name": "SKULLPANDA|OFF MODE不想不想系列毛绒挂件",
       "nameEn": "SKULLPANDA|OFF MODE Series Plush Doll Pendant",
