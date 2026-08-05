@@ -1,6 +1,135 @@
 {
   "series": [
     {
+      "id": "chaka-stitch-by-stitch",
+      "name": "CHAKA|一针一线系列",
+      "nameEn": "CHAKA|Stitch by Stitch Series Figures",
+      "brand": "泡泡玛特",
+      "releaseDate": "2026-07",
+      "note": "奶奶的老花镜(141.3g)最重，有塑料壳。隐藏款一缕星辰(125.3g)：内有厚卡片，六面摇晃无撞击声，左右上侧有轻微顶压感。模特小姐(111.6g)最轻",
+      "noteEn": "Granny's Glasses (141.3g) is heaviest, has plastic shell. Secret Spinning Glamour (125.3g): Very tightly packed with a thick card inside, no hitting sound when shaking in any direction, slight top pressure on upper left/right sides. Lady Model (111.6g) is lightest.",
+      "figures": [
+        {
+          "name": "模特小姐",
+          "nameEn": "Lady Model",
+          "weight": 111.6,
+          "feel": "系列最轻。上下：上方配件撞击，有轻微干燥剂声。前后：上前方主体和配件撞击。左右：只有配件撞击声。（中干燥剂，有配件）",
+          "feelEn": "Lightest in the series. Up/Down: Upper accessory hits with a slight desiccant sound. Front/Back: Upper front main body and accessories hit. Left/Right: Only accessory hitting sound. (Medium desiccant bag, with accessories)",
+          "spuId": "1027075526860229052",
+          "image": "https://treasure.islandsassets.com/treasure/images/faM5okGGtFe.png"
+        },
+        {
+          "name": "游走的白线",
+          "nameEn": "Wandering Line",
+          "weight": 114.1,
+          "feel": "前后：后中部和前下部撞击，有干燥剂声。左右：左上方轻撞。上下：底部配件撞击，干燥剂声强。（大干燥剂，大配件）",
+          "feelEn": "Front/Back: Rear middle and front lower areas hit, with desiccant sound. Left/Right: Light hit on the upper left side. Up/Down: Bottom accessory hits with a strong desiccant sound. (Large desiccant bag, large accessory)",
+          "spuId": "1027075568736194758",
+          "image": "https://treasure.islandsassets.com/treasure/images/faM55cRZi0F.png"
+        },
+        {
+          "name": "织梦",
+          "nameEn": "Dream in Embroidery",
+          "weight": 115.7,
+          "feel": "上下：空间大；底部配件和干燥剂撞击声明显。前后：左上中部区域重撞。左右：只有干燥剂和卡片移动声；右中左区域有明显压点。（中干燥剂，有配件）",
+          "feelEn": "Up/Down: Large space; bottom accessory and desiccant hit with a noticeable sound. Front/Back: Heavy hit around the upper left-middle area. Left/Right: Only desiccant and identity card movement sounds; obvious pressure point on the right middle-left area. (Medium desiccant bag, with accessories)",
+          "spuId": "1027075519344041452",
+          "image": "https://treasure.islandsassets.com/treasure/images/faM5U92cUkm.png"
+        },
+        {
+          "name": "紧急救援",
+          "nameEn": "Safety Pin",
+          "weight": 116.1,
+          "feel": "前后：后上方轻撞。左右：左中部区域轻撞。上下：主体不动；只有配件和干燥剂移动并强烈撞击。（大干燥剂，大配件）",
+          "feelEn": "Front/Back: Light hit on the upper rear side. Left/Right: Light hit around the left middle area. Up/Down: Main figure stays still; only accessories and desiccant move and hit strongly. (Large desiccant bag, large accessory)",
+          "spuId": "1027075498942922885",
+          "image": "https://treasure.islandsassets.com/treasure/images/faMUESeLUDL.png"
+        },
+        {
+          "name": "精准裁剪",
+          "nameEn": "Precise Cutting",
+          "weight": 118.2,
+          "feel": "上下：只有轻微干燥剂声。左右：只有干燥剂撞击声。前后：轻微移动，均匀摇晃感，主要是干燥剂声。（小干燥剂）",
+          "feelEn": "Up/Down: Only slight desiccant sound. Left/Right: Only desiccant hitting sound. Front/Back: Slight movement with an even shaking feeling, mainly desiccant sound. (Small desiccant bag)",
+          "spuId": "1027075581621099923",
+          "image": "https://treasure.islandsassets.com/treasure/images/faM56Ui3XVG.png"
+        },
+        {
+          "name": "时光熨斗",
+          "nameEn": "Time Iron",
+          "weight": 119.4,
+          "feel": "左右：左下方撞击声较重，伴有卡片声。前后：前上配件轻撞，前下主体撞击更明显。上下：约1.5指空间，摇晃时底部轻撞盒子。（中干燥剂，有配件）",
+          "feelEn": "Left/Right: Lower left side hits with a heavier sound, accompanied by identity card noise. Front/Back: Upper front accessory hits lightly, lower front main body hits more noticeably. Up/Down: About 1.5 fingers of space, bottom lightly hits the box when shaking. (Medium desiccant bag, with accessories)",
+          "spuId": "1027075569809906680",
+          "image": "https://treasure.islandsassets.com/treasure/images/faM5iyIPtFu.png"
+        },
+        {
+          "name": "隐藏款—一缕星辰",
+          "nameEn": "Spinning Glamour (Secret)",
+          "weight": 125.3,
+          "feel": "【隐藏款辨识】内有厚卡片，非常紧实。六面摇晃无撞击声。左右上侧有轻微顶压感",
+          "feelEn": "[Secret ID] Very tightly packed with a thick card inside. No hitting sound when shaking in any direction. Slight top pressure can be felt on the upper left and right sides.",
+          "is_hot": true,
+          "spuId": "1027078514009977145",
+          "image": "https://treasure.islandsassets.com/treasure/images/faMUbDrB5Rh.png"
+        },
+        {
+          "name": "防御工事",
+          "nameEn": "Thimble Fort",
+          "weight": 125.3,
+          "feel": "上下：上下都撞击，上方撞击更强。左右：右侧左上角区域轻撞。前后：前上中部区域轻撞，干燥剂声大。（大干燥剂，有配件）",
+          "feelEn": "Up/Down: Hits both top and bottom, with a stronger top impact. Left/Right: Light hit near the upper left corner on the right side. Front/Back: Light hit around the upper middle front area with a loud desiccant sound. (Large desiccant bag, with accessories)",
+          "spuId": "1027075502164170561",
+          "image": "https://treasure.islandsassets.com/treasure/images/faM5i94imqj.png"
+        },
+        {
+          "name": "小捣蛋",
+          "nameEn": "Yarn Chaser",
+          "weight": 130.7,
+          "feel": "前后：移动空间大，后中部区域强烈撞击。左右：右/左上部区域强烈撞击。上下：主体在盒内撞击，干燥剂声大。（大干燥剂，有配件）",
+          "feelEn": "Front/Back: Large movement space, with a strong hit around the rear middle area. Left/Right: Strong hit around the upper right/left area. Up/Down: Main body hits inside the box, with a loud desiccant sound. (Large desiccant bag, with accessories)",
+          "spuId": "1027075542966387243",
+          "image": "https://treasure.islandsassets.com/treasure/images/faM5vBReEWO.png"
+        },
+        {
+          "name": "完美的眼睛",
+          "nameEn": "Yarn Chaser (Perfect Eyes)",
+          "weight": 134.5,
+          "feel": "上下：空间大；底部重撞，有轻微干燥剂声。左右：两侧上方配件撞击；左中右区域有轻微压点。前后：主要是干燥剂声；前中部有明显压点。（大干燥剂，多配件，有轻微按钮移动声）",
+          "feelEn": "Up/Down: Large movement space; bottom hits heavily with a slight desiccant sound. Left/Right: Upper accessories on both sides hit; slight pressure point around the left middle-right area. Front/Back: Mainly desiccant sound; obvious pressure point on the front middle area. (Large desiccant bag, multiple accessories, slight button movement sound)",
+          "spuId": "1027075538671418265",
+          "image": "https://treasure.islandsassets.com/treasure/images/faMUEbV6nhH.png"
+        },
+        {
+          "name": "穿针引线",
+          "nameEn": "Needle & Thread",
+          "weight": 139.7,
+          "feel": "上下：约1.5指空间；摇晃时底部轻撞。左右：右中右区域重撞。前后：后左上和前中部同时有压点，有干燥剂声。（小干燥剂，有配件）",
+          "feelEn": "Up/Down: About 1.5 fingers of space; bottom lightly hits when shaking. Left/Right: Heavy hit around the right middle-right area. Front/Back: Pressure points on the upper-left rear and middle front areas at the same time, with desiccant sound. (Small desiccant bag, with accessories)",
+          "spuId": "1027075559072472989",
+          "image": "https://treasure.islandsassets.com/treasure/images/faM56suEdWs.png"
+        },
+        {
+          "name": "哒哒哒时光机",
+          "nameEn": "Click-Clack Time Machine",
+          "weight": 140.1,
+          "feel": "上下：非常饱满，只有轻微干燥剂和卡片声。按压顶部有明显压点。左右：干燥剂撞击；右中左区域有轻微鼓起感。前后：后右中下区域有轻微压点。（小干燥剂，无配件）",
+          "feelEn": "Up/Down: Very full, only slight desiccant and identity card sounds. Clear pressure point when pressing the top. Left/Right: Desiccant hits; slight bulging feeling around the right middle-left area. Front/Back: Slight pressure point on the lower right-middle rear area. (Small desiccant bag, no accessories)",
+          "spuId": "1027075509680356981",
+          "image": "https://treasure.islandsassets.com/treasure/images/faM5oASGZhu.png"
+        },
+        {
+          "name": "奶奶的老花镜",
+          "nameEn": "Granny's Glasses",
+          "weight": 141.3,
+          "feel": "系列最重。左右：右下方重撞，有干燥剂声。上下：非常饱满，只有干燥剂声；按压时有轻微塑料壳声。前后：轻微移动，有干燥剂声。（大干燥剂，大配件，有塑料壳）",
+          "feelEn": "Heaviest in the series. Left/Right: Heavy hit on the lower right side with desiccant sound. Up/Down: Very full, only desiccant sound; slight plastic shell sound when pressing. Front/Back: Slight movement with desiccant sound. (Large desiccant bag, large accessory, plastic shell)",
+          "spuId": "1027075550482537251",
+          "image": "https://treasure.islandsassets.com/treasure/images/faM5U2CYXFS.png"
+        }
+      ]
+    },
+    {
       "id": "nyota-chibi-maruko-plush",
       "name": "Nyota|樱桃小丸子联名系列毛绒挂件",
       "nameEn": "Nyota|Chibi Maruko Chan Plush Doll Pendant",
