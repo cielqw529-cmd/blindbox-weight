@@ -6,15 +6,15 @@
       "nameEn": "Act I|Sugar Therapy Room Series Figures",
       "brand": "泡泡玛特",
       "releaseDate": "2026-08",
-      "note": "糖浆储存罐(132.53g)最重，100%好苹果(93.12g)最轻。【隐藏款辨识】甜蜜制造机(约110-115g)：盒中盒设计，摇盒时有明显塑料碰撞清脆声，六面都有空间",
-      "noteEn": "Syrup Jar (132.53g) is heaviest, 100% Good Apple (93.12g) is lightest. [Secret ID] Sweetness Generator (~110-115g): Box-within-a-box structure, produces a distinct crisp plastic-on-plastic clicking sound when shaken, space on all six sides.",
+      "note": "糖浆储存罐(132.53g)最重，100%好苹果(93.12g)最轻。【隐藏款辨识】甜蜜制造机(95g)：三面均匀轻砸盒，干燥剂之外还有细密颗粒碰撞声",
+      "noteEn": "Syrup Jar (132.53g) is heaviest, 100% Good Apple (93.12g) is lightest. [Secret ID] Sweetness Generator (95g): Shakes evenly in all three directions with light box-hitting. Besides the desiccant sound, there is a distinct fine, dense granular rattling sound inside.",
       "figures": [
         {
           "name": "100%好苹果",
           "nameEn": "100% Good Apple",
           "weight": 93.12,
-          "feel": "系列最轻。上下：只有一丢丢空间，有擦盒声。前后：一丢丢空间。左右：主体几乎摇不动，只有很轻微声音。前后上下捏有很轻微袋子声，左右捏有明显袋子声",
-          "feelEn": "Lightest in the series. Up/Down: Only a tiny bit of space, with a rubbing-against-the-box sound. Front/Back: Only a tiny bit of space. Left/Right: Main figure is almost completely stuck, with only a very faint sound. Very slight bag crinkling from front/back/top/bottom pressing; obvious bag crinkling from left/right pressing.",
+          "feel": "系列最轻。上下：微空间+擦盒。前后：微空间。左右：几乎摇不动，微响。前后上下捏微袋声，左右捏明显袋声",
+          "feelEn": "Lightest in the series. Up/Down: Tiny bit of space, with a rubbing-against-the-box sound. Front/Back: Tiny bit of space. Left/Right: Almost no movement, with only a faint sound. Faint bag crinkling from the front/back/top/bottom pressing; obvious bag crinkling from the left/right pressing.",
           "spuId": "1030045751222254098",
           "image": "https://treasure.islandsassets.com/treasure/images/f46pQylrz8r.png"
         },
@@ -22,17 +22,36 @@
           "name": "甜味处方",
           "nameEn": "Sweet Prescription",
           "weight": 94.39,
-          "feel": "上下：主体完全摇不动，但配件擦盒打盒有明显咔哒声。前后：主体完全摇不动，干燥剂包打盒明显咔哒声。左右：主体完全摇不动，干燥剂包打盒咔哒声明显。六面捏不到",
-          "feelEn": "Up/Down: Main figure does not move at all, but the accessory rubs against and hits the box with a clear clicking sound. Front/Back: Main figure does not move; the desiccant bag hits the box with a clear clicking sound. Left/Right: Main figure does not move; clear clicking from the desiccant bag hitting the box. Nothing can be felt from any of the six sides when pressing.",
+          "feel": "上下：主体不动，配件擦盒打盒+咔哒。前后：主体不动，干燥剂打盒+咔哒。左右：同前后。六面捏不到",
+          "feelEn": "Up/Down: Main figure does not move; accessory rubs against and hits the box with a clicking sound. Front/Back: Main figure does not move; desiccant hits the box with a clicking sound. Left/Right: Same as front/back. Nothing can be felt from any of the six sides when pressing.",
           "spuId": "1030045258374753505",
           "image": "https://treasure.islandsassets.com/treasure/images/f46pKyC9Jfe.png"
+        },
+        {
+          "name": "隐藏款-甜蜜制造机",
+          "nameEn": "Sweetness Generator (Secret)",
+          "weight": 95,
+          "feel": "【隐藏款辨识】三面均匀轻砸盒，干燥剂之外还有细密颗粒碰撞声（最重要辨识点）",
+          "feelEn": "[Secret ID] Shakes evenly in all three directions with light box-hitting. Besides the desiccant sound, there is a distinct fine, dense granular rattling sound inside (key identification clue).",
+          "is_hot": true,
+          "spuId": "1030045734042380626",
+          "image": "https://treasure.islandsassets.com/treasure/images/f46ptjCe8Fm.png"
+        },
+        {
+          "name": "蛀牙哭哭",
+          "nameEn": "Cavity Crying",
+          "weight": 96.41,
+          "feel": "上下：微空间。前后：摇不动+轻微颗粒声。左右：微空间+轻微咣当。前后中上部顶盒明显，左右上下捏不到",
+          "feelEn": "Up/Down: Tiny bit of space. Front/Back: No movement, with a faint granular sound. Left/Right: Tiny bit of space with a faint clunking sound. Clear pressure point around the upper-middle front/back when pressing; nothing can be felt from the left/right/top/bottom.",
+          "spuId": "1030045250858526900",
+          "image": "https://treasure.islandsassets.com/treasure/images/f46pqkIEt1c.png"
         },
         {
           "name": "硬糖催眠术",
           "nameEn": "Hard Candy Hypnosis",
           "weight": 104.47,
-          "feel": "上下：轻轻微打盒，有咣当感。前后：打盒但空间不大，有咣当感。左右：轻轻微打盒，有哗啦声和轻微咣当感。六面捏有轻微袋子声",
-          "feelEn": "Up/Down: Very slight box contact with a faint clunking feel. Front/Back: The figure hits the box, but there isn't much space; noticeable clunking feel. Left/Right: Very slight box contact, with a rustling sound and faint clunking. Slight bag crinkling can be heard on all six sides when pressing.",
+          "feel": "上下：轻打盒+咣当。前后：打盒空间不大+咣当。左右：轻打盒+哗啦+轻咣当。六面捏微袋声",
+          "feelEn": "Up/Down: Light box contact with a clunking sound. Front/Back: Hits the box with little space and a clunking sound. Left/Right: Light box contact with a rustling sound and faint clunking. Faint bag crinkling on all six sides when pressing.",
           "spuId": "1030045276628335910",
           "image": "https://treasure.islandsassets.com/treasure/images/f46pAAMZUs1.png"
         },
@@ -40,8 +59,8 @@
           "name": "听诊医生",
           "nameEn": "Doctor's Listening",
           "weight": 105.70,
-          "feel": "上下：撞盒明显有弹弹的感觉。前后：轻轻微打盒，空间较小，有弹弹的感觉和袋子声。左右：中上部打盒明显但空间小，咣当声明显。前后左右捏都能捏到袋子，上下捏不到",
-          "feelEn": "Up/Down: Clearly hits the box with a bouncy feel. Front/Back: Very slight box contact with little space, plus a bouncy feel and bag crinkling. Left/Right: Clear contact around the upper-middle area with little space and an obvious clunking sound. The bag can be felt from the front/back/left/right; nothing can be felt from the top/bottom when pressing.",
+          "feel": "上下：撞盒明显+弹感。前后：轻打盒空间小+弹感+袋声。左右：中上打盒明显空间小+咣当。前后左右捏到袋，上下捏不到",
+          "feelEn": "Up/Down: Clearly hits the box with a bouncy feel. Front/Back: Light box contact with little space, a bouncy feel and bag crinkling. Left/Right: Clear box contact around the upper-middle area, with little space and a clunking sound. The bag can be felt from the front/back/left/right pressing; nothing from the top/bottom.",
           "spuId": "1030045265890932717",
           "image": "https://treasure.islandsassets.com/treasure/images/f46pR54szMa.png"
         },
@@ -49,27 +68,17 @@
           "name": "樱桃磨坊",
           "nameEn": "Cherry Mill",
           "weight": 107.49,
-          "feel": "上下：只有一丝丝空间，有轻微咔哒声。前后：一丝丝空间。左右：主体几乎摇不动，但配件有一丝丝空间打盒轻微咣当声。前后捏中下部有明显顶盒。左右捏有袋子声，上下捏不到",
-          "feelEn": "Up/Down: Barely any space, with a slight clicking sound. Front/Back: Barely any space. Left/Right: Main figure is almost completely stuck; only the accessory has a tiny bit of movement and lightly hits the box with a faint clunk. Clear pressure point around the lower-middle front/back when pressing. Bag crinkling can be heard from left/right pressing; nothing from top/bottom.",
+          "feel": "上下：微空间+轻咔哒。前后：微空间。左右：几乎摇不动，配件微打盒+轻咣当。前后捏中下顶盒明显，左右捏袋声，上下捏不到",
+          "feelEn": "Up/Down: Tiny bit of space with a faint clicking sound. Front/Back: Tiny bit of space. Left/Right: Main figure barely moves; accessory lightly hits the box with a faint clunk. Clear pressure point around the lower-middle front/back when pressing; bag crinkling from the left/right; nothing from the top/bottom.",
           "spuId": "1030045212203813132",
           "image": "https://treasure.islandsassets.com/treasure/images/f46pm8XO3vi.png"
-        },
-        {
-          "name": "隐藏款-甜蜜制造机",
-          "nameEn": "Sweetness Generator (Secret)",
-          "weight": null,
-          "feel": "【隐藏款辨识】重量约110-115g，属于偏重梯队。盒中盒设计，摇盒时有明显塑料碰撞清脆声（最重要辨识点）。六面都有空间，上下约一指空间有砸盒感，前后空间大，左右空间相对小。可听到卡片打盒声",
-          "feelEn": "[Secret ID] Weight around 110-115g, on the heavier side. Box-within-a-box structure, produces a distinct crisp plastic-on-plastic clicking sound when shaken (key identification clue). Space on all six sides: about one finger of space up/down with a noticeable box-hitting feel, more space front/back, slightly less space left/right. Card hitting sound can be heard.",
-          "is_hot": true,
-          "spuId": "1030045734042380626",
-          "image": "https://treasure.islandsassets.com/treasure/images/f46ptjCe8Fm.png"
         },
         {
           "name": "急救专员",
           "nameEn": "First Aid Ready",
           "weight": 117.82,
-          "feel": "上下：摇不动，有很轻微颗粒声。前后：主体几乎摇不动，干燥剂包轻微打盒颗粒声。左右：整体一丝丝空间打盒，有轻微颗粒声。六面捏都有明显袋子声",
-          "feelEn": "Up/Down: Almost completely stuck, with a very faint granular sound. Front/Back: Main figure barely moves; the desiccant bag lightly hits the box with a granular sound. Left/Right: Tiny bit of movement and box contact, with a slight granular sound. Obvious bag crinkling on all six sides when pressing.",
+          "feel": "上下：摇不动+微颗粒。前后：主体不动，干燥剂微打盒+颗粒。左右：整体微空间打盒+微颗粒。六面捏明显袋声",
+          "feelEn": "Up/Down: No movement, with a faint granular sound. Front/Back: Main figure does not move; desiccant lightly hits the box with a granular sound. Left/Right: Tiny bit of overall space and box contact, with a faint granular sound. Obvious bag crinkling on all six sides when pressing.",
           "spuId": "1030045743706073596",
           "image": "https://treasure.islandsassets.com/treasure/images/f46pRZDeAKt.png"
         },
@@ -77,17 +86,35 @@
           "name": "金牌甜点师",
           "nameEn": "Master Pastry Chef",
           "weight": 123.62,
-          "feel": "上下：整体一丢丢空间打盒。前后：几乎摇不动，上方有轻微咔哒声。左右：轻轻微打盒，有颗粒声和很轻微咣当感。六面捏有很轻微袋子声",
-          "feelEn": "Up/Down: Very little space; the figure lightly hits the box. Front/Back: Almost no movement, with a slight clicking sound from the upper area. Left/Right: Very slight box contact, with a granular sound and a faint clunking sound. Very slight bag crinkling can be heard when pressing all six sides.",
+          "feel": "上下：微打盒。前后：几乎摇不动，上方轻微咔哒。左右：微打盒+颗粒声+轻咣当。六面捏微袋声",
+          "feelEn": "Up/Down: Slight box contact. Front/Back: Almost no movement, with a faint clicking sound from the upper area. Left/Right: Slight box contact with a granular sound and faint clunking. Faint bag crinkling on all six sides when pressing.",
           "spuId": "1030045244416092168",
           "image": "https://treasure.islandsassets.com/treasure/images/f46p9OT7n15.png"
+        },
+        {
+          "name": "草莓发条",
+          "nameEn": "Clockwork Strawberry",
+          "weight": 123.98,
+          "feel": "上下：轻打盒+咣当。前后：打盒空间不大+咣当。左右：轻打盒空间不大+咣当+咻哒声。前后左右捏袋声，上下捏不到",
+          "feelEn": "Up/Down: Light box contact with a clunking sound. Front/Back: Hits the box with little space and a clunking sound. Left/Right: Light box contact with little space, a clunking sound and a faint swishing/clicking sound. Bag crinkling from the front/back/left/right pressing; nothing from the top/bottom.",
+          "spuId": "1030045219720040662",
+          "image": "https://treasure.islandsassets.com/treasure/images/f46pA6yZIDM.png"
+        },
+        {
+          "name": "甜度测试员",
+          "nameEn": "Sweetness Inspector",
+          "weight": 124.70,
+          "feel": "上下：主体不动，干燥剂打盒重+颗粒声。前后：主体不动，干燥剂颗粒声明显。前后左右捏到物不顶盒+袋声，上下捏不到",
+          "feelEn": "Up/Down: Main figure does not move; desiccant hits the box heavily with a granular sound. Front/Back: Main figure does not move; clear granular sound from the desiccant. Something can be felt from the front/back/left/right pressing, but it does not press firmly against the box; bag crinkling can also be heard. Nothing from the top/bottom.",
+          "spuId": "1030045760885944822",
+          "image": "https://treasure.islandsassets.com/treasure/images/f46pOziULrE.png"
         },
         {
           "name": "奶油甜心",
           "nameEn": "Creamy Sweetheart",
           "weight": 131.56,
-          "feel": "上下：轻轻微打盒空间很小，有轻微咣当感。前后：轻轻微打盒空间很小，有莎莎声和轻微咣当感。左右：手感和前后一样。六面捏不到，但有若隐若现的袋子声",
-          "feelEn": "Up/Down: Very slight box contact with very little space and a faint clunking feel. Front/Back: Very slight box contact with very little space, plus rustling and faint clunking sounds. Left/Right: Same feel as front/back. Nothing can be directly felt from any side when pressing, but faint bag crinkling may occasionally be heard.",
+          "feel": "上下：轻打盒空间小+轻咣当。前后：同上+沙沙声。左右：同前后。六面捏不到，袋声隐约",
+          "feelEn": "Up/Down: Light box contact with little space and a faint clunking sound. Front/Back: Similar feel, with an additional rustling sound. Left/Right: Same as front/back. Nothing can be directly felt from any side when pressing, with only faint bag crinkling.",
           "spuId": "1030045234752395384",
           "image": "https://treasure.islandsassets.com/treasure/images/f46pxPAil9t.png"
         },
@@ -95,37 +122,10 @@
           "name": "糖浆储存罐",
           "nameEn": "Syrup Jar",
           "weight": 132.53,
-          "feel": "系列最重。上下：几乎摇不动，配件有很轻轻微晃动感。前后：整体一丢丢空间打盒，配件有轻微咔哒声。左右：整体一丝丝空间打盒。前后摇底部有轻微顶盒但不明显。左右上下捏不到",
-          "feelEn": "Heaviest in the series. Up/Down: Almost no movement, with only very slight movement from the accessory. Front/Back: Tiny bit of overall space and box contact, with a faint clicking sound from the accessory. Left/Right: Barely any space, with slight box contact. Slight pressure point near the bottom from front/back pressing, but not very obvious. Nothing can be felt from left/right/top/bottom when pressing.",
+          "feel": "系列最重。上下：几乎不动，配件微晃。前后：整体微空间打盒+配件轻咔哒。左右：整体微空间打盒。前后底部微顶盒，左右上下捏不到",
+          "feelEn": "Heaviest in the series. Up/Down: Almost no movement; accessory moves very slightly. Front/Back: Tiny bit of overall space and box contact, with a faint clicking sound from the accessory. Left/Right: Tiny bit of overall space and box contact. Slight pressure point near the bottom from front/back pressing; nothing from the left/right/top/bottom.",
           "spuId": "1030045226162459572",
           "image": "https://treasure.islandsassets.com/treasure/images/f46p9ikGWf7.png"
-        },
-        {
-          "name": "甜度测试员",
-          "nameEn": "Sweetness Inspector",
-          "weight": null,
-          "feel": "暂无详细手感数据",
-          "feelEn": "No detailed shake data available yet.",
-          "spuId": "1030045760885944822",
-          "image": "https://treasure.islandsassets.com/treasure/images/f46pOziULrE.png"
-        },
-        {
-          "name": "蛀牙哭哭",
-          "nameEn": "Cavity Crying",
-          "weight": null,
-          "feel": "暂无详细手感数据",
-          "feelEn": "No detailed shake data available yet.",
-          "spuId": "1030045250858526900",
-          "image": "https://treasure.islandsassets.com/treasure/images/f46pqkIEt1c.png"
-        },
-        {
-          "name": "草莓发条",
-          "nameEn": "Clockwork Strawberry",
-          "weight": null,
-          "feel": "暂无详细手感数据",
-          "feelEn": "No detailed shake data available yet.",
-          "spuId": "1030045219720040662",
-          "image": "https://treasure.islandsassets.com/treasure/images/f46pA6yZIDM.png"
         }
       ]
     },
