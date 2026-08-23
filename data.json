@@ -1,6 +1,81 @@
 {
   "series": [
     {
+      "id": "youre-not-alone",
+      "name": "HIRONO小野|你可不是一个人啊系列",
+      "nameEn": "HIRONO|You're Not Alone Series Figures",
+      "brand": "泡泡玛特",
+      "releaseDate": "2026-08",
+      "note": "倔强牛仔(162.79g)最重，天真小猪(140.12g)最轻。【隐藏款辨识】不丑小鸭(148.9g)：整体挺满，帽子尾部像沙包一样哗哗响。所有款都是小包干燥剂，这个额外的沙包声是关键辨识点",
+      "noteEn": "Wild Cowboy (162.79g) is heaviest, Pure Pigling (140.12g) is lightest. [Secret ID] Tearful Duckling (148.9g): Feels quite full overall. The tail of the hat makes a distinctive sandbag-like rustling sound when shaken. All regular figures use small desiccant packs, so this extra rustling sound is the key giveaway.",
+      "figures": [
+        {
+          "name": "天真小猪",
+          "nameEn": "Pure Pigling",
+          "weight": 140.12,
+          "feel": "系列最轻。上下：整体打盒咣当感。前后：整体打盒明显咣当感咔哒声。左右：整体打盒很明显咣当感咔哒声。六面捏不到",
+          "feelEn": "Lightest in the series. Up/Down: Noticeable box-hits with a clunking feel. Front/Back: Strong box-hits with obvious clunking and clicking sounds. Left/Right: Very obvious box-hits with clunking and clicking sounds. Nothing can be felt when pressing all six sides.",
+          "spuId": "1032639083614078435",
+          "image": "https://treasure.islandsassets.com/treasure/images/f4FSvrKpyHk.png"
+        },
+        {
+          "name": "忠诚灰狼",
+          "nameEn": "Loyal Wolfy",
+          "weight": 142.89,
+          "feel": "上下：整体打盒明显，卡片打盒咔哒声明显。前后：整体打盒明显咣当声。左右：整体打盒明显咣当感。六面捏不到",
+          "feelEn": "Up/Down: Noticeable box-hits with a clear card-clicking sound. Front/Back: Strong box-hits and clunking. Left/Right: Strong box-hits with obvious clunking. Nothing can be felt when pressing all six sides.",
+          "spuId": "1032639091130261436",
+          "image": "https://treasure.islandsassets.com/treasure/images/f4FS6sFFVAR.png"
+        },
+        {
+          "name": "勇敢甜心",
+          "nameEn": "Fearless Pumpkin",
+          "weight": 146.48,
+          "feel": "上下：主体擦盒打盒，有明显咔哒声。前后：中上部打盒明显咔哒声。左右：整体打盒中上部咣当感明显。前后捏有轻微咔哒声，左右上下捏不到",
+          "feelEn": "Up/Down: The figure rubs and hits the box with clear clicking. Front/Back: Noticeable box-hits around the upper-middle area, also with clicking. Left/Right: Obvious box-hits especially around the upper-middle area, with a strong clunking feel. Slight clicking when pressing front/back; nothing can be felt from the other four sides.",
+          "spuId": "1032639122268790601",
+          "image": "https://treasure.islandsassets.com/treasure/images/f4FSUgpsCa1.png"
+        },
+        {
+          "name": "隐藏款-不丑小鸭",
+          "nameEn": "Tearful Duckling (Secret)",
+          "weight": 148.9,
+          "feel": "【隐藏款辨识】整体感觉挺满。帽子尾部像沙包一样哗哗哗地响（最重要辨识点）。所有款都是小包干燥剂，所以能听到这个额外沙包声就是隐藏款",
+          "feelEn": "[Secret ID] Feels quite full overall. The tail of the hat makes a distinctive sandbag-like rustling sound when shaken (key identification clue). All regular figures use small desiccant packs, so this extra rustling sound makes the Secret relatively easy to identify.",
+          "is_hot": true,
+          "spuId": "1032639068581669225",
+          "image": "https://treasure.islandsassets.com/treasure/images/f4FSvAVWj7x.png"
+        },
+        {
+          "name": "温暖小羊",
+          "nameEn": "Warm Lamb",
+          "weight": 151.46,
+          "feel": "上下：主体打盒空间不是很大，卡片打盒咔哒声明显。前后：整体擦盒打盒，空间不是很大。左右：整体打盒咣当声明显空间不是很大。六面捏不到",
+          "feelEn": "Up/Down: Limited space with box-hits and clear card-clicking. Front/Back: Limited space with rubbing and box-hits. Left/Right: Limited space with obvious clunking box-hits. Nothing can be felt when pressing all six sides.",
+          "spuId": "1032639112605101315",
+          "image": "https://treasure.islandsassets.com/treasure/images/f4FS51LwJB0.png"
+        },
+        {
+          "name": "相信小狗",
+          "nameEn": "Faithful Puppy",
+          "weight": 153.95,
+          "feel": "上下：主体打盒，干燥剂包打盒明显咔哒声。前后：整体轻微打盒空间不大，有袋子擦盒声音。左右：整体打盒咣当感明显。六面捏不到",
+          "feelEn": "Up/Down: The figure hits the box, with a clear clicking sound from the desiccant pack. Front/Back: Slight box-hits with limited space and a bag-rubbing sound. Left/Right: Strong box-hits with obvious clunking. Nothing can be felt when pressing all six sides.",
+          "spuId": "1032639100793950788",
+          "image": "https://treasure.islandsassets.com/treasure/images/f4FS6vFbUJW.png"
+        },
+        {
+          "name": "倔强牛仔",
+          "nameEn": "Wild Cowboy",
+          "weight": 162.79,
+          "feel": "系列最重。上下：整体打盒有咔哒声咣当感。前后：主体几乎摇不动，一丢丢空间，但有明显咔哒声。左右：主体轻微打盒，空间不大，有咔哒声。六面捏不到",
+          "feelEn": "Heaviest in the series. Up/Down: Box-hits with clicking and clunking sounds. Front/Back: The figure barely moves with only a tiny bit of space but a clear clicking sound. Left/Right: Slight box-hits with limited space and clicking. Nothing can be felt when pressing all six sides.",
+          "spuId": "1032639131932481104",
+          "image": "https://treasure.islandsassets.com/treasure/images/f4FSUfc3Ac4.png"
+        }
+      ]
+    },
+    {
       "id": "sugar-therapy-room",
       "name": "Act I|甜食治疗所系列",
       "nameEn": "Act I|Sugar Therapy Room Series Figures",
