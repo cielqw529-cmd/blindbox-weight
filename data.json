@@ -90,6 +90,42 @@
           "feelEn": "There is lots of movement in every direction, with strong overall box hits. The desiccant and accessories are both very loud when shaken.",
           "spuId": "1035243980205334949",
           "image": "https://treasure.islandsassets.com/treasure/images/f4kzCv80BJi.png"
+        },
+        {
+          "name": "扮演左卫门",
+          "nameEn": "It's Buriburizaemon Costume",
+          "weight": 113.21,
+          "feel": "前后摇晃轻微，有干燥剂声。左右摇晃时配件和卡片打盒。上下摇晃时底部有咚咚打盒声。",
+          "feelEn": "Slight front/back movement with a desiccant sound. Left/right shaking causes the accessory and card to hit the box. Up/down shaking produces dull thudding box hits at the bottom.",
+          "spuId": "1035244057514765354",
+          "image": "https://treasure.islandsassets.com/treasure/images/f4kzCieSnaq.png"
+        },
+        {
+          "name": "放松时刻",
+          "nameEn": "Time for a Break",
+          "weight": 157.67,
+          "feel": "前后摇晃整体打盒，干燥剂声音明显。左右摇晃干燥剂声音很大，明显来自盒子上部。上下摇晃空间很大，底部砸盒很重。",
+          "feelEn": "Overall box hits when shaken front/back, with an obvious desiccant sound. Left/right shaking produces a very loud desiccant sound, clearly coming from the upper part of the box. There is lots of up/down space, with heavy bottom box hits.",
+          "spuId": "1035244051072307466",
+          "image": "https://treasure.islandsassets.com/treasure/images/f4kzCv80BJU.png"
+        },
+        {
+          "name": "初识那天",
+          "nameEn": "Where It All Begins",
+          "weight": 128.99,
+          "feel": "每个方向都几乎摇晃不动，整体很满。前后左右面的中下部明显对顶。",
+          "feelEn": "There is almost no movement in any direction and the box feels very full. The figure presses firmly against the lower-middle area on the front, back, left, and right sides.",
+          "spuId": "1035244007048935703",
+          "image": "https://treasure.islandsassets.com/treasure/images/f4kzCieSnaM.png"
+        },
+        {
+          "name": "拯救世界",
+          "nameEn": "To Save the World",
+          "weight": 121.93,
+          "feel": "前后摇晃时中上部打盒。左右摇晃整体砸盒，有明显嘎吱响声。上下摇晃空间小，有沉闷的咚咚声。",
+          "feelEn": "Front/back shaking causes box hits around the upper-middle area. Left/right shaking produces strong overall box hits with an obvious creaking sound. There is limited up/down space with dull, heavy thudding sounds.",
+          "spuId": "1035244077915875701",
+          "image": "https://treasure.islandsassets.com/treasure/images/f4kzCUAT4Y3.png"
         }
       ],
       "ip": "HACIPUPU"
