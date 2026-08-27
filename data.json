@@ -1,6 +1,94 @@
 {
   "series": [
     {
+      "id": "hacipupu-one-day-in-kasukabe",
+      "name": "HACIPUPU|在春日部的一天系列",
+      "nameEn": "HACIPUPU|One Day in Kasukabe Series Figures",
+      "brand": "泡泡玛特",
+      "releaseDate": "2026-08",
+      "note": "我的最爱(177g)最重，睡到自然醒(96.76g)最轻。【隐藏款】动感摇摇车(134.32g)。",
+      "noteEn": "My Favorite Cookie (177g) is heaviest, Wake Up Refreshed (96.76g) is lightest. [Secret] ACTION! Kiddie Ride (134.32g).",
+      "figures": [
+        {
+          "name": "幼稚园新人",
+          "nameEn": "The Kindergarten Newcomer",
+          "weight": 127.69,
+          "feel": "上下摇整体打盒有哗啦声和咣当感。前后摇整体空间不是很大，但有咣当声。左右摇整体轻轻微打盒，一丢丢空间，几乎摇不动，有很轻微的咣当感。前后捏有轻微袋子声，左右捏能捏到主体，但不顶盒会动。上下捏不到。",
+          "feelEn": "Up/down shaking causes noticeable overall box hits with rattling and clunking sounds. Front/back has limited space but a clear clunk. Left/right barely moves, with only a tiny bit of space and very slight box hits. A faint bag sound can be heard when pressing front/back. The figure can be felt from the left/right but does not press against the box and can still move. Nothing can be felt from the top/bottom.",
+          "spuId": "1035244031744955135",
+          "image": "https://treasure.islandsassets.com/treasure/images/f4kzCv80BJj.png"
+        },
+        {
+          "name": "睡到自然醒",
+          "nameEn": "Wake Up Refreshed",
+          "weight": 96.76,
+          "feel": "上下摇整体轻微打盒，有轻微咣当感和轻微咔哒声。前后摇整体轻微打盒，有轻微袋子声。左右摇主体轻轻微打盒，一丢丢空间，但有卡片打盒的咔哒声。前后捏有明显袋子声，左右有轻微袋子声，上下捏不到。",
+          "feelEn": "Up/down shaking causes slight overall box hits with mild clunking and clicking sounds. Front/back has slight box hits with a faint bag sound. Left/right has only a tiny bit of space with very slight figure movement and a clear card-clicking sound. An obvious bag sound can be heard when pressing front/back, with a slight bag sound from the left/right. Nothing can be felt from the top/bottom."
+        },
+        {
+          "name": "霸占小白家",
+          "nameEn": "In Shiro's House",
+          "weight": 104.67,
+          "feel": "上下摇主体几乎摇不动，但干燥剂包的颗粒声很明显。前后摇主体几乎摇不动，干燥剂包打盒的咔哒声和颗粒声明显。左右摇主体摇不动，卡片打盒的咔哒声和干燥剂的颗粒声明显。左右捏能捏到干燥剂包和轻微主体但不顶盒，前后捏有袋子声，上下捏不到。",
+          "feelEn": "The figure barely moves up/down, but the granular sound from the desiccant pack is very obvious. Front/back also barely moves, with clear clicking and granular sounds from the desiccant. Left/right does not move, with obvious card-clicking and granular sounds. The desiccant pack and part of the figure can be felt from the left/right but do not press against the box. A bag sound can be heard when pressing front/back. Nothing can be felt from the top/bottom.",
+          "spuId": "1035244013491346957",
+          "image": "https://treasure.islandsassets.com/treasure/images/f4kzCieSnat.png"
+        },
+        {
+          "name": "隐藏款-动感摇摇车",
+          "nameEn": "ACTION! Kiddie Ride (Secret)",
+          "weight": 134.32,
+          "feel": "上下摇主体完全摇不动，但干燥剂包会打盒。前后摇主体几乎不动，只有干燥剂包轻微移动并有颗粒声。左右摇整体轻微打盒，空间不大，有袋子声。六面捏都有明显袋子声。",
+          "feelEn": "The figure does not move at all up/down, but the desiccant pack hits the box. Front/back also barely moves, with only slight movement and a granular sound from the desiccant. Left/right has slight box hits with limited space and a bag sound. An obvious bag sound can be heard when pressing all six sides.",
+          "is_hot": true,
+          "spuId": "1035243972689192692",
+          "image": "https://treasure.islandsassets.com/treasure/images/f4kzCyRTch7.png"
+        },
+        {
+          "name": "按时睡觉",
+          "nameEn": "Good Day",
+          "weight": 112.28,
+          "feel": "上下摇整体打盒，空间不是很大，有咣当感。前后摇一丢丢空间打盒，有轻微咣当感。左右摇整体一丢丢空间打盒，有哗啦声和轻微咣当感。前后捏底部能捏到主体但不顶盒。左右上下捏有袋子声。",
+          "feelEn": "Up/down shaking causes noticeable overall box hits with limited space and a clunking feel. Front/back has only a tiny bit of space with slight box hits and mild clunking. Left/right also has only a tiny bit of space, with rattling and slight clunking. The figure can be felt near the bottom when pressing front/back but does not press against the box. A bag sound can be heard when pressing left/right and top/bottom.",
+          "spuId": "1035244023155018625",
+          "image": "https://treasure.islandsassets.com/treasure/images/f4kzCieSnaR.png"
+        },
+        {
+          "name": "我的最爱",
+          "nameEn": "My Favorite Cookie",
+          "weight": 177,
+          "feel": "上下摇整体只有一丝丝空间。前后摇完全摇不动。左右摇完全摇不动，只有卡片轻微晃动。前后左右捏都明显顶盒。上下捏不到。",
+          "feelEn": "There is only a tiny bit of up/down space. The figure is completely immovable front/back and left/right, with only slight card movement. The figure presses firmly against the box when pressing front/back or left/right. Nothing can be felt from the top/bottom."
+        },
+        {
+          "name": "下雨天也是好心情",
+          "nameEn": "My Mood's Rainproof",
+          "weight": 105.58,
+          "feel": "上下摇整体打盒有咣当感。前后摇整体打盒有咣当感，但空间不大。左右摇整体打盒，有明显咣当声。前后左右捏有袋子声，上下捏不到。",
+          "feelEn": "Up/down shaking causes noticeable overall box hits with a clunking feel. Front/back also hits the box with limited space and clear clunking. Left/right has strong box hits with an obvious clunking sound. A bag sound can be heard when pressing front/back and left/right. Nothing can be felt from the top/bottom.",
+          "spuId": "1035243989869063950",
+          "image": "https://treasure.islandsassets.com/treasure/images/f4kzC5bR91R.png"
+        },
+        {
+          "name": "最正确的决定",
+          "nameEn": "The Best Decision",
+          "weight": 100.79,
+          "feel": "上下摇主体轻轻微打盒，一丢丢空间，干燥剂包擦盒打盒明显。前后摇主体完全摇不动，但有干燥剂包的颗粒声。左右摇主体摇不动，但有卡片打盒的明显咔哒声。前后左右捏有明显袋子声，上下捏不到。",
+          "feelEn": "There is very slight up/down figure movement with only a tiny bit of space; the desiccant pack noticeably rubs against and hits the box. The figure does not move front/back, but the desiccant makes a clear granular sound. The figure does not move left/right either, but there is a clear card-clicking sound. An obvious bag sound can be heard when pressing front/back and left/right. Nothing can be felt from the top/bottom.",
+          "spuId": "1035243996311473806",
+          "image": "https://treasure.islandsassets.com/treasure/images/f4kzCieSnaI.png"
+        },
+        {
+          "name": "不平凡的一天",
+          "nameEn": "An Extraordinary Day",
+          "weight": 125.12,
+          "feel": "每个面整体打盒，空间很大，干燥剂和配件声都很大。",
+          "feelEn": "There is lots of movement in every direction, with strong overall box hits. The desiccant and accessories are both very loud when shaken."
+        }
+      ],
+      "ip": "HACIPUPU"
+    },
+    {
       "id": "youre-not-alone",
       "name": "HIRONO小野|你可不是一个人啊系列",
       "nameEn": "Twinkle Twinkle | Farm Tales Series - Vinyl Plush Pendant",
