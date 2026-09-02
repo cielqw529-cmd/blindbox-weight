@@ -864,7 +864,8 @@
           "feel": "大明盒。六个方向都只有干燥剂声。四面中下部都感觉极满，只有很轻微的几乎感觉不到的顶盒点。顶盒感和其他款明显不同，是很好的辨识特征",
           "feelEn": "Easy Identify Box. All six directions only produce silica packet sounds. The middle-lower area on all four sides feels extremely full, with only a very slight and barely noticeable pressure point. The pressure feeling is significantly different from other figures, making it a strong identification feature.",
           "image": "https://treasure.islandsassets.com/treasure/images/falfeyrZrcO.png",
-          "is_hot": true
+          "is_hot": true,
+          "is_obvious": true
         },
         {
           "name": "巴小飞",
@@ -1107,7 +1108,8 @@
           "weight": 210.5,
           "feel": "系列最重。头发很长很厚，六面空间都特别特别小，都很满的一只，是大明盒",
           "feelEn": "Heaviest in the series. One of the heaviest figures, with long, thick hair that fills the box. Extremely limited movement from every direction, making it feel like a fully packed dead box.",
-          "image": "https://treasure.islandsassets.com/treasure/images/fjqkV13fPNG.png"
+          "image": "https://treasure.islandsassets.com/treasure/images/fjqkV13fPNG.png",
+          "is_obvious": true
         },
         {
           "name": "雨过天晴",
@@ -1176,7 +1178,8 @@
           "feel": "全系最重。完全没有晃动空间，坠手感极强；双人底座晃动会发出硬质闷响，全盒卡死不动，是辨识度很高的大明盒",
           "feelEn": "Heaviest in the series. Absolutely no movement space. Feels significantly heavier than every regular figure. The dual-character base creates a deep, solid thud when moved. The entire box feels completely locked, making it one of the easiest secrets to identify.",
           "image": "https://treasure.islandsassets.com/treasure/images/fjKchlXIcJ4.png",
-          "is_hot": true
+          "is_hot": true,
+          "is_obvious": true
         },
         {
           "name": "店长",
@@ -1407,7 +1410,8 @@
           "weight": 118.3,
           "feel": "常规最重。上下完全无多余晃动空间，捏盒能感受到饱满填充，无任何砸盒动静。前后全程闷盒无打盒、擦盒声响，干燥剂声音几乎完全消失。左右彻底卡死不动，是常规款里最紧实的大明盒，辨识度极高",
           "feelEn": "Heaviest regular figure. Vertical shake: No extra movement space at all. Feels fully packed when squeezed, with no bottom impacts. Front/back shake: Completely muted. No tapping or rubbing sounds, and even the silica packet is barely noticeable. Left/right shake: Completely locked. The densest and most tightly packed regular figure in the series, making it very easy to identify.",
-          "image": "https://treasure.islandsassets.com/treasure/images/fjCLo4zYFhW.png"
+          "image": "https://treasure.islandsassets.com/treasure/images/fjCLo4zYFhW.png",
+          "is_obvious": true
         },
         {
           "name": "搬搬蚂蚁",
@@ -2601,7 +2605,8 @@
           "feel": "很轻，六个面都打盒，但是一个侧面空间特别大，另一个侧面空间很小，对比很大，明盒",
           "feelEn": "Very light, banging on all six sides, but one side has very large space and the other very small, big contrast, obvious box",
           "spuId": "988481932138401689",
-          "image": "https://treasure.islandsassets.com/treasure/images/fTfdeka03mw.png"
+          "image": "https://treasure.islandsassets.com/treasure/images/fTfdeka03mw.png",
+          "is_obvious": true
         },
         {
           "name": "褪色的天真",
@@ -2779,7 +2784,8 @@
           "spuId": "985886900013263143",
           "is_hot": true,
           "image": "https://treasure.islandsassets.com/treasure/images/fyqPv6B4jIM.png",
-          "feelEn": "The heaviest in the series. Slight up-down shaking with bottom box-hitting, resistance when pressed up-down, slight front-back movement, left-right fairly full with obvious rebound when pressed. Built-in plastic shell protection, overall a big obvious box."
+          "feelEn": "The heaviest in the series. Slight up-down shaking with bottom box-hitting, resistance when pressed up-down, slight front-back movement, left-right fairly full with obvious rebound when pressed. Built-in plastic shell protection, overall a big obvious box.",
+          "is_obvious": true
         },
         {
           "name": "生机之兔",
@@ -5066,7 +5072,8 @@
           "weight": 191.5,
           "feel": "重到离谱，六面都有空间但是都不砸盒不顶不满纯重，轻微晃动有娃和配件撞击的细碎感很特别的明盒",
           "feelEn": "Extremely heavy. There is space on all six sides, but the figure neither hits nor presses against the box. Slight shaking produces a distinctive fine collision between the figure and its accessories, making it easy to identify without opening the box.",
-          "image": "https://treasure.islandsassets.com/treasure/images/fvoXF7fZTMq.jpg"
+          "image": "https://treasure.islandsassets.com/treasure/images/fvoXF7fZTMq.jpg",
+          "is_obvious": true
         },
         {
           "name": "小小世界",
@@ -5120,7 +5127,8 @@
           "weight": 142,
           "feel": "这只虽然娃不大但是都有塑料膜保护所以完全摇不动，但是配重币在里面胡乱地摇晃也是明盒只有配重币在打盒撞击晃动",
           "feelEn": "Although this baby is not big, it is protected by a plastic film so it cannot be shaken at all. However, the weighted coins are shaking randomly inside the box. Only the weighted coins are hitting and shaking when the box is opened.",
-          "image": "https://treasure.islandsassets.com/treasure/images/fvoXJDns7CR.jpg"
+          "image": "https://treasure.islandsassets.com/treasure/images/fvoXJDns7CR.jpg",
+          "is_obvious": true
         },
         {
           "name": "无言守护",
@@ -5819,7 +5827,8 @@
           "weight": 149.5,
           "feel": "四周打盒脆脆的打盒点在中间偏上部分，有一个点点狠狠的打盒特别重特别沉，上下感觉都要全部砸出来吐出来的感觉空间也很大这只很明盒",
           "feelEn": "The box is crispy all around and the box is in the upper middle part. There is a little bit of hard box that is very heavy. It feels like it will be smashed out and spit out. The space is also very large. This box is very bright.",
-          "image": "https://treasure.islandsassets.com/treasure/images/fU8Sf6Hyy5r.png"
+          "image": "https://treasure.islandsassets.com/treasure/images/fU8Sf6Hyy5r.png",
+          "is_obvious": true
         },
         {
           "name": "方糖",
@@ -5920,7 +5929,8 @@
           "weight": 152,
           "feel": "左右图鉴吹云处直接对顶顶出来两个点完全的明盒",
           "feelEn": "The left and right picture book blowing clouds are directly facing the top and two dots are completely exposed.",
-          "image": "https://treasure.islandsassets.com/treasure/images/fU457rkG1ee.png"
+          "image": "https://treasure.islandsassets.com/treasure/images/fU457rkG1ee.png",
+          "is_obvious": true
         },
         {
           "name": "落叶",
@@ -6283,7 +6293,8 @@
           "weight": 156.5,
           "feel": "满全满毫无空间，前后对顶直接顶出来一个竖着条100%明盒",
           "feelEn": "There is no space in the whole box. The front and back are pushed directly onto the top and a vertical bar box is 100% clear.",
-          "image": "https://treasure.islandsassets.com/treasure/images/fiPxFFpkM2L.jpeg"
+          "image": "https://treasure.islandsassets.com/treasure/images/fiPxFFpkM2L.jpeg",
+          "is_obvious": true
         },
         {
           "name": "炸虾",
@@ -7376,7 +7387,8 @@
           "weight": 109,
           "feel": "明盒，直接上部的四周直接顶起来，有塑料壳包装住伞所以特别大，很鼓很鼓",
           "feelEn": "the easy-to-identify figure is directly pushed up on all sides of the upper part. It is packed with a plastic shell to cover the umbrella, so it is very big and bulging.",
-          "image": "https://treasure.islandsassets.com/treasure/images/f5tiVRVsN6C.jpg"
+          "image": "https://treasure.islandsassets.com/treasure/images/f5tiVRVsN6C.jpg",
+          "is_obvious": true
         },
         {
           "name": "别靠近我",
@@ -7880,7 +7892,8 @@
           "weight": 111,
           "feel": "很实诚的一个，重量集中像个小秤砣在摇晃，所有前后摇晃声音特别大特别砸盒，明盒的存在",
           "feelEn": "Very honest one, the weight is concentrated and it is shaking like a small weight. The sound of all the shaking back and forth is very loud, especially the box is smashed. The existence of the box is obvious.",
-          "image": "https://treasure.islandsassets.com/treasure/images/EBeRiSY74y.png"
+          "image": "https://treasure.islandsassets.com/treasure/images/EBeRiSY74y.png",
+          "is_obvious": true
         },
         {
           "name": "禁锢",
@@ -7943,7 +7956,8 @@
           "weight": 130,
           "feel": "妥妥的明盒，六面毫无空间纹丝不动满满的，甚至一个侧面能有感觉一整个面都很满，明盒",
           "feelEn": "Easy to identify without opening the box. It is completely full and motionless with no space on any side; one entire side can be felt pressing firmly against the box.",
-          "image": "https://treasure.islandsassets.com/treasure/images/EBeI0yJmMc.png"
+          "image": "https://treasure.islandsassets.com/treasure/images/EBeI0yJmMc.png",
+          "is_obvious": true
         },
         {
           "name": "制衡",
@@ -8336,7 +8350,8 @@
           "weight": 94.5,
           "feel": "因为比较宽所以直接卡住，毫无空间毫无声音摇晃不动，八个角处感觉空空的，明盒",
           "feelEn": "Because it is relatively wide, it is stuck directly. There is no space, no sound, and it cannot move. The eight corners feel empty. the easy-to-identify figure",
-          "image": "https://treasure.islandsassets.com/treasure/images/bc5Nl4rvT3.png"
+          "image": "https://treasure.islandsassets.com/treasure/images/bc5Nl4rvT3.png",
+          "is_obvious": true
         },
         {
           "name": "拥抱海洋",
@@ -8390,7 +8405,8 @@
           "weight": 100,
           "feel": "六面全满，干燥剂和卡片的声音也没有完全无声，明盒",
           "feelEn": "All six sides are full, the sound of desiccant and cards is not completely silent, and the box is open",
-          "image": "https://treasure.islandsassets.com/treasure/images/bc5boDlWOb.png"
+          "image": "https://treasure.islandsassets.com/treasure/images/bc5boDlWOb.png",
+          "is_obvious": true
         },
         {
           "name": "大大的熊抱",
@@ -8399,7 +8415,8 @@
           "weight": 136.5,
           "feel": "很重很沉，上下特别砸盒特别重的一个面直接砸下来，左右满前后有松动感，明盒",
           "feelEn": "It's very heavy. The top and bottom sides of the box are particularly heavy. The particularly heavy side of the box is hit directly. There is a feeling of looseness in the left and right sides. the easy-to-identify figure",
-          "image": "https://treasure.islandsassets.com/treasure/images/bc6dzcoj9f.png"
+          "image": "https://treasure.islandsassets.com/treasure/images/bc6dzcoj9f.png",
+          "is_obvious": true
         },
         {
           "name": "拥抱天空",
@@ -8426,7 +8443,8 @@
           "weight": 129,
           "feel": "满，六面全部没有空间只有卡片和干燥剂的声音，明盒",
           "feelEn": "Full, there is no space on all six sides, only the sound of cards and desiccant, easy-to-identify figure",
-          "image": "https://treasure.islandsassets.com/treasure/images/bc6frJXV3a.png"
+          "image": "https://treasure.islandsassets.com/treasure/images/bc6frJXV3a.png",
+          "is_obvious": true
         },
         {
           "name": "免费的抱抱",
@@ -8457,7 +8475,8 @@
           "weight": 140,
           "feel": "这只娃和兔是分开装的，非常满甚至上面会顶出来，只有配重币的晃动感全满，100%明盒",
           "feelEn": "The figure and rabbit are packed separately. The box is extremely full and the top even presses outward; only the counterweight can be felt moving. Completely easy to identify without opening the box.",
-          "image": "https://treasure.islandsassets.com/treasure/images/bl7BiAU1QD.png"
+          "image": "https://treasure.islandsassets.com/treasure/images/bl7BiAU1QD.png",
+          "is_obvious": true
         },
         {
           "name": "桃桃罐头",
@@ -8493,7 +8512,8 @@
           "weight": 156,
           "feel": "没的说，一个中间的重量集中的圆坨坨在周围互相撞击，可以拿着晃动转圈能感觉到他会在旋转，100%明盒",
           "feelEn": "Needless to say, a round lump with concentrated weight in the middle collides with each other. You can hold it and shake it in circles to feel that it is spinning. It is 100% transparent.",
-          "image": "https://treasure.islandsassets.com/treasure/images/bl71rxspkE.png"
+          "image": "https://treasure.islandsassets.com/treasure/images/bl71rxspkE.png",
+          "is_obvious": true
         },
         {
           "name": "企鹅补货员",
@@ -8568,7 +8588,8 @@
           "weight": 108,
           "feel": "六面满，左右中间偏下一点点的地方特别满特别顶直接对顶出来的，明显手感明盒",
           "feelEn": "The six sides are full, and the left, right, and middle areas a little bit full are particularly full, especially since the top is directly facing each other, and the box feels obvious in the hand.",
-          "image": "https://treasure.islandsassets.com/treasure/images/nWp2FgwTwu.png"
+          "image": "https://treasure.islandsassets.com/treasure/images/nWp2FgwTwu.png",
+          "is_obvious": true
         },
         {
           "name": "黑白博弈",
@@ -8586,7 +8607,8 @@
           "weight": 85.5,
           "feel": "六面空六面都砸盒打盒，比较小一只集中在中间的手感，很特别的手感，明盒",
           "feelEn": "The six sides are empty and the six sides are smashed and boxed. The smaller one is concentrated in the middle. It has a very special feel. It is an easy-to-identify figure.",
-          "image": "https://treasure.islandsassets.com/treasure/images/nWpJDd2nKM.png"
+          "image": "https://treasure.islandsassets.com/treasure/images/nWpJDd2nKM.png",
+          "is_obvious": true
         },
         {
           "name": "瑞兽印章",
@@ -8653,7 +8675,8 @@
           "weight": 91.5,
           "feel": "前后满，左右松动，上下有底座配件在上下撞击的声音很明显，明盒",
           "feelEn": "The front and rear are full, the left and right are loose, and the sound of the base accessories hitting up and down is obvious. the easy-to-identify figure",
-          "image": "https://treasure.islandsassets.com/treasure/images/foGMq1X87Vu.jpg"
+          "image": "https://treasure.islandsassets.com/treasure/images/foGMq1X87Vu.jpg",
+          "is_obvious": true
         },
         {
           "name": "幸运饼干",
@@ -8689,7 +8712,8 @@
           "weight": 116,
           "feel": "这只是对角线放否则放不进去，四面毫无空间，上下有沉沉的砸盒感，明盒",
           "feelEn": "This is only placed diagonally, otherwise it won't fit in. There is no space on all sides, and there is a heavy box-smashing feeling up and down. the easy-to-identify figure",
-          "image": "https://treasure.islandsassets.com/treasure/images/foGMIS5mx91.jpg"
+          "image": "https://treasure.islandsassets.com/treasure/images/foGMIS5mx91.jpg",
+          "is_obvious": true
         },
         {
           "name": "雪人朋友",
@@ -8725,7 +8749,8 @@
           "weight": 127,
           "feel": "明盒！直接全满，至少有一个对面或者正面或者侧面可以感受到对顶直接顶出来，100%明盒",
           "feelEn": "Ming box! Directly full, at least one opposite, front or side can feel the top coming out directly, 100% clear box",
-          "image": "https://treasure.islandsassets.com/treasure/images/foGMgyaPaK4.jpg"
+          "image": "https://treasure.islandsassets.com/treasure/images/foGMgyaPaK4.jpg",
+          "is_obvious": true
         }
       ],
       "noteEn": "The hot models are all Da Ming boxes",
@@ -8765,7 +8790,8 @@
           "feelEn": "The only model with accessories. All six sides are covered, but there is an obvious sound of the accessories hitting it, especially the up and down shaking. There is a possibility that it is an easy-to-identify figure.",
           "spuId": "804051430095743971",
           "nameEn": "Ning Ning（Secret）",
-          "image": "https://treasure.qiandaocdn.com/treasure/images/fftK7cuW17o.png"
+          "image": "https://treasure.qiandaocdn.com/treasure/images/fftK7cuW17o.png",
+          "is_obvious": true
         },
         {
           "name": "阴阳",
@@ -9187,7 +9213,8 @@
           "weight": 135.5,
           "feel": "特别特别满，配件是全部拆开的所以毫无空间，前后能感受到一个点微微凸起，明盒",
           "feelEn": "It is very full. The accessories are all disassembled so there is no space. You can feel a slight bulge at the front and rear. The box is open.",
-          "image": "https://treasure.islandsassets.com/treasure/images/fUw2ATd4K5h.jpg"
+          "image": "https://treasure.islandsassets.com/treasure/images/fUw2ATd4K5h.jpg",
+          "is_obvious": true
         },
         {
           "name": "可可时代",
@@ -9205,7 +9232,8 @@
           "weight": 124.5,
           "feel": "很空一只但是很偏平，六面空间都大且六面打盒声很大，拿着盒子画圈整只娃都会松动的晃动起来，明盒",
           "feelEn": "The box is very empty but very flat. The six sides are large and the sound of boxing on the six sides is loud. If you draw a circle with the box, the whole baby will loosen and shake. The box is bright.",
-          "image": "https://treasure.islandsassets.com/treasure/images/fUw2qU8ITZJ.jpg"
+          "image": "https://treasure.islandsassets.com/treasure/images/fUw2qU8ITZJ.jpg",
+          "is_obvious": true
         },
         {
           "name": "雪地诗人",
@@ -9366,7 +9394,8 @@
           "weight": 136.5,
           "feel": "特别重特别顶，四周直接顶出来整只上下也鼓鼓的，完完全全的满满当当，明盒",
           "feelEn": "It's very heavy and top-heavy. When it comes out from all sides, the whole thing is bulging from top to bottom. It's completely full and the box is clear.",
-          "image": "https://treasure.islandsassets.com/treasure/images/Va4SgEPSsQ.png"
+          "image": "https://treasure.islandsassets.com/treasure/images/Va4SgEPSsQ.png",
+          "is_obvious": true
         },
         {
           "name": "时间使者",
@@ -9384,7 +9413,8 @@
           "weight": 145,
           "feel": "六面无空间，左右特别满，在中间两个对面有微鼓出来的感觉，明盒",
           "feelEn": "There is no space on the six sides, and the left and right sides are particularly full. There is a slight bulging feeling on the two opposite sides in the middle. the easy-to-identify figure",
-          "image": "https://treasure.islandsassets.com/treasure/images/VaaR0UhXMI.png"
+          "image": "https://treasure.islandsassets.com/treasure/images/VaaR0UhXMI.png",
+          "is_obvious": true
         },
         {
           "name": "坏苹果",
@@ -9420,7 +9450,8 @@
           "weight": 100,
           "feel": "上下左右无空间，前后有一点说明书和塑料袋摩擦的声音没有撞击感，但是有明显干燥剂的声音，感觉这只也是明盒",
           "feelEn": "There is no space up, down, left, and right. There is a little manual and plastic bag friction sound at the front and back, but there is no impact, but there is an obvious sound of desiccant. It feels like this is just a clear box.",
-          "image": "https://treasure.islandsassets.com/treasure/images/Va46KQuTv2.png"
+          "image": "https://treasure.islandsassets.com/treasure/images/Va46KQuTv2.png",
+          "is_obvious": true
         },
         {
           "name": "偷心小鬼",
@@ -9460,7 +9491,8 @@
           "weight": 98,
           "feel": "六面毫无空间完全摇不动，明盒",
           "feelEn": "There is no space on the six sides and it cannot be shaken at all. the easy-to-identify figure",
-          "image": "https://treasure.islandsassets.com/treasure/images/VU2w1IBiUa.png"
+          "image": "https://treasure.islandsassets.com/treasure/images/VU2w1IBiUa.png",
+          "is_obvious": true
         },
         {
           "name": "狐狸",
@@ -9496,7 +9528,8 @@
           "weight": 114.5,
           "feel": "上下空间特别大，空间特别大的砸盒重重的打盒声，前后左右有清脆的砸盒感声音也很大，明盒",
           "feelEn": "The space above and below is extremely large, and there is a loud banging sound when the box is smashed in a particularly large space. There is a crisp box-smashing sound on the front, rear, left, and right, and the sound is loud. The box is bright.",
-          "image": "https://treasure.islandsassets.com/treasure/images/VUczVBABsT.png"
+          "image": "https://treasure.islandsassets.com/treasure/images/VUczVBABsT.png",
+          "is_obvious": true
         },
         {
           "name": "扳道工",
@@ -9906,7 +9939,8 @@
           "weight": 85,
           "feel": "很明显的手感，有链子在内部晃动的声音，明盒",
           "feelEn": "The feel is very obvious, there is the sound of the chain shaking inside, the box is clear",
-          "image": "https://treasure.islandsassets.com/treasure/images/gFKc7nSHEK.png"
+          "image": "https://treasure.islandsassets.com/treasure/images/gFKc7nSHEK.png",
+          "is_obvious": true
         },
         {
           "name": "哭鸭哭鸭",
@@ -10566,7 +10600,8 @@
           "weight": 133.5,
           "feel": "明盒，这只六面无空间很满是一整个，有卡片在上下砸的声音，且中部能感受到塑料袋很膨胀很满的感觉",
           "feelEn": "the easy-to-identify figure has six sides and is very full. There is the sound of cards being smashed up and down, and you can feel the plastic bag in the middle feeling very full and expanded.",
-          "image": "https://treasure.islandsassets.com/treasure/images/IVLHQ7M5Fe.png"
+          "image": "https://treasure.islandsassets.com/treasure/images/IVLHQ7M5Fe.png",
+          "is_obvious": true
         },
         {
           "name": "暴汗式",
@@ -10584,7 +10619,8 @@
           "weight": 130.5,
           "feel": "明盒，娃摇不动配件底座却在上下砸盒且声音大很明显",
           "feelEn": "The box is open, but the baby can't shake the accessory base, but the box is smashed up and down, and the sound is loud and obvious.",
-          "image": "https://treasure.islandsassets.com/treasure/images/IVLjHMeqMs.png"
+          "image": "https://treasure.islandsassets.com/treasure/images/IVLjHMeqMs.png",
+          "is_obvious": true
         },
         {
           "name": "小鸟式",
@@ -10593,7 +10629,8 @@
           "weight": 136,
           "feel": "完全摇不动，明盒，有塑料壳保护娃所以特别满，仅仅干燥剂的声音，中部有明显鼓起来但是不顶盒",
           "feelEn": "It cannot be shaken at all. the easy-to-identify figure has a plastic shell to protect the baby, so it is very full. There is only the sound of desiccant. There is obvious bulging in the middle but there is no top box.",
-          "image": "https://treasure.islandsassets.com/treasure/images/IVLLxjcKd3.png"
+          "image": "https://treasure.islandsassets.com/treasure/images/IVLLxjcKd3.png",
+          "is_obvious": true
         },
         {
           "name": "瞌睡式",
@@ -10620,7 +10657,8 @@
           "weight": 134,
           "feel": "明盒，六面只有松动感没有砸盒空间，有娃配件互相碰撞的声音松动碰撞感很特别",
           "feelEn": "The six sides of the easy-to-identify figure only feel loose and there is no space for smashing the box. The sound of baby accessories colliding with each other makes the feeling of looseness and collision very special.",
-          "image": "https://treasure.islandsassets.com/treasure/images/IVLJizuYOF.png"
+          "image": "https://treasure.islandsassets.com/treasure/images/IVLJizuYOF.png",
+          "is_obvious": true
         },
         {
           "name": "自信式",
@@ -10771,7 +10809,8 @@
           "weight": 108.5,
           "feel": "六面卡死毫无空间，下部六分之一处直接左右两个对面顶出来，很明显的手感，明盒",
           "feelEn": "The six sides are stuck and there is no space. The lower one-sixth part is directly pushed out from the left and right sides. It has a very obvious feel and is a clear box.",
-          "image": "https://treasure.islandsassets.com/treasure/images/ItTqx6KQdP.png"
+          "image": "https://treasure.islandsassets.com/treasure/images/ItTqx6KQdP.png",
+          "is_obvious": true
         },
         {
           "name": "今夜或不再",
@@ -10780,7 +10819,8 @@
           "weight": 100,
           "feel": "明盒，下部六分之一处直接捏得到东西顶出来了，非常明显的感觉",
           "feelEn": "It's a clear box. You can pinch the lower one-sixth of the box and something will pop out. It's a very obvious feeling.",
-          "image": "https://treasure.islandsassets.com/treasure/images/ItTbh4XdNN.png"
+          "image": "https://treasure.islandsassets.com/treasure/images/ItTbh4XdNN.png",
+          "is_obvious": true
         },
         {
           "name": "遗忘海",
@@ -10816,7 +10856,8 @@
           "weight": 63.5,
           "feel": "轻的不行！六面乱晃的砸盒非常明显的手感，明盒",
           "feelEn": "Too light! The six sides of the smashing box are very obvious, and the box is clear.",
-          "image": "https://treasure.islandsassets.com/treasure/images/ItTO4Khfys.png"
+          "image": "https://treasure.islandsassets.com/treasure/images/ItTO4Khfys.png",
+          "is_obvious": true
         },
         {
           "name": "秘密",
@@ -10825,7 +10866,8 @@
           "weight": 74,
           "feel": "六面空间都大都有撞击感，娃比较小的一只在中间，明盒，很难有这么空的撞击感",
           "feelEn": "There is a sense of impact on most of the six sides of the space. The smaller one is in the middle. It is an easy-to-identify figure. It is difficult to have such an empty impact feeling.",
-          "image": "https://treasure.islandsassets.com/treasure/images/ItTnNbFF2s.png"
+          "image": "https://treasure.islandsassets.com/treasure/images/ItTnNbFF2s.png",
+          "is_obvious": true
         },
         {
           "name": "吞噬",
@@ -10852,7 +10894,8 @@
           "weight": 84,
           "feel": "这只没别的就是上下中间一个点很顶！头顶中间和底座直接一个轻捏对顶的大动作，明盒",
           "feelEn": "This one only has one point in the middle that is very top! The middle of the head and the base are directly pinched to the top, and the easy-to-identify figure",
-          "image": "https://treasure.islandsassets.com/treasure/images/ItTE7hdam4.png"
+          "image": "https://treasure.islandsassets.com/treasure/images/ItTE7hdam4.png",
+          "is_obvious": true
         },
         {
           "name": "时光琥珀",
@@ -11012,7 +11055,8 @@
           "weight": 116.5,
           "feel": "明盒，中间偏下部分前后能捏到一点点东西，四周全满毫无空间纹丝不动",
           "feelEn": "It's a clear box. You can pinch a little bit of stuff in the lower part of the middle, but it's completely full and there's no space around it and it doesn't move at all.",
-          "image": "https://treasure.islandsassets.com/treasure/images/IyqNbAhpTL.png"
+          "image": "https://treasure.islandsassets.com/treasure/images/IyqNbAhpTL.png",
+          "is_obvious": true
         },
         {
           "name": "霞光",
@@ -11809,7 +11853,8 @@
           "weight": 100,
           "feel": "中部特别鼓出来的感觉只有这一只会鼓，六面纹丝不动气球很占空间，明盒",
           "feelEn": "The middle part is particularly bulging. Only this one can bulge, and the six sides remain motionless. The balloon takes up a lot of space, and the box is open.",
-          "image": "https://treasure.islandsassets.com/treasure/images/tesPO9xjff.png"
+          "image": "https://treasure.islandsassets.com/treasure/images/tesPO9xjff.png",
+          "is_obvious": true
         },
         {
           "name": "害羞的朋友",
@@ -11827,7 +11872,8 @@
           "weight": 102.5,
           "feel": "唯一一个有塑料壳保护的娃，摇晃有娃撞击塑料壳的闷闷声音，明盒",
           "feelEn": "The only baby protected by a plastic case. When shaking, there is a muffled sound of the baby hitting the plastic case. the easy-to-identify figure",
-          "image": "https://treasure.islandsassets.com/treasure/images/tesWyNuAgh.png"
+          "image": "https://treasure.islandsassets.com/treasure/images/tesWyNuAgh.png",
+          "is_obvious": true
         },
         {
           "name": "笨拙的伪装",
@@ -12881,7 +12927,8 @@
           "weight": 64.7,
           "feel": "明盒，六面纹丝不动无声音",
           "feelEn": "Easy to identify without opening the box: completely motionless in all six directions and silent.",
-          "image": "https://treasure.islandsassets.com/treasure/images/pClGsnyEmuuhjDv1HqQLyKQniA9hOang.png"
+          "image": "https://treasure.islandsassets.com/treasure/images/pClGsnyEmuuhjDv1HqQLyKQniA9hOang.png",
+          "is_obvious": true
         },
         {
           "name": "狮子座",
@@ -15646,7 +15693,8 @@
           "weight": "97g",
           "feel": "很轻 很集中的在中间乱晃 100%明盒",
           "feelEn": "Very light, very concentrated and swaying around in the middle. 100% clear box",
-          "image": "https://treasure.islandsassets.com/treasure/images/f66b116430d6799d27501888fed29a92.png"
+          "image": "https://treasure.islandsassets.com/treasure/images/f66b116430d6799d27501888fed29a92.png",
+          "is_obvious": true
         },
         {
           "name": "干脆",
@@ -16024,7 +16072,8 @@
           "weight": "138g",
           "feel": "特别重 特别满 明盒100% 上下无空间 前后左右都有空间 很比较小",
           "feelEn": "Very heavy and very full. 100% of the easy-to-identify figure has no space above and below. There is space on the front, rear, left and right. It is very small.",
-          "image": "https://treasure.islandsassets.com/treasure/images/7f9872792883ffbfb9fbe5d71fa9f9e5.jpg"
+          "image": "https://treasure.islandsassets.com/treasure/images/7f9872792883ffbfb9fbe5d71fa9f9e5.jpg",
+          "is_obvious": true
         },
         {
           "name": "小丑",
@@ -16242,7 +16291,8 @@
           "weight": "172.5g",
           "feel": "明盒 侧面两个面一个大的点出来 而不是顶点凸出来 上下还有空间可以摇动 特别明显",
           "feelEn": "an easy-to-identify figure has a large dot protruding from the two sides instead of a protruding vertex. There is still room for shaking at the top and bottom, which is particularly obvious.",
-          "image": "https://treasure.islandsassets.com/treasure/images/9fe728a2c764993fde52fb4bff5cd716.png"
+          "image": "https://treasure.islandsassets.com/treasure/images/9fe728a2c764993fde52fb4bff5cd716.png",
+          "is_obvious": true
         },
         {
           "name": "雪人",
@@ -16251,7 +16301,8 @@
           "weight": "172g",
           "feel": "明盒 侧面两个面一个大的点出来 而不是顶点凸出来 上下还有空间可以摇动 特别明显",
           "feelEn": "an easy-to-identify figure has a large dot protruding from the two sides instead of a protruding vertex. There is still room for shaking at the top and bottom, which is particularly obvious.",
-          "image": "https://treasure.islandsassets.com/treasure/images/851504bf31195b5649351daccacb3b7c.png"
+          "image": "https://treasure.islandsassets.com/treasure/images/851504bf31195b5649351daccacb3b7c.png",
+          "is_obvious": true
         },
         {
           "name": "赤焰",
@@ -16300,7 +16351,8 @@
           "weight": "135.5g",
           "feel": "正面封面车窗处有一个小点顶出来了 明盒 编号7678",
           "feelEn": "There is a small dot sticking out of the car window on the front cover. Ming box number 7678",
-          "image": "https://treasure.islandsassets.com/treasure/images/fUz4FqZOz2N.jpg"
+          "image": "https://treasure.islandsassets.com/treasure/images/fUz4FqZOz2N.jpg",
+          "is_obvious": true
         },
         {
           "name": "甜蜜来袭",
@@ -16354,7 +16406,8 @@
           "weight": "120g",
           "feel": "正面耳朵球图片这里特别顶 明盒 编号6111",
           "feelEn": "The picture of the front ear ball is specially featured here. Ming box No. 6111",
-          "image": "https://treasure.islandsassets.com/treasure/images/fUz421QQXPV.jpg"
+          "image": "https://treasure.islandsassets.com/treasure/images/fUz421QQXPV.jpg",
+          "is_obvious": true
         }
       ],
       "ip": "SKULLPANDA",
@@ -19478,7 +19531,8 @@
           "weight": "88.5g",
           "feel": "非常顶盒 下部对顶两点 明盒",
           "feelEn": "Extraordinary top box, two points on the bottom facing the top, easy-to-identify figure",
-          "image": "https://treasure.islandsassets.com/treasure/images/fU136QR6MUw.jpg"
+          "image": "https://treasure.islandsassets.com/treasure/images/fU136QR6MUw.jpg",
+          "is_obvious": true
         },
         {
           "name": "隐藏款-夜之守护",
@@ -20377,7 +20431,8 @@
           "weight": "76.2g",
           "feel": "上下很空 左右凸起 前后满 轻 明盒",
           "feelEn": "Very empty at the top and bottom, convex on the left and right, full at the front and back, light, easy-to-identify figure",
-          "image": "https://treasure.islandsassets.com/treasure/images/13446da438a948cd9557dbfcae5566a2.jpg"
+          "image": "https://treasure.islandsassets.com/treasure/images/13446da438a948cd9557dbfcae5566a2.jpg",
+          "is_obvious": true
         },
         {
           "name": "小蜜蜂",
@@ -20730,7 +20785,8 @@
           "weight": "83.3g",
           "feel": "六面很满 轻捏发现有三处突起点 明盒",
           "feelEn": "The six sides are very full. When you pinch it gently, you will find three protruding points. Ming box",
-          "image": "https://treasure.islandsassets.com/treasure/images/6a0f32e3de6b26f9e1d82b1b8ddda531.png"
+          "image": "https://treasure.islandsassets.com/treasure/images/6a0f32e3de6b26f9e1d82b1b8ddda531.png",
+          "is_obvious": true
         },
         {
           "name": "隐藏款-天使蜡烛",
