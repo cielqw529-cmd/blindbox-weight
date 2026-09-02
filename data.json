@@ -19414,29 +19414,6 @@
       "releaseDate": "2022-03-10"
     },
     {
-      "id": "yoki-world-tour",
-      "name": "Yoki|环游世界系列",
-      "brand": "POP MART",
-      "source_url": "https://www.xiaohongshu.com/explore/61ff99080000000021039e8f",
-      "note": "隐藏款编号0418/5492",
-      "figures": [
-        {
-          "name": "隐藏款-巨人石像",
-          "weight": "90.1g",
-          "feel": "最轻 捏不到东西 满 但是不顶 摇不动 整盒103g",
-          "is_hot": true,
-          "feelEn": "The lightest, unable to hold anything, full, but not able to lift, unable to shake, whole box 103g",
-          "spuId": "417009593223379470",
-          "nameEn": "Moai（Secret）",
-          "image": "https://treasure.qiandaocdn.com/treasure/images/a11890c651c2dd37ac508af02442c695.png"
-        }
-      ],
-      "ip": "YOKI",
-      "noteEn": "Hidden model number 0418/5492",
-      "nameEn": "Yoki|Travel Around the World Series Blind Box",
-      "releaseDate": "2022-01-28"
-    },
-    {
       "id": "skullpanda-night-city",
       "name": "SKULLPANDA|夜之城系列",
       "brand": "POP MART",
@@ -19707,27 +19684,6 @@
       "noteEn": "Hidden model number 0100/8905/8906 (personal test is accurate) super hidden model number 3445 (not tested)",
       "nameEn": "INSTINCTOY|Dream Life Series Figures",
       "releaseDate": "2022-01-13"
-    },
-    {
-      "id": "tiger-new-year-2022",
-      "name": "POP MART|虎跃新春系列",
-      "brand": "POP MART",
-      "source_url": "https://www.xiaohongshu.com/explore/61d963b8000000002103b375",
-      "note": "Dimoo和Labubu明盒",
-      "figures": [
-        {
-          "name": "招财进宝",
-          "nameEn": "Gorgeous Treasure",
-          "spuId": "404024004416962822",
-          "weight": "92.5g",
-          "feel": "不明显 下方一整个面打盒",
-          "feelEn": "Not obvious. The whole bottom is boxed.",
-          "image": "https://treasure.islandsassets.com/treasure/images/6f4cf96fe1e85fdea14f0ff2b5373efb.png"
-        }
-      ],
-      "nameEn": "POP MART|Year of the Tiger Series Figures",
-      "noteEn": "Dimoo and Labubu Ming Box",
-      "releaseDate": "2022-01-06"
     },
     {
       "id": "shu-xiaoxiao-dream-journey",
@@ -21423,29 +21379,6 @@
       "ip": "VITA",
       "nameEn": "VITA|Super Band Series Figures",
       "releaseDate": "2021-09-04"
-    },
-    {
-      "id": "nanci-autumn-winter",
-      "name": "Nanci|二十四节气秋收冬藏系列",
-      "brand": "POP MART",
-      "source_url": "https://www.xiaohongshu.com/explore/619cf9d90000000001029be9",
-      "note": "隐藏款手感攻略：84.8g全套最重 其他款式都在80以内 上下左右前后六面很满 配重币是大薄片 没有任何声音 娃娃倒置在对角线 裙摆满 斗篷的角是凸起的会有顶盒的点",
-      "figures": [
-        {
-          "name": "隐藏款",
-          "weight": "84.8g",
-          "feel": "全套最重 六面很满 配重币是大薄片 没有任何声音 娃娃是倒置在对角线 所以裙摆满 斗篷的角是凸起的 就会有顶盒的点出现 找到两个顶的点",
-          "is_hot": true,
-          "is_obvious": true,
-          "feelEn": "The whole set is the heaviest, six sides are full, the weight coin is a large thin piece, there is no sound, the doll is upside down on the diagonal, so the skirt is full, the corners of the cloak are raised, and there will be points of the top box. Find the two top points.",
-          "spuId": "358380695472799863",
-          "image": "https://treasure.qiandaocdn.com/treasure/images/fynAOMubfEL.png"
-        }
-      ],
-      "ip": "NANCI",
-      "noteEn": "Guide to the feel of the hidden model: 84.8g is the heaviest in the whole set. All other styles are within 80. It is full on the top, bottom, left, right, and front sides. The weight coin is a large thin piece. There is no sound. The doll is upside down on the diagonal. The skirt is full. The corners of the cloak are raised and there are points for the top box.",
-      "nameEn": "Nanci|Rolife Nanci 24 Solar Terms Autumn & Winter Series Figures",
-      "releaseDate": "2021-09-03"
     },
     {
       "id": "labubu-christmas-together",
