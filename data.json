@@ -4112,56 +4112,6 @@
       "ip": "NOOK"
     },
     {
-      "id": "pucky-plush-cats",
-      "name": "PUCKY|Roly-Poly Kitty Series Figures",
-      "brand": "POP MART",
-      "source_url": "https://www.xiaohongshu.com/explore/66e18f670000000027007faa",
-      "note": "Hidden is the easy-to-identify figure. Just look at the weight. It is the heaviest one.",
-      "figures": [
-        {
-          "name": "美短猫",
-          "weight": 214,
-          "spuId": "931277861870940591",
-          "image": "https://treasure.qiandaocdn.com/treasure/images/fvxXXjIYIJg.png"
-        },
-        {
-          "name": "Red Tabby",
-          "weight": 214,
-          "spuId": "770297341172309449",
-          "image": "https://treasure.islandsassets.com/treasure/images/DIb8cJ4PW2.png"
-        },
-        {
-          "name": "Pink Cat",
-          "weight": 214.5,
-          "spuId": "770297451767663777",
-          "image": "https://treasure.islandsassets.com/treasure/images/DIbT7Mjf8S.png"
-        },
-        {
-          "name": "Noble Cat",
-          "weight": 218,
-          "spuId": "770296778531566437",
-          "image": "https://treasure.islandsassets.com/treasure/images/DIbofw5Waw.png"
-        },
-        {
-          "name": "三花猫",
-          "weight": 220,
-          "spuId": "955448024404885429",
-          "image": "https://treasure.qiandaocdn.com/treasure/images/frNbGDB9iwh.png"
-        },
-        {
-          "name": "Lucky Cat(Secret)",
-          "weight": 226,
-          "feel": "Secret figure, immediately identifiable without opening the box, and the heaviest in the series.",
-          "is_hot": true,
-          "is_obvious": true,
-          "spuId": "770297568805520573",
-          "image": "https://treasure.qiandaocdn.com/treasure/images/frdrEOh1k9l.png"
-        }
-      ],
-      "ip": "PUCKY",
-      "releaseDate": "2025-09-30"
-    },
-    {
       "id": "starman-cookie",
       "name": "Twinkle Twinkle|Savor the Moment Series Figures",
       "brand": "POP MART",
@@ -13392,81 +13342,6 @@
         }
       ],
       "releaseDate": "2022-12-29"
-    },
-    {
-      "id": "popcar-bumper-car",
-      "name": "POPCAR|Bumper Car Series Figures",
-      "brand": "POP MART",
-      "source_url": "https://www.xiaohongshu.com/explore/63a16bb0000000001f012195",
-      "note": "They are all fully packaged in plastic cases and there will be no obvious bulging feeling.",
-      "figures": [
-        {
-          "name": "MOLLY",
-          "spuId": "536518999559891321",
-          "weight": "136.5g",
-          "feel": "The lightest luminous",
-          "image": "https://treasure.islandsassets.com/treasure/images/7d2c2fdd19a11290c536d72f8c356cd1.png"
-        },
-        {
-          "name": "LABUBU",
-          "spuId": "536521112683601004",
-          "weight": "150.5g",
-          "image": "https://treasure.islandsassets.com/treasure/images/f477ba320780b481c9b2203d56ed87e2.png"
-        },
-        {
-          "name": "HACIPUPU",
-          "spuId": "536521610899820675",
-          "weight": "156.5g",
-          "feel": "heaviest",
-          "image": "https://treasure.islandsassets.com/treasure/images/273174600b188c89434b2fc80851c465.png"
-        },
-        {
-          "name": "SKULLPANDA",
-          "spuId": "536520485618360444",
-          "weight": "154g",
-          "image": "https://treasure.islandsassets.com/treasure/images/d84e16d9f765e3b857548870dea8f588.png"
-        },
-        {
-          "name": "ViViCat",
-          "spuId": "536522547202711516",
-          "weight": "153g",
-          "image": "https://treasure.islandsassets.com/treasure/images/51bc19aaf6f74a5e4a112440b4fce86c.png"
-        },
-        {
-          "name": "SATYR RORY",
-          "spuId": "536521928727408454",
-          "weight": "151.5g",
-          "feel": "There are two places in the middle of the back that are very full and heavy.",
-          "image": "https://treasure.islandsassets.com/treasure/images/ef61d5a894134b1c9491d87034792fb6.png"
-        },
-        {
-          "name": "UNIO",
-          "spuId": "536522886505134495",
-          "weight": "153.5g",
-          "feel": "The upper part of the back is particularly pressing and pressing.",
-          "image": "https://treasure.islandsassets.com/treasure/images/44c3b8220f82d233610fac74deb8a171.png"
-        },
-        {
-          "name": "PUCKY",
-          "spuId": "536521340316874151",
-          "weight": "142.5g",
-          "image": "https://treasure.islandsassets.com/treasure/images/f0642b48434ca0cc1e90aa8d3ef1acd7.png"
-        },
-        {
-          "name": "CRYBABY",
-          "spuId": "536522122000940537",
-          "weight": "143g",
-          "image": "https://treasure.islandsassets.com/treasure/images/3b5001661774fb9a9cb933faa739f9c9.png"
-        },
-        {
-          "name": "DIMOO",
-          "spuId": "536520107661226331",
-          "weight": "140g",
-          "image": "https://treasure.islandsassets.com/treasure/images/e1566b40d3ee6daf9e0a46af3a7797ec.png"
-        }
-      ],
-      "ip": "POP CAR",
-      "releaseDate": "2022-12-22"
     },
     {
       "id": "hirono-forgiveness-city",
