@@ -1,204 +1,10 @@
 {
   "series": [
     {
-      "id": "lulu-pig-work-troubles",
-      "name": "LuLu The Piggy|Office Struggles Series Figures",
-      "brand": "Toyzeroplus",
-      "ip": "LuLu The Piggy",
-      "releaseDate": "2026-05-08",
-      "note": "The large secret is the only design in the 130g+ range, making weight the clearest identification clue.",
-      "figures": [
-        {
-          "name": "LU CAN'T DO IT",
-          "weight": 100.9,
-          "feel": "Noticeable box hits when shaken up/down and front/back.",
-          "spuId": "992827049620027909",
-          "image": "https://treasure.islandsassets.com/treasure/images/fT28x7m3cab.jpg"
-        },
-        {
-          "name": "SURVIVAL COFFEE",
-          "weight": 105.8,
-          "feel": "Feels very full overall, with almost no movement.",
-          "spuId": "992827023850221728",
-          "image": "https://treasure.islandsassets.com/treasure/images/fT28xGDlp6u.jpg"
-        },
-        {
-          "name": "SLACKING OFF",
-          "weight": 114.6,
-          "feel": "Almost no movement. Slight box hits when shaken front/back.",
-          "spuId": "992827004522907770",
-          "image": "https://treasure.islandsassets.com/treasure/images/fT28x7m3c4B.jpg"
-        },
-        {
-          "name": "TEA BREAK",
-          "weight": 115.3,
-          "feel": "No up/down movement. Slight box hits when shaken front/back.",
-          "spuId": "992827042103823192",
-          "image": "https://treasure.islandsassets.com/treasure/images/fT28xL5Emlh.jpg"
-        },
-        {
-          "name": "ID SNAPSHOT",
-          "weight": 118.8,
-          "feel": "Feels very full overall, with almost no movement.",
-          "spuId": "992827033513887774",
-          "image": "https://treasure.islandsassets.com/treasure/images/fT28xL5EmlP.jpg"
-        },
-        {
-          "name": "THE DEVIL BOSS",
-          "weight": 133.4,
-          "feel": "The only figure in the entire series that falls into the 130g+ range. Most regular figures are either around 110g or 140–150g, so anything around 130g is worth paying extra attention to.",
-          "spuId": "992826992711699928",
-          "image": "https://treasure.islandsassets.com/treasure/images/fT28xGDlp60.jpg",
-          "is_hot": true,
-          "is_obvious": true
-        },
-        {
-          "name": "THE ANGEL BOSS",
-          "weight": 133.4,
-          "feel": "The only figure in the entire series that falls into the 130g+ range. Most regular figures are either around 110g or 140–150g, so anything around 130g is worth paying extra attention to.",
-          "spuId": "992826983048068926",
-          "image": "https://treasure.islandsassets.com/treasure/images/fT28xPCEAn7.jpg",
-          "is_hot": true,
-          "is_obvious": true
-        },
-        {
-          "name": "SNAIL-SPEED",
-          "weight": 148.8,
-          "feel": "On the heavier end of the series. The box feels very full, with almost no movement inside. When shaken left/right or front/back, there is a clear blocked or pressure-against-the-box feeling. Three regular figures have similar weights, but only 热爱工作 may also have an obvious pressure point, so compare them carefully.",
-          "spuId": "992826995932972341",
-          "image": "https://treasure.islandsassets.com/treasure/images/fT28xL5EmlM.jpg",
-          "is_hot": true
-        },
-        {
-          "name": "USER OFFLINE",
-          "weight": 151,
-          "feel": "No up/down movement. Slight box hits when shaken front/back.",
-          "spuId": "992827014186538378",
-          "image": "https://treasure.islandsassets.com/treasure/images/fT28xL5Emls.jpg"
-        },
-        {
-          "name": "LOVE MY JOB",
-          "weight": 152.3,
-          "feel": "The front side presses against the box. It feels quite full overall and is almost impossible to shake.",
-          "spuId": "992827021702778189",
-          "image": "https://treasure.islandsassets.com/treasure/images/fT28xL5Emlu.jpg"
-        },
-        {
-          "name": "BUDDHA MODE",
-          "weight": 157.6,
-          "feel": "Slight box-hitting sounds can be heard when shaken up/down and front/back.",
-          "spuId": "992827054988726822",
-          "image": "https://treasure.islandsassets.com/treasure/images/fT28xL5EmlO.jpg"
-        }
-      ]
-    },
-    {
-      "id": "bunny-mysterious-tarot",
-      "name": "BUNNY|Mysterious Tarot Series Figures",
-      "brand": "POP MART",
-      "ip": "BUNNY",
-      "releaseDate": "2023-07-07",
-      "note": "Easy to distinguish mainly by weight — light to heavy.",
-      "figures": [
-        {
-          "name": "The Chariot",
-          "weight": 80.7,
-          "feel": "The head hits the box when shaken front/back and left/right. There is noticeable up/down movement.",
-          "spuId": "609521950259388888",
-          "image": "https://treasure.islandsassets.com/treasure/images/9715b10ee6e59e47793ff77616478e75.png"
-        },
-        {
-          "name": "Death",
-          "weight": 81.6,
-          "feel": "Lightweight, with slight movement in all three directions.",
-          "spuId": "609523556576949508",
-          "image": "https://treasure.islandsassets.com/treasure/images/229422808b63e75d8d7efd139c9884b6.png"
-        },
-        {
-          "name": "The Lovers (Man)",
-          "weight": 85.1,
-          "feel": "There is a plastic bag sound when shaken front/back, some left/right movement, and no up/down movement.",
-          "spuId": "609523663951135579",
-          "image": "https://treasure.islandsassets.com/treasure/images/962e158826d8dc935a5b4c137e8d8226.png"
-        },
-        {
-          "name": "The Star",
-          "weight": 86.9,
-          "feel": "There is slight left/right movement and some front/back box hits, with no up/down movement.",
-          "spuId": "609522950986542002",
-          "image": "https://treasure.islandsassets.com/treasure/images/002b0d66145c8744b30b6436ed10ed20.png"
-        },
-        {
-          "name": "The Lovers (Woman)",
-          "weight": 87,
-          "feel": "Obvious box hits in all three directions.",
-          "spuId": "609523797095127230",
-          "image": "https://treasure.islandsassets.com/treasure/images/a0910aa331fb28ef471e2ee312b279ab.png"
-        },
-        {
-          "name": "The Hermit",
-          "weight": 88.8,
-          "feel": "Strong front/back box hits and noticeable left/right box hits, with no up/down movement.",
-          "spuId": "609523419137991782",
-          "image": "https://treasure.islandsassets.com/treasure/images/8f7f7bc8f2e9f90f5f213a11a6034517.png"
-        },
-        {
-          "name": "The Fool",
-          "weight": 90,
-          "feel": "Slight box hits front/back and left/right, with limited up/down space.",
-          "spuId": "609522538669928702",
-          "image": "https://treasure.islandsassets.com/treasure/images/57a72303d4e759baca7367d1dbbd18f1.png"
-        },
-        {
-          "name": "The Judgement",
-          "weight": 94.7,
-          "feel": "There is slight front/back and left/right movement. The figure presses against the box when squeezed from the top/bottom.",
-          "spuId": "609522311036653702",
-          "image": "https://treasure.islandsassets.com/treasure/images/0e98084e85044502cd461714be33266e.png"
-        },
-        {
-          "name": "The Wheel of Fortune (Secret)",
-          "weight": 95.4,
-          "feel": "Medium weight for the series. There is almost no up/down space, and the figure can be felt when firmly squeezing the top/bottom. There is some space on all four sides, with less space left/right than front/back. Front/back box hits occur around the upper-middle area, and the figure is usually positioned diagonally. The thick card makes a loud box-hitting sound.",
-          "spuId": "609524222296904888",
-          "image": "https://treasure.islandsassets.com/treasure/images/814c053bc68ff834ee84d2dc27ba9ef0.png",
-          "is_hot": true
-        },
-        {
-          "name": "The Moon",
-          "weight": 103.1,
-          "feel": "There is a tiny bit of space in all three directions, and the figure slightly presses against the box.",
-          "spuId": "609522701878429363",
-          "image": "https://treasure.islandsassets.com/treasure/images/9158b5ce4811b0fcbf06324e76425cd2.png"
-        },
-        {
-          "name": "The High Priestess",
-          "weight": 103.6,
-          "feel": "There are left/right box hits, with almost no front/back or up/down movement. The flat base can be felt from the bottom.",
-          "spuId": "609521254474659242",
-          "image": "https://treasure.islandsassets.com/treasure/images/b8d717390c0743244c8a1c58c4f477b1.png"
-        },
-        {
-          "name": "Strength",
-          "weight": 106.3,
-          "feel": "Moves in all three directions, but only slightly.",
-          "spuId": "609523947418988211",
-          "image": "https://treasure.islandsassets.com/treasure/images/25a9fbe82c2c41d5967311a6b1b6e071.png"
-        },
-        {
-          "name": "The Emperor",
-          "weight": 113.9,
-          "feel": "There is no front/back movement. Left/right movement causes the card to hit the box, and there is slight up/down movement.",
-          "spuId": "609521804230494885",
-          "image": "https://treasure.islandsassets.com/treasure/images/849a8122edaee5722de3b16e7863177f.png"
-        }
-      ]
-    },
-    {
       "id": "hacipupu-one-day-in-kasukabe",
       "name": "HACIPUPU|One Day in Kasukabe Series Figures",
       "brand": "POP MART",
-      "releaseDate": "2026-08",
+      "releaseDate": "2026-08-27",
       "note": "My Favorite Cookie (177g) is heaviest, Wake Up Refreshed (96.76g) is lightest. [Secret] ACTION! Kiddie Ride (134.32g).",
       "figures": [
         {
@@ -300,7 +106,7 @@
       "id": "youre-not-alone",
       "name": "Twinkle Twinkle | Farm Tales Series - Vinyl Plush Pendant",
       "brand": "POP MART",
-      "releaseDate": "2026-08",
+      "releaseDate": "2026-08-20",
       "note": "Wild Cowboy (162.79g) is heaviest, Pure Pigling (140.12g) is lightest. [Secret ID] Tearful Duckling (148.9g): Feels quite full overall. The tail of the hat makes a distinctive sandbag-like rustling sound when shaken. All regular figures use small desiccant packs, so this extra rustling sound is the key giveaway.",
       "figures": [
         {
@@ -360,7 +166,7 @@
       "name": "Act I|Sugar Therapy Room Series Figures",
       "brand": "POP MART",
       "ip": "POP MART",
-      "releaseDate": "2026-08",
+      "releaseDate": "2026-08-14",
       "note": "Syrup Jar (132.53g) is heaviest, 100% Good Apple (93.12g) is lightest. [Secret ID] Sweetness Generator (95g): Shakes evenly in all three directions with light box-hitting. Besides the desiccant sound, there is a distinct fine, dense granular rattling sound inside.",
       "figures": [
         {
@@ -461,7 +267,7 @@
       "id": "chaka-stitch-by-stitch",
       "name": "CHAKA|Stitch by Stitch Series Figures",
       "brand": "POP MART",
-      "releaseDate": "2026-07",
+      "releaseDate": "2026-08-06",
       "note": "Granny's Glasses (141.3g) is heaviest, has plastic shell. Secret Spinning Glamour (125.3g): Very tightly packed with a thick card inside, no hitting sound when shaking in any direction, slight top pressure on upper left/right sides. Lady Model (111.6g) is lightest.",
       "figures": [
         {
@@ -562,7 +368,7 @@
       "id": "nyota-chibi-maruko-plush",
       "name": "Nyota|Chibi Maruko Chan Plush Doll Pendant",
       "brand": "POP MART",
-      "releaseDate": "2026-07",
+      "releaseDate": "2026-08-06",
       "note": "[Key Pick] My No.1 Friend (110g): Very heavy and very full. The whole box feels stretched and slightly moves when shaken. All six sides are packed tightly; when touching, you can feel the paper bag being fully stretched with a noticeable paper bag sound. Clear identification (easy to distinguish). Secret Here Comes the Wind (111.24g) is heaviest: almost no movement on all six sides, front squeeze clearly presses the middle, left/right squeeze no obvious top pressure but figure can be felt and box feels slightly bulged.",
       "figures": [
         {
@@ -664,7 +470,7 @@
       "id": "off-mode-plush-mini",
       "name": "SKULLPANDA|OFF MODE Plush Doll Pendant Mini Size",
       "brand": "POP MART",
-      "releaseDate": "2026-07",
+      "releaseDate": "2026-07-30",
       "note": "Mini series has minimal weight/feel differences overall. [Key Pick] Mute Mode (100g): Hold upper part and rotate lower part - lower section is very full and tight, nearly 100% identifiable. Secret Self Mode (106g): Left/right almost completely locked, arms pressed against box wall. Low Battery (115g) is heaviest.",
       "figures": [
         {
@@ -763,58 +569,6 @@
       ]
     },
     {
-      "id": "dimoo-world-pixar-plush",
-      "name": "DIMOO WORLD|PIXAR Series - Vinyl Plush Pendant",
-      "brand": "POP MART",
-      "releaseDate": "2026-07-01",
-      "note": "Secret Buzz Lightyear at 197.16g is heaviest overall. Red Panda Mei at 150.9g is lightest. Secret: upright front/back shake has strong hard impact at hair-hat brim junction, inverted left/right hits at secret figure guide area, front/back space ~2 fingers.",
-      "figures": [
-        {
-          "name": "DIMOO As Woody",
-          "weight": 194.8,
-          "feel": "Heaviest in the series. Vertical shake: Around 2-finger movement space, with clear bottom box tapping. Left/right shake: Large movement space. Noticeable tapping around Woody's name area on the artwork side, with symmetrical tapping on the opposite side. Front/back shake: Larger space compared with left/right. Strong tapping on the middle area of the back side.",
-          "image": "https://treasure.islandsassets.com/treasure/images/faloR8iVi4k.png"
-        },
-        {
-          "name": "DIMOO As Sulley",
-          "weight": 194.4,
-          "feel": "Vertical shake: Around 2-finger movement space, with bottom box tapping. Left/right shake: Large movement space. Noticeable tapping around Sulley's name area on the artwork side. Front/back shake: Larger space compared with left/right. Strong tapping around the top area of DIMOO's hat on the front artwork side.",
-          "image": "https://treasure.islandsassets.com/treasure/images/faloD4jtGyH.png"
-        },
-        {
-          "name": "DIMOO As Remy",
-          "weight": 180.5,
-          "feel": "Vertical shake: Slight movement only. Left/right shake: Small movement space, pay attention to tapping around the middle area of the artwork side. Front/back shake: Slight movement only.",
-          "image": "https://treasure.islandsassets.com/treasure/images/faloIdXaUJP.png"
-        },
-        {
-          "name": "DIMOO As Dash Parr",
-          "weight": 178.2,
-          "feel": "Vertical shake: Around 2-finger movement space. Both upward and downward directions create box tapping sounds, but the sound is relatively soft. Left/right shake: Large movement space. Strong tapping at the top of Sulley's head area on the artwork side, with symmetrical tapping at the opposite position. Front/back shake: Large movement space. Strong tapping where DIMOO's head and hat meet on the front artwork side, with tapping at the same position on the back side.",
-          "image": "https://treasure.islandsassets.com/treasure/images/falogYpqNf8.png"
-        },
-        {
-          "name": "DIMOO As Lotso",
-          "weight": 158.3,
-          "feel": "Vertical shake: Cannot feel movement. Left/right shake: Small movement space. Noticeable tapping around Sulley's head area on the artwork side. Front/back shake: Completely locked with no obvious movement.",
-          "image": "https://treasure.islandsassets.com/treasure/images/faloMFh4Xnf.png"
-        },
-        {
-          "name": "DIMOO As Red Panda Mei",
-          "weight": 150.9,
-          "feel": "Lightest in the series. Vertical shake: Around 2-finger movement space, with tapping in both directions. Left/right shake: Large movement space. Noticeable tapping around Sulley's head area on the artwork side. Front/back shake: Large movement space. Strong tapping around DIMOO's hat area on the front artwork side, with additional tapping around the middle area of the back side.",
-          "image": "https://treasure.islandsassets.com/treasure/images/faloR9QgGax.png"
-        },
-        {
-          "name": "DIMOO As Buzz Lightyear (Secret)",
-          "weight": 197.16,
-          "feel": "Front/back shake (normal direction): Strong hard tapping sound at the connection area between the hair and hat brim (see P4). The impact area is relatively large and requires a firm hard hit to identify. Front/back shake (upside down): Hard tapping around slightly below the \"XA\" area of the PIXAR logo. Left/right shake (normal direction): No obvious tapping from the spaceship accessory. Left/right shake (upside down): Hard tapping appears around the secret artwork area. Back middle area: The hanging ring may hit the box and create a sound, but it is not obvious. Movement space: Up/down more than 1 finger, Left/right more than 1 finger, Front/back around 2 fingers.",
-          "image": "https://treasure.islandsassets.com/treasure/images/faloVhRA3hJ.png",
-          "is_hot": true
-        }
-      ]
-    },
-    {
       "id": "dimoo-pixar-plush",
       "name": "DIMOO|PIXAR Series - Vinyl Plush Pendant",
       "brand": "POP MART",
@@ -900,6 +654,58 @@
           "weight": null,
           "feel": "No detailed shake data available yet.",
           "image": "https://treasure.islandsassets.com/treasure/images/falferboAIL.png"
+        }
+      ]
+    },
+    {
+      "id": "dimoo-world-pixar-plush",
+      "name": "DIMOO WORLD|PIXAR Series - Vinyl Plush Pendant",
+      "brand": "POP MART",
+      "releaseDate": "2026-07-01",
+      "note": "Secret Buzz Lightyear at 197.16g is heaviest overall. Red Panda Mei at 150.9g is lightest. Secret: upright front/back shake has strong hard impact at hair-hat brim junction, inverted left/right hits at secret figure guide area, front/back space ~2 fingers.",
+      "figures": [
+        {
+          "name": "DIMOO As Woody",
+          "weight": 194.8,
+          "feel": "Heaviest in the series. Vertical shake: Around 2-finger movement space, with clear bottom box tapping. Left/right shake: Large movement space. Noticeable tapping around Woody's name area on the artwork side, with symmetrical tapping on the opposite side. Front/back shake: Larger space compared with left/right. Strong tapping on the middle area of the back side.",
+          "image": "https://treasure.islandsassets.com/treasure/images/faloR8iVi4k.png"
+        },
+        {
+          "name": "DIMOO As Sulley",
+          "weight": 194.4,
+          "feel": "Vertical shake: Around 2-finger movement space, with bottom box tapping. Left/right shake: Large movement space. Noticeable tapping around Sulley's name area on the artwork side. Front/back shake: Larger space compared with left/right. Strong tapping around the top area of DIMOO's hat on the front artwork side.",
+          "image": "https://treasure.islandsassets.com/treasure/images/faloD4jtGyH.png"
+        },
+        {
+          "name": "DIMOO As Remy",
+          "weight": 180.5,
+          "feel": "Vertical shake: Slight movement only. Left/right shake: Small movement space, pay attention to tapping around the middle area of the artwork side. Front/back shake: Slight movement only.",
+          "image": "https://treasure.islandsassets.com/treasure/images/faloIdXaUJP.png"
+        },
+        {
+          "name": "DIMOO As Dash Parr",
+          "weight": 178.2,
+          "feel": "Vertical shake: Around 2-finger movement space. Both upward and downward directions create box tapping sounds, but the sound is relatively soft. Left/right shake: Large movement space. Strong tapping at the top of Sulley's head area on the artwork side, with symmetrical tapping at the opposite position. Front/back shake: Large movement space. Strong tapping where DIMOO's head and hat meet on the front artwork side, with tapping at the same position on the back side.",
+          "image": "https://treasure.islandsassets.com/treasure/images/falogYpqNf8.png"
+        },
+        {
+          "name": "DIMOO As Lotso",
+          "weight": 158.3,
+          "feel": "Vertical shake: Cannot feel movement. Left/right shake: Small movement space. Noticeable tapping around Sulley's head area on the artwork side. Front/back shake: Completely locked with no obvious movement.",
+          "image": "https://treasure.islandsassets.com/treasure/images/faloMFh4Xnf.png"
+        },
+        {
+          "name": "DIMOO As Red Panda Mei",
+          "weight": 150.9,
+          "feel": "Lightest in the series. Vertical shake: Around 2-finger movement space, with tapping in both directions. Left/right shake: Large movement space. Noticeable tapping around Sulley's head area on the artwork side. Front/back shake: Large movement space. Strong tapping around DIMOO's hat area on the front artwork side, with additional tapping around the middle area of the back side.",
+          "image": "https://treasure.islandsassets.com/treasure/images/faloR9QgGax.png"
+        },
+        {
+          "name": "DIMOO As Buzz Lightyear (Secret)",
+          "weight": 197.16,
+          "feel": "Front/back shake (normal direction): Strong hard tapping sound at the connection area between the hair and hat brim (see P4). The impact area is relatively large and requires a firm hard hit to identify. Front/back shake (upside down): Hard tapping around slightly below the \"XA\" area of the PIXAR logo. Left/right shake (normal direction): No obvious tapping from the spaceship accessory. Left/right shake (upside down): Hard tapping appears around the secret artwork area. Back middle area: The hanging ring may hit the box and create a sound, but it is not obvious. Movement space: Up/down more than 1 finger, Left/right more than 1 finger, Front/back around 2 fingers.",
+          "image": "https://treasure.islandsassets.com/treasure/images/faloVhRA3hJ.png",
+          "is_hot": true
         }
       ]
     },
@@ -1927,6 +1733,98 @@
           "image": "https://treasure.islandsassets.com/treasure/images/fTHbHh0js8L.png",
           "is_hot": true,
           "is_obvious": true
+        }
+      ]
+    },
+    {
+      "id": "lulu-pig-work-troubles",
+      "name": "LuLu The Piggy|Office Struggles Series Figures",
+      "brand": "Toyzeroplus",
+      "ip": "LuLu The Piggy",
+      "releaseDate": "2026-05-08",
+      "note": "The large secret is the only design in the 130g+ range, making weight the clearest identification clue.",
+      "figures": [
+        {
+          "name": "LU CAN'T DO IT",
+          "weight": 100.9,
+          "feel": "Noticeable box hits when shaken up/down and front/back.",
+          "spuId": "992827049620027909",
+          "image": "https://treasure.islandsassets.com/treasure/images/fT28x7m3cab.jpg"
+        },
+        {
+          "name": "SURVIVAL COFFEE",
+          "weight": 105.8,
+          "feel": "Feels very full overall, with almost no movement.",
+          "spuId": "992827023850221728",
+          "image": "https://treasure.islandsassets.com/treasure/images/fT28xGDlp6u.jpg"
+        },
+        {
+          "name": "SLACKING OFF",
+          "weight": 114.6,
+          "feel": "Almost no movement. Slight box hits when shaken front/back.",
+          "spuId": "992827004522907770",
+          "image": "https://treasure.islandsassets.com/treasure/images/fT28x7m3c4B.jpg"
+        },
+        {
+          "name": "TEA BREAK",
+          "weight": 115.3,
+          "feel": "No up/down movement. Slight box hits when shaken front/back.",
+          "spuId": "992827042103823192",
+          "image": "https://treasure.islandsassets.com/treasure/images/fT28xL5Emlh.jpg"
+        },
+        {
+          "name": "ID SNAPSHOT",
+          "weight": 118.8,
+          "feel": "Feels very full overall, with almost no movement.",
+          "spuId": "992827033513887774",
+          "image": "https://treasure.islandsassets.com/treasure/images/fT28xL5EmlP.jpg"
+        },
+        {
+          "name": "THE DEVIL BOSS",
+          "weight": 133.4,
+          "feel": "The only figure in the entire series that falls into the 130g+ range. Most regular figures are either around 110g or 140–150g, so anything around 130g is worth paying extra attention to.",
+          "spuId": "992826992711699928",
+          "image": "https://treasure.islandsassets.com/treasure/images/fT28xGDlp60.jpg",
+          "is_hot": true,
+          "is_obvious": true
+        },
+        {
+          "name": "THE ANGEL BOSS",
+          "weight": 133.4,
+          "feel": "The only figure in the entire series that falls into the 130g+ range. Most regular figures are either around 110g or 140–150g, so anything around 130g is worth paying extra attention to.",
+          "spuId": "992826983048068926",
+          "image": "https://treasure.islandsassets.com/treasure/images/fT28xPCEAn7.jpg",
+          "is_hot": true,
+          "is_obvious": true
+        },
+        {
+          "name": "SNAIL-SPEED",
+          "weight": 148.8,
+          "feel": "On the heavier end of the series. The box feels very full, with almost no movement inside. When shaken left/right or front/back, there is a clear blocked or pressure-against-the-box feeling. Three regular figures have similar weights, but only 热爱工作 may also have an obvious pressure point, so compare them carefully.",
+          "spuId": "992826995932972341",
+          "image": "https://treasure.islandsassets.com/treasure/images/fT28xL5EmlM.jpg",
+          "is_hot": true
+        },
+        {
+          "name": "USER OFFLINE",
+          "weight": 151,
+          "feel": "No up/down movement. Slight box hits when shaken front/back.",
+          "spuId": "992827014186538378",
+          "image": "https://treasure.islandsassets.com/treasure/images/fT28xL5Emls.jpg"
+        },
+        {
+          "name": "LOVE MY JOB",
+          "weight": 152.3,
+          "feel": "The front side presses against the box. It feels quite full overall and is almost impossible to shake.",
+          "spuId": "992827021702778189",
+          "image": "https://treasure.islandsassets.com/treasure/images/fT28xL5Emlu.jpg"
+        },
+        {
+          "name": "BUDDHA MODE",
+          "weight": 157.6,
+          "feel": "Slight box-hitting sounds can be heard when shaken up/down and front/back.",
+          "spuId": "992827054988726822",
+          "image": "https://treasure.islandsassets.com/treasure/images/fT28xL5EmlO.jpg"
         }
       ]
     },
@@ -12322,6 +12220,108 @@
       "releaseDate": "2023-07-13"
     },
     {
+      "id": "bunny-mysterious-tarot",
+      "name": "BUNNY|Mysterious Tarot Series Figures",
+      "brand": "POP MART",
+      "ip": "BUNNY",
+      "releaseDate": "2023-07-07",
+      "note": "Easy to distinguish mainly by weight — light to heavy.",
+      "figures": [
+        {
+          "name": "The Chariot",
+          "weight": 80.7,
+          "feel": "The head hits the box when shaken front/back and left/right. There is noticeable up/down movement.",
+          "spuId": "609521950259388888",
+          "image": "https://treasure.islandsassets.com/treasure/images/9715b10ee6e59e47793ff77616478e75.png"
+        },
+        {
+          "name": "Death",
+          "weight": 81.6,
+          "feel": "Lightweight, with slight movement in all three directions.",
+          "spuId": "609523556576949508",
+          "image": "https://treasure.islandsassets.com/treasure/images/229422808b63e75d8d7efd139c9884b6.png"
+        },
+        {
+          "name": "The Lovers (Man)",
+          "weight": 85.1,
+          "feel": "There is a plastic bag sound when shaken front/back, some left/right movement, and no up/down movement.",
+          "spuId": "609523663951135579",
+          "image": "https://treasure.islandsassets.com/treasure/images/962e158826d8dc935a5b4c137e8d8226.png"
+        },
+        {
+          "name": "The Star",
+          "weight": 86.9,
+          "feel": "There is slight left/right movement and some front/back box hits, with no up/down movement.",
+          "spuId": "609522950986542002",
+          "image": "https://treasure.islandsassets.com/treasure/images/002b0d66145c8744b30b6436ed10ed20.png"
+        },
+        {
+          "name": "The Lovers (Woman)",
+          "weight": 87,
+          "feel": "Obvious box hits in all three directions.",
+          "spuId": "609523797095127230",
+          "image": "https://treasure.islandsassets.com/treasure/images/a0910aa331fb28ef471e2ee312b279ab.png"
+        },
+        {
+          "name": "The Hermit",
+          "weight": 88.8,
+          "feel": "Strong front/back box hits and noticeable left/right box hits, with no up/down movement.",
+          "spuId": "609523419137991782",
+          "image": "https://treasure.islandsassets.com/treasure/images/8f7f7bc8f2e9f90f5f213a11a6034517.png"
+        },
+        {
+          "name": "The Fool",
+          "weight": 90,
+          "feel": "Slight box hits front/back and left/right, with limited up/down space.",
+          "spuId": "609522538669928702",
+          "image": "https://treasure.islandsassets.com/treasure/images/57a72303d4e759baca7367d1dbbd18f1.png"
+        },
+        {
+          "name": "The Judgement",
+          "weight": 94.7,
+          "feel": "There is slight front/back and left/right movement. The figure presses against the box when squeezed from the top/bottom.",
+          "spuId": "609522311036653702",
+          "image": "https://treasure.islandsassets.com/treasure/images/0e98084e85044502cd461714be33266e.png"
+        },
+        {
+          "name": "The Wheel of Fortune (Secret)",
+          "weight": 95.4,
+          "feel": "Medium weight for the series. There is almost no up/down space, and the figure can be felt when firmly squeezing the top/bottom. There is some space on all four sides, with less space left/right than front/back. Front/back box hits occur around the upper-middle area, and the figure is usually positioned diagonally. The thick card makes a loud box-hitting sound.",
+          "spuId": "609524222296904888",
+          "image": "https://treasure.islandsassets.com/treasure/images/814c053bc68ff834ee84d2dc27ba9ef0.png",
+          "is_hot": true
+        },
+        {
+          "name": "The Moon",
+          "weight": 103.1,
+          "feel": "There is a tiny bit of space in all three directions, and the figure slightly presses against the box.",
+          "spuId": "609522701878429363",
+          "image": "https://treasure.islandsassets.com/treasure/images/9158b5ce4811b0fcbf06324e76425cd2.png"
+        },
+        {
+          "name": "The High Priestess",
+          "weight": 103.6,
+          "feel": "There are left/right box hits, with almost no front/back or up/down movement. The flat base can be felt from the bottom.",
+          "spuId": "609521254474659242",
+          "image": "https://treasure.islandsassets.com/treasure/images/b8d717390c0743244c8a1c58c4f477b1.png"
+        },
+        {
+          "name": "Strength",
+          "weight": 106.3,
+          "feel": "Moves in all three directions, but only slightly.",
+          "spuId": "609523947418988211",
+          "image": "https://treasure.islandsassets.com/treasure/images/25a9fbe82c2c41d5967311a6b1b6e071.png"
+        },
+        {
+          "name": "The Emperor",
+          "weight": 113.9,
+          "feel": "There is no front/back movement. Left/right movement causes the card to hit the box, and there is slight up/down movement.",
+          "spuId": "609521804230494885",
+          "image": "https://treasure.islandsassets.com/treasure/images/849a8122edaee5722de3b16e7863177f.png"
+        }
+      ]
+    },
+    {
       "id": "hacipupu-little-hero",
       "name": "HACIPUPU|My Little Hero Series Figures",
       "brand": "POP MART",
@@ -13976,6 +13976,65 @@
       "releaseDate": "2022-11-24"
     },
     {
+      "id": "labubu-christmas-together",
+      "name": "LABUBU THE MONSTERS|Christmas Together Series Figures",
+      "brand": "POP MART",
+      "source_url": "https://www.xiaohongshu.com/explore/637a3ea6000000000d0260d6",
+      "figures": [
+        {
+          "name": "King",
+          "spuId": "525737188537860596",
+          "weight": 94.5,
+          "feel": "All six sides are empty and light, and the up and down sound of the box on all six sides is smaller.",
+          "image": "https://treasure.islandsassets.com/treasure/images/c81c7c159c1e8791b9e782fec6050464.png"
+        },
+        {
+          "name": "Christmas Tree",
+          "spuId": "525739778402974721",
+          "weight": 97.5,
+          "feel": "The only blind box where all six sides are filled by pressing up and down, and only the cards are shaking.",
+          "image": "https://treasure.islandsassets.com/treasure/images/6d400435421117cd03196e1fc1dbeed7.png"
+        },
+        {
+          "name": "Nutcracker",
+          "spuId": "525736514227975174",
+          "weight": 97,
+          "feel": "Make the box from four sides, top it up and down, the only thing that can be pressed up and down is it",
+          "image": "https://treasure.islandsassets.com/treasure/images/b70ad7b28ccc90406e5f8c9c2ee27719.png"
+        },
+        {
+          "name": "Sleigh",
+          "spuId": "525742484232469292",
+          "weight": 106.5,
+          "feel": "The box is heavy and has large upper and lower space, and the four sides are also boxed.",
+          "image": "https://treasure.islandsassets.com/treasure/images/ed6703c24d2bf60878048575fbeeab60.png"
+        },
+        {
+          "name": "Christmas Angel",
+          "spuId": "525743132772548613",
+          "weight": 95.5,
+          "feel": "If there is space on all sides, the box will not open, but the sound will be muffled when the box is opened.",
+          "image": "https://treasure.islandsassets.com/treasure/images/3b1efe06b1455e27637c295e885d4313.png"
+        },
+        {
+          "name": "Santa",
+          "spuId": "525741724023224162",
+          "weight": 107,
+          "feel": "The upper and lower space is small but there is a clear sound of cards being boxed up, down, left and right. The left and right spaces are large and boxes are being hit. The front and back are full.",
+          "image": "https://treasure.islandsassets.com/treasure/images/cfcee857cd79d39f41a35f12ef598e25.png"
+        },
+        {
+          "name": "Fireplace",
+          "spuId": "525739482050221612",
+          "weight": 87,
+          "feel": "The space on the four sides is small, the space above and below is large, but it is very light and has light faults.",
+          "image": "https://treasure.islandsassets.com/treasure/images/c6437c41bde82c1c338a5a999c088e74.png"
+        }
+      ],
+      "ip": "LABUBU",
+      "releaseDate": "2022-11-24"
+    },
+    {
       "id": "skullpanda-temperature",
       "name": "SKULLPANDA|The Temperature Series Figures",
       "brand": "POP MART",
@@ -14429,6 +14488,103 @@
       ],
       "ip": "DIMOO",
       "releaseDate": "2022-10-01"
+    },
+    {
+      "id": "shinwoo-secret-manor",
+      "name": "ShinWoo|The Secret Bear Garden Series Figures",
+      "brand": "POP MART",
+      "source_url": "https://www.xiaohongshu.com/explore/632c5e070000000009008eda",
+      "figures": [
+        {
+          "name": "Secret Time",
+          "weight": "65.5g",
+          "feel": "It can't move on all six sides, but it's very light.",
+          "spuId": "505213176212649560",
+          "image": "https://treasure.qiandaocdn.com/treasure/images/cef363f1786c30a403b0ce8a7f7cf146.png",
+          "is_hot": true
+        },
+        {
+          "name": "Secret Letter",
+          "weight": "66.5g",
+          "feel": "Only the weighted coins are bumping around and shaking up and down.",
+          "spuId": "505215710243409063",
+          "image": "https://treasure.qiandaocdn.com/treasure/images/9723c1ab765d2e4a1bd9eacc224fa3d4.png",
+          "is_hot": true
+        },
+        {
+          "name": "Hug Me",
+          "weight": "71.5g",
+          "feel": "It does not move when lightly pressed from the left/right. There is vertical space, but it does not hit the box or rattle from side to side.",
+          "spuId": "505215143307714765",
+          "image": "https://treasure.qiandaocdn.com/treasure/images/1564e913d0bd44d0882db57406c8194f.png"
+        },
+        {
+          "name": "Safe Cracker",
+          "weight": "81.5g",
+          "feel": "Pinch the lower third to the top, leaving a little space above and below",
+          "spuId": "505212746715910376",
+          "image": "https://treasure.qiandaocdn.com/treasure/images/27e18e90e5c2ff878b76454231c97a96.png"
+        },
+        {
+          "name": "Maze Garden",
+          "weight": "83.5g",
+          "feel": "There is room for shaking up and down, but there is little left and right space. It will be very tight when pinched lightly, but you cannot feel the contact.",
+          "spuId": "505216689495987970",
+          "image": "https://treasure.qiandaocdn.com/treasure/images/61abf1afd7f22c992923ab2e501a10f6.png"
+        },
+        {
+          "name": "Flower Grave",
+          "weight": "84g",
+          "feel": "All six sides are empty, and the left and right sides can hardly move. The upper and lower counterweight coins are flying randomly.",
+          "spuId": "505213803277889342",
+          "image": "https://treasure.qiandaocdn.com/treasure/images/957d4434e13f1d2968c29140443e59e0.png"
+        },
+        {
+          "name": "The Last Moment",
+          "weight": "85.5g",
+          "feel": "The lower third is very high and can be shaken very loudly up and down.",
+          "spuId": "505210410253889103",
+          "image": "https://treasure.qiandaocdn.com/treasure/images/cbf1188320072cb7a55136925ac3a298.png"
+        },
+        {
+          "name": "Secret Keeper",
+          "weight": "85.5g",
+          "feel": "Pinch the lower third to the top. There is plenty of space at the top and bottom, but the box will not be smashed.",
+          "spuId": "505214232774627547",
+          "image": "https://treasure.qiandaocdn.com/treasure/images/dbb78a8d2ddda9330c73fc5257c1cc9f.png",
+          "is_hot": true
+        },
+        {
+          "name": "Naughty Gardener",
+          "weight": "90g",
+          "feel": "The lower third is very high, with all four sides facing each other. It can be pinched lightly, and there is no space above or below.",
+          "spuId": "505211758873652062",
+          "image": "https://treasure.qiandaocdn.com/treasure/images/881d2d5d44000728f3defe9811d44cec.png"
+        },
+        {
+          "name": "Poisonous",
+          "weight": "96.5g",
+          "feel": "Because there are separate accessories, the card is very tight, leaving a little space on the top and bottom.",
+          "spuId": "505214632206594345",
+          "image": "https://treasure.qiandaocdn.com/treasure/images/2fe065558a48e97ca6400d0129a21025.png"
+        },
+        {
+          "name": "Wild Flower Bunny",
+          "weight": "99.5g",
+          "feel": "Pinch the lower third to the top. There is space up and down, but you can't move it left or right.",
+          "spuId": "505212141125757252",
+          "image": "https://treasure.qiandaocdn.com/treasure/images/628491f8ed1886c5e093d1dd0fe2a88b.png"
+        },
+        {
+          "name": "Truth or Lie",
+          "weight": "100g",
+          "feel": "Can't pinch, no space left and right, only a little space up and down",
+          "spuId": "505216371668391380",
+          "image": "https://treasure.qiandaocdn.com/treasure/images/fb0cdcb6fd55368f77f37b94fd6ee197.png"
+        }
+      ],
+      "ip": "SHINWOO",
+      "releaseDate": "2022-09-27"
     },
     {
       "id": "pino-jelly-mood",
@@ -16877,162 +17033,6 @@
       ],
       "ip": "VITA",
       "releaseDate": "2021-09-04"
-    },
-    {
-      "id": "labubu-christmas-together",
-      "name": "LABUBU THE MONSTERS|Christmas Together Series Figures",
-      "brand": "POP MART",
-      "source_url": "https://www.xiaohongshu.com/explore/637a3ea6000000000d0260d6",
-      "figures": [
-        {
-          "name": "King",
-          "spuId": "525737188537860596",
-          "weight": 94.5,
-          "feel": "All six sides are empty and light, and the up and down sound of the box on all six sides is smaller.",
-          "image": "https://treasure.islandsassets.com/treasure/images/c81c7c159c1e8791b9e782fec6050464.png"
-        },
-        {
-          "name": "Christmas Tree",
-          "spuId": "525739778402974721",
-          "weight": 97.5,
-          "feel": "The only blind box where all six sides are filled by pressing up and down, and only the cards are shaking.",
-          "image": "https://treasure.islandsassets.com/treasure/images/6d400435421117cd03196e1fc1dbeed7.png"
-        },
-        {
-          "name": "Nutcracker",
-          "spuId": "525736514227975174",
-          "weight": 97,
-          "feel": "Make the box from four sides, top it up and down, the only thing that can be pressed up and down is it",
-          "image": "https://treasure.islandsassets.com/treasure/images/b70ad7b28ccc90406e5f8c9c2ee27719.png"
-        },
-        {
-          "name": "Sleigh",
-          "spuId": "525742484232469292",
-          "weight": 106.5,
-          "feel": "The box is heavy and has large upper and lower space, and the four sides are also boxed.",
-          "image": "https://treasure.islandsassets.com/treasure/images/ed6703c24d2bf60878048575fbeeab60.png"
-        },
-        {
-          "name": "Christmas Angel",
-          "spuId": "525743132772548613",
-          "weight": 95.5,
-          "feel": "If there is space on all sides, the box will not open, but the sound will be muffled when the box is opened.",
-          "image": "https://treasure.islandsassets.com/treasure/images/3b1efe06b1455e27637c295e885d4313.png"
-        },
-        {
-          "name": "Santa",
-          "spuId": "525741724023224162",
-          "weight": 107,
-          "feel": "The upper and lower space is small but there is a clear sound of cards being boxed up, down, left and right. The left and right spaces are large and boxes are being hit. The front and back are full.",
-          "image": "https://treasure.islandsassets.com/treasure/images/cfcee857cd79d39f41a35f12ef598e25.png"
-        },
-        {
-          "name": "Fireplace",
-          "spuId": "525739482050221612",
-          "weight": 87,
-          "feel": "The space on the four sides is small, the space above and below is large, but it is very light and has light faults.",
-          "image": "https://treasure.islandsassets.com/treasure/images/c6437c41bde82c1c338a5a999c088e74.png"
-        }
-      ],
-      "ip": "LABUBU",
-      "releaseDate": "2022-11-24"
-    },
-    {
-      "id": "shinwoo-secret-manor",
-      "name": "ShinWoo|The Secret Bear Garden Series Figures",
-      "brand": "POP MART",
-      "source_url": "https://www.xiaohongshu.com/explore/632c5e070000000009008eda",
-      "figures": [
-        {
-          "name": "Secret Time",
-          "weight": "65.5g",
-          "feel": "It can't move on all six sides, but it's very light.",
-          "spuId": "505213176212649560",
-          "image": "https://treasure.qiandaocdn.com/treasure/images/cef363f1786c30a403b0ce8a7f7cf146.png",
-          "is_hot": true
-        },
-        {
-          "name": "Secret Letter",
-          "weight": "66.5g",
-          "feel": "Only the weighted coins are bumping around and shaking up and down.",
-          "spuId": "505215710243409063",
-          "image": "https://treasure.qiandaocdn.com/treasure/images/9723c1ab765d2e4a1bd9eacc224fa3d4.png",
-          "is_hot": true
-        },
-        {
-          "name": "Hug Me",
-          "weight": "71.5g",
-          "feel": "It does not move when lightly pressed from the left/right. There is vertical space, but it does not hit the box or rattle from side to side.",
-          "spuId": "505215143307714765",
-          "image": "https://treasure.qiandaocdn.com/treasure/images/1564e913d0bd44d0882db57406c8194f.png"
-        },
-        {
-          "name": "Safe Cracker",
-          "weight": "81.5g",
-          "feel": "Pinch the lower third to the top, leaving a little space above and below",
-          "spuId": "505212746715910376",
-          "image": "https://treasure.qiandaocdn.com/treasure/images/27e18e90e5c2ff878b76454231c97a96.png"
-        },
-        {
-          "name": "Maze Garden",
-          "weight": "83.5g",
-          "feel": "There is room for shaking up and down, but there is little left and right space. It will be very tight when pinched lightly, but you cannot feel the contact.",
-          "spuId": "505216689495987970",
-          "image": "https://treasure.qiandaocdn.com/treasure/images/61abf1afd7f22c992923ab2e501a10f6.png"
-        },
-        {
-          "name": "Flower Grave",
-          "weight": "84g",
-          "feel": "All six sides are empty, and the left and right sides can hardly move. The upper and lower counterweight coins are flying randomly.",
-          "spuId": "505213803277889342",
-          "image": "https://treasure.qiandaocdn.com/treasure/images/957d4434e13f1d2968c29140443e59e0.png"
-        },
-        {
-          "name": "The Last Moment",
-          "weight": "85.5g",
-          "feel": "The lower third is very high and can be shaken very loudly up and down.",
-          "spuId": "505210410253889103",
-          "image": "https://treasure.qiandaocdn.com/treasure/images/cbf1188320072cb7a55136925ac3a298.png"
-        },
-        {
-          "name": "Secret Keeper",
-          "weight": "85.5g",
-          "feel": "Pinch the lower third to the top. There is plenty of space at the top and bottom, but the box will not be smashed.",
-          "spuId": "505214232774627547",
-          "image": "https://treasure.qiandaocdn.com/treasure/images/dbb78a8d2ddda9330c73fc5257c1cc9f.png",
-          "is_hot": true
-        },
-        {
-          "name": "Naughty Gardener",
-          "weight": "90g",
-          "feel": "The lower third is very high, with all four sides facing each other. It can be pinched lightly, and there is no space above or below.",
-          "spuId": "505211758873652062",
-          "image": "https://treasure.qiandaocdn.com/treasure/images/881d2d5d44000728f3defe9811d44cec.png"
-        },
-        {
-          "name": "Poisonous",
-          "weight": "96.5g",
-          "feel": "Because there are separate accessories, the card is very tight, leaving a little space on the top and bottom.",
-          "spuId": "505214632206594345",
-          "image": "https://treasure.qiandaocdn.com/treasure/images/2fe065558a48e97ca6400d0129a21025.png"
-        },
-        {
-          "name": "Wild Flower Bunny",
-          "weight": "99.5g",
-          "feel": "Pinch the lower third to the top. There is space up and down, but you can't move it left or right.",
-          "spuId": "505212141125757252",
-          "image": "https://treasure.qiandaocdn.com/treasure/images/628491f8ed1886c5e093d1dd0fe2a88b.png"
-        },
-        {
-          "name": "Truth or Lie",
-          "weight": "100g",
-          "feel": "Can't pinch, no space left and right, only a little space up and down",
-          "spuId": "505216371668391380",
-          "image": "https://treasure.qiandaocdn.com/treasure/images/fb0cdcb6fd55368f77f37b94fd6ee197.png"
-        }
-      ],
-      "ip": "SHINWOO",
-      "releaseDate": "2022-09-27"
     }
   ]
 }
