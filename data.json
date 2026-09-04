@@ -1,6 +1,67 @@
 {
   "series": [
     {
+      "id": "hirono-after-dark-plush",
+      "name": "Hirono|After Dark Series Plush Doll Pendant",
+      "brand": "POP MART",
+      "ip": "Hirono",
+      "releaseDate": "2026-09-03",
+      "note": "Off Script (145.9g) is lightest, Runaway (179.32g) is heaviest. [Secret] Old Dream (around 171g; tested at 170.9g).",
+      "figures": [
+        {
+          "name": "Masked",
+          "weight": 158.43,
+          "feel": "Up/down: The figure barely moves, but the desiccant pack clearly hits the box with a noticeable rustling sound. Front/back: Overall box hits with limited space and a clunking feel. Left/right: Slight overall box hits; the upper-middle area hits more clearly, but movement space is small, with a clunking feel. Pressing: Slight bag crinkling can be heard from all six sides.",
+          "spuId": "1037834745280512073",
+          "image": "https://treasure.islandsassets.com/treasure/images/f43Ja4SS42z.png"
+        },
+        {
+          "name": "Upside Down",
+          "weight": 157,
+          "feel": "Up/down: Very slight figure movement with very little space, while the desiccant pack and card create obvious clicking sounds. Front/back: Very slight movement; the upper-middle area hits the box clearly, but space is limited. Left/right: Obvious figure box hits with a clunking feel, but little space, plus bag-rubbing sounds. Pressing: Slight bag crinkling can be heard from all six sides.",
+          "spuId": "1037834730248111254",
+          "image": "https://treasure.islandsassets.com/treasure/images/f43JaalqbKq.png"
+        },
+        {
+          "name": "Drifting By",
+          "weight": 167.62,
+          "feel": "Up/down: Very slight figure box hits with a faint clunking feel. Front/back: Very slight overall box hits with only a tiny bit of space. Left/right: Clear box hits around the upper-middle area with noticeable clunking, but very little space. Pressing: Obvious bag crinkling from the front, back, left, and right; nothing can be felt from the top or bottom.",
+          "spuId": "1037834700183336880",
+          "image": "https://treasure.islandsassets.com/treasure/images/f43JadZysAp.png"
+        },
+        {
+          "name": "Runaway",
+          "weight": 179.32,
+          "feel": "Up/down: Overall rubbing and box hits; it feels quite full around all sides, with a slight clunking feel. Front/back: A tiny bit of movement; clear upper-middle box hits with a clunking sound. Left/right: A tiny bit of overall movement and box hits with a very faint clunk. Pressing: Obvious bag crinkling from the front, back, left, and right; nothing can be felt from the top or bottom.",
+          "spuId": "1037834720584412365",
+          "image": "https://treasure.islandsassets.com/treasure/images/f43Ja4SS42L.png"
+        },
+        {
+          "name": "Hollow",
+          "weight": 169.98,
+          "feel": "Up/down: Slight overall box hits with limited space. Front/back: Clear overall box hits with noticeable clunking, especially around the upper-middle area. Left/right: Clear overall box hits, again strongest around the upper-middle area, with a noticeable clunking feel. Pressing: Nothing can be felt from any of the six sides.",
+          "spuId": "1037834752796678583",
+          "image": "https://treasure.islandsassets.com/treasure/images/f43JadZysAs.png"
+        },
+        {
+          "name": "Off Script",
+          "weight": 145.9,
+          "feel": "Up/down: Overall box hits with bag sounds, limited space, and a clunking feel. Front/back: Clear upper-middle box hits with noticeable clunking, but little space. Left/right: Clear upper-middle box hits with a clunking sound and limited space. Pressing: Nothing can be felt from the front, back, top, or bottom; slight bag crinkling can be heard from the left and right.",
+          "spuId": "1037834709847000182",
+          "image": "https://treasure.islandsassets.com/treasure/images/f43JadZysA3.png"
+        },
+        {
+          "name": "Old Dream (Secret)",
+          "weight": 170.9,
+          "feel": "Up/down: A little over half a finger of space. Front/back and left/right: The box feels very full on all four sides with only slight movement. There is a large, soft pressure area around the middle of the front and back, caused by the figure's head. It uses a small desiccant pack. Key difference from Runaway: Runaway has obvious pressure points around both the lower and upper sections, as well as more up/down space. Old Dream (Secret) does not have an obvious lower pressure point.",
+          "is_hot": true,
+          "is_obvious": true,
+          "spuId": "1037834693740898187",
+          "image": "https://treasure.islandsassets.com/treasure/images/f43JajyyNIC.png"
+        }
+      ]
+    },
+    {
       "id": "hacipupu-one-day-in-kasukabe",
       "name": "HACIPUPU|One Day in Kasukabe Series Figures",
       "brand": "POP MART",
