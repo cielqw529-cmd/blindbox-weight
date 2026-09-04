@@ -2,49 +2,49 @@
   "series": [
     {
       "id": "lulu-pig-work-troubles",
-      "name": "LULU Pig|上班猪事多系列",
+      "name": "LuLu The Piggy|Office Struggles Series Figures",
       "brand": "Toyzeroplus",
-      "ip": "LuLu罐头猪",
+      "ip": "LuLu The Piggy",
       "releaseDate": "2026-05-08",
       "note": "The large secret is the only design in the 130g+ range, making weight the clearest identification clue.",
       "figures": [
         {
-          "name": "本Lu做不到",
+          "name": "LU CAN'T DO IT",
           "weight": 100.9,
           "feel": "Noticeable box hits when shaken up/down and front/back.",
           "spuId": "992827049620027909",
           "image": "https://treasure.islandsassets.com/treasure/images/fT28x7m3cab.jpg"
         },
         {
-          "name": "续命咖啡",
+          "name": "SURVIVAL COFFEE",
           "weight": 105.8,
           "feel": "Feels very full overall, with almost no movement.",
           "spuId": "992827023850221728",
           "image": "https://treasure.islandsassets.com/treasure/images/fT28xGDlp6u.jpg"
         },
         {
-          "name": "上班摸鱼",
+          "name": "SLACKING OFF",
           "weight": 114.6,
           "feel": "Almost no movement. Slight box hits when shaken front/back.",
           "spuId": "992827004522907770",
           "image": "https://treasure.islandsassets.com/treasure/images/fT28x7m3c4B.jpg"
         },
         {
-          "name": "下午茶时光",
+          "name": "TEA BREAK",
           "weight": 115.3,
           "feel": "No up/down movement. Slight box hits when shaken front/back.",
           "spuId": "992827042103823192",
           "image": "https://treasure.islandsassets.com/treasure/images/fT28xL5Emlh.jpg"
         },
         {
-          "name": "证件快照",
+          "name": "ID SNAPSHOT",
           "weight": 118.8,
           "feel": "Feels very full overall, with almost no movement.",
           "spuId": "992827033513887774",
           "image": "https://treasure.islandsassets.com/treasure/images/fT28xL5EmlP.jpg"
         },
         {
-          "name": "隐藏款-魔鬼老板",
+          "name": "THE DEVIL BOSS",
           "weight": 133.4,
           "feel": "The only figure in the entire series that falls into the 130g+ range. Most regular figures are either around 110g or 140–150g, so anything around 130g is worth paying extra attention to.",
           "spuId": "992826992711699928",
@@ -53,7 +53,7 @@
           "is_obvious": true
         },
         {
-          "name": "隐藏款-神仙老板",
+          "name": "THE ANGEL BOSS",
           "weight": 133.4,
           "feel": "The only figure in the entire series that falls into the 130g+ range. Most regular figures are either around 110g or 140–150g, so anything around 130g is worth paying extra attention to.",
           "spuId": "992826983048068926",
@@ -62,7 +62,7 @@
           "is_obvious": true
         },
         {
-          "name": "隐藏款-龟速处理",
+          "name": "SNAIL-SPEED",
           "weight": 148.8,
           "feel": "On the heavier end of the series. The box feels very full, with almost no movement inside. When shaken left/right or front/back, there is a clear blocked or pressure-against-the-box feeling. Three regular figures have similar weights, but only 热爱工作 may also have an obvious pressure point, so compare them carefully.",
           "spuId": "992826995932972341",
@@ -70,21 +70,21 @@
           "is_hot": true
         },
         {
-          "name": "请勿打扰",
+          "name": "USER OFFLINE",
           "weight": 151,
           "feel": "No up/down movement. Slight box hits when shaken front/back.",
           "spuId": "992827014186538378",
           "image": "https://treasure.islandsassets.com/treasure/images/fT28xL5Emls.jpg"
         },
         {
-          "name": "热爱工作",
+          "name": "LOVE MY JOB",
           "weight": 152.3,
           "feel": "The front side presses against the box. It feels quite full overall and is almost impossible to shake.",
           "spuId": "992827021702778189",
           "image": "https://treasure.islandsassets.com/treasure/images/fT28xL5Emlu.jpg"
         },
         {
-          "name": "佛系Lu",
+          "name": "BUDDHA MODE",
           "weight": 157.6,
           "feel": "Slight box-hitting sounds can be heard when shaken up/down and front/back.",
           "spuId": "992827054988726822",
