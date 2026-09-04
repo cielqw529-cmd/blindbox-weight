@@ -1,6 +1,108 @@
 {
   "series": [
     {
+      "id": "bunny-mysterious-tarot",
+      "name": "BUNNY|Mysterious Tarot Series Figures",
+      "brand": "POP MART",
+      "ip": "BUNNY",
+      "releaseDate": "2023-07-07",
+      "note": "Easy to distinguish mainly by weight — light to heavy.",
+      "figures": [
+        {
+          "name": "The Chariot",
+          "weight": 80.7,
+          "feel": "The head hits the box when shaken front/back and left/right. There is noticeable up/down movement.",
+          "spuId": "609521950259388888",
+          "image": "https://treasure.islandsassets.com/treasure/images/9715b10ee6e59e47793ff77616478e75.png"
+        },
+        {
+          "name": "Death",
+          "weight": 81.6,
+          "feel": "Lightweight, with slight movement in all three directions.",
+          "spuId": "609523556576949508",
+          "image": "https://treasure.islandsassets.com/treasure/images/229422808b63e75d8d7efd139c9884b6.png"
+        },
+        {
+          "name": "The Lovers (Man)",
+          "weight": 85.1,
+          "feel": "There is a plastic bag sound when shaken front/back, some left/right movement, and no up/down movement.",
+          "spuId": "609523663951135579",
+          "image": "https://treasure.islandsassets.com/treasure/images/962e158826d8dc935a5b4c137e8d8226.png"
+        },
+        {
+          "name": "The Star",
+          "weight": 86.9,
+          "feel": "There is slight left/right movement and some front/back box hits, with no up/down movement.",
+          "spuId": "609522950986542002",
+          "image": "https://treasure.islandsassets.com/treasure/images/002b0d66145c8744b30b6436ed10ed20.png"
+        },
+        {
+          "name": "The Lovers (Woman)",
+          "weight": 87,
+          "feel": "Obvious box hits in all three directions.",
+          "spuId": "609523797095127230",
+          "image": "https://treasure.islandsassets.com/treasure/images/a0910aa331fb28ef471e2ee312b279ab.png"
+        },
+        {
+          "name": "The Hermit",
+          "weight": 88.8,
+          "feel": "Strong front/back box hits and noticeable left/right box hits, with no up/down movement.",
+          "spuId": "609523419137991782",
+          "image": "https://treasure.islandsassets.com/treasure/images/8f7f7bc8f2e9f90f5f213a11a6034517.png"
+        },
+        {
+          "name": "The Fool",
+          "weight": 90,
+          "feel": "Slight box hits front/back and left/right, with limited up/down space.",
+          "spuId": "609522538669928702",
+          "image": "https://treasure.islandsassets.com/treasure/images/57a72303d4e759baca7367d1dbbd18f1.png"
+        },
+        {
+          "name": "The Judgement",
+          "weight": 94.7,
+          "feel": "There is slight front/back and left/right movement. The figure presses against the box when squeezed from the top/bottom.",
+          "spuId": "609522311036653702",
+          "image": "https://treasure.islandsassets.com/treasure/images/0e98084e85044502cd461714be33266e.png"
+        },
+        {
+          "name": "The Wheel of Fortune (Secret)",
+          "weight": 95.4,
+          "feel": "Medium weight for the series. There is almost no up/down space, and the figure can be felt when firmly squeezing the top/bottom. There is some space on all four sides, with less space left/right than front/back. Front/back box hits occur around the upper-middle area, and the figure is usually positioned diagonally. The thick card makes a loud box-hitting sound.",
+          "spuId": "609524222296904888",
+          "image": "https://treasure.islandsassets.com/treasure/images/814c053bc68ff834ee84d2dc27ba9ef0.png",
+          "is_hot": true
+        },
+        {
+          "name": "The Moon",
+          "weight": 103.1,
+          "feel": "There is a tiny bit of space in all three directions, and the figure slightly presses against the box.",
+          "spuId": "609522701878429363",
+          "image": "https://treasure.islandsassets.com/treasure/images/9158b5ce4811b0fcbf06324e76425cd2.png"
+        },
+        {
+          "name": "The High Priestess",
+          "weight": 103.6,
+          "feel": "There are left/right box hits, with almost no front/back or up/down movement. The flat base can be felt from the bottom.",
+          "spuId": "609521254474659242",
+          "image": "https://treasure.islandsassets.com/treasure/images/b8d717390c0743244c8a1c58c4f477b1.png"
+        },
+        {
+          "name": "Strength",
+          "weight": 106.3,
+          "feel": "Moves in all three directions, but only slightly.",
+          "spuId": "609523947418988211",
+          "image": "https://treasure.islandsassets.com/treasure/images/25a9fbe82c2c41d5967311a6b1b6e071.png"
+        },
+        {
+          "name": "The Emperor",
+          "weight": 113.9,
+          "feel": "There is no front/back movement. Left/right movement causes the card to hit the box, and there is slight up/down movement.",
+          "spuId": "609521804230494885",
+          "image": "https://treasure.islandsassets.com/treasure/images/849a8122edaee5722de3b16e7863177f.png"
+        }
+      ]
+    },
+    {
       "id": "hacipupu-one-day-in-kasukabe",
       "name": "HACIPUPU|One Day in Kasukabe Series Figures",
       "brand": "POP MART",
