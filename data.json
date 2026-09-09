@@ -1,6 +1,86 @@
 {
   "series": [
     {
+      "id": "popmart-attic-of-oddities",
+      "name": "POP MART|The Attic of Oddities Series Figures",
+      "brand": "POP MART",
+      "releaseDate": "2026-09-10",
+      "note": "Watch Your Back (86.54g) is lightest, Take the Stage (147.49g) is heaviest. [Secret] Buried in Dust (107.5g) is relatively light, feels full, and comes with a thick character card.",
+      "figures": [
+        {
+          "name": "Buried in Dust (Secret)",
+          "weight": 107.5,
+          "feel": "One of the lighter figures in the series, but the box feels quite full. Up/down: The figure can move when shaken. Front/back and left/right: There is only a tiny amount of space. After repeated shaking, the upper-middle area begins to hit the front panel. It comes with a thick character card.",
+          "is_hot": true,
+          "spuId": "1040433436717772475",
+          "image": "https://treasure.islandsassets.com/treasure/images/f4tjB7fuWlz.png"
+        },
+        {
+          "name": "Bound by Tears",
+          "weight": 136.00,
+          "feel": "Up/down: Clear overall box hits with a noticeable clunking feel and bag-rubbing sounds. Front/back: Only a tiny bit of space with slight box hits. Left/right: A little space with box hits and bag sounds. Pressing: Obvious bag crinkling from the front, back, left, and right; nothing can be felt from the top or bottom.",
+          "spuId": "1040433425980381646",
+          "image": "https://treasure.islandsassets.com/treasure/images/f4tjBcRM2GH.png"
+        },
+        {
+          "name": "The Porcelain Heart",
+          "weight": 113.43,
+          "feel": "Up/down: Clear overall box hits with noticeable clunking, rattling, and clicking sounds. Front/back: Very little space, but the box hits produce a clear clunk. Left/right: The figure hits the box clearly with a noticeable clunking sound. Pressing: Slight bag crinkling from the front and back; nothing can be felt from the left, right, top, or bottom.",
+          "spuId": "1040433395915604997",
+          "image": "https://treasure.islandsassets.com/treasure/images/f4tjB7fuWlP.png"
+        },
+        {
+          "name": "The Lodger",
+          "weight": 113.14,
+          "feel": "Up/down: Slight figure movement with very little space; the card makes a clear clicking sound against the box. Front/back: Clear box hits around the upper-middle area with limited space and some bag-rubbing sounds. Left/right: Slight overall box hits with clicking, clunking, and faint bag sounds. Pressing: Slight bag crinkling from all six sides.",
+          "spuId": "1040433360482101038",
+          "image": "https://treasure.islandsassets.com/treasure/images/f4tjBlSuYCl.png"
+        },
+        {
+          "name": "Take the Stage",
+          "weight": 147.49,
+          "feel": "Up/down: Very slight overall box hits with very little space; there is no distinctive sound, and the box feels quite full on all sides, with a slight clunking feel. Front/back: A tiny bit of space with slight box hits and a faint clunking feel. Left/right: Almost no movement, with only a tiny amount of space and a faint clicking sound from the card. Pressing: An object can be felt near the bottom from the front and back, but it does not press firmly against the box. Slight bag crinkling from the left, right, top, and bottom.",
+          "spuId": "1040433377661977733",
+          "image": "https://treasure.islandsassets.com/treasure/images/f4tjB2Za5g2.png"
+        },
+        {
+          "name": "Watch Your Back",
+          "weight": 86.54,
+          "feel": "Up/down: Slight figure box hits with a clunking feel and clicking sounds from the card. Front/back: The figure barely moves, but an accessory lightly hits the box with a clicking sound. Left/right: Slight overall box hits. Pressing: Bag crinkling can be felt or heard from all six sides.",
+          "spuId": "1040433407726751972",
+          "image": "https://treasure.islandsassets.com/treasure/images/f4tjB2Za5gd.png"
+        },
+        {
+          "name": "The Mirror Dweller",
+          "weight": 113.40,
+          "feel": "Up/down: Overall box hits with a clunking feel and bag sounds; the box feels quite full on all sides. Front/back: Only a tiny bit of space with slight box hits and very faint bag sounds. Left/right: Overall box hits with very little space, plus faint bag sounds and clunking from the accessory. Pressing: An object, likely an accessory, can be felt from the front and back but does not press firmly against the box. Obvious bag crinkling from the left and right; nothing can be felt from the top or bottom.",
+          "spuId": "1040433371219526560",
+          "image": "https://treasure.islandsassets.com/treasure/images/f4tjB7fuWl2.png"
+        },
+        {
+          "name": "Midnight Waltz",
+          "weight": 133.54,
+          "feel": "Up/down: Clear overall box hits with noticeable bag-rubbing sounds and a strong clunking feel. Front/back: Overall box hits, especially around the upper-middle area; limited space with a clear clunking sound. Left/right: A tiny bit of overall movement and box hits with a very faint clunk. Pressing: Slight bag crinkling from the front, back, left, and right; nothing can be felt from the top or bottom.",
+          "spuId": "1040433418464174490",
+          "image": "https://treasure.islandsassets.com/treasure/images/f4tjB2Za5gl.png"
+        },
+        {
+          "name": "Trapped Wishes",
+          "weight": 96.58,
+          "feel": "Up/down: Very slight figure box hits with limited space; the desiccant pack rubs against and hits the box. Front/back: Very slight overall box hits. Left/right: Clear box hits around the upper-middle area with a noticeable clunking feel, plus faint clicking from an accessory. Pressing: Bag crinkling from the front, back, top, and bottom; nothing can be felt from the left or right.",
+          "spuId": "1040433355113379448",
+          "image": "https://treasure.islandsassets.com/treasure/images/f4tjB7fuWlc.png"
+        },
+        {
+          "name": "Sol & Luna Jester",
+          "weight": 112.47,
+          "feel": "Up/down: The figure has an overall clunking feel, but the sound is not obvious; there is a slight bag sound. Front/back: The upper-middle area clearly hits the box with a clunking sound. Left/right: The upper-middle area clearly hits the box with a clunking sound, along with an obvious scraping sound against the box. Pressing: Very slight bag crinkling from the front, back, left, and right; nothing can be felt from the top or bottom.",
+          "spuId": "1040433386251913269",
+          "image": "https://treasure.islandsassets.com/treasure/images/f4tjBcRM2GC.png"
+        }
+      ]
+    },
+    {
       "id": "hirono-after-dark-plush",
       "name": "Hirono|After Dark Series Plush Doll Pendant",
       "brand": "POP MART",
