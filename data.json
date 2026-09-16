@@ -1,6 +1,86 @@
 {
   "series": [
     {
+      "id": "skullpanda-where-time-dwells",
+      "name": "SKULLPANDA|WHERE TIME DWELLS Series Figures",
+      "brand": "POP MART",
+      "releaseDate": "2026-09-17",
+      "note": "Breathing Veins (164.2g) is heaviest, Mystic Veil (108.3g) is lightest. [Secret] Grain of Time (135.9g) barely moves in any direction; the plastic bag can be felt from the left and right sides.",
+      "figures": [
+        {
+          "name": "Grain of Time (Secret)",
+          "weight": 135.9,
+          "feel": "Up/down: Almost no movement. Front/back: Almost no movement. Left/right: Almost no movement. Pressing: The plastic bag can be felt from the left and right sides.",
+          "is_hot": true,
+          "spuId": "1043030651760074076",
+          "image": "https://treasure.islandsassets.com/treasure/images/fdU6sAK3tW8.png"
+        },
+        {
+          "name": "Breathing Veins",
+          "weight": 164.2,
+          "feel": "Overall: One of the heavier figures and feels very full inside the box. Up/down: Almost no space. Front/back: Noticeable plastic sound when shaken. Left/right: Clear box hits around the middle of the box. Pressing: Nothing can be clearly felt from the sides; only a faint object can be felt around the diagonal corners.",
+          "spuId": "1043030719405753454",
+          "image": "https://treasure.islandsassets.com/treasure/images/fdU6sqg22tr.png"
+        },
+        {
+          "name": "Spire Vigil",
+          "weight": 154.7,
+          "feel": "Overall: The second-heaviest figure in this set. Up/down: Lots of space, with noticeable accessory movement. Left/right: Strong box hits near the bottom. Pressing: The outline of an accessory can be felt from the bottom; there is no obvious bulging on the other sides.",
+          "spuId": "1043030680751107831",
+          "image": "https://treasure.islandsassets.com/treasure/images/fdU6sOG2zNQ.png"
+        },
+        {
+          "name": "Bare Imprint",
+          "weight": 136.5,
+          "feel": "Overall: Mid-range weight with very little movement. The figure is wrapped in a protective plastic shell. Up/down: Very little movement, mainly faint desiccant granule sounds. Front/back: Slight space. Left/right: Almost no movement. Pressing: A slight bulge from the plastic shell can be felt around the upper half of the left and right sides; nothing obvious can be felt from the other sides.",
+          "spuId": "1043030726921970976",
+          "image": "https://treasure.islandsassets.com/treasure/images/fdU6sOG2zHf.png"
+        },
+        {
+          "name": "Beneath Flying Eaves",
+          "weight": 132.1,
+          "feel": "Up/down: Slight box hits; accessory box hits are especially noticeable. Front/back: Almost no movement. Left/right: Repeated box hits around the middle-to-lower section. Pressing: Only the left and right sides produce a very faint bag sound.",
+          "spuId": "1043030686119817201",
+          "image": "https://treasure.islandsassets.com/treasure/images/fdU6sqg22tJ.png"
+        },
+        {
+          "name": "Spiral Minuet",
+          "weight": 128.6,
+          "feel": "Up/down: About half a finger of space, with loud desiccant sounds. Front/back: Relatively little movement. Left/right: Lots of space with solid, noticeable box hits.",
+          "spuId": "1043030696857194602",
+          "image": "https://treasure.islandsassets.com/treasure/images/fdU6sqg22tT.png"
+        },
+        {
+          "name": "Colonnade Contemplation",
+          "weight": 122.3,
+          "feel": "Up/down: Very little space. Front/back: Mainly fine rattling sounds from the desiccant. Left/right: Lots of movement with a noticeable dull impact against the box.",
+          "spuId": "1043030663571234788",
+          "image": "https://treasure.islandsassets.com/treasure/images/fdU6sAK3tWo.png"
+        },
+        {
+          "name": "Beyond Light Trace",
+          "weight": 117.5,
+          "feel": "Up/down: Almost no movement. Front/back: Noticeable hollow-sounding box hits. Left/right: Clear box hits around the middle of the box.",
+          "spuId": "1043030733364399826",
+          "image": "https://treasure.islandsassets.com/treasure/images/fdU6sxHouqV.png"
+        },
+        {
+          "name": "Jazz Age Sheen",
+          "weight": 114.8,
+          "feel": "Overall: Lots of movement on all four sides. Up/down: Plenty of movement. Front/back and left/right: Large, fairly even movement with a consistent full-length box-hit feel. Sound: Noticeable sliding sound from the protective shell when shaken.",
+          "spuId": "1043030705447131355",
+          "image": "https://treasure.islandsassets.com/treasure/images/fdU6sAK3tWU.png"
+        },
+        {
+          "name": "Mystic Veil",
+          "weight": 108.3,
+          "feel": "Overall: The lightest figure in this set. Up/down: Completely stuck with no movement; only fine desiccant granule sounds. Front/back: A tiny bit of movement with some scraping or rubbing noise against the box. Left/right: Almost completely stuck with virtually no movement.",
+          "spuId": "1043030671087385682",
+          "image": "https://treasure.islandsassets.com/treasure/images/fdU6sxHouqn.png"
+        }
+      ]
+    },
+    {
       "id": "popmart-attic-of-oddities",
       "name": "POP MART|The Attic of Oddities Series Figures",
       "brand": "POP MART",
