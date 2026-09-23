@@ -1,6 +1,57 @@
 {
   "series": [
     {
+      "id": "polar-smudge-puff",
+      "name": "POLAR|Smudge Puff Series - Plush Pendant Blind Box",
+      "brand": "POP MART",
+      "releaseDate": "2026-09-24",
+      "note": "Jam Ambush (143.33g) is heaviest, Muddy Ninja (117.33g) is lightest. Muddy Ninja feels noticeably roomier than the other figures.",
+      "figures": [
+        {
+          "name": "Jam Ambush",
+          "weight": 143.33,
+          "feel": "Up/down: Clear overall box hits with rattling and faint clicking sounds. Front/back: A tiny bit of space with overall box hits. Left/right: Very little figure movement; clear clicking sounds from the card hitting the box. Pressing: Bag crinkling from front/back/left/right; nothing can be felt from top/bottom.",
+          "spuId": "1046006499307971244",
+          "image": "https://treasure.islandsassets.com/treasure/images/fdXQelmmEGb.jpg"
+        },
+        {
+          "name": "Muddy Ninja",
+          "weight": 117.33,
+          "feel": "Overall: Relatively roomy compared with the other figures. Up/down: Clear overall box hits with noticeable clunking, rattling, and clicking sounds; plenty of space. Front/back: Clear box hits around the middle with a noticeable clunking feel. Left/right: Overall box hits with a noticeable clunking feel. Pressing: Nothing can be felt from any of the six sides.",
+          "spuId": "1046006489644302869",
+          "image": "https://treasure.islandsassets.com/treasure/images/fdXQe2DGjRG.jpg"
+        },
+        {
+          "name": "Sleepwalk Oops",
+          "weight": 125.49,
+          "feel": "Up/down: Clear overall box hits, with noticeable rubbing against the sides of the box. Front/back: Slight figure box hits with limited space and a clunking sound. Left/right: A tiny bit of space with slight box hits, faint bag sounds, and faint clicking. Pressing: Bag crinkling from front/back/left/right; nothing can be felt from top/bottom.",
+          "spuId": "1046006508971640520",
+          "image": "https://treasure.islandsassets.com/treasure/images/fdXQe2DGjRa.jpg"
+        },
+        {
+          "name": "Noiseeds",
+          "weight": 127.54,
+          "feel": "Up/down: Overall box hits with very noticeable bag sounds. Front/back: A tiny bit of space with slight figure box hits and faint clicking. Left/right: A tiny bit of space with slight figure box hits; the hanging loop hits the box with a noticeable clunk. Pressing: Slight bag crinkling from front/back; nothing can be felt from left/right/top/bottom.",
+          "spuId": "1046006462800777059",
+          "image": "https://treasure.islandsassets.com/treasure/images/fdXQe7dKf9h.jpg"
+        },
+        {
+          "name": "Greedy Grub",
+          "weight": 127.9,
+          "feel": "Up/down: Clear overall box hits, with the figure rubbing against the sides of the box and noticeable bag sounds. Front/back: The figure barely moves, but the hanging loop clearly hits the box with a noticeable clunk. Left/right: Very slight figure box hits with a tiny bit of space, bag sounds, and a faint clunking feel. Pressing: Bag crinkling from front/back/left/right; nothing can be felt from top/bottom.",
+          "spuId": "1046006479980648431",
+          "image": "https://treasure.islandsassets.com/treasure/images/fdXQe2DGjRq.jpg"
+        },
+        {
+          "name": "Clingy Spore",
+          "weight": 137.58,
+          "feel": "Up/down: The figure rubs against and hits the box, with bag sounds and a noticeable clunk. Front/back: A tiny bit of space with overall box hits and a faint clunking sound. Left/right: The figure barely moves, but there are faint bag sounds and box hits from the desiccant pack. Pressing: Bag crinkling from front/back/left/right; nothing can be felt from top/bottom.",
+          "spuId": "1046006473538164545",
+          "image": "https://treasure.islandsassets.com/treasure/images/fdXQe7dKf9B.jpg"
+        }
+      ]
+    },
+    {
       "id": "zsiga-life-is-a-show",
       "name": "Zsiga|Life is a Show Series MINI Action Figure",
       "brand": "POP MART",
