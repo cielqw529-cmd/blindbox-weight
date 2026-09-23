@@ -1,6 +1,79 @@
 {
   "series": [
     {
+      "id": "zsiga-life-is-a-show",
+      "name": "Zsiga|Life is a Show Series MINI Action Figure",
+      "brand": "POP MART",
+      "releaseDate": "2026-09-24",
+      "note": "Finding My Way (Secret) (163.78g) is heaviest, After the Rain (102.1g) is lightest. [Secret] Finding My Way (163.78g) barely moves and has clear desiccant granule sounds.",
+      "figures": [
+        {
+          "name": "Sleepy Pillow",
+          "weight": 123.74,
+          "feel": "Up/down: Completely stuck with no figure movement; only very faint desiccant granule sounds. Front/back: Completely stuck; only very faint desiccant granule sounds. Left/right: A tiny bit of space with faint desiccant granule sounds. Pressing: Clear pressure against the box around the middle from top/bottom. Plastic sounds from left/right and bag crinkling from front/back.",
+          "spuId": "1046001339978507924",
+          "image": "https://treasure.islandsassets.com/treasure/images/fdFMtT5vp6l.jpg"
+        },
+        {
+          "name": "It's Okay",
+          "weight": 117.58,
+          "feel": "Up/down: The figure does not move at all; only desiccant granule sounds. Front/back: The figure does not move; slight rustling from the desiccant. Left/right: The figure does not move, but the desiccant granule sound is noticeable. Pressing: Clear bag crinkling from front/back/left/right; nothing can be felt from top/bottom.",
+          "spuId": "1046001719009361203",
+          "image": "https://treasure.islandsassets.com/treasure/images/fdFMt979L1Q.jpg"
+        },
+        {
+          "name": "A Busy Mind",
+          "weight": 107.2,
+          "feel": "Up/down: Almost no movement, with only a tiny bit of space; clear clicking sounds from the card. Front/back: Noticeable box hits around the upper-middle area with a clear clunking feel. Left/right: The figure does not move; only faint clicking from the card. Pressing: An object can be felt from top/bottom. Nothing distinctive from front/back/left/right.",
+          "spuId": "1046001330314852854",
+          "image": "https://treasure.islandsassets.com/treasure/images/fdFMRMwLpeU.jpg"
+        },
+        {
+          "name": "Something to Hope For",
+          "weight": 151.16,
+          "feel": "Overall: Feels very full as soon as you pick up the box. Up/down: Completely stuck; only desiccant granule sounds. Front/back: Completely stuck with faint desiccant granule sounds. Left/right: A tiny bit of figure movement with desiccant granule sounds. Pressing: Clear pressure against the box around the upper-middle area from front/back—visible even without pressing hard. An object can be felt from left/right but does not press firmly against the box. From top/bottom, an object can be felt pressing against the box.",
+          "spuId": "1046001347494727741",
+          "image": "https://treasure.islandsassets.com/treasure/images/fdFMguAfp9J.jpg"
+        },
+        {
+          "name": "The Unspoken",
+          "weight": 153.38,
+          "feel": "Up/down: The figure does not move, but the accessory clearly hits the box with a clunking sound; limited space. Front/back: Almost completely stuck. Left/right: A tiny bit of figure movement; clear clicking sounds from the accessory hitting the box. Pressing: An object can be felt around the middle from front/back but does not press firmly against the box. Bag crinkling from left/right. The figure can be felt from top/bottom but does not press firmly against the box.",
+          "spuId": "1046001737262973660",
+          "image": "https://treasure.islandsassets.com/treasure/images/fdFMtkA9WF9.jpg"
+        },
+        {
+          "name": "Finding My Way (Secret)",
+          "weight": 163.78,
+          "feel": "Up/down: The figure barely moves; the desiccant rubs against and hits the box with clear granule sounds. Front/back: The figure does not move at all; only faint desiccant granule sounds. Left/right: Slight figure box hits with a faint clunking feel. Both the card and desiccant hit the box, with noticeable desiccant granule sounds. Pressing: Slight bag crinkling can be felt from the sides.",
+          "is_hot": true,
+          "spuId": "1046001913356665481",
+          "image": "https://treasure.islandsassets.com/treasure/images/fdFMqxS1EIJ.jpg"
+        },
+        {
+          "name": "Sealed Happiness",
+          "weight": 119.27,
+          "feel": "Up/down: The figure does not move; only extremely faint desiccant granule sounds. Front/back and left/right: The figure does not move; only very faint desiccant granule sounds. Pressing: The figure can be felt from top/bottom. The bag can be felt from front/back, with bag crinkling from left/right.",
+          "spuId": "1046001726525567717",
+          "image": "https://treasure.islandsassets.com/treasure/images/fdFMM6l6Nnb.jpg"
+        },
+        {
+          "name": "Cuteness Overload",
+          "weight": 116.7,
+          "feel": "Up/down: The figure does not move, but the desiccant granule sound is noticeable. Front/back: The figure does not move; only very faint desiccant granule sounds. Left/right: The figure does not move, but the desiccant clearly hits the box with clicking and granule sounds. Pressing: The figure can be felt from top/bottom. Nothing can be felt from left/right. Clear bag crinkling from front/back.",
+          "spuId": "1046001743705439447",
+          "image": "https://treasure.islandsassets.com/treasure/images/fdFMMGdGqsm.jpg"
+        },
+        {
+          "name": "After the Rain",
+          "weight": 102.1,
+          "feel": "Overall: The lightest one in this batch. Small desiccant pack, no accessories. Up/down: The character card hits the top and bottom of the box noticeably. Pressing the top and bottom at the same time reveals clear pressure around the upper-middle area. Left/right: Loud movement from both the desiccant and character card. Front/back: Box hits around the lower part of the back panel, accompanied by desiccant sounds.",
+          "spuId": "1046001755516567810",
+          "image": "https://treasure.islandsassets.com/treasure/images/fdFMR6613FE.jpg"
+        }
+      ]
+    },
+    {
       "id": "skullpanda-where-time-dwells",
       "name": "SKULLPANDA|WHERE TIME DWELLS Series Figures",
       "brand": "POP MART",
