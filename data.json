@@ -1,6 +1,86 @@
 {
   "series": [
     {
+      "id": "twinkle-twinkle-live-the-ordinary",
+      "name": "Twinkle Twinkle|Live the Ordinary Series Figures",
+      "brand": "POP MART",
+      "releaseDate": "2026-10-01",
+      "note": "Welcome Home (124.58g) is heaviest, Cheers to Us (93.86g) is lightest. [Secret] Joyride (98.13g) feels completely full and motionless in all six directions; rule out the similarly light figure with a distinct beep-beep magnet sound.",
+      "figures": [
+        {
+          "name": "Mind Drift",
+          "weight": 95.13,
+          "feel": "Up/down: The figure barely moves, but the desiccant pack clearly hits the box with a noticeable rustling sound. Front/back: Very slight figure movement with only a tiny bit of space and granular sounds from the desiccant. Left/right: Slight overall box hits with a faint clunking feel. Pressing: The figure can clearly be felt around the lower-middle area from front/back. Nothing can be felt from left/right/top/bottom.",
+          "spuId": "1048226095456910857",
+          "image": "https://treasure.islandsassets.com/treasure/images/fdzMVs4i6uy.png"
+        },
+        {
+          "name": "The Thinker",
+          "weight": 96.34,
+          "feel": "Up/down: A tiny bit of figure movement and box hits, with faint desiccant granule sounds. Front/back: A tiny bit of overall space with box hits. Left/right: A tiny bit of figure movement and box hits, with faint bag sounds. Pressing: Very faint bag crinkling from front/back; nothing can be felt from left/right/top/bottom.",
+          "spuId": "1048226067539574552",
+          "image": "https://treasure.islandsassets.com/treasure/images/fdzMV37YGig.png"
+        },
+        {
+          "name": "Grow at Ease",
+          "weight": 103.91,
+          "feel": "Up/down: The figure barely moves, with desiccant granule sounds and clicking from the card. Front/back: Clear figure box hits with a noticeable clunking feel. Left/right: The figure barely moves, but the card clearly hits the box with a clicking sound. Pressing: Nothing can be felt from front/back/left/right; faint bag crinkling from top/bottom.",
+          "spuId": "1048226104046781238",
+          "image": "https://treasure.islandsassets.com/treasure/images/fdzMVWMYF8i.png"
+        },
+        {
+          "name": "Welcome Home",
+          "weight": 124.58,
+          "feel": "Up/down: Very slight figure box hits, but with a noticeable clunking feel. Front/back: Very slight figure movement; box hits are more noticeable around the upper-middle area with a clear clunking sound. Left/right: Similar feel to front/back, with noticeable figure box hits. Pressing: Very faint bag crinkling from all six sides.",
+          "spuId": "1048226113710458169",
+          "image": "https://treasure.islandsassets.com/treasure/images/fdzMVeUcxtj.png"
+        },
+        {
+          "name": "Bathroom Crooner",
+          "weight": 103.51,
+          "feel": "Up/down: Overall box hits with an obvious rattling feel. Front/back: Very slight figure box hits with very little space. Left/right: Slight figure box hits with a faint clunking feel. Pressing: Nothing can be felt from any of the six sides.",
+          "spuId": "1048226084719446217",
+          "image": "https://treasure.islandsassets.com/treasure/images/fdzMVWMYFrb.png"
+        },
+        {
+          "name": "Say Cheese!",
+          "weight": 100.85,
+          "feel": "Up/down: Slight figure box hits, while the desiccant pack hits the box more noticeably. Front/back: A tiny bit of space with figure box hits; the desiccant rubs against and hits the box with faint granular sounds. Left/right: A tiny bit of space with figure box hits, while the accessory makes a clear clicking sound against the box. Pressing: Nothing can be felt from front/back/top/bottom. An object can be felt near the bottom from left/right, but it does not press against the box and does not feel hard.",
+          "spuId": "1048226056802198705",
+          "image": "https://treasure.islandsassets.com/treasure/images/fdzMVs4i6uT.png"
+        },
+        {
+          "name": "Cheers to Us",
+          "weight": 93.86,
+          "feel": "Up/down: Only a tiny bit of space with slight figure box hits. Front/back: A little space with overall box hits and a very faint clunking feel. Left/right: The figure barely moves, but the desiccant and accessory lightly hit the box with granular sounds. Pressing: Nothing can be felt from front/back/top/bottom. The bag can be felt from left/right with obvious bag crinkling.",
+          "spuId": "1048226049286004117",
+          "image": "https://treasure.islandsassets.com/treasure/images/fdzMVeUcxti.png"
+        },
+        {
+          "name": "Run Into Spring",
+          "weight": 94.38,
+          "feel": "Up/down: Overall box hits with clear clicking from the accessory. Front/back: Clear box hits around the middle with a noticeable clunking sound. Left/right: Slight overall box hits with a very faint clunking feel. Pressing: Nothing can be felt from top/bottom/left/right; bag crinkling from front/back.",
+          "spuId": "1048226079350779321",
+          "image": "https://treasure.islandsassets.com/treasure/images/fdzMVWMYFrD.png"
+        },
+        {
+          "name": "Eat Well Sleep Well",
+          "weight": 104.95,
+          "feel": "Up/down: Slight figure box hits with a bouncy feel. Front/back: A tiny bit of space around the upper-middle area with box hits and a clunking sound. Left/right: Slight box hits around the upper-middle area with a faint clunking feel. Pressing: Nothing can be felt from front/back/top/bottom; faint bag crinkling from left/right.",
+          "spuId": "1048226129816590277",
+          "image": "https://treasure.islandsassets.com/treasure/images/fdzMVs4i6uh.png"
+        },
+        {
+          "name": "Joyride (Secret)",
+          "weight": 98.13,
+          "feel": "Weight: This tested box weighed 98.13g, so it is not in the 92-93g lightest range mentioned in some early guides. Shake test: Completely full and motionless in all six directions. Watch out: There is another lightweight, tightly packed figure that also barely moves but has a distinct beep-beep magnet sound. Make sure to rule that one out.",
+          "is_hot": true,
+          "spuId": "1048226038548591535",
+          "image": "https://treasure.islandsassets.com/treasure/images/fdzMVeUcxt6.png"
+        }
+      ]
+    },
+    {
       "id": "polar-smudge-puff",
       "name": "POLAR|Smudge Puff Series - Plush Pendant Blind Box",
       "brand": "POP MART",
