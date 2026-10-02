@@ -1,6 +1,108 @@
 {
   "series": [
     {
+      "id": "hirono-harry-potter",
+      "name": "HIRONO|Hirono × Harry Potter Series Figures",
+      "brand": "POP MART",
+      "releaseDate": "2026-10-08",
+      "note": "Albus Dumbledore (132g) is heaviest, Dobby (93.8g) is lightest. Luna Lovegood has unusually roomy movement in all six directions and is easy to identify. Mandrake (Secret) is not included because weight and shake details are not yet available.",
+      "figures": [
+        {
+          "name": "Dobby",
+          "weight": 93.8,
+          "feel": "Lightest in the series. Loud desiccant sound. Front/back shaking causes box hits around the upper-middle area. Accessories hit the box when shaken left/right.",
+          "spuId": "1048234894771157450",
+          "image": "https://treasure.islandsassets.com/treasure/images/fdzgLjxOgeE.png"
+        },
+        {
+          "name": "Draco Malfoy",
+          "weight": 97.3,
+          "feel": "Small desiccant pack. Limited space up/down and left/right. Clear pressure against the box around the middle on both sides. Noticeable box hits when shaken front/back.",
+          "spuId": "1048234915172252864",
+          "image": "https://treasure.islandsassets.com/treasure/images/fdzgLab1T2i.png"
+        },
+        {
+          "name": "Ron Weasley",
+          "weight": 108.1,
+          "feel": "No movement space up/down or left/right; feels very full overall. Clear pressure against the box when squeezing left/right, but none from front/back.",
+          "spuId": "1048234864706380602",
+          "image": "https://treasure.islandsassets.com/treasure/images/fdzgLab1Tl0.png"
+        },
+        {
+          "name": "Harry Potter and The Sorting Hat",
+          "weight": 108.8,
+          "feel": "No up/down movement at all and feels extremely full. The left/right sides are packed so tightly they almost bulge. Only faint desiccant sounds when shaken.",
+          "spuId": "1048234926983388562",
+          "image": "https://treasure.islandsassets.com/treasure/images/fdzgLTeBZqd.png"
+        },
+        {
+          "name": "Sirius Black",
+          "weight": 99,
+          "feel": "Limited up/down space with only desiccant sounds. Slight box hits around the middle on all four sides. Accessories are packed separately.",
+          "spuId": "1048234884033706604",
+          "image": "https://treasure.islandsassets.com/treasure/images/fdzgLTeBZAI.png"
+        },
+        {
+          "name": "Albus Dumbledore",
+          "weight": 132,
+          "feel": "Feels extremely full in hand. Clear pressure against the box around the lower-middle area when squeezing front/back. Slight left/right movement with limited space.",
+          "spuId": "1048234940941996998",
+          "image": "https://treasure.islandsassets.com/treasure/images/fdShr5MhHO4.png"
+        },
+        {
+          "name": "Lord Voldemort",
+          "weight": 123.5,
+          "feel": "No up/down movement and feels extremely full. Clear desiccant and card sounds. Very full on all four sides, but the figure does not press firmly against the box.",
+          "spuId": "1048234837862826615",
+          "image": "https://treasure.islandsassets.com/treasure/images/fdzgLab1Tlh.png"
+        },
+        {
+          "name": "Harry Potter and Hedwig",
+          "weight": 124.3,
+          "feel": "Accessories and desiccant hit the box when shaken up/down. Left/right feels completely full. Slight front/back movement.",
+          "spuId": "1048234846452762511",
+          "image": "https://treasure.islandsassets.com/treasure/images/fdzgLab1TlC.png"
+        },
+        {
+          "name": "Rubeus Hagrid",
+          "weight": 107,
+          "feel": "Accessories and desiccant hit the box when shaken up/down. Accessory movement is noticeable in all six directions. Feels full in hand, with a loud desiccant sound.",
+          "spuId": "1048234934499593652",
+          "image": "https://treasure.islandsassets.com/treasure/images/fdzgLab1Tl1.png"
+        },
+        {
+          "name": "Luna Lovegood",
+          "weight": 124.8,
+          "feel": "Lots of up/down space with a bouncy, heavy box-hitting feel. All six directions feel very roomy with plenty of movement — easy to notice as soon as you pick up the box.",
+          "is_obvious": true,
+          "spuId": "1048234858263896659",
+          "image": "https://treasure.islandsassets.com/treasure/images/fdzgLy11cj7.png"
+        },
+        {
+          "name": "Harry Potter and Quidditch",
+          "weight": 109.5,
+          "feel": "Extremely full and almost completely impossible to shake. Very full and slightly bulging top/bottom, with virtually no movement on any side. The spring accessory is protected by a foam cover.",
+          "spuId": "1048234874370040555",
+          "image": "https://treasure.islandsassets.com/treasure/images/fdzgLTeBZqi.png"
+        },
+        {
+          "name": "Severus Snape",
+          "weight": 110,
+          "feel": "Feels very full in all six directions. Even the desiccant barely hits the box; only faint desiccant sounds can be heard.",
+          "spuId": "1048234909803515952",
+          "image": "https://treasure.islandsassets.com/treasure/images/fdzgLy11cje.png"
+        },
+        {
+          "name": "Harry Potter - Special Edition (Secret)",
+          "weight": 105.3,
+          "feel": "All six directions feel completely full with no movement space. When shaken, the only sound comes from the desiccant pack hitting the box. When pressing front/back, there is a slight pressure point around the Hedwig area.",
+          "is_hot": true,
+          "spuId": "1048234820682953205",
+          "image": "https://treasure.islandsassets.com/treasure/images/fdzgLy11cjN.png"
+        }
+      ]
+    },
+    {
       "id": "twinkle-twinkle-live-the-ordinary",
       "name": "Twinkle Twinkle|Live the Ordinary Series Figures",
       "brand": "POP MART",
