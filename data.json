@@ -1,6 +1,78 @@
 {
   "series": [
     {
+      "id": "dip-for-fun-plush-pendant",
+      "name": "POP MART|Dip For Fun Series - Plush Pendant Blind Box",
+      "brand": "POP MART",
+      "releaseDate": "2026-10-15",
+      "note": "Weight and shake characteristics are for reference only. Actual box conditions may vary. Spicy Debut (Secret) is not included because weight and shake details are not yet available.",
+      "figures": [
+        {
+          "name": "Mushrooming Fun",
+          "weight": 142.3,
+          "feel": "Overall: Shorter figure. Up/down: Relatively large movement space. Front/back: Slight movement. Left/right: Noticeable box hits.",
+          "spuId": "1053438702916775938",
+          "image": "https://treasure.islandsassets.com/treasure/images/fdRFht30Q0V.png"
+        },
+        {
+          "name": "Tomato, Tomahto",
+          "weight": 161.9,
+          "feel": "Overall: Shorter figure. Up/down: Relatively large movement space. Front/back: Noticeable box hits. Left/right: Slight movement.",
+          "spuId": "1053438684663139694",
+          "image": "https://treasure.islandsassets.com/treasure/images/fdRFh4Eu2yy.png"
+        },
+        {
+          "name": "Sunny Sausie",
+          "weight": 157.5,
+          "feel": "A noticeable magnetic accessory inside the box. The front and back panels feel bulged, but there are no distinct pressure points. Almost no movement space on all four sides.",
+          "spuId": "1053438738350221802",
+          "image": "https://treasure.islandsassets.com/treasure/images/fdRFu4yAPbF.png"
+        },
+        {
+          "name": "Crabsolutely Welcome",
+          "weight": 163.4,
+          "feel": "Overall: Relatively short figure. Up/down: Moves freely with a noticeable heavy, downward-swinging feel. Front/back: Clear box hits, especially across a large area of the front panel.",
+          "spuId": "1053438746940157170",
+          "image": "https://treasure.islandsassets.com/treasure/images/fdRFCBXr5mv.png"
+        },
+        {
+          "name": "Jet into Joy",
+          "weight": 150.4,
+          "feel": "Up/down: Around 2–3 cm of movement space, with noticeable rattling sounds. Front/back: Clear box hits with sharp clicking sounds. Left/right: Also hits the box, but less noticeably than front/back.",
+          "spuId": "1053438720096647650",
+          "image": "https://treasure.islandsassets.com/treasure/images/fdRFS9gSG2p.png"
+        },
+        {
+          "name": "Protein Party",
+          "weight": 130,
+          "feel": "Overall: Shorter figure. Up/down: Large movement space. Front/back and left/right: Slight box hits on all four sides.",
+          "spuId": "1053438728686582991",
+          "image": "https://treasure.islandsassets.com/treasure/images/fdRF0Yc8sCj.png"
+        },
+        {
+          "name": "Clap for Delight",
+          "weight": 156.6,
+          "feel": "Overall: Shorter figure. Up/down: Noticeable heavy, downward-swinging feel. Front/back and left/right: Feels quite full on all four sides. The card moves and creates clear tapping sounds when shaken left/right.",
+          "spuId": "1053438694326840674",
+          "image": "https://treasure.islandsassets.com/treasure/images/fdRFumAxqDD.png"
+        },
+        {
+          "name": "Jump Scare",
+          "weight": 126,
+          "feel": "Overall: Feels lightweight and relatively short. Up/down: Large movement space. Front/back: Loud box hits with crisp clicking sounds from the hanging ring. Left/right: Feels completely full with almost no movement.",
+          "spuId": "1053438683589387527",
+          "image": "https://treasure.islandsassets.com/treasure/images/fdRF04UhI2Q.png"
+        },
+        {
+          "name": "Garlic's Got Game",
+          "weight": 125.4,
+          "feel": "Overall: Relatively short figure with noticeable rattling sounds. Front/back and left/right: Moves very freely on all four sides, with a loose, shifting-around feel as if the contents are moving in different directions.",
+          "spuId": "1053438713654161626",
+          "image": "https://treasure.islandsassets.com/treasure/images/fdRFSlbTkEI.png"
+        }
+      ]
+    },
+    {
       "id": "hirono-harry-potter",
       "name": "HIRONO|Hirono × Harry Potter Series Figures",
       "brand": "POP MART",
