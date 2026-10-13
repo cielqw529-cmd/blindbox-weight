@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>评论管理 - 盲盒手感数据库</title>
+    <title>Comment Management - Blind Box Weight Database</title>
     <style>
         * { margin: 0; padding: 0; box-sizing: border-box; }
         body {
@@ -112,23 +112,23 @@
 </head>
 <body>
     <h1>
-        📝 评论管理
-        <button class="refresh-btn" onclick="loadComments()">刷新</button>
+        📝 Comment Management
+        <button class="refresh-btn" onclick="loadComments()">Refresh</button>
     </h1>
 
     <div class="stats" id="stats">
         <div class="stat-item">
-            <span class="stat-label">总评论数</span>
+            <span class="stat-label">Total Comments</span>
             <span class="stat-value" id="totalComments">-</span>
         </div>
         <div class="stat-item">
-            <span class="stat-label">有评论的系列</span>
+            <span class="stat-label">Series with Comments</span>
             <span class="stat-value" id="totalSeries">-</span>
         </div>
     </div>
 
     <div id="content">
-        <div class="loading">加载中...</div>
+        <div class="loading">Loading...</div>
     </div>
 
     <script>
@@ -137,7 +137,7 @@
         async function loadComments() {
             const btn = document.querySelector('.refresh-btn');
             btn.disabled = true;
-            btn.textContent = '加载中...';
+            btn.textContent = 'Loading...';
 
             const content = document.getElementById('content');
 
@@ -146,7 +146,7 @@
                 const json = await res.json();
 
                 if (!json.success) {
-                    throw new Error(json.error || '加载失败');
+                    throw new Error(json.error || 'Failed to load');
                 }
 
                 const data = json.data;
@@ -167,7 +167,7 @@
                 document.getElementById('totalSeries').textContent = seriesIds.length;
 
                 if (seriesIds.length === 0) {
-                    content.innerHTML = '<div class="empty">暂无评论</div>';
+                    content.innerHTML = '<div class="empty">No comments yet</div>';
                 } else {
                     let html = '';
                     seriesIds.forEach(seriesId => {
@@ -176,13 +176,13 @@
                             <div class="series-card">
                                 <div class="series-header">
                                     <span>${seriesId}</span>
-                                    <span class="count">${comments.length} 条评论</span>
+                                    <span class="count">${comments.length} comments</span>
                                 </div>
                                 <div class="comment-list">
                                     ${comments.map(c => `
                                         <div class="comment-item">
                                             <div class="comment-meta">
-                                                <span class="comment-author">${escapeHtml(c.author)}</span>
+                                                <span class="comment-author">${escapeHtml(c.author === '\u533F\u540D\u7528\u6237' || !c.author ? 'Anonymous User' : c.author)}</span>
                                                 <span>${c.time}</span>
                                             </div>
                                             <div class="comment-content">${escapeHtml(c.content)}</div>
@@ -195,10 +195,10 @@
                     content.innerHTML = html;
                 }
             } catch (e) {
-                content.innerHTML = `<div class="error">加载失败: ${e.message}</div>`;
+                content.innerHTML = `<div class="error">Failed to load: ${e.message}</div>`;
             } finally {
                 btn.disabled = false;
-                btn.textContent = '刷新';
+                btn.textContent = 'Refresh';
             }
         }
 

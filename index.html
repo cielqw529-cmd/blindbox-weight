@@ -74,7 +74,7 @@
             background-image: url("data:image/svg+xml,%3Csvg viewBox='0 0 256 256' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='noiseFilter'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.85' numOctaves='4' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23noiseFilter)'/%3E%3C/svg%3E");
         }
 
-        /* 背景装饰 - 更现代的渐变球 */
+        /* Background decoration - modern gradient orbs */
         .bg-decoration {
             position: fixed;
             top: 0;
@@ -142,7 +142,7 @@
             z-index: 1;
         }
 
-        /* Header - 更具编辑感的设计 */
+        /* Header - editorial styling */
         header {
             text-align: center;
             margin-bottom: 40px;
@@ -216,7 +216,7 @@
             display: none;
         }
 
-        /* Search Section - 玻璃态效果 */
+        /* Search section - glass effect */
         .search-section {
             background: var(--glass-bg);
             backdrop-filter: blur(20px);
@@ -378,7 +378,7 @@
             box-shadow: 0 2px 8px rgba(251, 113, 133, 0.25);
         }
 
-        /* Series Cards - 收藏卡片风格 */
+        /* Series cards - collectible card styling */
         #seriesList {
             display: flex;
             flex-direction: column;
@@ -630,7 +630,7 @@
             }
         }
 
-        /* Weight Badge - 全息贴纸效果 */
+        /* Weight badge - holographic sticker effect */
         .figure-weight {
             min-width: 64px;
             height: 64px;
@@ -802,7 +802,7 @@
             color: var(--coral);
         }
 
-        /* Responsive - 移动端优化 */
+        /* Responsive - mobile optimization */
         @media (max-width: 640px) {
             .container {
                 padding: 20px 16px;
@@ -1762,7 +1762,7 @@
 
                 let cardHtml = '<div class="series-card ' + (isExpanded ? 'expanded' : '') + '" style="animation-delay: ' + (index * 0.05) + 's">';
                 cardHtml += '<div class="series-header" onclick="toggleSeries(\'' + series.id + '\')">';
-                // 随机选一个款式的图片作为系列缩略图
+                // Pick a random figure image as the series thumbnail
                 const figuresWithImage = series.figures.filter(f => f.image);
                 if (figuresWithImage.length > 0) {
                     const thumbFigure = figuresWithImage[Math.floor(Math.random() * figuresWithImage.length)];
@@ -1811,7 +1811,8 @@
                     cardHtml += '<div class="no-comments">' + i18n[currentLang].noComments + '</div>';
                 } else {
                     comments.forEach(c => {
-                        cardHtml += '<div class="comment-item"><div class="comment-meta"><span class="comment-author">' + c.author + '</span><span class="comment-time">' + c.time + '</span></div><div class="comment-content">' + c.content + '</div></div>';
+                        const commentAuthor = c.author === '\u533F\u540D\u7528\u6237' || !c.author ? 'Anonymous User' : c.author;
+                        cardHtml += '<div class="comment-item"><div class="comment-meta"><span class="comment-author">' + commentAuthor + '</span><span class="comment-time">' + c.time + '</span></div><div class="comment-content">' + c.content + '</div></div>';
                     });
                 }
                 cardHtml += '</div>';
