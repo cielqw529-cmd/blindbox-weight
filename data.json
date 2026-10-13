@@ -77,7 +77,7 @@
       "name": "HIRONO|Hirono × Harry Potter Series Figures",
       "brand": "POP MART",
       "releaseDate": "2026-10-08",
-      "note": "Albus Dumbledore (132g) is heaviest, Dobby (93.8g) is lightest. Luna Lovegood has unusually roomy movement in all six directions and is easy to identify. Mandrake (Secret) is not included because weight and shake details are not yet available.",
+      "note": "Albus Dumbledore (132g) is heaviest, Dobby (93.8g) is lightest. Luna Lovegood has unusually roomy movement in all six directions and is easy to identify. Mandrake (Secret) weighs 104g+ and has clear top/bottom pressure with no movement space.",
       "figures": [
         {
           "name": "Dobby",
@@ -163,6 +163,14 @@
           "feel": "Feels very full in all six directions. Even the desiccant barely hits the box; only faint desiccant sounds can be heard.",
           "spuId": "1048234909803515952",
           "image": "https://treasure.islandsassets.com/treasure/images/fdzgLy11cje.png"
+        },
+        {
+          "name": "Mandrake (Secret)",
+          "weight": "104g+",
+          "feel": "Obvious even through the sealed box; there is clear pressure against the top and bottom. Uses a large 9g+ desiccant pack. Up/down: No movement space; only the desiccant pack makes a brushing/rustling sound along the side. Pressing: A very obvious pressure point can be felt from the top/bottom. Front/back: Feels rod-like when shaken, with a localized point-like box hit around the marked area. Left/right: No movement space; only desiccant sounds can be heard.",
+          "is_hot": true,
+          "spuId": "1048234831420358967",
+          "image": "https://treasure.islandsassets.com/treasure/images/fdzgLTeBZAK.png"
         },
         {
           "name": "Harry Potter - Special Edition (Secret)",
