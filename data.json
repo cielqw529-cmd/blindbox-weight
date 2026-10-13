@@ -16328,6 +16328,13 @@
       "note": "Hidden model number: 777/0133/882 The hidden model is heavier but not the heaviest. There is not enough space on the whole surface. It is boxed all around but has a little fluffy and rustling sound.",
       "figures": [
         {
+          "name": "Clown (Secret)",
+          "weight": null,
+          "feel": "No detailed shake data available yet.",
+          "spuId": "404025713813976493",
+          "is_hot": true
+        },
+        {
           "name": "Kappa Cup",
           "spuId": "404024515518080131",
           "weight": "108.6g",
@@ -16356,7 +16363,7 @@
           "image": "https://treasure.islandsassets.com/treasure/images/cd131d1f943ead3419f42176b803b17b.png"
         },
         {
-          "name": "Small Cabinet",
+          "name": "Duckling",
           "spuId": "404021796803743705",
           "weight": "101.5g",
           "feel": "Not obvious, boxed left and right",
@@ -16384,7 +16391,19 @@
           "image": "https://treasure.islandsassets.com/treasure/images/cd131d1f943ead3419f42176b803b17b.png"
         },
         {
-          "name": "小柜子",
+          "name": "Play the Drum",
+          "weight": null,
+          "feel": "No detailed shake data available yet.",
+          "spuId": "404024086021344486"
+        },
+        {
+          "name": "Old TV",
+          "weight": null,
+          "feel": "No detailed shake data available yet.",
+          "spuId": "404021058069359155"
+        },
+        {
+          "name": "Small Cabinet",
           "spuId": "404022728811657904",
           "weight": "96.0g",
           "feel": "There's a banging sound on the door. It's obvious. Bang bang bang bang open the door.",
