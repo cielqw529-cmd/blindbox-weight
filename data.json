@@ -16325,12 +16325,12 @@
       "name": "BOBO&COCO|Retro General Store Series Figures",
       "brand": "POP MART",
       "source_url": "https://www.xiaohongshu.com/explore/61d937f400000000210364fe",
-      "note": "Hidden model number: 777/0133/882 The hidden model is heavier but not the heaviest. There is not enough space on the whole surface. It is boxed all around but has a little fluffy and rustling sound.",
+      "note": "Secret ID numbers: 777 / 0133 / 882 (shared by collectors; not yet verified). The secret feels relatively heavy but is not the heaviest. It is not completely full, has some movement space, and hits the box on all four sides with faint fluffy, rattling, and rustling sounds.",
       "figures": [
         {
           "name": "Clown (Secret)",
           "weight": null,
-          "feel": "No detailed shake data available yet.",
+          "feel": "Feels relatively heavy but is not the heaviest figure. The contents do not fill an entire side of the box, leaving some movement space. It hits the box on all four sides, accompanied by faint fluffy, rattling, and rustling sounds. Secret ID numbers reported by collectors: 777 / 0133 / 882 (not yet verified).",
           "spuId": "404025713813976493",
           "is_hot": true
         },
@@ -16392,14 +16392,14 @@
         },
         {
           "name": "Play the Drum",
-          "weight": null,
-          "feel": "No detailed shake data available yet.",
+          "weight": 112.5,
+          "feel": "Up/down: Feels very full. Left/right: Very little movement space. Overall: Full and heavy.",
           "spuId": "404024086021344486"
         },
         {
           "name": "Old TV",
-          "weight": null,
-          "feel": "No detailed shake data available yet.",
+          "weight": 113.5,
+          "feel": "Extremely full, with no movement space on any of the six sides. Feels solid like a rock.",
           "spuId": "404021058069359155"
         },
         {
