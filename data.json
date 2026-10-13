@@ -3161,77 +3161,77 @@
       "note": "There are many easy-to-identify figures",
       "figures": [
         {
-          "name": "仲夏夜之梦",
+          "name": "Midsummer Night",
           "weight": 108.5,
           "feel": "What’s strange is that this one is quite full, but it’s not heavy. It’s very full up and down and front and back, and it will wobble when there’s room left and right.",
           "spuId": "980625364285957482",
           "image": "https://treasure.qiandaocdn.com/treasure/images/fyLFoJm8YcT.png"
         },
         {
-          "name": "春日柠檬",
+          "name": "Lemon Tree",
           "weight": 118,
           "feel": "The six sides are very full and the baby cannot shake them, but the counterweight coins are particularly dangling inside and can be bumped around at will.",
           "spuId": "980625394350730565",
           "image": "https://treasure.qiandaocdn.com/treasure/images/fyLFoFChFoM.png"
         },
         {
-          "name": "去抓鱼吧",
+          "name": "Go Fishing",
           "weight": 119,
           "feel": "It is a little tight up and down but can be shaken, and the accessories will hit lightly. There is only an obvious knocking sound of the counterweight coins when shaking around, and no other sounds.",
           "spuId": "980625208593390647",
           "image": "https://treasure.qiandaocdn.com/treasure/images/fyLXnGGjINa.png"
         },
         {
-          "name": "小麦的馈赠",
+          "name": "Wheat's Gift",
           "weight": 125,
           "feel": "It is full on all sides (there is no space at the front and back, a little bit on the left and right and the lower part is very empty), there is a little space on the top and bottom, and it will be boxed lightly in a small area.",
           "spuId": "980625382539571113",
           "image": "https://treasure.qiandaocdn.com/treasure/images/fyLFoFChFoA.png"
         },
         {
-          "name": "湖中朋友",
+          "name": "Crocodile Boat",
           "weight": 125.5,
           "feel": "It's full up and down, full left and right, but the front and rear space is so big that it's easy to pack, and the sound is loud and heavy.",
           "spuId": "980625217183325990",
           "image": "https://treasure.qiandaocdn.com/treasure/images/fyLXn74u3mt.png"
         },
         {
-          "name": "春雨协奏曲",
+          "name": "Spring Rain",
           "weight": 127.5,
           "feel": "There is space on all six sides, and the sound of boxing on all six sides is very loud, empty, and the impact is very strong.",
           "spuId": "980625075449393325",
           "image": "https://treasure.qiandaocdn.com/treasure/images/fyLXDCzHnN4.png"
         },
         {
-          "name": "报恩萝卜",
+          "name": "Carrot's Gift",
           "weight": 135,
           "feel": "It's very full, with a little space on all six sides, but it's not overwhelming at all, and it feels almost silent.",
           "spuId": "980625084039328422",
           "image": "https://treasure.qiandaocdn.com/treasure/images/fyLXDudgxIO.png"
         },
         {
-          "name": "麦田守夜人",
+          "name": "Guardian Of Night",
           "weight": 136,
           "feel": "All six sides of the baby are full, and there is no impact on the six sides of the baby. There is only the sound of the weight coins hitting randomly.",
           "spuId": "980625369654668100",
           "image": "https://treasure.qiandaocdn.com/treasure/images/fyLFoFChFoE.png"
         },
         {
-          "name": "神秘来客",
+          "name": "Mysterious Guest",
           "weight": 152,
           "feel": "All six sides are full, there is no space, and even the counterweight coins have no impact. It is very full.",
           "spuId": "980625200003455450",
           "image": "https://treasure.qiandaocdn.com/treasure/images/fyLXnGGjINd.png"
         },
         {
-          "name": "南瓜庆典",
+          "name": "Halloween Pumpkin",
           "weight": 154,
           "feel": "There is a hood, so it looks very bulky, and the sound of up and down collisions is very loud. There is space around, but the sound and distance are slightly smaller. The counterweight coins will hit randomly when the surroundings are shaken.",
           "spuId": "980625402940665638",
           "image": "https://treasure.qiandaocdn.com/treasure/images/fyLFoFChFot.png"
         },
         {
-          "name": "隐藏款-春巡",
+          "name": "Spring Trip (Secret)",
           "weight": 167,
           "feel": "Extremely heavy and full, making it immediately identifiable without opening the box. The left and right sides press firmly enough to bulge outward. Completely obvious and silent.",
           "is_obvious": true,
@@ -3240,11 +3240,10 @@
           "image": "https://treasure.qiandaocdn.com/treasure/images/fyLJGy4RDgv.png"
         },
         {
-          "name": "小羊的生日",
+          "name": "Lamb's Birthday",
           "weight": 171,
           "feel": "The figure is wedged in place, while the counterweight rattles loudly inside. The sides also press firmly against the box and bulge outward.",
           "is_obvious": true,
-          "is_hot": true,
           "spuId": "980625376097129109",
           "image": "https://treasure.qiandaocdn.com/treasure/images/fyLFoXPqi13.png"
         }
