@@ -15411,14 +15411,21 @@
       "source_url": "https://www.xiaohongshu.com/explore/630740f5000000001702eedf",
       "figures": [
         {
-          "name": "温馨下午茶",
+          "name": "Love Chocolate (Secret)",
+          "weight": null,
+          "feel": "No detailed shake data available yet.",
+          "spuId": "492341575838343945",
+          "is_hot": true
+        },
+        {
+          "name": "Afternoon Tea",
           "spuId": "492340033945302570",
           "weight": "54g",
           "feel": "The upper part is empty and the lower part is full. There is space above and below. The left and right upper parts are empty. The lower part is full.",
           "image": "https://treasure.islandsassets.com/treasure/images/a11b77afd0c546ca38a8a01461b73755.jpg"
         },
         {
-          "name": "小心烫伤",
+          "name": "Beware of Hot Steam",
           "spuId": "492341322435266902",
           "weight": "52.5g",
           "feel": "There is no space in the front, back, left, or right, but it can be swayed up and down without boxing.",
@@ -15446,7 +15453,7 @@
           "image": "https://treasure.islandsassets.com/treasure/images/6a7e4c517b25832812bd8c6a6907cfa3.jpg"
         },
         {
-          "name": "餐后洗碗",
+          "name": "Cleaning Kitchen Challenge",
           "spuId": "492340807039437418",
           "weight": "85.5g",
           "feel": "Heavy! Pinch the front, back and middle directly to the same surface",
@@ -15460,7 +15467,7 @@
           "image": "https://treasure.islandsassets.com/treasure/images/457d289acb2b4a57c6608c0dc29a2a25.jpg"
         },
         {
-          "name": "制作饼干",
+          "name": "Baking Cookies",
           "spuId": "492340326003085854",
           "weight": "64g",
           "feel": "It can barely move on all six sides, just a little bit of space.",
