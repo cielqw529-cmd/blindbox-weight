@@ -4964,6 +4964,13 @@
       "source_url": "https://www.xiaohongshu.com/explore/68c14347000000001d02c038",
       "figures": [
         {
+          "name": "Tilted Crown (Secret)",
+          "weight": null,
+          "feel": "No detailed shake data available yet.",
+          "spuId": "907165274447289874",
+          "is_hot": true
+        },
+        {
           "name": "Sweet Pretender",
           "weight": 105.5,
           "feel": "The six sides are slightly boxed, and the front and back are particularly obvious. There is an obvious point in the box where the hair stands up in the middle of the cover.",
@@ -5014,7 +5021,7 @@
           "image": "https://treasure.qiandaocdn.com/treasure/images/f6oRyAB4dlf.png"
         },
         {
-          "name": "千禧漫波",
+          "name": "Millennial Slowwave",
           "weight": 138,
           "feel": "The only thing that can't be shaken at all is this 100% clear box",
           "is_obvious": true,
