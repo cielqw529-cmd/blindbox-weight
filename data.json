@@ -6661,7 +6661,8 @@
         },
         {
           "name": "Falling Apple",
-          "weight": 116.5,
+          "weight": 108.9,
+          "feel": "Up/down and front/back: Completely immobile. Left/right: Hold the bottom of the box and shake it gently; the box-hitting sound is clear and noticeable.",
           "spuId": "835122371345043602",
           "image": "https://treasure.islandsassets.com/treasure/images/EY2Xj0qru0.png"
         },
