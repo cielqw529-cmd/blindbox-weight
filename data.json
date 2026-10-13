@@ -13865,8 +13865,8 @@
       "figures": [
         {
           "name": "The Statue of a Street Performer (Secret)",
-          "weight": null,
-          "feel": "No detailed shake data available yet.",
+          "weight": 81.6,
+          "feel": "Mid-range weight in the series. Box code reference: 226123900. Up/down: Completely immobile; the hat creates a slight pressure point at the center of the top panel. Front/back and left/right: Very slight looseness. When shaken left/right, the desiccant pack and character card produce clear box-hitting sounds. Overall, the box feels lightly full. Similar in weight to A Balloon Artist, but A Balloon Artist moves front/back and left/right and feels noticeably emptier overall.",
           "spuId": "544304920569005908",
           "is_hot": true
         },
@@ -13901,8 +13901,8 @@
         },
         {
           "name": "A Balloon Artist",
-          "weight": "74.9g",
-          "feel": "The front and rear boxing is particularly obvious. It cannot be moved left and right. There is a slight space up and down.",
+          "weight": 78.2,
+          "feel": "The top of the figure creates a slight pressure point against the box. The figure can move front/back and left/right, and the overall box feels noticeably emptier than The Statue of a Street Performer (Secret).",
           "spuId": "544299169607634485",
           "image": "https://treasure.qiandaocdn.com/treasure/images/fb64e580d2712824736348af098289f1.png"
         },
