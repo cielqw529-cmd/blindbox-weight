@@ -17526,7 +17526,7 @@
       "source_url": "https://www.xiaohongshu.com/explore/61475931000000000102e1a4",
       "figures": [
         {
-          "name": "隐藏款-摇滚之王",
+          "name": "King of Rock (Secret)",
           "weight": "111.3g",
           "feel": "The heaviest, the heaviest, the heaviest, the heaviest. Choose the heaviest one. That’s right. It’s empty on the left, right, top and bottom. It feels like a box has been smashed. There is a small dot that stands out in particular.",
           "is_hot": true,
@@ -17534,46 +17534,82 @@
           "image": "https://treasure.qiandaocdn.com/treasure/images/346b14623d8bfddd82f14f107534f82d.png"
         },
         {
-          "name": "键盘手",
+          "name": "Keyboard Player",
           "weight": "89.9g",
           "feel": "Doesn’t lift up or down. Slightly full. Shakes left and right without sound.",
-          "spuId": "867454084137889210",
+          "spuId": "362831565786577536",
           "image": "https://treasure.qiandaocdn.com/treasure/images/fi5basCf1ys.png"
         },
         {
-          "name": "小提琴家",
+          "name": "Violinist",
           "weight": "75.3g",
           "feel": "The lightest in the series. There is space on all six sides, with light box hits when shaken.",
           "spuId": "362834280205790371",
           "image": "https://treasure.islandsassets.com/treasure/images/9d6b4d9c950a34be61e0b6736f4e790e.png"
         },
         {
-          "name": "沙锤手",
+          "name": "Maracas Player",
           "weight": "85.1g",
           "feel": "There is a feeling of obstruction when moving up and down. It shakes. There is empty space in the front, back, left and right.",
           "spuId": "362833339608179927",
           "image": "https://treasure.qiandaocdn.com/treasure/images/c212e56b761ce7f3570b531ebbf0e2dd.png"
         },
         {
-          "name": "鼓手",
+          "name": "Drummer",
           "weight": "84.3g",
           "feel": "There are many accessories, including top, bottom and front. There is one point that is slightly top.",
-          "spuId": "716808502441587852",
+          "spuId": "362832613758643044",
           "image": "https://treasure.qiandaocdn.com/treasure/images/RVELf42VM5.png"
         },
         {
           "name": "Bassist",
           "weight": "83.7g",
           "feel": "It is empty up, down, left and right. It feels very light. The sound is very small.",
-          "spuId": "640418153985319643",
+          "spuId": "362832334585765135",
           "image": "https://treasure.qiandaocdn.com/treasure/images/ujhFlhR0OxpNtfjoxituJhyYfyAinPx8.png"
         },
         {
-          "name": "非洲鼓手",
+          "name": "African Drummer",
           "weight": "90g",
           "feel": "Slightly full on the top, bottom, left, and right, empty on the front and back, smash the box",
           "spuId": "362833816349311735",
           "image": "https://treasure.qiandaocdn.com/treasure/images/c17f99417211856b98a0b1039180fa5a.png"
+        },
+        {
+          "name": "Trumpeter",
+          "weight": null,
+          "feel": "No detailed shake data available yet.",
+          "spuId": "362834851436502123"
+        },
+        {
+          "name": "Piccolo Player",
+          "weight": null,
+          "feel": "No detailed shake data available yet.",
+          "spuId": "362834593738432206"
+        },
+        {
+          "name": "Accordionist",
+          "weight": null,
+          "feel": "No detailed shake data available yet.",
+          "spuId": "362834056867487682"
+        },
+        {
+          "name": "DJ Player",
+          "weight": null,
+          "feel": "No detailed shake data available yet.",
+          "spuId": "362832828507011627"
+        },
+        {
+          "name": "Lead Singer",
+          "weight": null,
+          "feel": "No detailed shake data available yet.",
+          "spuId": "362832038233006546"
+        },
+        {
+          "name": "Guitarist",
+          "weight": null,
+          "feel": "No detailed shake data available yet.",
+          "spuId": "362831780534956771"
         }
       ],
       "ip": "VITA",
