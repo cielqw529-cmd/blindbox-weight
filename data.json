@@ -13864,6 +13864,13 @@
       "source_url": "https://www.xiaohongshu.com/explore/63bbe369000000001f024705",
       "figures": [
         {
+          "name": "The Statue of a Street Performer (Secret)",
+          "weight": null,
+          "feel": "No detailed shake data available yet.",
+          "spuId": "544304920569005908",
+          "is_hot": true
+        },
+        {
           "name": "Going to Roma",
           "weight": "66.7g",
           "feel": "Light. Can't move up, down, left, or right. Very full, but very light.",
@@ -13878,7 +13885,7 @@
           "image": "https://treasure.qiandaocdn.com/treasure/images/012eebdd8aedeafc6c7a40aa7e81c7b0.png"
         },
         {
-          "name": "街头木偶表演",
+          "name": "Street Puppet Show",
           "weight": "68.2g",
           "feel": "In the middle of the cover, the front and back are particularly obvious.",
           "is_obvious": true,
@@ -13893,7 +13900,7 @@
           "image": "https://treasure.qiandaocdn.com/treasure/images/256a1752817ab7a81ef0dca8bc873ce7.png"
         },
         {
-          "name": "扭波波的艺术家",
+          "name": "A Balloon Artist",
           "weight": "74.9g",
           "feel": "The front and rear boxing is particularly obvious. It cannot be moved left and right. There is a slight space up and down.",
           "spuId": "544299169607634485",
@@ -13928,7 +13935,7 @@
           "image": "https://treasure.qiandaocdn.com/treasure/images/950993bfa8c150ea6ffce459473c1fd8.png"
         },
         {
-          "name": "Mollysaurus!",
+          "name": "Mollysaurus",
           "weight": "87.9g",
           "feel": "It's so heavy. It's specially boxed on the front and rear. It's loud. This is it.",
           "is_obvious": true,
