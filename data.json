@@ -15412,8 +15412,8 @@
       "figures": [
         {
           "name": "Love Chocolate (Secret)",
-          "weight": null,
-          "feel": "No detailed shake data available yet.",
+          "weight": 60,
+          "feel": "Approximately 60g. Up/down: The figure hits the box. Front/back and left/right: Noticeable movement sounds from the desiccant pack and character card. Unlike Beware of Hot Steam, the figure itself is completely immobile.",
           "spuId": "492341575838343945",
           "is_hot": true
         },
@@ -15428,7 +15428,7 @@
           "name": "Beware of Hot Steam",
           "spuId": "492341322435266902",
           "weight": "52.5g",
-          "feel": "There is no space in the front, back, left, or right, but it can be swayed up and down without boxing.",
+          "feel": "In the approximately 60g weight range. Up/down: The figure hits the box. Front/back and left/right: Noticeable movement sounds from the desiccant pack and character card. The figure itself can move slightly from left to right, which distinguishes it from the secret figure.",
           "image": "https://treasure.islandsassets.com/treasure/images/3a6c26908189c4e5b71642fdb2a92515.jpg"
         },
         {
