@@ -1623,7 +1623,8 @@
             submitBtn.disabled = true;
             submitBtn.textContent = 'Submitting...';
 
-            const success = await saveComment(seriesId, nameInput.value.trim(), contentInput.value.trim());
+            const author = nameInput.value.trim() || 'Anonymous User';
+            const success = await saveComment(seriesId, author, contentInput.value.trim());
 
             submitBtn.disabled = false;
             submitBtn.textContent = i18n[currentLang].submitComment;
