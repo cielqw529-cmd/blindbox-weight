@@ -26,13 +26,15 @@
         },
         {
           "name": "Ragdoll Kitty",
-          "weight": 202,
+          "weight": 193.7,
+          "feel": "Up/down: Noticeable box-hits, with audible desiccant sounds. Front/back: Clear box-hits with plenty of movement and a loose, free-moving feel. Left/right: Very limited space, almost no movement, but the hanging ring makes a noticeable clicking sound. Pressing: No obvious pressure points against the box on any of the four sides.",
           "spuId": "1053419779290853783",
           "image": "https://treasure.qiandaocdn.com/treasure/images/fdAZajo5AnY.png"
         },
         {
           "name": "Calico Kitty",
-          "weight": 200,
+          "weight": 201.32,
+          "feel": "Front/back: Clear box-hits at a specific point slightly above the right eye on the front artwork. Up/down: Around 1–2 fingers of movement space. Left/right: Almost no movement space.",
           "spuId": "1053419790028247026",
           "image": "https://treasure.qiandaocdn.com/treasure/images/fdAZaE4UE6q.png"
         },
