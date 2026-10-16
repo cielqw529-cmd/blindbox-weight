@@ -69,7 +69,7 @@ https://blindbox-weight.islandsapp.workers.dev/
 6. 修改系列名称时，不要顺带改动 ID、款式、重量、手感、SPU 或图片。
 7. 新增数据前检查系列 `id` 是否唯一；同一系列内检查款式和 SPU 是否重复。
 8. 评论区及用户可见文案使用英文，避免残留中文。
-9. 用户提供 SPU ID 时，应在 HobbyBase 翻译管理页定位对应系列并抓取图片。款式展示优先使用“透明底图”，不要因为聊天附件里没有原始链接就留空。去掉 `!lfit_w...` 等缩放后缀，并在公开页面验证图片确实能加载；优先使用可访问的 `treasure.islandsassets.com` 镜像，尚未同步到镜像时使用 HobbyBase 返回的 `treasure.qiandaocdn.com` 原图地址。
+9. 用户提供 SPU ID 时，应在 HobbyBase 翻译管理页定位对应系列并按 SPU 核对图片。款式展示优先使用“封面”列，不要误取“透明底图”列。去掉 `!lfit_w...` 等缩放后缀，并在公开页面验证图片确实能加载；优先使用可访问的 `treasure.islandsassets.com` 镜像，尚未同步到镜像时使用 HobbyBase 返回的 `treasure.qiandaocdn.com` 原图地址。
 
 ## 标准更新流程
 
