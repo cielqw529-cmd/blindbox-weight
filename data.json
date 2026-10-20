@@ -1,6 +1,96 @@
 {
   "series": [
     {
+      "id": "rotating-starlight-series",
+      "name": "Rotating Starlight Series Figures",
+      "note": "Weight and shake characteristics are based on individual samples and may vary between boxes.",
+      "figures": [
+        {
+          "name": "The Giraffe",
+          "weight": 121.9,
+          "feel": "Up/down: Very little movement, with faint but clear desiccant granule sounds. Front/back: A tiny bit of space with slight box hits and desiccant granule sounds. Left/right: The figure barely moves, but the desiccant makes noticeable rattling sounds. Pressing: Clear bag crinkling from all six sides.",
+          "spuId": "1056020435675708864",
+          "image": "https://treasure.qiandaocdn.com/treasure/images/fXoe87VN9pr.png"
+        },
+        {
+          "name": "The Horse",
+          "weight": 126.8,
+          "feel": "Up/down: The accessory rubs against and hits the box, without any distinctive sound. Front/back: A tiny bit of figure movement, with noticeable rustling from the desiccant hitting the box. Left/right: Very little overall movement, with bag-rubbing sounds against the box. Pressing: Bag crinkling from front/back/left/right; nothing can be felt from top/bottom.",
+          "spuId": "1056020415274591187",
+          "image": "https://treasure.qiandaocdn.com/treasure/images/fXoeB3BF5X7.png"
+        },
+        {
+          "name": "The Elephant",
+          "weight": 120.6,
+          "feel": "Up/down: The figure does not move, but desiccant granule sounds are noticeable. Front/back: Completely no figure movement, with clear desiccant granule sounds. Left/right: The figure does not move, with noticeable desiccant granule sounds. Pressing: Clear pressure against the box near the bottom from left/right. The bag can clearly be felt from front/back, with faint bag crinkling from top/bottom.",
+          "spuId": "1056020426011976160",
+          "image": "https://treasure.qiandaocdn.com/treasure/images/fXoerufgP32.png"
+        },
+        {
+          "name": "The Donkey",
+          "weight": 119.4,
+          "feel": "Up/down: Completely stuck, with only very faint desiccant granule sounds. Front/back: The figure does not move, but desiccant granule sounds can be heard. Left/right: Almost no figure movement, with faint desiccant granule sounds. Pressing: Slight bag crinkling from all six sides.",
+          "spuId": "1056020516206300777",
+          "image": "https://treasure.qiandaocdn.com/treasure/images/fXoeXRmvPNW.png"
+        },
+        {
+          "name": "The Rabbit",
+          "weight": 124.9,
+          "feel": "Up/down: The figure hits the box with limited space and faint desiccant granule sounds. Front/back: A tiny bit of movement with slight box hits and desiccant granule sounds. Left/right: A tiny bit of movement with slight box hits and desiccant granule sounds. Pressing: Clear pressure against the box around the upper-middle area from front/back. Faint bag crinkling from left/right; nothing can be felt from top/bottom.",
+          "spuId": "1056020441044398076",
+          "image": "https://treasure.qiandaocdn.com/treasure/images/fXoeyjyCI8P.png"
+        },
+        {
+          "name": "The Dog",
+          "weight": 126.7,
+          "feel": "Up/down: A tiny bit of space, with the figure rubbing against the box. Front/back: The figure does not move at all, with only desiccant granule sounds. Left/right: The figure does not move at all, with only desiccant granule sounds. Pressing: Clear pressure against the box around the middle from left/right. Bag crinkling from front/back/top/bottom.",
+          "spuId": "1056020449634334276",
+          "image": "https://treasure.qiandaocdn.com/treasure/images/fXoeyE7CoDL.png"
+        },
+        {
+          "name": "The Deer",
+          "weight": 124.9,
+          "feel": "Up/down: A tiny bit of space with slight box hits and a clunking feel. Front/back: The figure barely moves, but the desiccant lightly hits the box with granular sounds. Left/right: The figure does not move, but desiccant granule sounds can be heard. Pressing: Clear pressure against the box around the lower-middle area from front/back. Faint bag crinkling from left/right/top/bottom.",
+          "spuId": "1056020478625321984",
+          "image": "https://treasure.qiandaocdn.com/treasure/images/fXoeapwyBP5.png"
+        },
+        {
+          "name": "The Lion",
+          "weight": 128.4,
+          "feel": "Up/down: Very slight overall box hits with faint bag sounds. Front/back: Almost no movement, with only very faint desiccant granule sounds. Left/right: The figure does not move, but desiccant granule sounds can be heard. Pressing: Noticeable pressure against the box around the lower-middle area from front/back. An object can be felt near the bottom from left/right, but it does not press against the box. Nothing can be felt from top/bottom.",
+          "spuId": "1056020459297979939",
+          "image": "https://treasure.qiandaocdn.com/treasure/images/fXoeTOpu5EZ.png"
+        },
+        {
+          "name": "The Sheep",
+          "weight": 136.7,
+          "feel": "Up/down: Overall box hits with limited space and a clunking feel. Front/back: Completely no movement, with only very faint desiccant granule sounds. Left/right: A tiny bit of figure movement with slight box hits and desiccant granule sounds. Pressing: An object can be felt from front/back but does not press against the box. Nothing can be felt from left/right/top/bottom.",
+          "spuId": "1056020496878980075",
+          "image": "https://treasure.qiandaocdn.com/treasure/images/fXoedzqrUZO.png"
+        },
+        {
+          "name": "The Panda",
+          "spuId": "1056020505468915639",
+          "image": "https://treasure.qiandaocdn.com/treasure/images/fXoeXJmOu1C.png"
+        },
+        {
+          "name": "The Leopard",
+          "spuId": "1056020483994077059",
+          "image": "https://treasure.qiandaocdn.com/treasure/images/fXoe4zYAmY8.png"
+        },
+        {
+          "name": "The Pig",
+          "spuId": "1056020468961654720",
+          "image": "https://treasure.qiandaocdn.com/treasure/images/fXoejDVSOEX.png"
+        },
+        {
+          "name": "The Unicorn (Secret)",
+          "spuId": "1056020408832104991",
+          "image": "https://treasure.qiandaocdn.com/treasure/images/fXoeFWWKt2i.png"
+        }
+      ]
+    },
+    {
       "id": "kitty-series",
       "name": "Kitty Series",
       "note": "Weights and shake characteristics are for reference only. Actual box conditions may vary. Maine Coon Kitty (Secret) is the heaviest figure among the provided samples.",
