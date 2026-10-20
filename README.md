@@ -70,6 +70,7 @@ https://blindbox-weight.islandsapp.workers.dev/
 7. 新增数据前检查系列 `id` 是否唯一；同一系列内检查款式和 SPU 是否重复。
 8. 评论区及用户可见文案使用英文，避免残留中文。
 9. 用户提供 SPU ID 时，应在 HobbyBase 翻译管理页定位对应系列并按 SPU 核对图片。款式展示优先使用“封面”列，不要误取“透明底图”列。去掉 `!lfit_w...` 等缩放后缀，并在公开页面验证图片确实能加载；优先使用可访问的 `treasure.islandsassets.com` 镜像，尚未同步到镜像时使用 HobbyBase 返回的 `treasure.qiandaocdn.com` 原图地址。
+10. 系列标题统一使用 `IP|Official English Series Name` 格式，并同时填写 `brand`（公司，如 `POP MART`）和 `ip`（IP 名称）。新增系列上线前必须检查卡片标题旁不能出现 `UNDEFINED`。
 
 ## 标准更新流程
 

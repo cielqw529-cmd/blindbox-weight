@@ -2,7 +2,10 @@
   "series": [
     {
       "id": "rotating-starlight-series",
-      "name": "Rotating Starlight Series Figures",
+      "name": "CRYBABY|Rotating Starlight Series Figures",
+      "brand": "POP MART",
+      "ip": "CRYBABY",
+      "releaseDate": "2026-10-22",
       "note": "Weight and shake characteristics are based on individual samples and may vary between boxes.",
       "figures": [
         {
@@ -92,7 +95,10 @@
     },
     {
       "id": "kitty-series",
-      "name": "Kitty Series",
+      "name": "THE MONSTERS|Kitty Series",
+      "brand": "POP MART",
+      "ip": "THE MONSTERS",
+      "releaseDate": "2026-10-15",
       "note": "Weights and shake characteristics are for reference only. Actual box conditions may vary. Maine Coon Kitty (Secret) is the heaviest figure among the provided samples.",
       "figures": [
         {
