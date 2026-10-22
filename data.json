@@ -1,6 +1,63 @@
 {
   "series": [
     {
+      "id": "crybaby-crying-round-n-round-plush-pendant",
+      "name": "CRYBABY|Crying Round n Round Series - Vinyl Plush Pendant",
+      "brand": "POP MART",
+      "ip": "CRYBABY",
+      "releaseDate": "2026-10-22",
+      "note": "Weight and shake characteristics are based on individual samples and may vary between boxes.",
+      "figures": [
+        {
+          "name": "The Lion",
+          "weight": "110.20",
+          "feel": "Up/down: Clear overall box-hits, with noticeable rubbing against the box. Front/back: Very slight box-hits around the upper-middle area, with clicking sounds. Left/right: Very slight figure box-hits with a faint clunking feel. Pressing: The figure can be felt around the middle from front/back. Nothing can be felt from left/right/top/bottom.",
+          "spuId": "1056017982175604438",
+          "image": "https://treasure.qiandaocdn.com/treasure/images/fXoNCUlB4sf.png"
+        },
+        {
+          "name": "The Rabbit",
+          "weight": "109.25",
+          "feel": "Up/down: Clear overall rubbing and box-hits with a clunking feel. Front/back: Very slight box-hits with a faint clunking feel. Left/right: A tiny bit of space with slight box-hits, while the rest of the figure barely moves. Clear clicking sounds. Pressing: The figure can be felt around the middle from front/back. Nothing can be felt from left/right/top/bottom.",
+          "spuId": "1056017997208025556",
+          "image": "https://treasure.qiandaocdn.com/treasure/images/fXoNC5hOGmf.png"
+        },
+        {
+          "name": "The Elephant",
+          "weight": "109.58",
+          "feel": "Up/down: Clear overall box-hits with a noticeable clunking feel. Front/back: Very slight overall box-hits with rattling and clicking sounds. Left/right: Overall box-hits with a clunking feel. Pressing: The figure can be felt around the middle from front/back. Nothing can be felt from left/right/top/bottom.",
+          "spuId": "1056018009019141122",
+          "image": "https://treasure.qiandaocdn.com/treasure/images/fXoNCUlB4eV.png"
+        },
+        {
+          "name": "The Horse",
+          "weight": "110.38",
+          "feel": "Up/down: Clear overall box-hits with a noticeable clunking feel. Front/back: Clear box-hits around the middle with a clunking feel, but limited movement space. Left/right: Overall box-hits with limited space and a clunking feel. Pressing: The figure can be felt around the middle from front/back. Nothing can be felt from left/right/top/bottom.",
+          "spuId": "1056017988618089973",
+          "image": "https://treasure.qiandaocdn.com/treasure/images/fXoNC5hOGmr.png"
+        },
+        {
+          "name": "The Sheep",
+          "weight": "110.79",
+          "feel": "Up/down: Clear overall box-hits with a noticeable clunking feel. Front/back: Very slight figure box-hits with clicking sounds. Left/right: Slight figure box-hits with limited movement space. Pressing: Nothing can be felt from any of the six sides.",
+          "spuId": "1056018025125286784",
+          "image": "https://treasure.qiandaocdn.com/treasure/images/fXoNCUlB4sB.png"
+        },
+        {
+          "name": "The Pig",
+          "weight": "112.94",
+          "feel": "Up/down: Clear overall box-hits with noticeable rubbing sounds. Front/back: Clear overall box-hits with a clunking feel. Left/right: A tiny bit of space with slight overall box-hits. Pressing: The figure can be felt around the middle from front/back. Nothing can be felt from left/right/top/bottom.",
+          "spuId": "1056018015461608529",
+          "image": "https://treasure.qiandaocdn.com/treasure/images/fXoNCUlB4sL.png"
+        },
+        {
+          "name": "The Unicorn (Secret)",
+          "spuId": "1056017972511929209",
+          "image": "https://treasure.qiandaocdn.com/treasure/images/fXoNCUlB4s6.png"
+        }
+      ]
+    },
+    {
       "id": "rotating-starlight-series",
       "name": "CRYBABY|Rotating Starlight Series Figures",
       "brand": "POP MART",
