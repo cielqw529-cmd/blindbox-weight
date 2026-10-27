@@ -1,6 +1,77 @@
 {
   "series": [
     {
+      "id": "baby-molly-disney-princess-mini-action-figure",
+      "name": "BABY MOLLY|Disney Princess Series MINI Action Figure",
+      "brand": "POP MART",
+      "ip": "BABY MOLLY",
+      "releaseDate": "2026-10-27",
+      "note": "Weight and box-feel characteristics are based on individual samples and may vary between boxes.",
+      "figures": [
+        {
+          "name": "BABY MOLLY as Cinderella",
+          "weight": "115.42",
+          "feel": "Shaking vertically: The figure has a tiny bit of room to move, with faint rattling from the desiccant packet. Shaking front to back: Slight movement with a faint scraping sound against the box. Shaking left to right: A tiny bit of movement with a slight clunking sound. Pressing the front and back, as well as the top and bottom, produces a plastic-bag rustling sound. Pressing the sides produces a faint rustling sound.",
+          "spuId": "1058617214778763963",
+          "image": "https://treasure.qiandaocdn.com/treasure/images/fXjkAPem9U1.png"
+        },
+        {
+          "name": "BABY MOLLY as Moana",
+          "weight": "103.90",
+          "feel": "Shaking vertically: The figure has a tiny bit of room to move, but the desiccant packet rattles noticeably, producing distinct clicking and rustling sounds. Shaking front to back: The figure barely moves, but the desiccant packet makes noticeable clicking and rattling sounds. Shaking left to right: The figure has a tiny bit of room to move, with a slight clunking sensation and some rattling from the desiccant packet. Pressing all six sides produces faint plastic-bag rustling sounds.",
+          "spuId": "1058616922721008780",
+          "image": "https://treasure.qiandaocdn.com/treasure/images/fXjh5jeLXKN.png"
+        },
+        {
+          "name": "BABY MOLLY as Merida",
+          "weight": "106.37",
+          "feel": "Shaking vertically: The figure moves slightly and taps against the box, while the desiccant packet rubs against the box, producing a rattling sound. Shaking front to back: The figure has almost no room to move, and the desiccant packet lightly scrapes against the box. Shaking left to right: Slight overall movement, with scraping sounds and a clunking sensation. Pressing the front, back, left, and right sides produces faint plastic-bag rustling sounds. No noticeable sound when pressing the top or bottom.",
+          "spuId": "1058617190082696043",
+          "image": "https://treasure.qiandaocdn.com/treasure/images/fXjknKb4rDj.png"
+        },
+        {
+          "name": "BABY MOLLY as Rapunzel",
+          "weight": "108.19",
+          "feel": "Shaking vertically: The contents barely move, with only a very faint rattling sound from the desiccant packet. Shaking front to back and left to right: The figure does not move at all, but the desiccant packet makes noticeable rattling sounds. Pressing the front and back reveals the figure slightly around the lower-middle section. Pressing the sides also reveals the softer parts of the figure. Pressing the top and bottom produces faint plastic-bag rustling sounds.",
+          "spuId": "1058617198672631919",
+          "image": "https://treasure.qiandaocdn.com/treasure/images/fXjkI3AJqd1.png"
+        },
+        {
+          "name": "BABY MOLLY as Snow White",
+          "weight": "129.52",
+          "feel": "Shaking vertically: The figure barely moves, but the card inside makes a noticeable clicking sound against the box. Shaking front to back: The upper-middle section clearly knocks against the box, producing a clunking sound, although the movement is limited. Shaking left to right: The contents move and knock against the box overall, with faint plastic-bag rustling. Pressing all six sides produces faint plastic-bag rustling sounds.",
+          "spuId": "1058617222294980873",
+          "image": "https://treasure.qiandaocdn.com/treasure/images/fXjkOvEOlgy.png"
+        },
+        {
+          "name": "BABY MOLLY as Belle",
+          "weight": "123.00",
+          "feel": "Shaking vertically: The contents have a tiny bit of room to move and knock against the box. Shaking front to back: Slight overall movement with very little space; the lower-middle section knocks against the box more noticeably, producing a clunking sound. Shaking left to right: Slight overall movement with a faint clunking sensation. Pressing all six sides produces faint plastic-bag rustling sounds.",
+          "spuId": "1058616910909844737",
+          "image": "https://treasure.qiandaocdn.com/treasure/images/fXjh6ky5b0m.png"
+        },
+        {
+          "name": "BABY MOLLY as Ariel",
+          "weight": "106.52",
+          "feel": "Shaking vertically: Slight overall movement with very little space and a clunking sensation. Shaking front to back: The figure has almost no room to move, but the card makes a noticeable clicking sound against the box. Shaking left to right: The contents have a tiny bit of room to move, accompanied by a rustling sound from the desiccant packet. Pressing all six sides produces faint plastic-bag rustling sounds.",
+          "spuId": "1058617205115109102",
+          "image": "https://treasure.qiandaocdn.com/treasure/images/fXjkRj8Y06S.png"
+        },
+        {
+          "name": "BABY MOLLY as Mulan",
+          "weight": "114.60",
+          "feel": "Shaking vertically: Slight movement with plastic-bag rustling and a faint clunking sensation. Shaking front to back: The contents move and knock against the box, producing a faint clunking sound. Shaking left to right: Noticeable knocking against the box with a clear clunking sensation. Pressing the front and back produces noticeable plastic-bag rustling, while pressing the left, right, top, and bottom produces fainter rustling sounds.",
+          "spuId": "1058617178271560434",
+          "image": "https://treasure.qiandaocdn.com/treasure/images/fXjkE2zj8o9.png"
+        },
+        {
+          "name": "BABY MOLLY as Aurora (Secret)",
+          "spuId": "1058617343627802222",
+          "image": "https://treasure.qiandaocdn.com/treasure/images/fXjh8OPEE2T.png"
+        }
+      ]
+    },
+    {
       "id": "crybaby-crying-round-n-round-plush-pendant",
       "name": "CRYBABY|Crying Round n Round Series - Vinyl Plush Pendant",
       "brand": "POP MART",
