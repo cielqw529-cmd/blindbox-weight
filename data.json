@@ -272,16 +272,22 @@
         },
         {
           "name": "The Panda",
+        "weight": "125.6",
+        "feel": "Up/down: About half a finger of movement space, with the bottom knocking against the box. Front/back: The lower-middle area on the front artwork knocks against the box with about one finger of space; the contact is more noticeable when the box is turned upside down. Left/right: The figure does not move at all, with an obvious pressure point around the middle. Overall: Medium-heavy, with vertical movement space and clear contact around the middle when pressed from the sides. Accessories: Base and flagpole.",
           "spuId": "1056020505468915639",
           "image": "https://treasure.qiandaocdn.com/treasure/images/fXoHd5Meegw.png"
         },
         {
           "name": "The Leopard",
+        "weight": "122.6",
+        "feel": "Up/down: About one finger of movement space, with the bottom knocking against the box. Front/back: Slight movement, with faint box contact around the middle of the back. Left/right: The lower-middle area on the warning-label side makes light tapping sounds against the box and feels obstructed when gently pressed. Overall: Medium-light, with generous vertical space, slight front/back movement, and noticeable resistance from the sides. Accessories: Base and flagpole.",
           "spuId": "1056020483994077059",
           "image": "https://treasure.qiandaocdn.com/treasure/images/fXoHd5Meega.png"
         },
         {
           "name": "The Pig",
+        "weight": "115.6",
+        "feel": "Up/down: About one finger of movement space, with very obvious contact at the top of the box. Front/back: Clear box contact around the upper-middle area on the back, with about half a finger of space. Left/right: Clear tapping against the middle area on the illustrated side, with about one finger of space. Overall: The lightest figure in the series, with relatively large vertical space and box-contact points that can be matched across all four sides. Accessories: Base and flagpole.",
           "spuId": "1056020468961654720",
           "image": "https://treasure.qiandaocdn.com/treasure/images/fXoHdBabB3k.png"
         },
