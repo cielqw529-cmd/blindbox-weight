@@ -1,6 +1,105 @@
 {
   "series": [
     {
+      "id": "peach-riot-sugar-mode-series-figure",
+      "name": "PEACH RIOT|Sugar Mode Series Figure",
+      "brand": "POP MART",
+      "ip": "PEACH RIOT",
+      "releaseDate": "2026-10-29",
+      "note": "Weight and box-feel characteristics are based on individual samples and may vary between boxes.",
+      "figures": [
+        {
+          "name": "Banana Mode",
+          "weight": "97.4",
+          "feel": "Character: Gigi. Front & Back: Plenty of room to move. Knocks against the upper-right area of the back, slightly above the middle, and the upper part of the front. Left & Right: Knocks against the upper-middle part of the left side and hits the middle of the right side quite hard. Up & Down: About 1.5 fingers' width of space, with slight knocking at the top and bottom. Inside: Small desiccant packet.",
+          "spuId": "1058625268916219758",
+          "image": "https://treasure.qiandaocdn.com/treasure/images/fXF5VL3Hnyk.png"
+        },
+        {
+          "name": "Blueberry Mode",
+          "weight": "107.8",
+          "feel": "Character: Poppy. Front & Back: Slight movement, with gentle knocking against the upper part of the back. Up & Down: About 1.5 fingers' width of space. The figure and accessories hit the bottom together with moderate force. Left & Right: Accessories move and knock against the sides. Inside: Small desiccant packet, one large accessory and one small accessory.",
+          "spuId": "1058625249588821594",
+          "image": "https://treasure.qiandaocdn.com/treasure/images/fXF5nF4D3A8.png"
+        },
+        {
+          "name": "Strawberry Mode",
+          "weight": "115.4",
+          "feel": "Character: Frankie. Up & Down: About 1.5 fingers' width of space, with noticeable knocking against the bottom. Left & Right: Stronger knocking against the upper part of the right side. Front & Back: Slight movement, with gentle knocking against the middle of the back. Inside: Small desiccant packet, one large accessory and two small accessories.",
+          "spuId": "1058625259252494782",
+          "image": "https://treasure.qiandaocdn.com/treasure/images/fXF5nKuNGxi.png"
+        },
+        {
+          "name": "Blackberry Mode",
+          "weight": "91.2",
+          "feel": "Character: Gigi. Weight: The lightest in the entire series. Front & Back: The most room to move in the entire series, with strong knocking against the upper part of both sides. Left & Right: Plenty of room to move, with strong knocking against the upper part of the left side. Up & Down: The contents feel quite loose. The figure, collector card, and large desiccant packet all move together. Inside: Large desiccant packet.",
+          "spuId": "1058625190533006115",
+          "image": "https://treasure.qiandaocdn.com/treasure/images/fXF5bsxC7rt.png"
+        },
+        {
+          "name": "Cherry Mode",
+          "weight": "115.6",
+          "feel": "Character: Poppy. Up & Down: Plenty of room to move, with strong knocking at both ends. You can clearly feel a large, block-shaped accessory hitting the box. Left & Right: Accessories knock strongly against the lower part of both sides. Front & Back: The figure and accessories move slightly and feel like separate pieces. Inside: Small desiccant packet and a large accessory.",
+          "spuId": "1058625194827974725",
+          "image": "https://treasure.qiandaocdn.com/treasure/images/fXF5bVPCrw7.png"
+        },
+        {
+          "name": "Kiwi Mode",
+          "weight": "121.7",
+          "feel": "Character: Frankie. Up & Down / Front & Back: Very snug, with only the desiccant packet rattling. Left & Right: Knocking against the lower part of the right side, accompanied by slight accessory movement. Inside: Small desiccant packet, one large accessory and one small accessory.",
+          "spuId": "1058625232408949728",
+          "image": "https://treasure.qiandaocdn.com/treasure/images/fXF5EzRMoGV.png"
+        },
+        {
+          "name": "Guava Mode",
+          "weight": "98.7",
+          "feel": "Character: Gigi. Front & Back: Gentle knocking slightly above and to the right of the middle of the front. Left & Right: Knocks against the upper part of the right side. Up & Down: Accessories knock against the bottom. Inside: Small desiccant packet and two large accessories.",
+          "spuId": "1058625240998885629",
+          "image": "https://treasure.qiandaocdn.com/treasure/images/fXF5EYXj29a.png"
+        },
+        {
+          "name": "Coconut Mode",
+          "weight": "121.8",
+          "feel": "Character: Poppy. Front & Back: Very snug, with only a fairly loud desiccant rattling sound. Up & Down: Slight movement with loud desiccant rattling. Left & Right: Accessories knock against both sides. Inside: Large desiccant packet and a large accessory.",
+          "spuId": "1058625171205667075",
+          "image": "https://treasure.qiandaocdn.com/treasure/images/fXF6oicjolu.png"
+        },
+        {
+          "name": "Orange Mode",
+          "weight": "115.7",
+          "feel": "Character: Frankie. Up & Down: About 2.5 fingers' width of space, with strong knocking against the bottom. Front & Back: Gentle knocking against the middle of the front. Left & Right: Stronger knocking against the lower-middle part of the right side, with loud desiccant rattling. Inside: Large desiccant packet.",
+          "spuId": "1058625183016854973",
+          "image": "https://treasure.qiandaocdn.com/treasure/images/fXF6oYPSqXD.png"
+        },
+        {
+          "name": "Sour Watermelon Mode",
+          "weight": "108.4",
+          "feel": "Character: Gigi. Front & Back: Very slight movement, with gentle knocking against the middle of the front and some desiccant rattling. Up & Down: Knocking at both ends. The large desiccant packet and accessories hit the bottom. Left & Right: The large base accessory moves and knocks noticeably against both sides. Inside: Large desiccant packet and a large accessory.",
+          "spuId": "1058625210934110640",
+          "image": "https://treasure.qiandaocdn.com/treasure/images/fXF6UK5xjLV.png"
+        },
+        {
+          "name": "Grape Mode",
+          "weight": "113.1",
+          "feel": "Character: Frankie. Up & Down: About two fingers' width of space, with fairly strong knocking at both ends. Left & Right: Noticeable knocking against the upper part of the right side. Front & Back: The contents feel relatively loose, with slight movement. Inside: Medium-sized desiccant packet, one large accessory and two small accessories.",
+          "spuId": "1058625202344173994",
+          "image": "https://treasure.qiandaocdn.com/treasure/images/fXF65bXvTMG.png"
+        },
+        {
+          "name": "Apple Mode",
+          "weight": "124.1",
+          "feel": "Character: Poppy. Weight: The heaviest in the entire series. Up & Down: Knocking at both ends, lighter at the top and stronger at the bottom. Front & Back: Slight movement, with knocking against the middle-right area of the front. Left & Right: You can feel the figure and accessories moving together, with slight knocking against the sides. Inside: Small desiccant packet and two large accessories.",
+          "spuId": "1058625225966537497",
+          "image": "https://treasure.qiandaocdn.com/treasure/images/fXF65ohBulv.png"
+        },
+        {
+          "name": "Peach Mode (Secret)",
+          "spuId": "1058625275358630256",
+          "image": "https://treasure.qiandaocdn.com/treasure/images/fXj0NARSp35.png"
+        }
+      ]
+    },
+    {
       "id": "angry-molly-disney-princesses",
       "name": "ANGRY MOLLY|Angry Molly × Disney Princesses",
       "brand": "POP MART",
