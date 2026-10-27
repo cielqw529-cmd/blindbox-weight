@@ -1,6 +1,77 @@
 {
   "series": [
     {
+      "id": "angry-molly-disney-princesses",
+      "name": "ANGRY MOLLY|Angry Molly × Disney Princesses",
+      "brand": "POP MART",
+      "ip": "ANGRY MOLLY",
+      "releaseDate": "2026-10-27",
+      "note": "Weight and box-feel characteristics are based on individual samples and may vary between boxes.",
+      "figures": [
+        {
+          "name": "Mulan",
+          "weight": "95.5",
+          "feel": "Up & Down: The figure is stuck in place, but the card rattles noticeably. Front & Back: The figure knocks against the upper part of the box. Left & Right: The figure stays firmly in place. Only the card can be heard rattling.",
+          "spuId": "1058614111664896426",
+          "image": "https://treasure.qiandaocdn.com/treasure/images/fXFi7zWDigW.jpg"
+        },
+        {
+          "name": "Aurora",
+          "weight": "97.1",
+          "feel": "Up & Down: Plenty of room to move, but the knocking sensation is very faint. Front & Back: Slight knocking against the upper-middle part of the box. Left & Right: Feels quite snug. The figure stays in place when shaken.",
+          "spuId": "1058614085895076615",
+          "image": "https://treasure.qiandaocdn.com/treasure/images/fXFiPVrHfLX.jpg"
+        },
+        {
+          "name": "Cinderella",
+          "weight": "99.1",
+          "feel": "Up & Down: A little room to move, with a slight knocking sensation. All Four Sides: Plenty of space. The figure knocks against the upper-middle part of the box in all four directions.",
+          "spuId": "1058614140655939680",
+          "image": "https://treasure.qiandaocdn.com/treasure/images/fXFiGaqMbC5.jpg"
+        },
+        {
+          "name": "Rapunzel",
+          "weight": "102.2",
+          "feel": "Up & Down: The figure is relatively tall, leaving limited vertical space, but the knocking sensation is noticeable. All Four Sides: Noticeable knocking against the upper-middle part of the box. The figure clearly feels top-heavy.",
+          "spuId": "1058614123476059349",
+          "image": "https://treasure.qiandaocdn.com/treasure/images/fXFi7OMCRTb.jpg"
+        },
+        {
+          "name": "Snow White",
+          "weight": "102.1",
+          "feel": "Up & Down: Very snug with almost no movement. Only the card can be heard rattling. Front & Back: Knocks against the upper half of the box. Left & Right: Slight movement with noticeable card rattling. Overall, the lower part of the box feels tightly packed.",
+          "spuId": "1058614094485019847",
+          "image": "https://treasure.qiandaocdn.com/treasure/images/fXFiPGwgFZf.jpg"
+        },
+        {
+          "name": "Little Ariel",
+          "weight": "102.3",
+          "feel": "Up & Down: About one finger's width of space, with noticeable knocking. Front & Back: Evenly distributed space, with no specific knocking point. Left & Right: The figure stays stuck in place. Only the card can be heard rattling.",
+          "spuId": "1058614079452652469",
+          "image": "https://treasure.qiandaocdn.com/treasure/images/fXFiGgjuN8J.jpg"
+        },
+        {
+          "name": "Cinderella-Special Edition",
+          "weight": "102.7",
+          "feel": "Up & Down: About one finger's width of space, with noticeable knocking. Front & Back: Knocks against the box around Molly's red hat. Left & Right: The figure stays in place, but the card rattles noticeably.",
+          "spuId": "1058614130992280486",
+          "image": "https://treasure.qiandaocdn.com/treasure/images/fXFiGSGMYkI.jpg"
+        },
+        {
+          "name": "Belle",
+          "weight": "105.5",
+          "feel": "Up & Down: A little room to move, with noticeable card rattling. Front & Back: Noticeable knocking against the upper half of the box. All Four Sides: The figure feels stuck in place, while the card rattles noticeably.",
+          "spuId": "1058614105222469793",
+          "image": "https://treasure.qiandaocdn.com/treasure/images/fXFi7vZNMH4.jpg"
+        },
+        {
+          "name": "Snow White-Special Edition (Secret)",
+          "spuId": "1058614146024651422",
+          "image": "https://treasure.qiandaocdn.com/treasure/images/fXFiGmkML7l.jpg"
+        }
+      ]
+    },
+    {
       "id": "baby-molly-disney-princess-mini-action-figure",
       "name": "BABY MOLLY|Disney Princess Series MINI Action Figure",
       "brand": "POP MART",
