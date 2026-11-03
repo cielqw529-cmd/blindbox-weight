@@ -1,6 +1,107 @@
 {
   "series": [
     {
+      "id": "dimoo-flying-fantasia",
+      "name": "DIMOO|Flying Fantasia Series Figures",
+      "brand": "POP MART",
+      "ip": "DIMOO",
+      "releaseDate": "2026-11-05",
+      "note": "Weight and box-feel characteristics are based on individual samples and may vary between boxes.",
+      "figures": [
+        {
+          "name": "Straight to Your Heart",
+          "weight": "101.5",
+          "feel": "Only a tiny bit of shake vertically. It feels packed inside. No shake front-to-back at all. You can feel it hitting the box side-to-side.",
+          "spuId": "1061218641036470308",
+          "image": "https://prod-global-biz.popmart.com/globalAdmin/1793349125936_c1a6fe4d68a4ada70417d1d6ef97412c.jpg?x-oss-process=image%2Fresize%2Cw_160%2Fquality%2Cq_90%2Fformat%2Cwebp"
+        },
+        {
+          "name": "Greetings from the Puppy",
+          "weight": "110",
+          "feel": "Very little vertical room. It can shake gently front, back, left and right.",
+          "spuId": "1061218598086791204",
+          "image": "https://prod-global-biz.popmart.com/globalAdmin/1793349144396_64fb203b47cf4f859c2941c0e2b534ba.jpg?x-oss-process=image%2Fresize%2Cw_160%2Fquality%2Cq_90%2Fformat%2Cwebp"
+        },
+        {
+          "name": "Rainbow Parachute",
+          "weight": "112.5",
+          "feel": "No shake vertically or front-to-back with hits against the box. Only a small gap left and right, light tapping on the sides.",
+          "spuId": "1061218693649800772",
+          "image": "https://prod-global-biz.popmart.com/globalAdmin/1793349127918_fdc7e80a601bb29cbe54d4947db8df7d.jpg?x-oss-process=image%2Fresize%2Cw_160%2Fquality%2Cq_90%2Fformat%2Cwebp"
+        },
+        {
+          "name": "Spin It All Away",
+          "weight": "118.8",
+          "feel": "Space for half a finger vertically. It taps the box at the upper front cover when shaken front-to-back, and taps on the art sheet side when shaken left-right.",
+          "spuId": "1061218650700121405",
+          "image": "https://prod-global-biz.popmart.com/globalAdmin/1793349159030_dfb6f5e8370460f35f5006aeeeb42300.jpg?x-oss-process=image%2Fresize%2Cw_160%2Fquality%2Cq_90%2Fformat%2Cwebp"
+        },
+        {
+          "name": "Wandering Paper Crane",
+          "weight": "121.2",
+          "feel": "One finger of space vertically. It taps the upper box front-to-back, fully packed with zero side-to-side movement.",
+          "spuId": "1061218632446534451",
+          "image": "https://prod-global-biz.popmart.com/globalAdmin/1793349136696_e736fb965bbc5b867d66baca5e4e7842.jpg?x-oss-process=image%2Fresize%2Cw_160%2Fquality%2Cq_90%2Fformat%2Cwebp"
+        },
+        {
+          "name": "Up to No Good",
+          "weight": "128.5",
+          "feel": "Loud tapping on the upper box side-to-side. No shake vertically or front-to-back; the box is tightly packed.",
+          "spuId": "1061218622782864679",
+          "image": "https://prod-global-biz.popmart.com/globalAdmin/1793349147664_9538365838f5457c65fd54f87b7b08b4.jpg?x-oss-process=image%2Fresize%2Cw_160%2Fquality%2Cq_90%2Fformat%2Cwebp"
+        },
+        {
+          "name": "Our Secret Code",
+          "weight": "130.5",
+          "feel": "Two fingers of vertical space! Lots of front-to-back room, tapping at the cover. Less space side-to-side but still tapping the box.",
+          "spuId": "1061218666806277775",
+          "image": "https://prod-global-biz.popmart.com/globalAdmin/1793349131535_bafdb849ae2b55913db5454ba1a51214.jpg?x-oss-process=image%2Fresize%2Cw_160%2Fquality%2Cq_90%2Fformat%2Cwebp"
+        },
+        {
+          "name": "Bee the Knight",
+          "weight": "132.9",
+          "feel": "Only slight vertical shake with limited room. Loud tapping on the upper box side-to-side, light brushing against the box front-to-back.",
+          "spuId": "1061218686133657824",
+          "image": "https://prod-global-biz.popmart.com/globalAdmin/1793349165810_80ea292d590ceb2d3d15d2343f093ff4.jpg?x-oss-process=image%2Fresize%2Cw_160%2Fquality%2Cq_90%2Fformat%2Cwebp"
+        },
+        {
+          "name": "Sail Under the Moonlight",
+          "weight": "143.1",
+          "feel": "Little vertical space. No front-to-back shake and you can feel a prominent bulge. No side-to-side shake with hits against the box.",
+          "spuId": "1061218607750507461",
+          "image": "https://prod-global-biz.popmart.com/globalAdmin/1793349162506_77c85de2ad45dfc302a100206c60f522.jpg?x-oss-process=image%2Fresize%2Cw_160%2Fquality%2Cq_90%2Fformat%2Cwebp"
+        },
+        {
+          "name": "The Cloud Next Door",
+          "weight": "151",
+          "feel": "Strong heavy feel. Only slight vertical shake, light tapping side-to-side, tapping on the upper half front.",
+          "spuId": "1061218674322480018",
+          "image": "https://prod-global-biz.popmart.com/globalAdmin/1793349151246_345cde14faa151c3bf0d2e18b9851ed3.jpg?x-oss-process=image%2Fresize%2Cw_160%2Fquality%2Cq_90%2Fformat%2Cwebp"
+        },
+        {
+          "name": "Sour Gummy Gravity",
+          "weight": "176.5",
+          "feel": "Heaviest in the whole set! Almost no vertical room, light tapping side-to-side, zero front-to-back shake.",
+          "spuId": "1061218660363850526",
+          "image": "https://prod-global-biz.popmart.com/globalAdmin/1793349154744_84dd2ba2c8341e164360bd30c7458cfc.jpg?x-oss-process=image%2Fresize%2Cw_160%2Fquality%2Cq_90%2Fformat%2Cwebp"
+        },
+        {
+          "name": "Captain Cardboard, Take Off!",
+          "weight": "128.4",
+          "feel": "Vertical: Just a sliver of space, barely shakes, very packed.\nFront/Left-Right: Tightly filled all around, even more packed than vertically, no shake or free space.",
+          "spuId": "1061218614192928578",
+          "image": "https://prod-global-biz.popmart.com/globalAdmin/1793349141070_0ed576624d4e86fb03e79b1152ca0029.jpg?x-oss-process=image%2Fresize%2Cw_160%2Fquality%2Cq_90%2Fformat%2Cwebp"
+        },
+        {
+          "name": "My Flying Trails (Secret)",
+          "weight": "129.4",
+          "feel": "Vertical: Half a finger of space, very slight shake. Front/Left-Right: Around one finger gap, plenty of room. Clear tapping on the lower half of the box. It comes with a thick card; the sound of the thick card is distinct and heavier than regular cards.",
+          "spuId": "1061218591644363869",
+          "image": "https://prod-global-biz.popmart.com/globalAdmin/1793349168756_5d1fded8047fd15281188a8d6949ee38.jpg?x-oss-process=image%2Fresize%2Cw_160%2Fquality%2Cq_90%2Fformat%2Cwebp"
+        }
+      ]
+    },
+    {
       "id": "peach-riot-sugar-mode-series-figure",
       "name": "PEACH RIOT|Sugar Mode Series Figure",
       "brand": "POP MART",
