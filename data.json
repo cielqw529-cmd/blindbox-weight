@@ -1,6 +1,91 @@
 {
   "series": [
     {
+      "id": "wishes-come-true-plush-pendant",
+      "name": "POP MART|Wishes Come True Series - Plush Pendant Blind Box",
+      "brand": "POP MART",
+      "ip": "POP MART",
+      "releaseDate": "2026-11-12",
+      "note": "Weight and box-feel characteristics are based on individual samples and may vary between boxes. Weight and box-feel details for Polar in the Pine (Secret) are not available yet.",
+      "figures": [
+        {
+          "name": "DIMOO – Merry Mulled",
+          "weight": "145.1",
+          "feel": "Up and down: Slight movement.\nFront to back: The contents hit the upper part of the front panel.\nSide to side: Clear knocking against the checklist panel.",
+          "spuId": "1063809013122104275",
+          "image": "https://prod-global-biz.popmart.com/globalAdmin/1793959563213_b25bd1c553b8f10e11d1cb7a2f8805a3.png"
+        },
+        {
+          "name": "SKULLPANDA – Riddle Surprise",
+          "weight": "167.2",
+          "feel": "The heaviest box in the case!\nUp and down: Plenty of room to move.\nFront to back / side to side: Light contact with the box, accompanied by the sound of the desiccant packet. The lower half feels tightly packed.",
+          "spuId": "1063809031375746792",
+          "image": "https://prod-global-biz.popmart.com/globalAdmin/1793959553580_9559a40407e3a5100bb8cfb8d2ff53c5.png"
+        },
+        {
+          "name": "POLAR – Crazy Deer",
+          "weight": "143.9",
+          "feel": "Up and down: Slight movement.\nFront to back: The desiccant packet and keyring clearly hit the lower part of the box.\nSide to side: No movement.\nThe desiccant packet is clearly audible.",
+          "spuId": "1063808997016001092",
+          "image": "https://prod-global-biz.popmart.com/globalAdmin/1793959498688_932185e144e9b03619bdeada64772dba.png"
+        },
+        {
+          "name": "1001MOONS-Hatti – Wish Crew",
+          "weight": "126.6",
+          "feel": "Up and down: Clear thumping against the bottom of the box.\nFront to back: The contents clearly hit the middle-to-lower part of the front panel.\nSide to side: Contact with the checklist panel.",
+          "spuId": "1063808977688618018",
+          "image": "https://prod-global-biz.popmart.com/globalAdmin/1793959587319_bf3ff92b86aaef6d0249db3afd7e9a31.png"
+        },
+        {
+          "name": "HACIPUPU – Sweet Snow",
+          "weight": "132.3",
+          "feel": "Feels tightly packed!\nUp and down: No movement.\nFront to back: No movement; only the desiccant packet can be heard.\nSide to side: Light contact with the upper part of the checklist panel.",
+          "spuId": "1063809004532167870",
+          "image": "https://prod-global-biz.popmart.com/globalAdmin/1793959472518_6f0de9659d5a6173c85e05cf1d82b1e7.png"
+        },
+        {
+          "name": "BABY MOLLY – Gingerbread Bear",
+          "weight": "122.5",
+          "feel": "The lightest box in the case!\nUp and down: No movement.\nSide to side: Contact with the checklist panel.\nFront to back: Light contact around the middle of the box.",
+          "spuId": "1063809023859555113",
+          "image": "https://prod-global-biz.popmart.com/globalAdmin/1793959512509_1bc8fde64727e349737bcb1652dbb97b.png"
+        },
+        {
+          "name": "CRYBABY – You Better Not Cry",
+          "weight": "151",
+          "feel": "Up and down: No movement; only the desiccant packet can be heard.\nFront to back: Plenty of room to move, with knocking against the middle-to-lower part of the box.\nSide to side: Less room to move than front to back.",
+          "spuId": "1063808989499809312",
+          "image": "https://prod-global-biz.popmart.com/globalAdmin/1793959530334_101a009ed5a6d7a10279456415b15cec.png"
+        },
+        {
+          "name": "ZSIGA – Pretzel Hug",
+          "weight": "154.8",
+          "feel": "Up and down: Tightly packed, with no movement.\nFront to back: Contact with the front panel.\nSide to side: Knocking around the middle of the box.",
+          "spuId": "1063808972319934566",
+          "image": "https://prod-global-biz.popmart.com/globalAdmin/1793959579507_191e4f7c11fd023af123790d2c4d5f3f.png"
+        },
+        {
+          "name": "TWINKLE TWINKLE – Lucky Twinkle",
+          "weight": "144.8",
+          "feel": "Feels tightly packed in hand!\nUp and down: No movement; only the desiccant packet can be heard.\nFront to back / side to side: No movement. Only the desiccant packet and card are audible.",
+          "spuId": "1063809041039361218",
+          "image": "https://prod-global-biz.popmart.com/globalAdmin/1793959521351_71420bb1f040f89549932433077656d7.png"
+        },
+        {
+          "name": "LABUBU – BUBU Bell",
+          "weight": "152",
+          "feel": "Up and down: A little room to move.\nFront to back: No movement. The middle-to-lower part of the box bulges noticeably.\nSide to side: A little room to move.",
+          "spuId": "1063809047481850252",
+          "image": "https://prod-global-biz.popmart.com/globalAdmin/1793959571554_2fc3176ac65555e438158d15beaef086.png"
+        },
+        {
+          "name": "POLAR – Polar in the Pine (Secret)",
+          "spuId": "1063808963729994978",
+          "image": "https://prod-global-biz.popmart.com/globalAdmin/1793959484074_d3a9f73dbcdcf3e1b20c320e33733c18.png"
+        }
+      ]
+    },
+    {
       "id": "dimoo-flying-fantasia",
       "name": "DIMOO|Flying Fantasia Series Figures",
       "brand": "POP MART",
