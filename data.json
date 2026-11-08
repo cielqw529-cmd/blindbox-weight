@@ -86,6 +86,65 @@
       ]
     },
     {
+      "id": "dimoo-mood-forecast-plush-pendant",
+      "name": "DIMOO|Mood Forecast Series - Vinyl Plush Pendant Blind Box",
+      "brand": "POP MART",
+      "ip": "DIMOO",
+      "releaseDate": "2026-11-05",
+      "note": "Weight and box-feel characteristics are based on individual samples and may vary between boxes.",
+      "figures": [
+        {
+          "name": "Balmy Wind",
+          "weight": "147",
+          "feel": "Lightest figure on the shelf\nUp/Down: Lots of room; the figure clearly knocks against the top and bottom of the box\nLeft/Right & Front/Back: Equally roomy; obvious knocking on all four sides as well\nSummary: Overall the box feels very empty — the figure knocks against all six faces",
+          "spuId": "1061212258715075863",
+          "image": "https://prod-global-biz.popmart.com/globalAdmin/1793349480101_fcd7f7942b4eaa085277415f4ba4f916.jpg"
+        },
+        {
+          "name": "Radiant Rainbow",
+          "weight": "156",
+          "feel": "Up/Down: Plenty of vertical room; when shaken, the figure clearly knocks and thuds against the box\nLeft/Right: Very little room, only a hair of space; slight wiggling\nFront/Back: Likewise very little room; slight wiggling\nSummary: Roomy vertically, tight on left/right and front/back",
+          "spuId": "1061212523929318574",
+          "image": "https://prod-global-biz.popmart.com/globalAdmin/1793349473498_6c1115822b73092c4a09b947ee488f3b.jpg"
+        },
+        {
+          "name": "Gale Warning",
+          "weight": "151.2",
+          "feel": "Up/Down: Lots of room; the figure knocks against the top and bottom when shaken\nLeft/Right: Very little room, only a hair of space; barely moves when shaken\nFront/Back: Some room but not much; faint knocking when shaken front-to-back\nSummary: Front/back room is smaller than vertical room; left/right is tight",
+          "spuId": "1061212535740466789",
+          "image": "https://prod-global-biz.popmart.com/globalAdmin/1793349470418_7c6b1a4913c7b2c8871d766b54b6ced3.jpg"
+        },
+        {
+          "name": "Gloomy Overcast",
+          "weight": "160.2",
+          "feel": "Up/Down: Very little room, just a hair of space; light tapping against the box\nLeft/Right & Front/Back: All four sides are similarly tight with only a tiny gap; the figure can wiggle with very faint knocking; overall feels fairly packed\nSummary: Heaviest of the regular lineup — only a hair of space on all six faces, with faint tapping and knocking on every side",
+          "spuId": "1061212518560581068",
+          "image": "https://prod-global-biz.popmart.com/globalAdmin/1793349476682_604a98b4c71583380542ca5542cfe5c6.jpg"
+        },
+        {
+          "name": "Overwhelming Storm",
+          "weight": "158",
+          "feel": "Up/Down: Almost no room; doesn't move at all when shaken\nLeft/Right & Front/Back: Packed tight all around; no room to move when shaken\nSummary: Tight on all six faces — feels even tighter than Cerulean Sky. Pick two tight boxes and compare them side by side to tell the difference",
+          "spuId": "1061212249051417582",
+          "image": "https://prod-global-biz.popmart.com/globalAdmin/1793349483880_c404dafdd88e374b8857b3bef4bd8d40.jpg"
+        },
+        {
+          "name": "Cerulean Sky",
+          "weight": "156.9",
+          "feel": "Up/Down: Very tight; shaking vertically produces only the rustle of the desiccant packet\nLeft/Right & Front/Back: Very tight, basically immovable; with a hard shake, the upper half of the box feels slightly tighter than the lower half\nSummary: Tight on all six faces with no room on any side; the upper half feels tighter than the lower half",
+          "spuId": "1061212544330409639",
+          "image": "https://prod-global-biz.popmart.com/globalAdmin/1793349467380_637fe335475699d29a1bf80f84373353.jpg"
+        },
+        {
+          "name": "Fiery Sunset (Secret)",
+          "weight": "167.5",
+          "feel": "The heaviest in the entire series — go for the heavy boxes first\nUp/Down: About one finger-width of room; it thuds against the bottom of the box\nLeft/Right: Roughly one finger-width of room; it knocks at the middle of the catalog/guide face\nFront/Back: Slightly less room than left/right; overall the secret figure is fairly lively, with room on all six faces\nWhat to look for: A box with a clear weight gap (noticeably heavier than the rest) that still has room on all six faces",
+          "spuId": "1061212242608952160",
+          "image": "https://prod-global-biz.popmart.com/globalAdmin/1793349486775_9df6b6b1b49a3e3020bf9ef788980b6b.jpg"
+        }
+      ]
+    },
+    {
       "id": "dimoo-flying-fantasia",
       "name": "DIMOO|Flying Fantasia Series Figures",
       "brand": "POP MART",
