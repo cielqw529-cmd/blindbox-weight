@@ -6,7 +6,7 @@
       "brand": "POP MART",
       "ip": "POP MART",
       "releaseDate": "2026-11-12",
-      "note": "Weight and box-feel characteristics are based on individual samples and may vary between boxes. Weight and box-feel details for Polar in the Pine (Secret) are not available yet.",
+      "note": "Weight and box-feel characteristics are based on individual samples and may vary between boxes.",
       "figures": [
         {
           "name": "DIMOO – Merry Mulled",
@@ -80,6 +80,8 @@
         },
         {
           "name": "POLAR – Polar in the Pine (Secret)",
+          "weight": "162.5",
+          "feel": "Up and down — Packed tight, with no room to move.\nFront to back — A tiny bit of room. The figure barely shifts when you shake the box.\nSide to side — A snug fit, with no room to shift sideways.\n\nOne of the heaviest boxes in the set. It weighs about the same as SP, so pay attention to how each box feels when you shake it to tell them apart.",
           "spuId": "1063808963729994978",
           "image": "https://prod-global-biz.popmart.com/globalAdmin/1793959484074_d3a9f73dbcdcf3e1b20c320e33733c18.png"
         }
