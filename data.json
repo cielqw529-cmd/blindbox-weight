@@ -1,6 +1,107 @@
 {
   "series": [
     {
+      "id": "the-monsters-secret-gallery",
+      "name": "THE MONSTERS|Secret Gallery Series Figures",
+      "brand": "POP MART",
+      "ip": "THE MONSTERS",
+      "releaseDate": "2026-11-19",
+      "note": "Weight and box-feel characteristics are based on individual samples and may vary between boxes.",
+      "figures": [
+        {
+          "name": "A Touch of Creation (Secret)",
+          "weight": "173",
+          "feel": "Up and down — Clear knocking sounds when shaken vertically. This secret figure has a large accessory that can be clearly heard hitting the bottom of the box.\nSide to side — Fairly snug, with just a tiny bit of space. Pressing the lower-middle part of the box lets you feel the figure, but it does not press against opposite sides.\nFront to back — A tiny bit of space, with light tapping against the box.",
+          "spuId": "1066406781141447015",
+          "image": "https://prod-global-biz.popmart.com/globalAdmin/1794557280171_d87f203c18ab135d2e1f97b32bc9b4be.png"
+        },
+        {
+          "name": "Night Patrol",
+          "weight": "143",
+          "feel": "Up and down — About half a finger’s width of space, with light tapping when shaken vertically.\nSide to side — Almost no movement. The figure presses against both sides around the middle of the box.\nFront to back — Less room than vertically. Very little space, with faint tapping.\nDepending on how the figure is positioned, the side-to-side and front-to-back feel may be reversed.",
+          "spuId": "1066406758592867646",
+          "image": "https://prod-global-biz.popmart.com/globalAdmin/1794557263453_9e72be55b901c5e870ec1cc3b3fde7eb.png"
+        },
+        {
+          "name": "Earth’s Gift",
+          "weight": "135.5",
+          "feel": "Up and down — About half a finger’s width of space. Very little room, with slight movement.\nSide to side — No obvious pressure against opposite sides. Gently pressing the lower part of the box lets you feel the figure’s body.\nFront to back — Very little space. The figure taps against the middle of the box.",
+          "spuId": "1066406769330265029",
+          "image": "https://prod-global-biz.popmart.com/globalAdmin/1794557181154_bcdb954ed7fcba71a9e8d7c3285ce03c.png"
+        },
+        {
+          "name": "Breezy Interlude",
+          "weight": "136.5",
+          "feel": "Up and down — A tiny bit of space, with light tapping.\nSide to side — Extremely snug in the lower part of the box. The figure pushes against both sides, making the box bulge.\nFront to back — Clear knocking around the upper-middle part of the box. Pressing the box produces a plastic bag rustling sound.",
+          "spuId": "1066406743560454133",
+          "image": "https://prod-global-biz.popmart.com/globalAdmin/1794557237574_eb2e24d1f6afb5362b743f5ea484aeb1.png"
+        },
+        {
+          "name": "Courtly Tableau",
+          "weight": "179.4",
+          "feel": "The heaviest box in the set, with a noticeably hefty feel.\nUp and down — Very little space. The figure’s body stays still, while the accessory clearly knocks against the box.\nSide to side — A tiny bit of space. A snug fit without pressing against opposite sides, with light tapping against the panel showing the figure lineup.\nFront to back — A tiny bit of space, with slight movement of the whole figure. You can feel the body when pressing the box, but it does not press against opposite sides.",
+          "spuId": "1066406772551511524",
+          "image": "https://prod-global-biz.popmart.com/globalAdmin/1794557172691_595762a113b384d26989aba2e73460db.png"
+        },
+        {
+          "name": "Blossom Whimsy",
+          "weight": "136.9",
+          "feel": "Up and down — No room to move.\nSide to side — A little space, with tapping and a slight clunking sound.\nFront to back — Very little space, with almost no movement. The whole figure shifts slightly, and the accessory can be heard tapping against the box.",
+          "spuId": "1066406748929145825",
+          "image": "https://prod-global-biz.popmart.com/globalAdmin/1794557271659_fa35d6332649eb69d00bfad90f0b76d4.png"
+        },
+        {
+          "name": "Ballet Steps",
+          "weight": "115.6",
+          "feel": "Up and down — About one finger’s width of space. The whole figure taps lightly against the box.\nSide to side — Very little space, with slight movement and faint tapping.\nFront to back — No room to move. Pressing the box produces a plastic bag rustling sound.\nLight but snug, with a little vertical room and a close fit all around. Easy to identify by feel.",
+          "spuId": "1066406714569399521",
+          "image": "https://prod-global-biz.popmart.com/globalAdmin/1794557163830_7aaacdd82f084f14e6a2e38be5964468.png"
+        },
+        {
+          "name": "Milk Bath",
+          "weight": "118.8",
+          "feel": "Up and down — About half a finger’s width of space. The figure’s body taps lightly against the box.\nSide to side — Clear knocking around the middle of the box.\nFront to back — A tiny bit of space, with light tapping from the figure’s body. You can feel it bump against your hand around the middle of the box.",
+          "spuId": "1066406756445357826",
+          "image": "https://prod-global-biz.popmart.com/globalAdmin/1794557246107_6da7ec61c7b9dcf36ff575234e0f2710.png"
+        },
+        {
+          "name": "Motion in Stillness",
+          "weight": "163.8",
+          "feel": "Up and down — About one finger’s width of space, though movement feels minimal, with tapping and plastic bag rustling.\nSide to side — Slight movement, with clear tapping from the desiccant packet. You can feel the figure’s body when pressing the box.\nFront to back — A snug fit. The lower part feels wedged in, pressing against opposite sides.",
+          "spuId": "1066406733896797451",
+          "image": "https://prod-global-biz.popmart.com/globalAdmin/1794557147589_068f40a71a9edbaab51ffd15450b76f0.png"
+        },
+        {
+          "name": "Eternity Muse",
+          "weight": "111.5",
+          "feel": "Up and down — No space. The figure is tall and presses against both the top and bottom of the box.\nSide to side — Little space. The figure’s body knocks against the middle of the box.\nFront to back — Slight movement, with almost no shaking. The desiccant packet makes a loud rattling sound.",
+          "spuId": "1066406705979463772",
+          "image": "https://prod-global-biz.popmart.com/globalAdmin/1794557228700_5d224d4db4fd5b73338259dad1ead3c7.png"
+        },
+        {
+          "name": "Mountain Reverie",
+          "weight": "139.2",
+          "feel": "Up and down — About one and a half fingers’ width of space, with clear knocking and thudding.\nSide to side — Very little space, with almost no movement. If you shake the figure down to the bottom, pressing the box may reveal pressure against opposite sides. The figure is fairly wide.\nFront to back — The figure’s body knocks against the middle of the front panel.",
+          "spuId": "1066406721011891305",
+          "image": "https://prod-global-biz.popmart.com/globalAdmin/1794557138363_edf1fe10d8b2686f408d89202638877c.png"
+        },
+        {
+          "name": "Romance Moment",
+          "weight": "147.1",
+          "feel": "Up and down — A snug fit, with almost no space.\nSide to side — Clear knocking around the upper-middle part of the box.\nFront to back — Little space, with knocking around the upper-middle part. You can feel something when pressing the middle of the box, but it does not press against opposite sides.",
+          "spuId": "1066406731749273938",
+          "image": "https://prod-global-biz.popmart.com/globalAdmin/1794557155875_e269148e63a3c9a0074e32090e8cd65e.png"
+        },
+        {
+          "name": "Graceful Poise",
+          "weight": "110.6",
+          "feel": "The lightest box in the set.\nUp and down — About one finger’s width of space. The figure moves around freely inside.\nSide to side — The figure’s body knocks against the upper-middle part of the box.\nFront to back — More room than side to side, with knocking around the upper-middle part of the box.\nPlenty of room all around, with clear knocking. The whole figure moves freely inside, and the packaging bag rustles noticeably.",
+          "spuId": "1066406710274431665",
+          "image": "https://prod-global-biz.popmart.com/globalAdmin/1794557254483_9bcda6aca2dd72e98cf394aa1386f1bb.png"
+        }
+      ]
+    },
+    {
       "id": "wishes-come-true-plush-pendant",
       "name": "POP MART|Wishes Come True Series - Plush Pendant Blind Box",
       "brand": "POP MART",
